@@ -88,7 +88,9 @@ plate; opens **inward**, half a hand's width, and is never shown closed in Chapt
 is an event. Inside: curved stone table, three seated auditors, no fourth chair, no window; the only
 light is corridor light through the open door. Outside on a corridor rail: the **docket-slate** with its
 filed/scheduled columns. Continuity: the chamber's crimson docket initial and the filing end's crimson
-self-initial are **the same hand-feel** — one hand, two rooms.
+self-initial are **the same hand-feel** — one hand, two rooms — and from Page 006's art canon, the chamber's own slate bears a dry crimson
+initial from **before the first bell**: the pre-touch reaches inside the chamber record too. Nobody at
+the table ever looks at it; that is how they survive it.
 
 ## NOT YET SHOWN (reserved)
 - **The crimson-slip's origin room.** No interior, no hand, no face. The slip arrives sealed; the room

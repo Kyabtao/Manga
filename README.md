@@ -21,26 +21,26 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **002 — *The Minute That Owes* / *वह मिनट जो ऋणी है*** — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**005** |
-| **NEXT page to build** | **Chapter 002 · Page 006** |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**006** |
+| **NEXT page to build** | **Chapter 002 · Page 007** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 002 · Page 006)
-First bell, the chamber again: Rekhak swears the commissioned hour on the **held stop** — Chapter 2's
-one chain-stop, spent here, on something **smaller than the truth but entirely true**: *"The palm held
-a fold, not a door. I saw the fold. In the palm, I saw nothing else."* The limiting clause does the
-lying for him — the silent second was citywide, never *in the palm* — so the chain stays cleanly stopped,
-no deposit, and the auditors accept a sentence that omits everything that matters. Draw the stop itself
-as the page's centre: the first still chain in Chapter 2, and the auditors' quarter-flinch when it stays
-still too long (a held stop that never deposits is its own kind of confession). Hook, last panel:
-releasing the oath, the chain starts again — **one link does not**: a single darkened still link where
-the held stop stored itself. New canon consequence (seeded Page 005): an oath on a held stop is readable
-afterwards by anyone who reads chains — and the basin has exactly one chain-reader who doesn't yet know
-the oath exists. Basin cutaway allowed for one panel at the first-bell moment (Ira feeling nothing —
-the Loom never speaks — but the Spindle's light doing nothing at all, which for the Spindle is an
-event). Rules carried: four notes silent until Ch. 3; shutters day six; census suppression continues;
-Lekh's cuff-chit still sleeps; the Grey Clerk stays gone; momentary-stop tell grammar unchanged; the
-Loom never speaks.
+### Next-page brief (Chapter 002 · Page 007)
+Dusk, basin: **Patra returns** (first appearance since Ch. 001 Page 009) at the shut stall's doorstep
+where Ira still waits — the principal's broker moves in person because the principal's paperwork now
+needs a mender: a commission slip, **crimson-sealed, unbroken**, offered with both hands (broker's
+courtesy): a mend commissioned at the principal's expense, client unnamed, the mark described only in
+paperwork prose. Ira's terms stand from Ch. 001 Page 006: *nothing gets sewn till I've seen the tear* —
+she does not accept unseen work, and Patra expects nothing else (that expectation is the menace). Hook,
+last panel: reading the prose aloud in her mender's flat tone, Ira matches it line by line to what she
+sewed on Bhan's forearm: same fray, same night-shift hour, same *"nothing touched it"* — **the tearing
+has a schedule, and the schedule has an owner on paper**. The slip's payment line, smaller and worse
+than coin: *one line of your registration form, restored* — existence offered back one line at a time.
+Rules carried: the chain never stops again in Chapter 2 (Rekhak off-panel carries the oath-link); the
+four notes silent until Ch. 3; shutters day seven, no slit; census suppression continues; Lekh's
+cuff-chit sleeps; the Grey Clerk stays gone; Patra gets no face close-up wider than Ch. 001 established;
+the Loom never speaks; crimson on panel only as the unbroken seal until the hook panel's prose-matching
+(caption carries the match, art stays letterless).
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
@@ -163,6 +163,15 @@ Loom never speaks.
   *"It always runs."* Hook: the chamber's docket-slate shows the re-review **scheduled one day before his
   audit was filed** — the principal did not react to the lie, the principal *pre-filed* it. Tomorrow's
   first bell has two owners; only one of them is procedure.
+- **Ch. 002 · Page 006** — The oath page: Chapter 2's one chain-stop, **spent** on three sentences
+  smaller than the truth and entirely true — *"The palm held a fold, not a door. I saw the fold. In the
+  palm, I saw nothing else."* The limiting clause does the lying; the chain stays cleanly stopped (no
+  deposit), and the auditors' millimetre-flinch is at the size of the truth left over. One-panel basin
+  cutaway at the bell: Ira feels nothing, but the Spindle's light doing *nothing* is, after the night it
+  flickered, an event. Hook: releasing the oath, the chain starts again and **one link does not** — the
+  dark oath-link, readable forever by the basin's one chain-reader; the smallest bill in the building,
+  and the only one addressed to a girl who was not in the room. Art canon added: the chamber slate bore
+  a dry crimson initial from before the bell — the pre-touch reaches inside the chamber record.
 
 ---
 

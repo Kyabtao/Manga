@@ -22,6 +22,8 @@ chapter-scoped canon of record. Devanagari column is the in-world script of Agni
 | **Held-stop oath** | धृत-रोक शपथ | A Reckoner swears with the counting-chain stood still from first sworn word to last. Harmonises Ch. 001 grammar: a *momentary* stop is a costless tell; a *held* stop opens the owner's debt-ledger on panel — a false word under it is not a tell but a **deposit** (debt added instantly, visibly). Demanded Ch. 002 Page 005, spent Page 006. Readable afterwards by anyone who reads chains (Ira). |
 | **Docket-slate** | दैनिकी-पट्ट | The chamber's own record, posted on a corridor rail outside its door: entries carry *filed* and *scheduled* date-stroke columns. The pre-filed crimson initial (scheduled one day before the lie was filed) makes it the principal's fingerprint inside procedure. Ch. 002 Page 005 Panel 7. |
 
+| **Oath-link** | शपथ-कड़ी | The single darkened, still link left in a Reckoner's running chain after a held-stop oath: the oath stored in brass, readable word-for-word by anyone who reads chains (Ira). Thumb-side, always; a series-long relic from Ch. 002 Page 006 Panel 7 until a much later arc spends it. |
+
 ## Usage notes
 - The re-stamp is the first time fear appears in the series **as process** rather than as a face. Keep it
   bureaucratic, quiet, and doubled: two seals, half a finger apart, same page.
