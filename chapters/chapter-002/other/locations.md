@@ -92,6 +92,14 @@ self-initial are **the same hand-feel** — one hand, two rooms — and from Pag
 initial from **before the first bell**: the pre-touch reaches inside the chamber record too. Nobody at
 the table ever looks at it; that is how they survive it.
 
+## THE DOCK GATE INSPECTION DESK — गोदी-द्वार निरीक्षण-मेज़
+
+New in Chapter 002 Page 008: a standing desk under a shielded lamp at the dock gate, the chit-boy's
+slate on it; every night-shift arm is logged here before the shift as "safety inspection" (Council
+grey, free, since the re-stamping began). Continuity: the slate's columns are bell-tallied, not
+shift-tallied — the farm keeps Office hours. The waiting new line (*Sutar, I.*) stays on this slate
+until the Chapter 2 close-out; nothing may be logged above it before then.
+
 ## NOT YET SHOWN (reserved)
 - **The crimson-slip's origin room.** No interior, no hand, no face. The slip arrives sealed; the room
   it came from does not exist on panel until a much later arc (principal-through-paperwork rule).

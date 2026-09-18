@@ -26,6 +26,8 @@ chapter-scoped canon of record. Devanagari column is the in-world script of Agni
 
 | **Commission slip** | आयुक्ति-पर्ची | The principal's paperwork hiring a trade: crimson-sealed, opens at the fold-line (never the seal), prose set like a ledger. Ira's pays in restored lines of her registration form — existence by instalments. Ch. 002 Page 007. |
 
+| **Two-wax chit** | द्वि-मुहर पर्ची | A dock-gate safety-inspection chit carrying grey Council wax AND a small crimson counter-sign touching its edge — first shared surface of the two waxes in the series (Ch. 002 Page 008 Panel 3). Two owners on one arm; the colour-rule exception reserved for this prop and the Chapter 2 close-out correspondence. |
+
 ## Usage notes
 - The re-stamp is the first time fear appears in the series **as process** rather than as a face. Keep it
   bureaucratic, quiet, and doubled: two seals, half a finger apart, same page.

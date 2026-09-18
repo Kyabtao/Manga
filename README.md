@@ -21,24 +21,24 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **002 — *The Minute That Owes* / *वह मिनट जो ऋणी है*** — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**007** |
-| **NEXT page to build** | **Chapter 002 · Page 008** |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**008** |
+| **NEXT page to build** | **Chapter 002 · Page 009** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 002 · Page 008)
-Ira gives Bhan the lantern-proof (the fray is cut, nightly, one clean stroke) and his belief breaks —
-then he names what he never thought to call strange: every night shift, a **chit-boy logs his arm** at
-the dock gate as a "safety inspection" before the shift — the cutting is logged as inspection; procedure
-launders the sabotage. He produces that night's inspection chit from his coat: it carries **two seals**
-— grey Council-safety wax AND a small crimson counter-sign: the two waxes on one chit (colour-rule
-event: grey and crimson touching = the Council and the principal inside one procedure, escalated from
-Page 004's separate rooms). Ira's agency beat: mid-mend she finally tests the lend — holds her breath,
-and the lend stops with her breath; first control over the bleed (small win, costs her the rest of her
-air for the seam). Hook, last panel: the chit's inspection column, read by Ira's mender-eye: the
-nightly cut-times are not shift-times — they are **bell-times**: the cuts happen at the same bells the
-up-terrace rings for filings. The tearing keeps Office hours. Rules carried: chain budget closed; four
-notes silent until Ch. 3; shutters day eight, no slit; census suppression continues; cuff-chit sleeps;
-Patra off-panel after Page 007 until the close-out; the Loom never speaks.
+### Next-page brief (Chapter 002 · Page 009)
+Night, shut stall: Ira brings the two-wax chit and the bell-tally read to the shutter — and for the
+first time **Kessa speaks from behind the wood** (voice only, no face, no slit): two lessons. (a) *Two
+waxes on one chit is two owners on one hand — and hands that share a chit will soon share a desk*
+(forecast of the close-out's grey-crimson correspondence). (b) The stitch-grammar read: *"Read the cut
+again, child. Whose hand opens a tear the way a seam opens?"* — the nightly cutter opens Bhan's arm the
+way Ira's own palm-stitch opens: someone is copying her stitch's grammar onto the dock road. Ira's one
+forbidden question escapes her (*"Who sewed me?"*); Kessa's answer through the wood postpones, does not
+refuse: *"Not tonight. Tonight you need the cutter's name, not the sewer's."* Hook, last panel: from
+behind the shutter, one sound only — the **lockbox lock turning**, first time since Chapter 001 Page
+010 — then silence; the box stays locked, no interior, no face: Kessa is consulting the shadowless
+cut-end without opening the stall. Rules carried: chain budget closed; four notes silent until Ch. 3;
+shutters day nine (voice is not an opening); census suppression continues; cuff-chit sleeps; Patra
+off-panel; the Loom never speaks; the sewer box stays locked.
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
