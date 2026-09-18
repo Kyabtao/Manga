@@ -50,10 +50,16 @@ altitude.
   bound here. Mentioned in Ira's character file; appears in a later chapter. **Page 003 hard rule:
   the stitch-memory panel must not show a Mendery cuff, uniform or insignia.**
 - **The Loom** — visible in the sky from everywhere. Not a location, a *structure*. Do not personify.
-- **The Ash Council Reckoning Office** (named Page 003) — up-terrace, clear air, no ash on the desks.
-  Where Rekhak's ledgers live and where the "two ledgers disagree" question gets answered. Appearances
-  reserved for a later chapter; until then it exists only as grey daylight at the top of the Council
-  Stair.
+- **The Ash Council Reckoning Office** (named Page 003, **shown Page 005 Panels 2–7**) — up-terrace,
+  clear air, rows of black stone desks in perfect lines, not a fleck of ash on any of them. Where
+  Rekhak's ledgers live and where the "two ledgers disagree" question gets answered. Rule for the
+  artist: the Office is **tidy, not cruel** — the up-terrace organises people instead of ignoring them.
+  Inside it: **the broker's small room** (Page 005, Panels 3–7) — warm-grey, stacked with closed
+  ledgers, one plain table. Patra's room. It does not appear on any floor plan; do not map it.
+- **The Up-Terrace clear air** (shown Page 005, Panel 1) — above the third landing, Agnikhand stops
+  falling. Pale stone, laundered banners, hazeless sun. Status rule inverts here: in the basin status
+  is temperature, up-terrace status is **cleanliness** — whoever is richest has the least on their
+  stone. Ira's raised-hand *ash-catch* is her tell every time she climbs.
 - **Up-terrace, the buyer's room** (alluded Page 003) — "somebody up-terrace wants to meet the child
   who owes nothing." Never shown, never named in Chapter 1. The crimson wax seal on Rekhak's ledger is
   its only on-panel trace. See `characters/cast-page-003.md`.

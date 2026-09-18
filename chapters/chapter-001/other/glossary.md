@@ -36,6 +36,10 @@ Terms the reader must understand by the end of Page 1. English first, Devanagari
 | **Borrowed lines** | उधारी रेखाएँ | Painted debt worn by the debtless to pass up-terrace. The basin sells debt to the girl who owes none. |
 | **Ledger-correction** | बही-सुधार | The Council striking a record. Legal erasure: no record, no rights, no writ needed to bind you. Column two. |
 | **The third bell** | तीसरी घंटी | Council timekeeping for summons. Page 005 opens on the climb at the third bell. |
+| **Preta** | प्रेत | The Unwoven — thread cut. Owes nothing, so nothing can be taken. Faces and names don't hold. Patra, Page 005. |
+| **Commissioned Sight** | आदेशित दृष्टि | Sight bought from its bearer by a third party. The hour Patra offers to purchase of Ira's palm — spent by Rekhak. |
+| **Registration line** | पंजीयन-रेखा | Name. Kind. Thread. The three blank lines that make a person legal in Agnikhand. Manavkin are kept off them. |
+| **Blank name-tag** | कोरा नाम-टैग | A tag on Patra's cord carrying someone else's name. None of them is Patra's. |
 
 > **Teaching order on Page 1:** Loom → Unspooling → thread & strain (Panel 5) → debt (implied by
 > Panel 3's torn mark) → the absence of a thread (Panel 6) → the seam (Panel 7). Do not explain all

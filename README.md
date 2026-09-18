@@ -21,20 +21,21 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **001** — *The Girl With No Thread* |
-| **Pages completed** | **001**, **002**, **003**, **004** |
-| **NEXT page to build** | **005** |
+| **Pages completed** | **001**, **002**, **003**, **004**, **005** |
+| **NEXT page to build** | **006** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 001 · Page 005)
-The climb at the **third bell**: Ira crosses the Council Stair with borrowed lines under her sleeve and
-sees the up-terrace for the first time — clear air, no ash, a sky that reads as *wrong* to her eyes.
-In the Reckoning Office the buyer's intermediary waits (affiliation unnamed; nothing crimson on their
-person; they speak only of "my principal"). The offer: one hour of her palm under a commissioned Sight,
-in exchange for the Council **registering her** — name, Kind, thread. Existence as payment. End on the
-intermediary's cost line: *"All it costs is your palm for one hour, child. He doesn't want the door
-opened. He wants to be certain it stays closed."* Keep the buyer unnamed; keep the sewer a locked box.
-Rekhak is present but silent the whole page — and his counting-chain is **running again**, which should
-worry the reader more than the stop did.
+### Next-page brief (Chapter 001 · Page 006)
+Ira's counter-offer, mender-style: *nothing gets sewn until I've seen the tear.* She will not give the
+hour until three terms are met — (1) Kessa holds the other end of the thread (witness, appraiser, and
+the only adult Ira trusts to count); (2) the Sight-hour is spent in the **basin**, not up-terrace, on
+her ground; (3) she gets one question answered first, and it is not about the principal — it is
+*"whose thread was the stitch sewn with?"* Patra can answer that one truthfully (Patra never lies) and
+the answer must be a **material**, not a name: "thread that has never been pulled" — which frightens
+Patra for half a line, the first crack in the broker's mildness. End hook: Rekhak, silent for two pages,
+speaks his first word of the day — *"Don't."* — and his counting-chain is still **running**, so the
+reader cannot tell whether the warning is procedural or personal. Patra smiles for real: *"Oh good.
+He's invested."* Keep the principal unnamed; keep the sewer a locked box.
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -78,6 +79,12 @@ worry the reader more than the stop did.
   her ash-ink in the same breath — *borrowed lines* so the debtless girl can pass as a debtor. On the
   stair Ira asks the one question Sight cannot read — *"What do you owe, Reckoner?"* — and his
   counting-chain stops: *"The one ledger I am not permitted to open. My own."*
+- **Page 005** — The third-bell climb: first panel in the series with **no ash**. In the Reckoning
+  Office waits **Patra**, a Preta broker for an unnamed principal — shadow falling toward the light,
+  face and name that don't hold. The offer: three blank lines (Name. Kind. Thread.) — *existence as
+  payment* — for one hour of Ira's palm under commissioned Sight. Hook: *"He doesn't want the door
+  opened. He wants to be certain it stays closed."* Rekhak: silent, chain running, neck-line past the
+  jaw overnight.
 
 ---
 
@@ -94,11 +101,11 @@ series-bible/            The canon. Read before writing anything.
 
 chapters/
   chapter-001/
-    story/     page-001..003 .md / .hi.md            (scripts EN + Hindi)
-    characters/ ira-sutar.md, kessa.md, rekhak-vahni.md,
-                cast-page-001..003.md, *-ref.png
+    story/     page-001..005 .md / .hi.md            (scripts EN + Hindi)
+    characters/ ira-sutar.md, kessa.md, rekhak-vahni.md, patra.md,
+                cast-page-001..005.md, *-ref.png
     other/     locations.md, glossary.md
-    images/    page-001.png, page-002.png, page-003.png
+    images/    page-001..005.png
 ```
 
 Every chapter follows the same `story/ characters/ other/ images/` layout.
