@@ -24,6 +24,8 @@ chapter-scoped canon of record. Devanagari column is the in-world script of Agni
 
 | **Oath-link** | शपथ-कड़ी | The single darkened, still link left in a Reckoner's running chain after a held-stop oath: the oath stored in brass, readable word-for-word by anyone who reads chains (Ira). Thumb-side, always; a series-long relic from Ch. 002 Page 006 Panel 7 until a much later arc spends it. |
 
+| **Commission slip** | आयुक्ति-पर्ची | The principal's paperwork hiring a trade: crimson-sealed, opens at the fold-line (never the seal), prose set like a ledger. Ira's pays in restored lines of her registration form — existence by instalments. Ch. 002 Page 007. |
+
 ## Usage notes
 - The re-stamp is the first time fear appears in the series **as process** rather than as a face. Keep it
   bureaucratic, quiet, and doubled: two seals, half a finger apart, same page.

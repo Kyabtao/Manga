@@ -21,26 +21,24 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **002 — *The Minute That Owes* / *वह मिनट जो ऋणी है*** — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**006** |
-| **NEXT page to build** | **Chapter 002 · Page 007** |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**007** |
+| **NEXT page to build** | **Chapter 002 · Page 008** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 002 · Page 007)
-Dusk, basin: **Patra returns** (first appearance since Ch. 001 Page 009) at the shut stall's doorstep
-where Ira still waits — the principal's broker moves in person because the principal's paperwork now
-needs a mender: a commission slip, **crimson-sealed, unbroken**, offered with both hands (broker's
-courtesy): a mend commissioned at the principal's expense, client unnamed, the mark described only in
-paperwork prose. Ira's terms stand from Ch. 001 Page 006: *nothing gets sewn till I've seen the tear* —
-she does not accept unseen work, and Patra expects nothing else (that expectation is the menace). Hook,
-last panel: reading the prose aloud in her mender's flat tone, Ira matches it line by line to what she
-sewed on Bhan's forearm: same fray, same night-shift hour, same *"nothing touched it"* — **the tearing
-has a schedule, and the schedule has an owner on paper**. The slip's payment line, smaller and worse
-than coin: *one line of your registration form, restored* — existence offered back one line at a time.
-Rules carried: the chain never stops again in Chapter 2 (Rekhak off-panel carries the oath-link); the
-four notes silent until Ch. 3; shutters day seven, no slit; census suppression continues; Lekh's
-cuff-chit sleeps; the Grey Clerk stays gone; Patra gets no face close-up wider than Ch. 001 established;
-the Loom never speaks; crimson on panel only as the unbroken seal until the hook panel's prose-matching
-(caption carries the match, art stays letterless).
+### Next-page brief (Chapter 002 · Page 008)
+Ira gives Bhan the lantern-proof (the fray is cut, nightly, one clean stroke) and his belief breaks —
+then he names what he never thought to call strange: every night shift, a **chit-boy logs his arm** at
+the dock gate as a "safety inspection" before the shift — the cutting is logged as inspection; procedure
+launders the sabotage. He produces that night's inspection chit from his coat: it carries **two seals**
+— grey Council-safety wax AND a small crimson counter-sign: the two waxes on one chit (colour-rule
+event: grey and crimson touching = the Council and the principal inside one procedure, escalated from
+Page 004's separate rooms). Ira's agency beat: mid-mend she finally tests the lend — holds her breath,
+and the lend stops with her breath; first control over the bleed (small win, costs her the rest of her
+air for the seam). Hook, last panel: the chit's inspection column, read by Ira's mender-eye: the
+nightly cut-times are not shift-times — they are **bell-times**: the cuts happen at the same bells the
+up-terrace rings for filings. The tearing keeps Office hours. Rules carried: chain budget closed; four
+notes silent until Ch. 3; shutters day eight, no slit; census suppression continues; cuff-chit sleeps;
+Patra off-panel after Page 007 until the close-out; the Loom never speaks.
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
