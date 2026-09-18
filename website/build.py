@@ -300,8 +300,15 @@ def build_reader(ch):
                           "on" if lang == "en" else "", pg, "on" if lang == "hi" else "", pg))
             links = ('<div class="pagelinks">%s<a class="btn" href="cast-%s.html">Cast &amp; card lines</a>%s</div>'
                      % (prev_l, num, nxt_l))
+            reader = ('<div class="reader"><div class="rtoggle">%s</div><div class="rart">%s</div>'
+                      '<div class="rscript">%s</div></div>' % (toggle, art, body))
+            peek = ('<a class="artpeek" href="%s" target="_blank" rel="noopener" '
+                    'aria-label="Show page art">🖼 Art</a>'
+                    '<div class="artoverlay"><img src="%s" alt="Chapter %s page %s art, full page">'
+                    '<span>✕ close</span></div>'
+                    '<script src="../../assets/site.js"></script>' % (img, img, chnum, num))
             html = page("Ch.%s Page %s%s" % (chnum, num, " (HI)" if suffix else ""), site_rel,
-                        '<div class="reader">%s%s%s</div>' % (toggle, art, body) + links,
+                        reader + links + peek,
                         sidebar=reader_sidebar(ch, pg + suffix), lang=lang,
                         crumb='<a href="../../index.html">Home</a> / <a href="../index.html">Read</a> / <a href="index.html">Chapter %s</a> / Page %s%s' % (chnum, num, " · हिन्दी" if suffix else ""))
             write(site_rel, html)

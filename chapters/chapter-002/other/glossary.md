@@ -9,6 +9,9 @@ chapter-scoped canon of record. Devanagari column is the in-world script of Agni
 | **Call-slip** | तलब-पत्र | A summons delivered by clerk's hand, seal unbroken until the addressee. Procedure made physical. Ch. 002 Page 001 Panels 6–7. |
 | **Grey wax** | धूसर मोम | The Council's seal colour — hard canon. Crimson belongs to no Sector on record; therefore any crimson seal is the principal's paperwork wearing procedure as a coat. Ch. 002 Page 001 Panel 7. |
 
+| **Whorl-grain** | चक्रव्यूह-रेखा | The uncanny whorl's fingerprint pressed into thread's lie — visible in Kessa's cut-end (Ch. 001 Page 010), the sixty-first knot (Ch. 001 Page 009), and now inside Ira's finished seams (Ch. 002 Page 002). Texture, never announcement; **gets no owner on panel** until the reveal arc. |
+| **Fray-itch** | फट-खुजली | Basin physiology: debt-marks adjacent to a fray always itch. Universal, proverbial (*ask anyone in the basin*). A mend that stops the itch is therefore impossible — which is what makes Bhan's "It doesn't itch anymore" a hook. Ch. 002 Page 002 Panel 6. |
+
 ## Usage notes
 - The re-stamp is the first time fear appears in the series **as process** rather than as a face. Keep it
   bureaucratic, quiet, and doubled: two seals, half a finger apart, same page.

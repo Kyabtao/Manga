@@ -21,25 +21,24 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **002 — *The Minute That Owes* / *वह मिनट जो ऋणी है*** — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001** |
-| **NEXT page to build** | **Chapter 002 · Page 002** |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**002** |
+| **NEXT page to build** | **Chapter 002 · Page 003** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 002 · Page 002)
-Ban comes back down the stair with the fray-adjacent mark on his forearm **torn again** — same tear,
-same hour of work undone, and he is not angry, which is worse. Ira takes the mend at the Knot & Nail
-doorstep in daylight: the mend takes **half** the time it should, because the fold in her palm is
-*lending through the needle, unasked* — her first power bleed, and it feels like kindness. No debt is
-created (nothing was pulled), so no debt-mark appears; the only evidence is the work itself: the mended
-seam carries a faint **whorl-grain**, the knot-shape's fingerprint in her stitching (guard: the
-knot-shape gets no owner on panel — the whorl is texture, not a reveal). Hook line, Ban rolling his
-sleeve down: *"It doesn't itch anymore."* — fray-adjacent marks **always** itch. Meanwhile the crimson
-call-slip's hour arrives off-panel: Rekhak leaves the Office walking, and Lekh files the chair-empty
-minute like a record. Rules carried forward from `chapters/chapter-001/chapter-summary.md`: chain-stop
-budget for Chapter 2 is **one**, spend it late and on something smaller than the truth (not before
-Page 006); rumour register ("four hundred blinked") and truth register (one silent second) stay
-separate; the four notes must not match anything audible before Chapter 3; the Loom never speaks;
-Kessa's thinking is shown through shutters, never interiority.
+### Next-page brief (Chapter 002 · Page 003)
+The rumour gets a **census**: Guthli's pot-row starts keeping the list of who blinked — the rumour
+register growing its own paperwork ("four hundred" becomes names, and names can be sold). A **grey
+clerk** (Council wax, grey chit) comes down-terrace for the first time in the series and buys the list
+with Office coin: Council fear leaves the Office and enters the market. Hook, last panel: at the foot
+of the bought list, in no hand the market owns, one name was added and then crossed out in **crimson**,
+dry before the Council's coin was counted: *Ira Sutar* — the threadless girl who **could not** have
+blinked. The principal's paperwork counted her among the witnesses anyway, then corrected itself.
+Rules carried forward:
+chain-stop budget still unspent (spend late, on something smaller than the truth); the four notes stay
+silent and unmatched until Chapter 3; Kessa's shutters, day three — the slit may open once, no face;
+Lekh seated-or-leaving; rumour register (the list, who blinked) and truth register (one silent second)
+stay separate — the list records witnesses, never the event; the Loom never speaks; Kessa thinks in
+shutters only.
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -128,6 +127,15 @@ Kessa's thinking is shown through shutters, never interiority.
   the hour's audit summoned for re-review — sealed in **crimson wax**: *the Council's wax is grey; this
   slip was not sealed by the Council.* Chain still running at the seal; Chapter 2's one-stop budget
   untouched.
+- **Ch. 002 · Page 002** — The dock worker from the alley mend is named **Bhan**, and his left-forearm
+  tear re-tears identically with "nothing touched it" — patience, not anger, as the menace register.
+  Ira mends him at the shut Knot & Nail doorstep (the mend follows the shutters); mid-mend the fold in
+  her palm **lends through the needle unasked** — her first power bleed, and it feels like kindness, so
+  she doesn't stop it. No debt, no debt-mark; the only evidence is a faint **whorl-grain** in the
+  finished seam (no owner on panel). Kessa performs entirely as architecture: a finger-width shutter
+  slit opens at head height, then is closed. Hook: Bhan, rolling his sleeve — *"It doesn't itch
+  anymore."* Fray-adjacent marks always itch. Up-terrace, Rekhak walks to the re-review while Lekh
+  files the chair-empty minute like a record; the chain-stop budget stays unspent.
 
 ---
 
@@ -184,8 +192,11 @@ python3 website/build.py          # dependency-free, stdlib only; regenerates we
 python3 -m http.server 8000       # serve the REPO ROOT, then open /website/ (root index.html redirects)
 ```
 
-- Generated HTML **is committed** (so anyone can read without building); `website/build.py` and
-  `website/assets/site.css` are the only hand-maintained files in `website/`.
+- Generated HTML **is committed** (so anyone can read without building); `website/build.py`,
+  `website/assets/site.css` and `website/assets/site.js` are the only hand-maintained files in `website/`.
+- Reader pages keep the **page art visible while reading**: on wide screens the art sits in a sticky
+  column beside the script; on narrow screens a floating **🖼 Art** button opens a full-screen overlay
+  (Esc or tap to close; without JS it degrades to opening the art in a new tab).
 - Pages link to the **original** images under `chapters/…` by relative path — one copy of every asset.
 - Re-run the build after finishing any page; commit the refreshed HTML with the page commit.
 

@@ -40,6 +40,23 @@ morning later, steam off Guthli's pot, the market working one octave too quietly
 steam pot is the rumour's pulpit; whoever speaks at the pot is believed by the stall-row. Ash falls
 here as always.
 
+## THE KNOT & NAIL DOORSTEP — गाँठ-और-कील की देहरी — Ira's waiting crate
+
+New in Chapter 2 Page 002: the upturned crate in front of the shut shutter, crate-lid as work bench.
+This is where the basin comes to Ira while Kessa thinks — the mend moves from the alley mouth
+(Ch. 001 Page 001) to the doorstep (Ch. 002 Page 002), i.e. **the mend follows the shutters**. Continuity:
+the crate, the lid, and the shutter seam behind Ira's head are the shot's fixed furniture; reuse them
+every page the stall stays shut.
+
+## THE OFFICE THRESHOLD & LEKH'S RAIL TABLE — कक्ष-देहरी और आगंतुक-रेल मेज़
+
+New in Chapter 2 Page 002 Panel 7: a single frame holding interior and exterior — Lekh's sorting table
+at the visitors'-rail end (foreground, filing drawer at his knee) and, beyond the open door, the
+sunlit terrace crossing. Continuity: the threshold is the only place the Office's stone light and the
+terrace's sun light meet; keep both palettes in one frame but never blend them. The filing drawer takes
+minute-chits; a minute-chit is the smallest record the Office keeps (smaller than a page, bigger than
+a word).
+
 ## NOT YET SHOWN (reserved)
 - **The crimson-slip's origin room.** No interior, no hand, no face. The slip arrives sealed; the room
   it came from does not exist on panel until a much later arc (principal-through-paperwork rule).
