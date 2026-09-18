@@ -29,12 +29,17 @@ desk. **Page 002, Panels 3–7; Page 003, Panels 1–7.** Status here is shown b
 altitude.
 
 - **The Knot & Nail** — Kessa's pawn stall. Cluttered to the rafters. The series' first shop and,
-  later, Ira's bank. See `characters/kessa.md`. **Page 002 Panels 3–7; Page 003 entire.**
+  later, Ira's bank. See `characters/kessa.md`. **Page 002 Panels 3–7; Page 003 entire; Page 004
+  Panels 1–5.** Under the counter: **the lockbox** (added Page 004) — a brass-banded pawn lockbox that
+  holds the ash-ink, the good thread, and things Kessa has never shown anyone. It opens only for her
+  hands. Do not reveal its full contents before a later arc.
 
 - **The Council Stair** (added Page 003) — the worn stair mouth where the basin meets the terraces
   above. Grey daylight and falling ash pour down it; lantern-light dies going up. On Page 003 the
   lanterns gutter **one by one toward the stair** as a Reckoner descends: the market's early-warning
-  system is a drop in temperature. Rule for the artist: anything official in this series enters the
+  system is a drop in temperature. **Page 004 Panels 4, 6–7:** the rule runs both ways — lanterns
+  re-ignite behind a departing official (Panel 4), and the stair is where Ira turns the appraisal back
+  on Rekhak (Panels 6–7). Rule for the artist: anything official in this series enters or leaves the
   Under-Market *through this stair and this stair only*, and the light always changes before they do.
 
 ---
@@ -62,9 +67,10 @@ altitude.
 3. The Spindle is **always white**. Never tint it; its purity is the point.
 4. No map of Agnikhand exists yet. When the reader needs one, commission it; do not improvise
    geography panel to panel.
-5. **Officials arrive cold.** Any Council presence in the Under-Market is announced by lanterns
-   guttering toward the Council Stair (Page 003, Panel 4) before the official is visible. Never let an
-   official appear in the market without that temperature drop first.
+5. **Officials arrive cold, leave warm.** Any Council presence in the Under-Market is announced by
+   lanterns guttering toward the Council Stair (Page 003, Panel 4) before the official is visible, and
+   by lanterns re-igniting behind them as they climb away (Page 004, Panel 4). Never let an official
+   enter or exit the market without that temperature change first.
 6. **Thread keeps its home Sector's colour and law.** A Jalkhand-law debt on an Agnikhand body is
    drowned teal (Page 003, Panel 5). Debt does not assimilate; it stays foreign. This is the visual
    proof of the cross-Sector travel rule in `03-the-nine-sectors.md`.

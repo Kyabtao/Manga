@@ -32,6 +32,10 @@ Terms the reader must understand by the end of Page 1. English first, Devanagari
 | **Ledger-slate** | बही-पटिया | The Council's hinged stone tablet of stamped record. Rekhak carries his at the hip. |
 | **Counting-chain** | गिनती-सांकल | Knotted brass rings; the Council's tally. The basin counts with thread, the Council counts with metal. |
 | **Crimson wax** | सुर्ख मोम | A seal colour that does not belong in Agnikhand. On Rekhak's ledger, Page 003. **Unnamed — do not name it in Chapter 1.** |
+| **Ash-ink / mark-dye** | भस्म-स्याही | Basin dye that paints convincing debt-lines on clean skin. Fools every eye but Sight. Kessa's lockbox, Page 004. |
+| **Borrowed lines** | उधारी रेखाएँ | Painted debt worn by the debtless to pass up-terrace. The basin sells debt to the girl who owes none. |
+| **Ledger-correction** | बही-सुधार | The Council striking a record. Legal erasure: no record, no rights, no writ needed to bind you. Column two. |
+| **The third bell** | तीसरी घंटी | Council timekeeping for summons. Page 005 opens on the climb at the third bell. |
 
 > **Teaching order on Page 1:** Loom → Unspooling → thread & strain (Panel 5) → debt (implied by
 > Panel 3's torn mark) → the absence of a thread (Panel 6) → the seam (Panel 7). Do not explain all

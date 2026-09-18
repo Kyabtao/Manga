@@ -21,19 +21,20 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **001** — *The Girl With No Thread* |
-| **Pages completed** | **001**, **002**, **003** |
-| **NEXT page to build** | **004** |
+| **Pages completed** | **001**, **002**, **003**, **004** |
+| **NEXT page to build** | **005** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 001 · Page 004)
-Ira speaks to an official for the **first time** in the series — short, practical, unimpressed.
-Rekhak delivers the errand as an *offer*: come up-terrace and meet the person who wants her, or the
-Council "corrects the ledger" and unregisters her entirely (legal erasure — worse than arrest, because
-an unregistered null has no rights at all). Kessa forbids her to go, then in the same breath sells her
-something that will help if she does — contradictory, and that is the point. End on Ira flipping the
-appraisal back onto the auditor with the one question Sight can't answer: *"What do you owe,
-Reckoner?"* — and let the hairline crack under his left eye tighten as the Loom hums through his
-answer. Keep the crimson buyer unnamed. Keep the sewer a locked box.
+### Next-page brief (Chapter 001 · Page 005)
+The climb at the **third bell**: Ira crosses the Council Stair with borrowed lines under her sleeve and
+sees the up-terrace for the first time — clear air, no ash, a sky that reads as *wrong* to her eyes.
+In the Reckoning Office the buyer's intermediary waits (affiliation unnamed; nothing crimson on their
+person; they speak only of "my principal"). The offer: one hour of her palm under a commissioned Sight,
+in exchange for the Council **registering her** — name, Kind, thread. Existence as payment. End on the
+intermediary's cost line: *"All it costs is your palm for one hour, child. He doesn't want the door
+opened. He wants to be certain it stays closed."* Keep the buyer unnamed; keep the sewer a locked box.
+Rekhak is present but silent the whole page — and his counting-chain is **running again**, which should
+worry the reader more than the stop did.
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -72,6 +73,11 @@ answer. Keep the crimson buyer unnamed. Keep the sewer a locked box.
   thread was **hidden**, not missing) but never *who* sewed it. Then the market goes cold: **Rekhak
   Vahni**, Ash Council Debt-Reckoner, descends the Council Stair hunting "a hole" in the ledger — the
   girl the Court recorded but the Council never registered. Hook: he asks for **Ira Sutar** by name.
+- **Page 004** — Ira's first words to an official are a negotiation. Rekhak's two-column invitation:
+  climb at the third bell, or be **struck from the ledger** entirely. Kessa forbids the climb and sells
+  her ash-ink in the same breath — *borrowed lines* so the debtless girl can pass as a debtor. On the
+  stair Ira asks the one question Sight cannot read — *"What do you owe, Reckoner?"* — and his
+  counting-chain stops: *"The one ledger I am not permitted to open. My own."*
 
 ---
 
