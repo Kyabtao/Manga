@@ -132,10 +132,44 @@ chapters/
                 cast-page-001..010.md, *-ref.png
     other/     locations.md, glossary.md
     images/    page-001..010.png
-  chapter-002/            next — starts at Page 001 per the tracker brief
+  chapter-002/            skeleton ready (story/ characters/ other/ images/ + .gitkeep)
+
+website/                  generated reading site (committed) — build.py + assets/ are the sources
+index.html                root redirect into website/
 ```
 
 Every chapter follows the same `story/ characters/ other/ images/` layout.
+
+### Structure conventions (audit-approved — keep these)
+
+- **One folder per chapter**, always the four subfolders above, created empty (with `.gitkeep`) before
+  the chapter starts — see `chapters/chapter-002/`.
+- **Character sheets live in the chapter of first appearance, forever.** Later chapters' `cast-` files
+  link back to the original sheet instead of copying it. Refs sit beside their sheet as `<sheet>-ref.png`.
+- **`cast-page-NNN.md`** = everyone on that page + object card-lines. **`<name>.md`** = full sheet.
+- **`chapter-summary.md` sits at the chapter root** (not in `other/`): the close-out document with
+  synopsis, canon rules established, open threads and the bulk-cast ledger.
+- **`other/` is chapter-scoped** (locations, glossary). The website merges them into living documents;
+  the chapter files remain the canon of record.
+- **Naming:** `page-NNN.md`, `page-NNN.hi.md`, `page-NNN.png`, `cast-page-NNN.md` — zero-padded, never
+  renamed. Hindi mirrors carry the `.hi` infix.
+- **Series-level docs live in `series-bible/`** (numbered 00–04 + `style-guide.md`); legacy reference
+  docs stay at the root (`ringbound-era-analysis.md`).
+
+# 🌐 WEBSITE — read it in a browser
+
+A clean static reading site with page-wise navigation (EN + हिन्दी toggle, per-page cast links, chapter
+covers, merged glossary/locations, character sheets with refs) is generated from this markdown canon:
+
+```
+python3 website/build.py          # dependency-free, stdlib only; regenerates website/*.html
+python3 -m http.server 8000       # serve the REPO ROOT, then open /website/ (root index.html redirects)
+```
+
+- Generated HTML **is committed** (so anyone can read without building); `website/build.py` and
+  `website/assets/site.css` are the only hand-maintained files in `website/`.
+- Pages link to the **original** images under `chapters/…` by relative path — one copy of every asset.
+- Re-run the build after finishing any page; commit the refreshed HTML with the page commit.
 
 # 🛠️ WORKFLOW (how each page is made)
 

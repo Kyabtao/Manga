@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>style-guide · THREADBORN</title>
+<link rel="stylesheet" href="../assets/site.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+<a class="brand" href="../index.html">THREADBORN <span>सुत्रजात</span></a>
+<nav><a class="" href="../index.html">Home</a><a class="" href="../read/index.html">Read</a><a class="" href="../bible/00-overview.html">Bible</a><a class="" href="../characters/index.html">Characters</a><a class="" href="../world/glossary.html">World</a><a class="" href="../about.html">About</a></nav>
+</div></header>
+<div class="crumb wrap"><a href="../index.html">Home</a> / Series bible</div>
+<main class="wrap ">
+
+<h1>Art Direction &amp; Style Guide</h1>
+<p><strong>Format:</strong> Webtoon, vertical scroll, full colour <strong>Target canvas:</strong> tall vertical strip, ~800 × 2600 px equivalent, 6–9 stacked panels <strong>Reference feel:</strong> <em>Solo Leveling</em> / <em>Omniscient Reader's Viewpoint</em> — cinematic, glowing, readable on a phone</p>
+<hr>
+<h2>Global look</h2>
+<ul><li><strong>Full colour, cinematic lighting.</strong> Every panel needs a clear light source.</li><li><strong>Strong rim-light</strong> on characters against dark backgrounds.</li><li><strong>Thread is always visible when used</strong> — glowing filaments, physically drawn, never abstract sparkles.</li><li><strong>Debt-marks are always visible when owed</strong> — thin dark lines on skin. If a character used power, the marks are in the panel. No exceptions.</li><li><strong>Ash in Agnikhand.</strong> Constant. In the air, on shoulders, in hair. It is the Sector's signature.</li><li><strong>Panel shape:</strong> irregular, angled, overlapping. Never a uniform grid.</li></ul>
+<h2>Palette by Sector</h2>
+<div class="tw"><table><thead><tr><th>Sector</th><th>Palette</th></tr></thead><tbody><tr><td>Agnikhand</td><td>Black basalt, ash-grey, ember orange, bruised purple sky</td></tr><tr><td>Jalkhand</td><td>Sunken teal, drowned gold, bioluminescent cyan</td></tr><tr><td>Vayukhand</td><td>Cloud-white, sunrise rose, pale cyan</td></tr><tr><td>Dharakhand</td><td>Loam brown, moss green, warm stone</td></tr><tr><td>Chhayakhand</td><td>Charcoal, smoke violet, single violet rim-light</td></tr><tr><td>Raktakhand</td><td>Rust red, bone white, dry ochre</td></tr><tr><td>Tarakhand</td><td>Night indigo, cold white, faint gold</td></tr><tr><td>Yantrakhand</td><td>Brushed steel, warning amber <em>(reserved)</em></td></tr><tr><td>Shunyakhand</td><td>Pure negative space <em>(reserved)</em></td></tr></tbody></table></div>
+<h2>Character design rules</h2>
+<ul><li><strong>Manavkin must look inconsistent</strong> — mismatched eyes, patchy scales, one odd feature. That is the point. Never draw a Manavkin as a clean single-race design.</li><li><strong>Manav are drawn plain on purpose</strong>, so every other Kind reads instantly.</li><li><strong>Asura are beautiful and wrong.</strong> Horns are scar tissue. Asymmetry is the tell.</li><li><strong>Deva are too symmetrical.</strong> The reader should feel unease before understanding it.</li><li><strong>Silhouette test:</strong> every named character must be recognisable from a solid black silhouette.</li></ul>
+<h2>Lettering</h2>
+<ul><li><strong>Narration boxes:</strong> clean sans, dark box, light text</li><li><strong>Dialogue:</strong> rounded sans, white balloon, black text</li><li><strong>Thought:</strong> cloud-edge balloon, italic</li><li><strong>SFX:</strong> hand-lettered look, integrated into the panel art</li><li><strong>Hindi:</strong> Devanagari in the same balloon styles, kept in <code>page-XXX.hi.md</code>, not rendered into the image in the English release</li></ul>
+<hr>
+<h2>Reusable image-prompt block</h2>
+<p>Paste this into every image generation call, then append the page-specific panel list.</p>
+<pre><code>Full-colour webtoon manhwa art, vertical scrolling comic strip, cinematic lighting,
+painterly digital rendering in the style of modern Korean webtoons, dramatic rim light,
+rich saturated colour with deep shadow contrast, irregular overlapping panel borders,
+detailed environments, expressive character faces, high detail, clean lineart under paint.
+NO text, NO speech bubbles, NO lettering, NO watermark.</code></pre>
+<h2>Panel budget per page</h2>
+<div class="tw"><table><thead><tr><th>Page type</th><th>Panels</th></tr></thead><tbody><tr><td>Standard</td><td>6–7</td></tr><tr><td>Action-heavy</td><td>8–9 (smaller, faster)</td></tr><tr><td>Reveal / hook</td><td>4–5 (one large panel dominates)</td></tr></tbody></table></div>
+<p><strong>Page 1 of any chapter always ends on a hook panel.</strong> No exceptions.</p>
+</main>
+<footer class="wrap"><p>THREADBORN — सुत्रजात · a from-scratch webtoon manga · built from the markdown canon in
+<a href="../about.html">the repo</a>. EN + Hindi. Chapter 1 complete.</p></footer>
+</body>
+</html>

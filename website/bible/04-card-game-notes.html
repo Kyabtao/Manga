@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>04-card-game-notes · THREADBORN</title>
+<link rel="stylesheet" href="../assets/site.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+<a class="brand" href="../index.html">THREADBORN <span>सुत्रजात</span></a>
+<nav><a class="" href="../index.html">Home</a><a class="" href="../read/index.html">Read</a><a class="" href="../bible/00-overview.html">Bible</a><a class="" href="../characters/index.html">Characters</a><a class="" href="../world/glossary.html">World</a><a class="" href="../about.html">About</a></nav>
+</div></header>
+<div class="crumb wrap"><a href="../index.html">Home</a> / Series bible</div>
+<main class="wrap ">
+
+<h1>Card Game — Design Notes (carried forward from Chapter 1)</h1>
+<p><strong>Goal:</strong> by the time the manga passes 500 chapters there is a cast large enough to populate a full TCG. These notes exist so the story never paints the game into a corner.</p>
+<blockquote><p><strong>Rule for the writers' room:</strong> every chapter should introduce at least one thing that could later become a card — a character, a thread, a place, or a debt. Track it in the chapter's <code>other/</code> folder.</p></blockquote>
+<hr>
+<h2>Why the card game is free</h2>
+<p>The world's physics <em>is</em> a card game:</p>
+<div class="tw"><table><thead><tr><th>Story concept</th><th>Card mechanic</th></tr></thead><tbody><tr><td>Thread</td><td>The card itself</td></tr><tr><td>Kind</td><td>Card race / tribe</td></tr><tr><td>Sector</td><td>Card faction / element</td></tr><tr><td>Debt</td><td>Resource cost</td></tr><tr><td>Fraying</td><td>Risk mechanic + shared discard</td></tr><tr><td>Mending</td><td>Counter / cancellation archetype</td></tr></tbody></table></div>
+<p>No new systems need inventing. Every card is a thing that already happened in the story.</p>
+<h2>Core loop</h2>
+<ul><li>Each player is a <strong>Thread-bearer</strong> with a <strong>Debt track</strong> (0 → Terminal).</li><li>Playing a card adds <strong>debt-marks</strong>. Marks clear over turns with rest.</li><li>Push past <strong>Terminal</strong> and you gain enormous power this turn — but your excess cards go to the shared <strong>Fray pile</strong>, where they can be recruited by your opponent as <strong>Asura</strong>.</li><li><strong>Mend</strong> cards cancel debt instead of paying it. The Ira archetype. Low ceiling, absurd floor.</li></ul>
+<h2>Card families available from day one</h2>
+<p>9 Kinds × 9 Sectors = <strong>81 base families</strong>, each with its own art direction. Plus:</p>
+<ul><li><strong>Debt-carrier</strong> cards (tragic, cheap, disposable) — the moral texture of the game</li><li><strong>Bonded pairs</strong> (Pashu + animal) — two-card combos</li><li><strong>Relic</strong> cards (objects, like Ira's needles)</li><li><strong>Sector law</strong> cards (global effects — "in Agnikhand, all costs double")</li></ul>
+<h2>Reserved for later (do not design yet)</h2>
+<ul><li><strong>Yantra</strong> — chrome faction, reserved for ~Chapter 180 reveal</li><li><strong>Shunyakhand</strong> — anti-card / banish mechanic, final-act set</li><li><strong>Deva</strong> — deliberately over-costed until the story proves they are not gods, then rebalanced <em>in-fiction</em>. The set release should track the plot reveal.</li></ul>
+<h2>Production pipeline the manga must keep clean</h2>
+<p>For 500+ chapters to convert into cards, every chapter's <code>characters/</code> file must record, per new character:</p>
+<pre><code>Name / Kind / Sector / Thread colour / Debt tendency / Signature ability / One-line hook</code></pre>
+<p>That single line becomes the card's rules text later. <strong>Do not skip it</strong>, even for a one-panel extra. The bulk cast <em>is</em> the product.</p>
+</main>
+<footer class="wrap"><p>THREADBORN — सुत्रजात · a from-scratch webtoon manga · built from the markdown canon in
+<a href="../about.html">the repo</a>. EN + Hindi. Chapter 1 complete.</p></footer>
+</body>
+</html>
