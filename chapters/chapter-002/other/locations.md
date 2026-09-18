@@ -72,6 +72,15 @@ bends toward the stair instead. Continuity rule: the market's early-warning is a
 (light at night, steam by day), never a person's shout; and it fires for Council and crimson alike
 only when the basin is already afraid enough to watch.
 
+## THE FILING END — फ़ाइलिंग-सिरा — where records go to become true
+
+New in Chapter 2 Page 004: the interior behind the visitors' rail — a wall of shallow drawers and folio
+slots, intake slot at the rail's centre, Lekh's table in front of it. Stone light, zero ash, drawers
+open in ranks. Continuity: this is the Office's memory; anything shown here may be re-shown as evidence
+in any later arc, so every prop (grey file-chit, black flag-chit, rule-folio column, home drawers) keeps
+its exact place on the wall from this page on. The night-self-initialled cross-out makes the filing end
+the first room in the series the principal has touched **in person, as paperwork**.
+
 ## NOT YET SHOWN (reserved)
 - **The crimson-slip's origin room.** No interior, no hand, no face. The slip arrives sealed; the room
   it came from does not exist on panel until a much later arc (principal-through-paperwork rule).

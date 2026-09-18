@@ -15,6 +15,10 @@ chapter-scoped canon of record. Devanagari column is the in-world script of Agni
 | **Blink census** | पलक-गणना | The pot-row list of who blinked: ink names, charcoal names, one fingernail scratch, three Kshudra knots at the cord. Records witnesses, never the event. Born Ch. 002 Page 003 Panel 1, sold Panel 4, self-corrected in crimson Panel 7. |
 | **Office coin** | कक्ष-सिक़ा | Council-minted coin, grey-pursed. The coins that buy the census are **new-struck** — minted overnight, i.e. fear spending faster than procedure. Forensic seed for Ira. Ch. 002 Page 003 Panel 5. |
 
+| **Initial rule (Rule 9)** | आद्यक्षर-नियम | Filing-end law: a cross-out is a claim, a claim has a hand, a hand has an initial. An uninitialled cross-out procedurally *was never made* — so the name under it is still on the list. Broken overnight by the crimson self-initial. Ch. 002 Page 004 Panel 3. |
+| **Flag-chit** | ध्वज-पर्ची | The black slate token at every rail table: flagging a record opens an audit of whatever it touches — including the audit. The honest object and the dangerous one. Lekh chooses the grey file-chit instead. Ch. 002 Page 004 Panel 4. |
+| **Cuff-chit** | कफ़-पर्ची | An off-book minute-chit kept in the clerk's cuff instead of the drawer: the only true record in the Office and the only provable lie. Lekh's instrument from Page 004 on. |
+
 ## Usage notes
 - The re-stamp is the first time fear appears in the series **as process** rather than as a face. Keep it
   bureaucratic, quiet, and doubled: two seals, half a finger apart, same page.

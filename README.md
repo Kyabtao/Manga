@@ -21,24 +21,26 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **002 — *The Minute That Owes* / *वह मिनट जो ऋणी है*** — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**003** |
-| **NEXT page to build** | **Chapter 002 · Page 004** |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**004** |
+| **NEXT page to build** | **Chapter 002 · Page 005** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 002 · Page 004)
-Up-terrace interior, first time inside the filing end of the Reckoning Office: the Grey Clerk files the
-bought census as a **count** (procedure wins: names are a count). **Lekh**, seated, receives it — and
-finds the crimson cross-out with **no initial**, which procedure cannot accept: every cross-out in the
-Office is initialled by the hand that made it. His choice is the page: file it broken, or flag it and
-trigger an audit of the audit. He files it broken and keeps the minute-chit — the first seed of the
-basin's trusted up-terrace face. Hook, last panel: next morning the cross-out **has** an initial —
-crimson, dry, in no clerk's hand in the Office: the record corrected itself overnight. Basin B-plot:
-the pot-row goes quiet *because* the list was sold — a rumour that belongs to the Council is a rumour
-nobody dares repeat; Ira back on her crate; Bhan background, sleeve down, working a double shift (the
-itch-less mark lets him — sabotage's kindness). Rules carried forward: chain-stop budget unspent; the
-four notes silent until Ch. 3; shutters day four, slit may open once, no face; rumour and truth
-registers separate (the sold census is now Council property — its suppression is the rumour register's
-new state); the Loom never speaks; the Grey Clerk gets no second scene this chapter.
+### Next-page brief (Chapter 002 · Page 005)
+The re-review comes on panel at last: the **chamber door is drawn for the first time** — plain grey,
+no crest, no number. Inside, three seated auditors in grey (procedure's trinity; extras, no names, no
+faces wider than waist-up). They do not accuse; they **read back**: Rekhak's own audit of the
+commissioned hour (Ch. 001 Pages 008–009) in his own hand, line by line — and every line carries his
+initial, which is the page's quiet knife: the Office initials everything except what the principal
+touches (rhyme with Page 004's cross-out). Their demand: at tomorrow's first bell, Rekhak swears the
+hour on a **stopped chain** — new canon rule: a Reckoner's chain stopped is truth-mode; while it stands
+still, any lie adds debt to him instantly and visibly on panel. Hook, last panel: leaving, Rekhak
+passes the chamber's own record-slate and reads the hour's entry — initialled in **crimson, dry**, and
+dated **before his audit was filed**: the re-review was scheduled before he lied. The principal did not
+react to the lie; the principal *pre-filed* it. Rules carried forward: the demanded chain-stop is
+tomorrow (Page 006) and must be spent on something smaller than the truth (a true-but-partial sentence,
+e.g. "the palm showed a fold, not a door", while the silent second stays under the running chain); the
+four notes silent until Ch. 3; shutters day five; the sold census's suppression continues; Lekh's
+cuff-chit sleeps (no use this page); the Grey Clerk stays gone; the Loom never speaks.
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
@@ -143,6 +145,15 @@ new state); the Loom never speaks; the Grey Clerk gets no second scene this chap
   the list's foot, in no market hand, one name added then crossed out in **crimson, dry before the coin
   was counted** — Ira Sutar, the threadless girl who could not have blinked. The principal's paperwork
   counted her among the witnesses, then corrected itself; procedure re-rolls and quickens its step.
+- **Ch. 002 · Page 004** — Inside the filing end (first Office interior): the census arrives as a
+  **count** ("Names are a count. The category wins."), and Lekh finds the crimson cross-out with **no
+  initial** — Rule 9 says an uninitialled cross-out was never made, so the name under it is still on the
+  list. His choice: grey file-chit or black flag-chit (flag = audit of the audit). He files broken and
+  keeps an off-book **cuff-chit** — the first seed of the basin's trusted up-terrace face. Basin: the
+  pot-row's *owned* quiet (a sold rumour nobody dares repeat), Bhan's double shift on the itch-less
+  mark, and — pattern broken — the Knot & Nail slit does **not** open at all on day four. Hook: by
+  morning the cross-out has initialled itself, crimson and dry, in no clerk's hand. The last three words
+  of the page: *He stands up.*
 
 ---
 
