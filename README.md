@@ -20,28 +20,25 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **002 — *The Minute That Owes* / *वह मिनट जो ऋणी है*** — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**009** |
-| **NEXT page to build** | **Chapter 002 · Page 010 (FINALE + close-out)** |
+| **Chapter in progress** | **003 — *The Hand That Opens* / *वह हाथ जो खोलता है*** — Chapters 001–002 **COMPLETE** (close-outs in each chapter's `chapter-summary.md`) |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**010** (complete) |
+| **NEXT page to build** | **Chapter 003 · Page 001** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 002 · Page 010 — FINALE)
-Dusk, day ten: Ira returns the commission slip to Patra at the crate — **unbroken seal, her own mender's
-stitch run through the payment line** (sewn paper = her trade's refusal-sign; she keeps the prose, she
-rejects the price). Patra accepts the stitched slip with both hands (courtesy to the last) and leaves
-the parting line: *"The principal thanks you for the seams so far."* — the harvest receipt for every
-whorl-grain seam already sewn. Up-terrace strands, one panel each: Rekhak receives his reassignment —
-**Reckoner-of-record for the basin market** (demotion in form, watch in fact; the oath-link travels with
-him; sets Chapter 3's geography); Lekh appends one line to his cuff-chit: the date Ira's name first rode
-on crimson paperwork (his off-book ledger now tracks her too). Kessa's timing: the shutters **open** on
-the morning of Ira's refusal — her alarm was never the rumour, it was waiting for the girl's choice; she
-sets up shop without a word about it. Final hook, last panel: on the reopened counter, unwrapped and
-unexplained: a grey Council chit and a crimson slip **folded together, the two waxes touching** — the
-Council and the principal have begun corresponding, and the first letter is about Ira. Then write
-`chapters/chapter-002/chapter-summary.md` (canon of record: rules added in Ch. 2, open threads, bulk-cast
-ledger additions) and scaffold `chapters/chapter-003/` with its opening brief. Rules carried: chain
-budget closed and spent (p006); four notes silent until Ch. 3; the sewer box stays locked; Patra gets no
-face close-up; the Loom never speaks.
+### Next-page brief (Chapter 003 · Page 001)
+Morning of the letter: Kessa and Ira consult the lockbox's shadowless cut-end **on the counter** (first
+on-panel consultation; box open in daylight, sewer still unnamed) against Ira's rubbing of Bhan's
+turn-backs: the turn-backs match in *school*, not in age — the cut-end's are **forty years older** than
+Ira's stitch. The re-aim reverses the chapter-2 assumption: Kessa, dry: *"Child, your stitch didn't
+teach the cutter. The cutter taught your stitch."* — sewer and cutter share a hand-school, and Ira's palm
+is its diploma. Hook: the folded grey+crimson letter opened at last on panel: its contents are not a
+demand but an **appointment** — a posting order transferring custody of the blink census (and all future
+correspondence) to the **Knot & Nail**: both sides have agreed to file in the basin's safest lockbox,
+and Kessa never said yes. Rules carried: oath-link travels with Rekhak (basin Reckoner-of-record now —
+he may appear at the stall as procedure, chain running, dark link visible); four notes must match
+*wrongly* first when they surface; sewer box opens for the cut-end only, never for names; the Loom never
+speaks; Kessa's interiority still shutters/hands-only (the box consultation is hands, not monologue);
+crimson+grey touching only on the letter prop.
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
