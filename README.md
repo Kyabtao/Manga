@@ -21,24 +21,27 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **002 — *The Minute That Owes* / *वह मिनट जो ऋणी है*** — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**008** |
-| **NEXT page to build** | **Chapter 002 · Page 009** |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**009** |
+| **NEXT page to build** | **Chapter 002 · Page 010 (FINALE + close-out)** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 002 · Page 009)
-Night, shut stall: Ira brings the two-wax chit and the bell-tally read to the shutter — and for the
-first time **Kessa speaks from behind the wood** (voice only, no face, no slit): two lessons. (a) *Two
-waxes on one chit is two owners on one hand — and hands that share a chit will soon share a desk*
-(forecast of the close-out's grey-crimson correspondence). (b) The stitch-grammar read: *"Read the cut
-again, child. Whose hand opens a tear the way a seam opens?"* — the nightly cutter opens Bhan's arm the
-way Ira's own palm-stitch opens: someone is copying her stitch's grammar onto the dock road. Ira's one
-forbidden question escapes her (*"Who sewed me?"*); Kessa's answer through the wood postpones, does not
-refuse: *"Not tonight. Tonight you need the cutter's name, not the sewer's."* Hook, last panel: from
-behind the shutter, one sound only — the **lockbox lock turning**, first time since Chapter 001 Page
-010 — then silence; the box stays locked, no interior, no face: Kessa is consulting the shadowless
-cut-end without opening the stall. Rules carried: chain budget closed; four notes silent until Ch. 3;
-shutters day nine (voice is not an opening); census suppression continues; cuff-chit sleeps; Patra
-off-panel; the Loom never speaks; the sewer box stays locked.
+### Next-page brief (Chapter 002 · Page 010 — FINALE)
+Dusk, day ten: Ira returns the commission slip to Patra at the crate — **unbroken seal, her own mender's
+stitch run through the payment line** (sewn paper = her trade's refusal-sign; she keeps the prose, she
+rejects the price). Patra accepts the stitched slip with both hands (courtesy to the last) and leaves
+the parting line: *"The principal thanks you for the seams so far."* — the harvest receipt for every
+whorl-grain seam already sewn. Up-terrace strands, one panel each: Rekhak receives his reassignment —
+**Reckoner-of-record for the basin market** (demotion in form, watch in fact; the oath-link travels with
+him; sets Chapter 3's geography); Lekh appends one line to his cuff-chit: the date Ira's name first rode
+on crimson paperwork (his off-book ledger now tracks her too). Kessa's timing: the shutters **open** on
+the morning of Ira's refusal — her alarm was never the rumour, it was waiting for the girl's choice; she
+sets up shop without a word about it. Final hook, last panel: on the reopened counter, unwrapped and
+unexplained: a grey Council chit and a crimson slip **folded together, the two waxes touching** — the
+Council and the principal have begun corresponding, and the first letter is about Ira. Then write
+`chapters/chapter-002/chapter-summary.md` (canon of record: rules added in Ch. 2, open threads, bulk-cast
+ledger additions) and scaffold `chapters/chapter-003/` with its opening brief. Rules carried: chain
+budget closed and spent (p006); four notes silent until Ch. 3; the sewer box stays locked; Patra gets no
+face close-up; the Loom never speaks.
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
