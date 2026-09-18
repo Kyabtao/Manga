@@ -21,26 +21,26 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **002 — *The Minute That Owes* / *वह मिनट जो ऋणी है*** — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**004** |
-| **NEXT page to build** | **Chapter 002 · Page 005** |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**005** |
+| **NEXT page to build** | **Chapter 002 · Page 006** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 002 · Page 005)
-The re-review comes on panel at last: the **chamber door is drawn for the first time** — plain grey,
-no crest, no number. Inside, three seated auditors in grey (procedure's trinity; extras, no names, no
-faces wider than waist-up). They do not accuse; they **read back**: Rekhak's own audit of the
-commissioned hour (Ch. 001 Pages 008–009) in his own hand, line by line — and every line carries his
-initial, which is the page's quiet knife: the Office initials everything except what the principal
-touches (rhyme with Page 004's cross-out). Their demand: at tomorrow's first bell, Rekhak swears the
-hour on a **stopped chain** — new canon rule: a Reckoner's chain stopped is truth-mode; while it stands
-still, any lie adds debt to him instantly and visibly on panel. Hook, last panel: leaving, Rekhak
-passes the chamber's own record-slate and reads the hour's entry — initialled in **crimson, dry**, and
-dated **before his audit was filed**: the re-review was scheduled before he lied. The principal did not
-react to the lie; the principal *pre-filed* it. Rules carried forward: the demanded chain-stop is
-tomorrow (Page 006) and must be spent on something smaller than the truth (a true-but-partial sentence,
-e.g. "the palm showed a fold, not a door", while the silent second stays under the running chain); the
-four notes silent until Ch. 3; shutters day five; the sold census's suppression continues; Lekh's
-cuff-chit sleeps (no use this page); the Grey Clerk stays gone; the Loom never speaks.
+### Next-page brief (Chapter 002 · Page 006)
+First bell, the chamber again: Rekhak swears the commissioned hour on the **held stop** — Chapter 2's
+one chain-stop, spent here, on something **smaller than the truth but entirely true**: *"The palm held
+a fold, not a door. I saw the fold. In the palm, I saw nothing else."* The limiting clause does the
+lying for him — the silent second was citywide, never *in the palm* — so the chain stays cleanly stopped,
+no deposit, and the auditors accept a sentence that omits everything that matters. Draw the stop itself
+as the page's centre: the first still chain in Chapter 2, and the auditors' quarter-flinch when it stays
+still too long (a held stop that never deposits is its own kind of confession). Hook, last panel:
+releasing the oath, the chain starts again — **one link does not**: a single darkened still link where
+the held stop stored itself. New canon consequence (seeded Page 005): an oath on a held stop is readable
+afterwards by anyone who reads chains — and the basin has exactly one chain-reader who doesn't yet know
+the oath exists. Basin cutaway allowed for one panel at the first-bell moment (Ira feeling nothing —
+the Loom never speaks — but the Spindle's light doing nothing at all, which for the Spindle is an
+event). Rules carried: four notes silent until Ch. 3; shutters day six; census suppression continues;
+Lekh's cuff-chit still sleeps; the Grey Clerk stays gone; momentary-stop tell grammar unchanged; the
+Loom never speaks.
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
@@ -154,6 +154,15 @@ cuff-chit sleeps (no use this page); the Grey Clerk stays gone; the Loom never s
   mark, and — pattern broken — the Knot & Nail slit does **not** open at all on day four. Hook: by
   morning the cross-out has initialled itself, crimson and dry, in no clerk's hand. The last three words
   of the page: *He stands up.*
+- **Ch. 002 · Page 005** — First single-room page in the series: the **re-review chamber door** (plain,
+  unmarked, opens inward, never closed this chapter) is drawn at last. Three nameless auditors read
+  Rekhak's falsified audit back to him **by its initials** — every line his hand, his initial, including
+  the lie. New canon, harmonised with Ch. 001: a momentary chain-stop is a costless tell; a **held-stop
+  oath** (chain stood still first sworn word to last) opens the owner's ledger — a false word under it is
+  not a tell but a *deposit*. Demanded at tomorrow's first bell; his one line, first words since Ch. 001:
+  *"It always runs."* Hook: the chamber's docket-slate shows the re-review **scheduled one day before his
+  audit was filed** — the principal did not react to the lie, the principal *pre-filed* it. Tomorrow's
+  first bell has two owners; only one of them is procedure.
 
 ---
 

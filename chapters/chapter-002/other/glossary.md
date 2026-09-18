@@ -19,6 +19,9 @@ chapter-scoped canon of record. Devanagari column is the in-world script of Agni
 | **Flag-chit** | ध्वज-पर्ची | The black slate token at every rail table: flagging a record opens an audit of whatever it touches — including the audit. The honest object and the dangerous one. Lekh chooses the grey file-chit instead. Ch. 002 Page 004 Panel 4. |
 | **Cuff-chit** | कफ़-पर्ची | An off-book minute-chit kept in the clerk's cuff instead of the drawer: the only true record in the Office and the only provable lie. Lekh's instrument from Page 004 on. |
 
+| **Held-stop oath** | धृत-रोक शपथ | A Reckoner swears with the counting-chain stood still from first sworn word to last. Harmonises Ch. 001 grammar: a *momentary* stop is a costless tell; a *held* stop opens the owner's debt-ledger on panel — a false word under it is not a tell but a **deposit** (debt added instantly, visibly). Demanded Ch. 002 Page 005, spent Page 006. Readable afterwards by anyone who reads chains (Ira). |
+| **Docket-slate** | दैनिकी-पट्ट | The chamber's own record, posted on a corridor rail outside its door: entries carry *filed* and *scheduled* date-stroke columns. The pre-filed crimson initial (scheduled one day before the lie was filed) makes it the principal's fingerprint inside procedure. Ch. 002 Page 005 Panel 7. |
+
 ## Usage notes
 - The re-stamp is the first time fear appears in the series **as process** rather than as a face. Keep it
   bureaucratic, quiet, and doubled: two seals, half a finger apart, same page.

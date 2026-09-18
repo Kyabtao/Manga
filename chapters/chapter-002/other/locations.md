@@ -81,8 +81,15 @@ in any later arc, so every prop (grey file-chit, black flag-chit, rule-folio col
 its exact place on the wall from this page on. The night-self-initialled cross-out makes the filing end
 the first room in the series the principal has touched **in person, as paperwork**.
 
+## THE RE-REVIEW CHAMBER — पुनः-समीक्षा कक्ष — the door with nothing on it
+
+Drawn at last in Chapter 2 Page 005 (reserved since Page 001): plain grey door, no crest, no number, no
+plate; opens **inward**, half a hand's width, and is never shown closed in Chapter 2 — a later closure
+is an event. Inside: curved stone table, three seated auditors, no fourth chair, no window; the only
+light is corridor light through the open door. Outside on a corridor rail: the **docket-slate** with its
+filed/scheduled columns. Continuity: the chamber's crimson docket initial and the filing end's crimson
+self-initial are **the same hand-feel** — one hand, two rooms.
+
 ## NOT YET SHOWN (reserved)
 - **The crimson-slip's origin room.** No interior, no hand, no face. The slip arrives sealed; the room
   it came from does not exist on panel until a much later arc (principal-through-paperwork rule).
-- **The re-review chamber** where Rekhak is summoned. Off-panel in Page 001; walking-to-it only in
-  Page 002. Do not draw its door yet.
