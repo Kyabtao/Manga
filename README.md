@@ -21,22 +21,24 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **001** — *The Girl With No Thread* |
-| **Pages completed** | **001**–**008** |
-| **NEXT page to build** | **009** |
+| **Pages completed** | **001**–**009** |
+| **NEXT page to build** | **010** (chapter finale) |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 001 · Page 009)
-**Payment and refusal.** After the hour: Rekhak stands again (re-entering his uniform), collar hiding the
-new under-eye line. Patra presents the form **written**: Name *Ira Sutar*, Kind **Manav**, Thread *none*
-— and cannot lie about why: the Council's seal cannot hold a Kind the Council refuses to register, so the
-line had to be one the book accepts. Ira: *"So I exist as a lie."* She pushes it back: *"Write it true or
-don't write it."* Patra does not argue — and the trap's true shape shows: the principal bought an
-**hour**, not a signature; the registration was only the price that bought consent. *"He wanted to be
-certain it stays closed. He is certain now. What he does with certainty is my next contract."* End hook:
-Kessa cuts the hour-rope from Ira's wrist and counts what passed through her fingers — sixty knots went
-in, and the rope holds **sixty-one**. KESSA (very small): *"The hour had sixty knots in it, be." / "This
-string has sixty-one."* The extra knot tied itself in the silent second. Keep the sewer a locked box;
-keep the buyer unnamed.
+### Next-page brief (Chapter 001 · Page 010 — chapter finale)
+Night, and the chapter's motifs come home. (1) **Ira's roof** (new location): ash drifts, the Loom
+turning overhead; caption callback — *"Everyone is born owing the Loom a thread." / "Ira Sutar was born
+with hers already taken."* She flexes the hand: nothing happens; she is still null outside. Thought:
+*not missing — folded.* She closes her fist over the stitch gently, like covering something asleep:
+**"Sleep."** Third caption caps the callback: *"That was the first lie anyone told about her."*
+(2) Cut to the Knot & Nail, late: Kessa alone opens the **lockbox** under the good thread and unwraps a
+short **shadowless swatch** of colourless unpulled thread — kept from before the first Unspooling she
+counted. Macro: it catches no lamplight and casts no shadow (breaking the vision shadow-rule on
+purpose, in lamp-light). (3) Final panel: extreme macro — the swatch's end carries a **knot**, the same
+uncanny whorl as the sixty-first; Kessa's thumb hovers, not touching. CAPTION: *"Some doors, Kessa kept
+shut herself."* End card: **END OF CHAPTER ONE.** Faint SFX under it: the Loom's hum, *one note lower
+than last night.* Sewer locked, buyer unnamed, principal unseen — chapter closes with three locked boxes
+and one girl who finally knows her hand is full.
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -101,6 +103,11 @@ keep the buyer unnamed.
   bundled, *sleeping*, sewn round with shadowless thread. Then the silent second: the Loom's hum stops
   citywide, the Spindle flickers for the first time in four centuries, every threaded soul looks up.
   Hook: *"It moved. Fifteen years it never moved."* Knot count: sixty; the hour not over.
+- **Page 009** — Payment and refusal: the form comes back **written** — Name *Ira Sutar*, Kind **Manav**,
+  Thread *none* — because the Council's seal cannot hold a Kind it refuses to register. Ira: *"Write it
+  true or don't write it."* Patra re-reads the deal: the principal bought an hour, not a signature.
+  Rekhak falsifies the audit aloud (*"Nothing more"*) with the chain stopping — his first lie, Ira's
+  first shield. Hook: Kessa counts the cut hour-rope: sixty went in, **sixty-one** sit in her palm.
 
 ---
 
