@@ -20,25 +20,21 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **001** — *The Girl With No Thread* |
-| **Pages completed** | **001**–**009** |
-| **NEXT page to build** | **010** (chapter finale) |
+| **Chapter in progress** | **002** (untitled) — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) |
+| **NEXT page to build** | **Chapter 002 · Page 001** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 001 · Page 010 — chapter finale)
-Night, and the chapter's motifs come home. (1) **Ira's roof** (new location): ash drifts, the Loom
-turning overhead; caption callback — *"Everyone is born owing the Loom a thread." / "Ira Sutar was born
-with hers already taken."* She flexes the hand: nothing happens; she is still null outside. Thought:
-*not missing — folded.* She closes her fist over the stitch gently, like covering something asleep:
-**"Sleep."** Third caption caps the callback: *"That was the first lie anyone told about her."*
-(2) Cut to the Knot & Nail, late: Kessa alone opens the **lockbox** under the good thread and unwraps a
-short **shadowless swatch** of colourless unpulled thread — kept from before the first Unspooling she
-counted. Macro: it catches no lamplight and casts no shadow (breaking the vision shadow-rule on
-purpose, in lamp-light). (3) Final panel: extreme macro — the swatch's end carries a **knot**, the same
-uncanny whorl as the sixty-first; Kessa's thumb hovers, not touching. CAPTION: *"Some doors, Kessa kept
-shut herself."* End card: **END OF CHAPTER ONE.** Faint SFX under it: the Loom's hum, *one note lower
-than last night.* Sewer locked, buyer unnamed, principal unseen — chapter closes with three locked boxes
-and one girl who finally knows her hand is full.
+### Next-page brief (Chapter 002 · Page 001)
+The morning after: the basin wakes into rumour — every threaded soul felt **the silent second**, nobody
+will admit it; steam-pot gossip about the Spindle blinking; up-terrace, clerks re-stamp the night's
+records twice, which is how you know the Council is afraid. At the Knot & Nail, Ira pays the first
+instalment of the **mother-debt** unasked: one true thing — *"She hummed while she sewed."* Kessa writes
+nothing down (Kshudra remember) and shuts the stall early for the first time in four Unspoolings. Hook,
+up-terrace: Rekhak is summoned before his own office — the hour's audit has been called up for re-review,
+and the call-slip is sealed with **crimson wax**. The buyer has read his lie. Rules carried forward from
+`chapters/chapter-001/chapter-summary.md`: sewer locked, principal acts through paperwork and never in
+person, chain-stop budget for Chapter 2 is one (spend it late), and the knot-shape gets no owner.
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -108,6 +104,12 @@ and one girl who finally knows her hand is full.
   true or don't write it."* Patra re-reads the deal: the principal bought an hour, not a signature.
   Rekhak falsifies the audit aloud (*"Nothing more"*) with the chain stopping — his first lie, Ira's
   first shield. Hook: Kessa counts the cut hour-rope: sixty went in, **sixty-one** sit in her palm.
+- **Page 010 — FINALE** — On her roof under the turning Loom, Ira re-reads her hand (*not empty —
+  packed*), folds her fist over the stitch and vows one word into her knuckles: **"Sleep."** The Page 001
+  captions return and are answered: *"That was the first lie anyone told about her."* Late at the Knot &
+  Nail, Kessa opens the lockbox: forty years of shadowless cut-end, never asked what it was cut from —
+  and its end-knot is the same uncanny whorl as the sixty-first. The hum ends one note lower.
+  **END OF CHAPTER ONE.**
 
 ---
 
@@ -123,12 +125,14 @@ series-bible/            The canon. Read before writing anything.
   style-guide.md         Art direction + reusable image-prompt block
 
 chapters/
-  chapter-001/
-    story/     page-001..005 .md / .hi.md            (scripts EN + Hindi)
+  chapter-001/            COMPLETE — 10 pages (see chapter-summary.md)
+    chapter-summary.md   close-out: synopsis, canon rules, open threads, bulk-cast ledger
+    story/     page-001..010 .md / .hi.md          (scripts EN + Hindi)
     characters/ ira-sutar.md, kessa.md, rekhak-vahni.md, patra.md,
-                cast-page-001..005.md, *-ref.png
+                cast-page-001..010.md, *-ref.png
     other/     locations.md, glossary.md
-    images/    page-001..005.png
+    images/    page-001..010.png
+  chapter-002/            next — starts at Page 001 per the tracker brief
 ```
 
 Every chapter follows the same `story/ characters/ other/ images/` layout.

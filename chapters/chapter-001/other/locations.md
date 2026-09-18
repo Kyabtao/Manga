@@ -44,6 +44,13 @@ altitude.
 
 ---
 
+### Ira's Roof  (added Page 010 — chapter finale)
+The flat tenement roof where Ira sleeps and keeps herself: ash drifts banked against the parapet like
+snow, a line of drying mending-rags, one upturned crate for sitting. The only place in the Ashfall Basin
+where she is nobody's null. The Loom turns overhead, unbroken sightline. **Page 010, Panels 1–3.**
+Rule for the artist: the roof is always drawn at night or dawn in Chapter 1; if it is ever drawn at noon,
+something in Ira's life has changed enough to deserve it.
+
 ## Places named but not yet shown (do not draw before they are established)
 
 - **The Mendery** — licensed workhouse where menders and debt-carriers are bound. Ira's mother was

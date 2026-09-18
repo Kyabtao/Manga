@@ -46,6 +46,9 @@ Terms the reader must understand by the end of Page 1. English first, Devanagari
 | **The Fold** | तह | What Sight saw under Ira's stitch: her thread folded inward, pressed and bundled, *sleeping* — not taken, not missing. Reader term; unnamed in-world. Page 008. |
 | **The silent second** | मौन क्षण | The one beat during the hour when the Loom's hum stopped citywide and the Spindle flickered. Every threaded soul felt it. Never admitted by the Council. Page 008. |
 | **Sight-vision** | दृष्टि-दर्शन | The art language of what Sight reads: flat colour-fields, hard edges, no lettering; everything casts a shadow except unpulled thread. Page 008. |
+| **Shadowless thread** | छायाहीन रेशा | Unpulled thread casts no shadow — in Sight-vision *and*, as Page 010 shows, in ordinary lamplight. The rule is about the thread, not the Sight. Never explained. |
+| **The knot-shape** | गाँठ-आकृति | One uncanny whorl, three appearances: the vision's grown knot (008), the sixty-first knot's fist-whorl (009), the swatch's end-knot (010). Owner unrevealed. The series' fingerprint. |
+| **Ira's roof** | इरा की छत | Flat tenement roof, ash drifts, mending-rags, one crate. The only place she is nobody's null. Page 010. |
 
 > **Teaching order on Page 1:** Loom → Unspooling → thread & strain (Panel 5) → debt (implied by
 > Panel 3's torn mark) → the absence of a thread (Panel 6) → the seam (Panel 7). Do not explain all
