@@ -21,19 +21,21 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **001** — *The Girl With No Thread* |
-| **Pages completed** | **001**–**006** |
-| **NEXT page to build** | **007** |
+| **Pages completed** | **001**–**007** |
+| **NEXT page to build** | **008** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 001 · Page 007)
-The descent and the consult: Ira comes down the Council Stair before dusk and brings the deal to Kessa
-at the Knot & Nail. Kessa reacts to the **material**, not the metaphor: *"Thread that has never been
-pulled… then it wasn't a mending that went into you, be. Mendings leave a debt-shaped hole. That was a
-**sealing**."* She agrees to witness and to tie the hour-knots round Ira's wrist — but her price is not
-coins: *"When this is over, you tell me one true thing about your mother. Your first debt, be. I'll keep
-it safe till you can pay it."* End hook: Kessa ties the last knot and does not let go. CAPTION: *The
-girl who owed nothing / went to sleep owing one true thing.* Keep the sewer a locked box; keep the
-crimson buyer unnamed.
+### Next-page brief (Chapter 001 · Page 008)
+**The hour.** Pre-dawn at the Knot & Nail: Kessa loupe-down, one end of the knot-cord on her own wrist
+and the other on Ira's; Patra witnesses from the corner (shadow pooling toward the lamp); Rekhak
+arrives alone and **kneels** — the Council does not kneel — and takes Ira's palm. The commissioned Sight
+runs: his lines climb the cheek toward the under-eye, the chain runs faster, then **stops** at what he
+sees. What he sees (dream-panels, unlettered): not a door — a **fold**: her thread folded inward,
+pressed and bundled, *sleeping*; and round it the sealing thread, colourless, casting no shadow. Then
+**the silent second**: for one beat the Loom's hum stops citywide — the Spindle flickers, every threaded
+soul in the basin looks up — and resumes louder. Hook: Ira, surfacing, whispers what she felt: *"It
+moved." / "Fifteen years it never moved."* CAPTION: *Something in her hand / turned over in its sleep.*
+The knot-count is still sixty at page end. Keep the sewer a locked box; keep the buyer unnamed.
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -88,6 +90,11 @@ crimson buyer unnamed.
   question with a material: *thread that has never been pulled* — then the drip: *whoever sewed you was
   **lending**.* Rekhak spends his first word in two pages — *"Don't."* — chain still running. Patra's
   first real smile: *"Oh good. He's invested."*
+- **Page 007** — The deal comes home: Kessa appraises it and names it — *not a mending, a **sealing***
+  (canon vocabulary from this page on) — with a half-second eyeline to her lockbox at the word
+  *unpulled*. She ties sixty hour-knots round Ira's wrist (*"my knots don't ask permission to end"*) and
+  names her price: one true thing about Ira's mother. The girl who owed nothing sleeps owing her first
+  debt.
 
 ---
 

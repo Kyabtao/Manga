@@ -40,6 +40,9 @@ Terms the reader must understand by the end of Page 1. English first, Devanagari
 | **Commissioned Sight** | आदेशित दृष्टि | Sight bought from its bearer by a third party. The hour Patra offers to purchase of Ira's palm — spent by Rekhak. |
 | **Registration line** | पंजीयन-रेखा | Name. Kind. Thread. The three blank lines that make a person legal in Agnikhand. Manavkin are kept off them. |
 | **Blank name-tag** | कोरा नाम-टैग | A tag on Patra's cord carrying someone else's name. None of them is Patra's. |
+| **Sealing** | सीलन | Closing a sutra-mark with thread that owes nothing. Leaves **no** debt-shaped hole, so appraisal cannot find it. The opposite of mending. Kessa's word, Page 007. |
+| **Hour-knots** | घंटी-गाँठें | Sixty Kshudra knots Kessa ties round Ira's wrist to time the Sight-hour. They end when she says they end. Page 007. |
+| **First debt / mother-debt** | पहला ऋण | One true thing about her mother, owed by Ira to Kessa. Cannot be cancelled or Mended; only paid, in person. Page 007. |
 
 > **Teaching order on Page 1:** Loom → Unspooling → thread & strain (Panel 5) → debt (implied by
 > Panel 3's torn mark) → the absence of a thread (Panel 6) → the seam (Panel 7). Do not explain all
