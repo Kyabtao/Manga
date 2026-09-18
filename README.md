@@ -19,26 +19,24 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | Field | Value |
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
-| **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
+| **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **003 — *The Hand That Opens* / *वह हाथ जो खोलता है*** — Chapters 001–002 **COMPLETE** (close-outs in each chapter's `chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**010** (complete) |
-| **NEXT page to build** | **Chapter 003 · Page 001** |
-| **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**010** (complete) · Ch. 003: **001** |
+| **NEXT page to build** | **Chapter 003 · Page 002** |
+| **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) (targets `main`; PR #2 is merged) |
 
-### Next-page brief (Chapter 003 · Page 001)
-Morning of the letter: Kessa and Ira consult the lockbox's shadowless cut-end **on the counter** (first
-on-panel consultation; box open in daylight, sewer still unnamed) against Ira's rubbing of Bhan's
-turn-backs: the turn-backs match in *school*, not in age — the cut-end's are **forty years older** than
-Ira's stitch. The re-aim reverses the chapter-2 assumption: Kessa, dry: *"Child, your stitch didn't
-teach the cutter. The cutter taught your stitch."* — sewer and cutter share a hand-school, and Ira's palm
-is its diploma. Hook: the folded grey+crimson letter opened at last on panel: its contents are not a
-demand but an **appointment** — a posting order transferring custody of the blink census (and all future
-correspondence) to the **Knot & Nail**: both sides have agreed to file in the basin's safest lockbox,
-and Kessa never said yes. Rules carried: oath-link travels with Rekhak (basin Reckoner-of-record now —
-he may appear at the stall as procedure, chain running, dark link visible); four notes must match
-*wrongly* first when they surface; sewer box opens for the cut-end only, never for names; the Loom never
-speaks; Kessa's interiority still shutters/hands-only (the box consultation is hands, not monologue);
-crimson+grey touching only on the letter prop.
+### Next-page brief (Chapter 003 · Page 002)
+The posting order's consequence: Kessa is now the custodian of the blink census — the pot-row's list
+with the crimson cross-out, the one the Grey Clerk bought, the one the principal's paperwork counted
+Ira among then corrected. The lockbox now holds two impossible things (the cut-end and the census) and
+Kessa was given the second by two institutions who agree on her stall and not on each other. The
+morning's second scene: Rekhak arrives at the stall as Reckoner-of-record — first basin-panel
+appearance this chapter, chain running, oath-link visible, collar high. He does not come for Ira;
+he comes to *file* — the census transfer is procedure, and he is the basin's nearest official. Kessa
+receives him the way she receives all up-terrace men: with her loupe down and her hands visible.
+The tension: the man who shielded Ira and the woman who raised her now share a filing cabinet, and
+the document inside it has Ira's name crossed out in crimson. Four notes still silent; sewer still
+unnamed; chain-stop budget unspent.
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
@@ -170,6 +168,17 @@ crimson+grey touching only on the letter prop.
   dark oath-link, readable forever by the basin's one chain-reader; the smallest bill in the building,
   and the only one addressed to a girl who was not in the room. Art canon added: the chamber slate bore
   a dry crimson initial from before the bell — the pre-touch reaches inside the chamber record.
+
+**CHAPTER 003 — THE HAND THAT OPENs (वह हाथ जो खोलता है)**
+
+- **Ch. 003 · Page 001** — Morning of the letter at the reopened Knot & Nail: Kessa opens the lockbox
+  in daylight for the first time in the series — the **shadowless cut-end** on the counter — and lays
+  Ira's charcoal rubbing of Bhan's turn-backs beside it. The turn-backs match in *school*, not in age:
+  the cut-end's are **forty years older** than Ira's stitch. The reversal: *"Child, your stitch didn't
+  teach the cutter. The cutter taught your stitch."* — sewer and cutter share a hand-school, and Ira's
+  palm is its diploma. Hook: the folded grey+crimson letter, opened on panel at last — its contents are
+  not a demand but a **posting order** transferring custody of the blink census to the Knot & Nail; both
+  sides have agreed to file in Kessa's lockbox, and Kessa was not asked.
 
 ---
 
