@@ -43,6 +43,9 @@ Terms the reader must understand by the end of Page 1. English first, Devanagari
 | **Sealing** | सीलन | Closing a sutra-mark with thread that owes nothing. Leaves **no** debt-shaped hole, so appraisal cannot find it. The opposite of mending. Kessa's word, Page 007. |
 | **Hour-knots** | घंटी-गाँठें | Sixty Kshudra knots Kessa ties round Ira's wrist to time the Sight-hour. They end when she says they end. Page 007. |
 | **First debt / mother-debt** | पहला ऋण | One true thing about her mother, owed by Ira to Kessa. Cannot be cancelled or Mended; only paid, in person. Page 007. |
+| **The Fold** | तह | What Sight saw under Ira's stitch: her thread folded inward, pressed and bundled, *sleeping* — not taken, not missing. Reader term; unnamed in-world. Page 008. |
+| **The silent second** | मौन क्षण | The one beat during the hour when the Loom's hum stopped citywide and the Spindle flickered. Every threaded soul felt it. Never admitted by the Council. Page 008. |
+| **Sight-vision** | दृष्टि-दर्शन | The art language of what Sight reads: flat colour-fields, hard edges, no lettering; everything casts a shadow except unpulled thread. Page 008. |
 
 > **Teaching order on Page 1:** Loom → Unspooling → thread & strain (Panel 5) → debt (implied by
 > Panel 3's torn mark) → the absence of a thread (Panel 6) → the seam (Panel 7). Do not explain all
