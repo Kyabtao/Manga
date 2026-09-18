@@ -21,21 +21,19 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **001** — *The Girl With No Thread* |
-| **Pages completed** | **001**, **002**, **003**, **004**, **005** |
-| **NEXT page to build** | **006** |
+| **Pages completed** | **001**–**006** |
+| **NEXT page to build** | **007** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 001 · Page 006)
-Ira's counter-offer, mender-style: *nothing gets sewn until I've seen the tear.* She will not give the
-hour until three terms are met — (1) Kessa holds the other end of the thread (witness, appraiser, and
-the only adult Ira trusts to count); (2) the Sight-hour is spent in the **basin**, not up-terrace, on
-her ground; (3) she gets one question answered first, and it is not about the principal — it is
-*"whose thread was the stitch sewn with?"* Patra can answer that one truthfully (Patra never lies) and
-the answer must be a **material**, not a name: "thread that has never been pulled" — which frightens
-Patra for half a line, the first crack in the broker's mildness. End hook: Rekhak, silent for two pages,
-speaks his first word of the day — *"Don't."* — and his counting-chain is still **running**, so the
-reader cannot tell whether the warning is procedural or personal. Patra smiles for real: *"Oh good.
-He's invested."* Keep the principal unnamed; keep the sewer a locked box.
+### Next-page brief (Chapter 001 · Page 007)
+The descent and the consult: Ira comes down the Council Stair before dusk and brings the deal to Kessa
+at the Knot & Nail. Kessa reacts to the **material**, not the metaphor: *"Thread that has never been
+pulled… then it wasn't a mending that went into you, be. Mendings leave a debt-shaped hole. That was a
+**sealing**."* She agrees to witness and to tie the hour-knots round Ira's wrist — but her price is not
+coins: *"When this is over, you tell me one true thing about your mother. Your first debt, be. I'll keep
+it safe till you can pay it."* End hook: Kessa ties the last knot and does not let go. CAPTION: *The
+girl who owed nothing / went to sleep owing one true thing.* Keep the sewer a locked box; keep the
+crimson buyer unnamed.
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -85,6 +83,11 @@ He's invested."* Keep the principal unnamed; keep the sewer a locked box.
   payment* — for one hour of Ira's palm under commissioned Sight. Hook: *"He doesn't want the door
   opened. He wants to be certain it stays closed."* Rekhak: silent, chain running, neck-line past the
   jaw overnight.
+- **Page 006** — Ira negotiates like a mender (*nothing gets sewn till I've seen the tear*): three terms
+  — Kessa as witness, the basin as ground, one true question. Patra accepts too easily and answers the
+  question with a material: *thread that has never been pulled* — then the drip: *whoever sewed you was
+  **lending**.* Rekhak spends his first word in two pages — *"Don't."* — chain still running. Patra's
+  first real smile: *"Oh good. He's invested."*
 
 ---
 
