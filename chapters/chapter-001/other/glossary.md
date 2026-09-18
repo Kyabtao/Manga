@@ -23,6 +23,15 @@ Terms the reader must understand by the end of Page 1. English first, Devanagari
 | **Dry** | सूखा | (card-game keyword) owing no debt; immune to debt-based effects. Ira's signature. |
 | **Debt-appraiser** | ऋण-परखक | One who reads debt-marks by eye. Kessa's craft. |
 | **be** | बे | Affectionate Kshudra particle. Kessa's tell for real feeling. |
+| **Ash Council** | भस्म-परिषद् | Governs Agnikhand. Registers every Sutra-mark — and refuses to register Manavkin. |
+| **Debt-Reckoner** | ऋण-लेखाधिकारी | Council auditor who reads marks and ledgers with a Sight-mark. Rekhak Vahni, Page 003. |
+| **Sight-mark** | दृष्टि-चिह्न | A mark over the eye: power put into *knowing*. Every use writes debt on the skin. |
+| **Deep debt** | गहरा ऋण | Marks at the throat. The voice frays; others hear the Loom through you. Rekhak's state on Page 003. |
+| **Nailed door / closed mark** | जड़ा द्वार | A stitch: a sutra-mark shut *before* it could open. Accidents are ugly; a stitch is tidy. |
+| **Unregistered** | अपंजीकृत | Not in the Council's book. Manavkin are never registered — so Ira both does not exist and is on the Court's record. |
+| **Ledger-slate** | बही-पटिया | The Council's hinged stone tablet of stamped record. Rekhak carries his at the hip. |
+| **Counting-chain** | गिनती-सांकल | Knotted brass rings; the Council's tally. The basin counts with thread, the Council counts with metal. |
+| **Crimson wax** | सुर्ख मोम | A seal colour that does not belong in Agnikhand. On Rekhak's ledger, Page 003. **Unnamed — do not name it in Chapter 1.** |
 
 > **Teaching order on Page 1:** Loom → Unspooling → thread & strain (Panel 5) → debt (implied by
 > Panel 3's torn mark) → the absence of a thread (Panel 6) → the seam (Panel 7). Do not explain all

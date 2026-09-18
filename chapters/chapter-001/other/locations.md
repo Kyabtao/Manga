@@ -25,18 +25,33 @@ of the whole city. **Panels 2 and 5 (Page 001); Panel 1 (Page 002).**
 ### The Under-Market  (added Page 002)
 A lantern-lit black market in a cut in the basin wall, below the terraces. Pawned rings, thread-spools,
 debt-ledgers on string, steam pots. Crowded, warm, crooked — the opposite of the Court's cold white
-desk. **Page 002, Panels 3–7.** Status here is shown by *temperature*, not altitude.
+desk. **Page 002, Panels 3–7; Page 003, Panels 1–7.** Status here is shown by *temperature*, not
+altitude.
 
 - **The Knot & Nail** — Kessa's pawn stall. Cluttered to the rafters. The series' first shop and,
-  later, Ira's bank. See `characters/kessa.md`.
+  later, Ira's bank. See `characters/kessa.md`. **Page 002 Panels 3–7; Page 003 entire.**
+
+- **The Council Stair** (added Page 003) — the worn stair mouth where the basin meets the terraces
+  above. Grey daylight and falling ash pour down it; lantern-light dies going up. On Page 003 the
+  lanterns gutter **one by one toward the stair** as a Reckoner descends: the market's early-warning
+  system is a drop in temperature. Rule for the artist: anything official in this series enters the
+  Under-Market *through this stair and this stair only*, and the light always changes before they do.
 
 ---
 
 ## Places named but not yet shown (do not draw before they are established)
 
 - **The Mendery** — licensed workhouse where menders and debt-carriers are bound. Ira's mother was
-  bound here. Mentioned in Ira's character file; appears in a later chapter.
+  bound here. Mentioned in Ira's character file; appears in a later chapter. **Page 003 hard rule:
+  the stitch-memory panel must not show a Mendery cuff, uniform or insignia.**
 - **The Loom** — visible in the sky from everywhere. Not a location, a *structure*. Do not personify.
+- **The Ash Council Reckoning Office** (named Page 003) — up-terrace, clear air, no ash on the desks.
+  Where Rekhak's ledgers live and where the "two ledgers disagree" question gets answered. Appearances
+  reserved for a later chapter; until then it exists only as grey daylight at the top of the Council
+  Stair.
+- **Up-terrace, the buyer's room** (alluded Page 003) — "somebody up-terrace wants to meet the child
+  who owes nothing." Never shown, never named in Chapter 1. The crimson wax seal on Rekhak's ledger is
+  its only on-panel trace. See `characters/cast-page-003.md`.
 
 ---
 
@@ -47,3 +62,9 @@ desk. **Page 002, Panels 3–7.** Status here is shown by *temperature*, not alt
 3. The Spindle is **always white**. Never tint it; its purity is the point.
 4. No map of Agnikhand exists yet. When the reader needs one, commission it; do not improvise
    geography panel to panel.
+5. **Officials arrive cold.** Any Council presence in the Under-Market is announced by lanterns
+   guttering toward the Council Stair (Page 003, Panel 4) before the official is visible. Never let an
+   official appear in the market without that temperature drop first.
+6. **Thread keeps its home Sector's colour and law.** A Jalkhand-law debt on an Agnikhand body is
+   drowned teal (Page 003, Panel 5). Debt does not assimilate; it stays foreign. This is the visual
+   proof of the cross-Sector travel rule in `03-the-nine-sectors.md`.

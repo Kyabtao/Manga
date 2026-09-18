@@ -19,18 +19,21 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | Field | Value |
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
-| **Branch** | `arena/01a0b0af-manga` (the only branch we work on) |
+| **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **001** — *The Girl With No Thread* |
-| **Pages completed** | **001**, **002** |
-| **NEXT page to build** | **003** |
-| **Open PR** | [Kyabtao/Manga#1](https://github.com/Kyabtao/Manga/pull/1) (targets `main`) |
+| **Pages completed** | **001**, **002**, **003** |
+| **NEXT page to build** | **004** |
+| **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 001 · Page 003)
-Kessa's answer to *"who sewed you?"* — she does **not** name the sewer yet, but she explains what a
-stitch *is* (a mark that was closed before it could open — someone hid Ira's thread on purpose).
-Then, the first person comes **looking** for the "dry girl": an Ash Council debt-auditor, or a
-Crimson-Veil-adjacent broker, drawn by the anomaly of a child with zero debt. End on the auditor
-asking for Ira by name. Keep the sewer a locked box.
+### Next-page brief (Chapter 001 · Page 004)
+Ira speaks to an official for the **first time** in the series — short, practical, unimpressed.
+Rekhak delivers the errand as an *offer*: come up-terrace and meet the person who wants her, or the
+Council "corrects the ledger" and unregisters her entirely (legal erasure — worse than arrest, because
+an unregistered null has no rights at all). Kessa forbids her to go, then in the same breath sells her
+something that will help if she does — contradictory, and that is the point. End on Ira flipping the
+appraisal back onto the auditor with the one question Sight can't answer: *"What do you owe,
+Reckoner?"* — and let the hairline crack under his left eye tighten as the Loom hums through his
+answer. Keep the crimson buyer unnamed. Keep the sewer a locked box.
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -45,12 +48,15 @@ asking for Ira by name. Keep the sewer a locked box.
    (e.g. `chapters/chapter-001/story/page-002.md`).
 4. Build the **next page** using the Workflow below.
 5. **Update CURRENT POSITION** above (pages completed + next-page brief).
-6. Commit to `arena/01a0b0af-manga`, push, and open/refresh the PR (see Git rules).
+6. Commit to the session branch named in CURRENT POSITION, push, and open/refresh the PR (see Git rules).
 
 ### Git rules
-- Work only on `arena/01a0b0af-manga`. Commit, then `git push origin arena/01a0b0af-manga`.
-- One PR per branch: [PR #1](https://github.com/Kyabtao/Manga/pull/1). After pushing, the open PR
-  updates automatically — do **not** open a second PR from the same branch.
+- Work only on the branch named in **CURRENT POSITION** (each Arena session gets a fresh
+  `arena/…-manga` branch; update the field when it changes). Commit, then
+  `git push origin <that branch>`.
+- One PR per branch. A merged PR does not follow a new branch: when the session branch changes, open a
+  new PR from it (currently [PR #2](https://github.com/Kyabtao/Manga/pull/2); PR #1 is merged). After
+  pushing, the open PR updates automatically — do **not** open a second PR from the same branch.
 - If the local clone looks fresh (HEAD at "Initial commit", files untracked), that is expected in a
   new sandbox: `git add -A && git commit && git push` and the PR will pick everything up.
 
@@ -62,6 +68,10 @@ asking for Ira by name. Keep the sewer a locked box.
   reveals an old surgical **stitch** sewn across her empty palm.
 - **Page 002** — Kessa the Kshudra debt-appraiser reads Ira's palm: **zero debt**. Thesis lands:
   *"You're the only dry thing in the flood. That is not a defect. That is a price."* Hook: *"Who sewed you?"*
+- **Page 003** — Kessa explains what a stitch *is* (a door nailed shut before it could open — Ira's
+  thread was **hidden**, not missing) but never *who* sewed it. Then the market goes cold: **Rekhak
+  Vahni**, Ash Council Debt-Reckoner, descends the Council Stair hunting "a hole" in the ledger — the
+  girl the Court recorded but the Council never registered. Hook: he asks for **Ira Sutar** by name.
 
 ---
 
@@ -78,10 +88,11 @@ series-bible/            The canon. Read before writing anything.
 
 chapters/
   chapter-001/
-    story/     page-001.md / .hi.md, page-002.md / .hi.md   (scripts EN + Hindi)
-    characters/ ira-sutar.md, kessa.md, cast-page-001.md, cast-page-002.md, *-ref.png
+    story/     page-001..003 .md / .hi.md            (scripts EN + Hindi)
+    characters/ ira-sutar.md, kessa.md, rekhak-vahni.md,
+                cast-page-001..003.md, *-ref.png
     other/     locations.md, glossary.md
-    images/    page-001.png, page-002.png
+    images/    page-001.png, page-002.png, page-003.png
 ```
 
 Every chapter follows the same `story/ characters/ other/ images/` layout.
