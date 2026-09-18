@@ -57,6 +57,21 @@ terrace's sun light meet; keep both palettes in one frame but never blend them. 
 minute-chits; a minute-chit is the smallest record the Office keeps (smaller than a page, bigger than
 a word).
 
+## THE LIST-POST — सूची-खम्भा — the pot-post with nail-holes
+
+New in Chapter 2 Page 003: the pot-post at eye height where the blink census was nailed (Panel 1) and
+from which it was bought (Panel 4). After the sale the **nail-holes weep** — Guthli's hand goes to them
+in Panel 6. Continuity: the holes stay in the post for the rest of Chapter 2; whatever is nailed there
+next inherits the census's authority, so nothing may be nailed there casually.
+
+## THE COUNCIL STAIR — परिषद-सीढ़ी — daytime warning business
+
+Established Chapter 1 Page 003: at night the stair lanterns gutter one by one toward the stair before
+an official is visible. **Daytime variant, Chapter 2 Page 003:** no lanterns to gutter — the pot's steam
+bends toward the stair instead. Continuity rule: the market's early-warning is always environmental
+(light at night, steam by day), never a person's shout; and it fires for Council and crimson alike
+only when the basin is already afraid enough to watch.
+
 ## NOT YET SHOWN (reserved)
 - **The crimson-slip's origin room.** No interior, no hand, no face. The slip arrives sealed; the room
   it came from does not exist on panel until a much later arc (principal-through-paperwork rule).

@@ -21,25 +21,24 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **002 — *The Minute That Owes* / *वह मिनट जो ऋणी है*** — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**002** |
-| **NEXT page to build** | **Chapter 002 · Page 003** |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**003** |
+| **NEXT page to build** | **Chapter 002 · Page 004** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 002 · Page 003)
-The rumour gets a **census**: Guthli's pot-row starts keeping the list of who blinked — the rumour
-register growing its own paperwork ("four hundred" becomes names, and names can be sold). A **grey
-clerk** (Council wax, grey chit) comes down-terrace for the first time in the series and buys the list
-with Office coin: Council fear leaves the Office and enters the market. Hook, last panel: at the foot
-of the bought list, in no hand the market owns, one name was added and then crossed out in **crimson**,
-dry before the Council's coin was counted: *Ira Sutar* — the threadless girl who **could not** have
-blinked. The principal's paperwork counted her among the witnesses anyway, then corrected itself.
-Rules carried forward:
-chain-stop budget still unspent (spend late, on something smaller than the truth); the four notes stay
-silent and unmatched until Chapter 3; Kessa's shutters, day three — the slit may open once, no face;
-Lekh seated-or-leaving; rumour register (the list, who blinked) and truth register (one silent second)
-stay separate — the list records witnesses, never the event; the Loom never speaks; Kessa thinks in
-shutters only.
-
+### Next-page brief (Chapter 002 · Page 004)
+Up-terrace interior, first time inside the filing end of the Reckoning Office: the Grey Clerk files the
+bought census as a **count** (procedure wins: names are a count). **Lekh**, seated, receives it — and
+finds the crimson cross-out with **no initial**, which procedure cannot accept: every cross-out in the
+Office is initialled by the hand that made it. His choice is the page: file it broken, or flag it and
+trigger an audit of the audit. He files it broken and keeps the minute-chit — the first seed of the
+basin's trusted up-terrace face. Hook, last panel: next morning the cross-out **has** an initial —
+crimson, dry, in no clerk's hand in the Office: the record corrected itself overnight. Basin B-plot:
+the pot-row goes quiet *because* the list was sold — a rumour that belongs to the Council is a rumour
+nobody dares repeat; Ira back on her crate; Bhan background, sleeve down, working a double shift (the
+itch-less mark lets him — sabotage's kindness). Rules carried forward: chain-stop budget unspent; the
+four notes silent until Ch. 3; shutters day four, slit may open once, no face; rumour and truth
+registers separate (the sold census is now Council property — its suppression is the rumour register's
+new state); the Loom never speaks; the Grey Clerk gets no second scene this chapter.
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
@@ -136,6 +135,14 @@ shutters only.
   slit opens at head height, then is closed. Hook: Bhan, rolling his sleeve — *"It doesn't itch
   anymore."* Fray-adjacent marks always itch. Up-terrace, Rekhak walks to the re-review while Lekh
   files the chair-empty minute like a record; the chain-stop budget stays unspent.
+- **Ch. 002 · Page 003** — The rumour grows paperwork: the pot-row **blink census** (ink, charcoal, one
+  fingernail scratch, three Kshudra knots) is nailed to the list-post — witnesses only, never the event.
+  First Council fear enters the market: a **Grey Clerk** descends the Council Stair (daylight warning:
+  the pot's steam bends toward the stair) and buys the list with **new-struck Office coin** — minted
+  overnight; fear spending faster than procedure. Guthli: *"It's not ours anymore."* Hook, mid-stair: at
+  the list's foot, in no market hand, one name added then crossed out in **crimson, dry before the coin
+  was counted** — Ira Sutar, the threadless girl who could not have blinked. The principal's paperwork
+  counted her among the witnesses, then corrected itself; procedure re-rolls and quickens its step.
 
 ---
 
