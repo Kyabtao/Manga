@@ -114,6 +114,7 @@ figure.art figcaption{margin-top:10px; font-size:12.5px; color:var(--ash-dim)}
 .meta{color:var(--ash-dim); font-size:14px}
 .cta{display:flex; gap:12px; flex-wrap:wrap; margin:22px 0 8px}
 .homegrid{display:grid; grid-template-columns:minmax(0,1.4fr) minmax(0,1fr); gap:18px}
+.hometiles{display:grid; gap:18px; align-content:start}
 .homecol{display:grid; gap:12px; align-content:start}
 .box{display:block; background:var(--basalt2); border:1px solid var(--line); border-radius:12px;
   padding:14px 16px; color:var(--ash)}

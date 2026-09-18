@@ -20,21 +20,26 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b2c8-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **002** (untitled) — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) |
-| **NEXT page to build** | **Chapter 002 · Page 001** |
+| **Chapter in progress** | **002 — *The Minute That Owes* / *वह मिनट जो ऋणी है*** — Chapter 001 *The Girl With No Thread* is **COMPLETE** (10 pages, close-out in `chapters/chapter-001/chapter-summary.md`) |
+| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001** |
+| **NEXT page to build** | **Chapter 002 · Page 002** |
 | **Open PR** | [Kyabtao/Manga#2](https://github.com/Kyabtao/Manga/pull/2) (targets `main`; PR #1 is merged) |
 
-### Next-page brief (Chapter 002 · Page 001)
-The morning after: the basin wakes into rumour — every threaded soul felt **the silent second**, nobody
-will admit it; steam-pot gossip about the Spindle blinking; up-terrace, clerks re-stamp the night's
-records twice, which is how you know the Council is afraid. At the Knot & Nail, Ira pays the first
-instalment of the **mother-debt** unasked: one true thing — *"She hummed while she sewed."* Kessa writes
-nothing down (Kshudra remember) and shuts the stall early for the first time in four Unspoolings. Hook,
-up-terrace: Rekhak is summoned before his own office — the hour's audit has been called up for re-review,
-and the call-slip is sealed with **crimson wax**. The buyer has read his lie. Rules carried forward from
-`chapters/chapter-001/chapter-summary.md`: sewer locked, principal acts through paperwork and never in
-person, chain-stop budget for Chapter 2 is one (spend it late), and the knot-shape gets no owner.
+### Next-page brief (Chapter 002 · Page 002)
+Ban comes back down the stair with the fray-adjacent mark on his forearm **torn again** — same tear,
+same hour of work undone, and he is not angry, which is worse. Ira takes the mend at the Knot & Nail
+doorstep in daylight: the mend takes **half** the time it should, because the fold in her palm is
+*lending through the needle, unasked* — her first power bleed, and it feels like kindness. No debt is
+created (nothing was pulled), so no debt-mark appears; the only evidence is the work itself: the mended
+seam carries a faint **whorl-grain**, the knot-shape's fingerprint in her stitching (guard: the
+knot-shape gets no owner on panel — the whorl is texture, not a reveal). Hook line, Ban rolling his
+sleeve down: *"It doesn't itch anymore."* — fray-adjacent marks **always** itch. Meanwhile the crimson
+call-slip's hour arrives off-panel: Rekhak leaves the Office walking, and Lekh files the chair-empty
+minute like a record. Rules carried forward from `chapters/chapter-001/chapter-summary.md`: chain-stop
+budget for Chapter 2 is **one**, spend it late and on something smaller than the truth (not before
+Page 006); rumour register ("four hundred blinked") and truth register (one silent second) stay
+separate; the four notes must not match anything audible before Chapter 3; the Loom never speaks;
+Kessa's thinking is shown through shutters, never interiority.
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -110,6 +115,19 @@ person, chain-stop budget for Chapter 2 is one (spend it late), and the knot-sha
   Nail, Kessa opens the lockbox: forty years of shadowless cut-end, never asked what it was cut from —
   and its end-knot is the same uncanny whorl as the sixty-first. The hum ends one note lower.
   **END OF CHAPTER ONE.**
+
+**CHAPTER 002 — THE MINUTE THAT OWES (वह मिनट जो ऋणी है)**
+
+- **Ch. 002 · Page 001** — The morning after, three rooms at once: basin gossip turns the silent second
+  into a story (*"four hundred of us blinked together"* — the rumour register, kept separate from the
+  truth register); up-terrace, every clerk re-stamps last night's records twice, two seals on one page,
+  because Council fear *files*. At the Knot & Nail, Ira pays the mother-debt's first instalment
+  **early and unasked**: four off-key notes, never words — and Kessa, who keeps no ink, stores them in
+  the only ledger she trusts (thumb-rub on the tally-thread) and shuts the stall before noon for the
+  first time in four Unspoolings. Hook, up-terrace: Lekh delivers a call-slip to Rekhak's bare desk —
+  the hour's audit summoned for re-review — sealed in **crimson wax**: *the Council's wax is grey; this
+  slip was not sealed by the Council.* Chain still running at the seal; Chapter 2's one-stop budget
+  untouched.
 
 ---
 

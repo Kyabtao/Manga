@@ -248,6 +248,19 @@ def write(site_rel, html):
     print("  wrote", site_rel)
 
 # --------------------------------------------------------------------------- pages
+def chapter_title(ch):
+    f = os.path.join(ROOT, "chapters", ch, "story", "page-001.md")
+    if not os.path.exists(f):
+        return "Untitled"
+    m = re.search(r"\*\*Chapter title:\*\* \*([^*]+)\*", open(f, encoding="utf-8").read())
+    return m.group(1).strip() if m else "Untitled"
+
+def chapter_status(ch):
+    return "complete" if os.path.exists(os.path.join(ROOT, "chapters", ch, "chapter-summary.md")) else "in progress"
+
+def pages_word(n):
+    return "1 page" if n == 1 else "%d pages" % n
+
 def pages_of(ch):
     ens = sorted(posixpath.basename(f)[:-3] for f in
                  glob.glob(os.path.join(ROOT, "chapters", ch, "story", "page-*.md"))
@@ -292,6 +305,19 @@ def build_reader(ch):
                         sidebar=reader_sidebar(ch, pg + suffix), lang=lang,
                         crumb='<a href="../../index.html">Home</a> / <a href="../index.html">Read</a> / <a href="index.html">Chapter %s</a> / Page %s%s' % (chnum, num, " · हिन्दी" if suffix else ""))
             write(site_rel, html)
+    # per-page cast lists
+    for f in sorted(glob.glob(os.path.join(ROOT, "chapters", ch, "characters", "cast-page-*.md"))):
+        base = posixpath.basename(f)[:-3]
+        src = "chapters/%s/characters/%s.md" % (ch, base)
+        site_rel = SRC2SITE[src]
+        num = base.split("-")[2]
+        html = page("Ch.%s Page %s — Cast" % (chnum, num), site_rel,
+                    render_md(src, site_rel),
+                    sidebar=reader_sidebar(ch, ""),
+                    crumb='<a href="../../index.html">Home</a> / <a href="../index.html">Read</a> / '
+                          '<a href="index.html">Chapter %s</a> / <a href="page-%s.html">Page %s</a> / Cast'
+                          % (chnum, num, num))
+        write(site_rel, html)
     # chapter cover
     site_rel = "read/%s/index.html" % ch
     grid = "".join(
@@ -302,9 +328,10 @@ def build_reader(ch):
     summary = render_md("chapters/%s/chapter-summary.md" % ch, site_rel) if os.path.exists(
         os.path.join(ROOT, "chapters/%s/chapter-summary.md" % ch)) else ""
     html = page("Chapter %s" % chnum, site_rel,
-                '<h1>Chapter %s — <em>The Girl With No Thread</em></h1>'
-                '<p class="lede">Arc I — The Unspooling · Agnikhand · 10 pages · English + Hindi. '
-                'Pick a page, or read straight through.</p><div class="grid">%s</div>%s' % (chnum, grid, summary),
+                '<h1>Chapter %s — <em>%s</em></h1>'
+                '<p class="lede">Arc I — The Unspooling · Agnikhand · %s · %s · English + Hindi. '
+                'Pick a page, or read straight through.</p><div class="grid">%s</div>%s' % (
+                    chnum, chapter_title(ch), pages_word(len(pgs)), chapter_status(ch), grid, summary),
                 crumb='<a href="../../index.html">Home</a> / <a href="../index.html">Read</a> / Chapter %s' % chnum)
     write(site_rel, html)
 
@@ -353,6 +380,19 @@ def build_docs():
                     crumb='<a href="index.html">Home</a>')
         write(site_rel, html)
 
+def home_tiles():
+    out = []
+    for c in CHAPTERS:
+        if not pages_of(c):
+            continue
+        out.append('<a class="tile big" href="read/%s/index.html">'
+                   '<img src="%s" loading="lazy" alt="Chapter %s cover art">'
+                   '<b>Chapter %s — %s</b><span>%s · %s</span></a>' % (
+                       c, posixpath.relpath("../chapters/%s/images/page-001.png" % c, "."),
+                       c.split("-")[1], c.split("-")[1], chapter_title(c),
+                       pages_word(len(pages_of(c))), chapter_status(c)))
+    return "".join(out)
+
 def build_home_and_index():
     ch = CHAPTERS[0]
     pgs = pages_of(ch)
@@ -366,19 +406,18 @@ def build_home_and_index():
         '<div class="cta"><a class="btn next" href="read/%s/page-001.html">Start reading — Page 001</a>'
         '<a class="btn" href="read/%s/index.html">Chapter 1 cover</a>'
         '<a class="btn" href="bible/00-overview.html">Series bible</a></div></section>'
-        '<section class="homegrid"><a class="tile big" href="read/%s/index.html">'
-        '<img src="%s" loading="lazy" alt="Chapter 1 cover art"><b>Chapter 001 — The Girl With No Thread</b>'
-        '<span>10 pages · complete</span></a>'
+        '<section class="homegrid"><div class="hometiles">%s</div>'
         '<div class="homecol">'
         '<a class="box" href="characters/index.html"><b>Cast</b><span>Sheets, refs &amp; card-game lines</span></a>'
         '<a class="box" href="world/glossary.html"><b>Glossary</b><span>Every term, Devanagari included</span></a>'
         '<a class="box" href="world/locations.html"><b>Locations</b><span>Agnikhand, stair to terraces</span></a>'
         '<a class="box" href="legacy.html"><b>Ringbound-era analysis</b><span>Why the old site was scrapped</span></a>'
-        '</div></section>' % (len(pgs), ch, ch, ch, posixpath.relpath("../chapters/%s/images/page-001.png" % ch, ".")))
+        '</div></section>' % (len(pgs), ch, ch, home_tiles()))
     write("index.html", html)
     rows = "".join(
-        '<a class="row" href="%s/index.html"><b>Chapter %s</b><span>The Girl With No Thread · %d pages · '
-        'complete</span><i>→</i></a>' % (c, c.split("-")[1], len(pages_of(c))) for c in CHAPTERS if pages_of(c))
+        '<a class="row" href="%s/index.html"><b>Chapter %s</b><span>%s · %s · %s</span><i>→</i></a>'
+        % (c, c.split("-")[1], chapter_title(c), pages_word(len(pages_of(c))), chapter_status(c))
+        for c in CHAPTERS if pages_of(c))
     html = page("Read", "read/index.html",
                 '<h1>Read</h1><p class="lede">Chapter by chapter, page by page. Every page exists in '
                 'English and Hindi; the art carries no lettering by design.</p>%s' % rows,
