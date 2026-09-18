@@ -1,0 +1,89 @@
+# THREADBORN — Chapter 05 — Page 010 — FINALE
+
+**Chapter title:** *The First Pull* / *पहला खिंचाव*
+**Arc:** I — The Unspooling
+**Sector:** Agnikhand — Ashfall Basin, the Mendery's back door (night)
+**Page type:** Chapter finale — 7 panels
+
+> Beats: Page 009 — the departure, Kessa's knot, the ash-slums, the Mendery's back door.
+>
+> **Chapter 005 budget closed.** Chain-stop: spent in Ch. 003. Four notes: matched *wrongly* in
+> Ch. 003. Sewer: still unnamed. The Loom never speaks.
+
+---
+
+## PANEL 1 — Wide, the back door (~14%)
+Night, the Mendery's back door: Ira stands before it, key in hand. The door is basalt, old,
+unmarked. No lock visible — the keyhole is hidden in the stone. Ira's palm glows faintly in
+the dark.
+
+> **CAPTION (none spoken):**
+> The back door. The key. The mark. The girl.
+
+## PANEL 2 — Medium, the key in the lock (~13%)
+Ira's hand: the key finds the hidden keyhole. The lock turns — Kshudra-made, the same craft
+as Kessa's lockbox. The door opens inward, silent.
+
+> **SFX:** *tk* (lock turning)
+
+## PANEL 3 — Close, the interior (~14%)
+The Mendery's interior: dark, narrow, walls lined with shelves — not shelves of thread, but
+shelves of *records*. Files. Ledgers. The Mendery's debt-carrier archive. Dust and ash on every
+surface. No one has been here in years.
+
+> **CAPTION:** The Mendery's back room. Not a workhouse. An archive. Every debt-carrier ever bound.
+> Every thread ever braided. Every file the Council never wanted to read.
+
+## PANEL 4 — Macro, the file (~13%)
+Ira's hand on the shelves: she finds it — not by searching, but by *feeling*. The braided
+thread in her mark reaches toward one file, the way it reached toward the chain and the key.
+The file is labelled in grey ink: *SUTAR, M. — Braid-carrier, projection type, Mendery bound.*
+
+> **CAPTION:** The thread finds the file. The way it found the chain. The way it found the key.
+> The braid remembers where it came from.
+
+## PANEL 5 — Medium, the file opens (~14%)
+Ira opens the file. Inside: one page, grey ink, official columns. Name. Kind. Thread. Debt.
+And at the foot, in crimson — the same crimson as the principal's paperwork — one line:
+*Braid-carrier. Projection type. Sewn shut.*
+
+> **CAPTION (Ira's voice, smallest):**
+> *Sewn shut.* The same words. The same crimson. The principal's paperwork is in the Mendery
+> file.
+
+## PANEL 6 — Wide, the archive (~13%)
+Ira in the archive, file in hand, mark glowing faintly. The shelves stretch into the dark.
+Hundreds of files. Hundreds of debt-carriers. Her mother's file is one of many — but the
+crimson line is unique.
+
+> **CAPTION:** Hundreds of files. One crimson line. The principal's paperwork reached into the
+> Mendery before Ira was born.
+
+## PANEL 7 — Macro, the page — FINAL HOOK (~19%)
+The file's page, in Ira's hands: the crimson line at the foot. *Sewn shut.* Beside it, in
+the same crimson hand, one more line — added later, in a different year, the ink slightly
+fresher: *The braid will open. The thread will pull. The girl will come.*
+
+> **CAPTION (none spoken):**
+> The principal's paperwork predicted her. Before she was sewn. Before she was hidden. Before
+> the stitch, the box, the cutter, the confession.
+>
+> **CAPTION (smaller):**
+> The principal knew she would come to the Mendery. The principal wrote it in crimson. In her
+> mother's file. Fifteen years ago.
+>
+> **CAPTION (last line):**
+> *The girl will come.*
+>
+> **END OF CHAPTER FIVE.**
+
+---
+
+## Card-game hooks
+| Beat | Card |
+|---|---|
+| The Mendery archive | Location — *The Archive* |
+| The file finds itself | Power — *Thread Memory* |
+| "Sewn shut." | Lore — *The Mother's File* |
+| "The girl will come." | Lore — *The Principal's Prediction* |
+| Crimson in the Mendery | Lore — *The Paperwork Reaches* |

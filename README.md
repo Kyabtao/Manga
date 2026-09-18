@@ -20,10 +20,10 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **003 — *The Hand That Opens* / *वह हाथ जो खोलता है*** — Chapters 001–002 **COMPLETE** (close-outs in each chapter's `chapter-summary.md`) |
-| **Pages completed** | Ch. 001: **001**–**010** (complete) · Ch. 002: **001**–**010** (complete) · Ch. 003: **001** |
-| **NEXT page to build** | **Chapter 003 · Page 002** |
-| **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) (targets `main`; PR #2 is merged) |
+| **Chapter in progress** | **Chapters 001–005 COMPLETE** — Arc I — The Unspooling |
+| **Pages completed** | Ch. 001: **001**–**010** · Ch. 002: **001**–**010** · Ch. 003: **001**–**010** · Ch. 004: **001**–**010** · Ch. 005: **001**–**010** |
+| **NEXT page to build** | **Chapter 006 · Page 001** (Arc II setup — Ira enters the Mendery) |
+| **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) (targets `main`) |
 
 ### Next-page brief (Chapter 003 · Page 002)
 The posting order's consequence: Kessa is now the custodian of the blink census — the pot-row's list
@@ -171,16 +171,16 @@ unnamed; chain-stop budget unspent.
 
 **CHAPTER 003 — THE HAND THAT OPENs (वह हाथ जो खोलता है)**
 
-- **Ch. 003 · Page 001** — Morning of the letter at the reopened Knot & Nail: Kessa opens the lockbox
-  in daylight for the first time in the series — the **shadowless cut-end** on the counter — and lays
-  Ira's charcoal rubbing of Bhan's turn-backs beside it. The turn-backs match in *school*, not in age:
-  the cut-end's are **forty years older** than Ira's stitch. The reversal: *"Child, your stitch didn't
-  teach the cutter. The cutter taught your stitch."* — sewer and cutter share a hand-school, and Ira's
-  palm is its diploma. Hook: the folded grey+crimson letter, opened on panel at last — its contents are
-  not a demand but a **posting order** transferring custody of the blink census to the Knot & Nail; both
-  sides have agreed to file in Kessa's lockbox, and Kessa was not asked.
+- **Ch. 003 · Page 001** — Morning of the letter: Kessa opens the lockbox in daylight, the shadowless cut-end on the counter. The reversal: the cutter taught Ira's stitch. The folded letter is a posting order transferring the blink census to the Knot & Nail. Kessa was not asked.
+- **Ch. 003 · Pages 002–010** — Rekhak files the census transfer (Kessa refuses to sign). Ira investigates Bhan's nightly openings (ash-grey thread, same gauge). The supply line: one person, forty years. The four notes match *wrongly* through Rekhak's chain. Ira reads the oath-link; Rekhak confesses: "I saw what you are. I lied to protect it." Chain-stop spent. The lockbox grows to seven objects. The stitch moves. Fifth thread at the Council Stair foot. **END OF CHAPTER THREE.**
 
----
+**CHAPTER 004 — THE WEIGHT OF THREAD (धागे का बोझ)**
+
+- **Ch. 004 · Pages 001–010** — The cutter demonstrates: Ira's stitch reproduced on Bhan's arm. The cutter finishes the lesson, seals the arm permanently, leaves a child's first knot as payment. The stitch opens loop by loop — the old thread unwinds cleanly. The Sutra-mark is visible for the first time: projection type, dormant, braided (two strands: Ira's and the sewer's). The braid leaks into Ira's mending thread. The mark flickers. Seven objects in the lockbox. **END OF CHAPTER FOUR.**
+
+**CHAPTER 005 — THE FIRST PULL (पहला खिंचाव)**
+
+- **Ch. 005 · Pages 001–010** — The Spindle brightens for the second time. Ira's mark opens: braided thread emerges — ash-grey and shadowless, given not borrowed. The blank strand has no Sector, no Kind, no debt. Rekhak Sight-reads the mark ("Older than the current Loom-turn"). Ira mends debtlessly with the braided thread. The Office files the first grey-ink record of her thread. An Inspector recognizes: "Like the Mendery records." The posting order references a Mendery file. Kessa gives Ira a key to the Mendery's back door — her mother's key. Ira enters the archive: hundreds of files. Her mother's file carries crimson: "Sewn shut." And a second line, added later: "The braid will open. The thread will pull. The girl will come." The principal predicted her. **END OF CHAPTER FIVE.**
 
 # 🗂️ STRUCTURE
 

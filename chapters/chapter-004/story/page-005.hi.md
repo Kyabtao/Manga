@@ -1,0 +1,75 @@
+# THREADBORN — Chapter 04 — Page 005
+
+**अध्याय शीर्षक:** *The Weight of Thread* / *धागे का बोझ*
+**खंड:** I — अनुकुलन
+**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (dawn)
+**पृष्ठ प्रकार:** The gift — 7 panels, hook at bottom
+
+> Beats: Page 004 — the stitch breathes, the counter answered the box.
+
+---
+
+## चित्र-खाना 1 — Wide, dawn discovery (~14%)
+Dawn, Knot & Nail: Kessa opens the stall to find a sixth piece of thread on the counter —
+ash-grey, same gauge, same colour. Beside it, a knot: the same uncanny whorl as the sixty-first
+knot from Chapter 1, and as the cut-end's end-knot.
+
+> **केसा (संवाद, dry):** वही धागा। वही गाँठ। छठा टुकड़ा।
+
+## चित्र-खाना 2 — Macro, the whorl-knot (~13%)
+The whorl-knot extreme close: identical to the sixty-first knot (Ch. 001 Page 009), identical
+to the cut-end's end-knot (Ch. 001 Page 010), identical to the whorl-grain in Ira's finished
+seams (Ch. 002 Page 002). The same fingerprint, repeated across every piece of evidence.
+
+> **CAPTION:** The same whorl. In every knot. In every thread. In every piece of evidence the box
+> has held. One hand. One signature. Forty years.
+
+## चित्र-खाना 3 — Medium, the lockbox grows (~14%)
+Kessa adds the sixth thread to the box: five objects now — cut-end, census, posting order,
+gift-thread, and now this. Her hands are steady. Her tally-thread has six new knots this chapter.
+
+> **KESSA:** Five objects. All the same thread. All the same knot.
+
+## चित्र-खाना 4 — Close, Ira's understanding (~13%)
+Ira across the counter, face level with Kessa's. The implication: every piece of thread in the
+box was made by the same hand that sewed her palm. The supply line is not a network — it is one
+person, operating across forty years.
+
+> **इरा (संवाद, flat):** One person. Forty years. The same thread.
+>
+> **KESSA (dialogue):** That's not a supply line, child. That's a *life's work*.
+
+## चित्र-खाना 5 — Wide, the basin day (~13%)
+The basin works. The Knot & Nail is open. The filing queue is gone — the coin on the slate has
+done its work. The market trusts Kessa's lock and fears the Council's request in equal measure.
+
+> **CAPTION:** The basin's fear has two addresses now: the Council Stair and the Knot & Nail. One
+> takes. One keeps.
+
+## चित्र-खाना 6 — Medium, Lekh passes (~13%)
+Through the market: **Lekh**, the young clerk from the visitors' rail, walking the row on an
+errand. He passes the Knot & Nail, sees the counter, sees the lockbox. His cuff-chit is hidden
+in his sleeve. He does not stop. He files the image in the only true record.
+
+> **CAPTION:** Lekh walks. Lekh files. The cuff grows.
+
+## चित्र-खाना 7 — Macro, the stitch — HOOK (~19%)
+Ira's palm, evening lamplight: the stitch has moved again. One loop is now visibly looser than
+the rest. The stitch is *opening*, slowly, loop by loop, the way a knot unties when the rope it's
+tied to is pulled from the other end.
+
+> **ध्वनि:** (tiny) *—*
+>
+> **CAPTION:** The stitch that held for fifteen years is untying itself. Not all at once. Loop
+> by loop. The way a mender's knot releases when the thread it's tied to remembers it was
+> borrowed.
+
+---
+
+## कार्ड-गेम हुक
+| Beat | Card |
+|---|---|
+| The whorl-signature | Lore — *One Hand, Forty Years* |
+| "A life's work." | Lore — *The Single Hand* |
+| Lekh files the box | Event — *The Cuff Grows* |
+| The stitch unties | Power — *Loop by Loop* |
