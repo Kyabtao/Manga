@@ -1,75 +1,96 @@
-# THREADBORN — Chapter 04 — Page 005
+# सुत्रजात (THREADBORN) — अध्याय ०४ — पृष्ठ ००५
 
-**अध्याय शीर्षक:** *The Weight of Thread* / *धागे का बोझ*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (dawn)
-**पृष्ठ प्रकार:** The gift — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *धागे का बोझ*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (भोर)
+**पृष्ठ प्रकार:** तोहफ़ा — ७ पैनल, अन्त में हुक
 
-> Beats: Page 004 — the stitch breathes, the counter answered the box.
+> English source: [`page-005.md`](page-005.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००४ — सिलाई साँस लेती है, काउंटर ने बक्से को जवाब दिया।
 
 ---
 
-## चित्र-खाना 1 — Wide, dawn discovery (~14%)
-Dawn, Knot & Nail: Kessa opens the stall to find a sixth piece of thread on the counter —
-ash-grey, same gauge, same colour. Beside it, a knot: the same uncanny whorl as the sixty-first
-knot from Chapter 1, and as the cut-end's end-knot.
+## पैनल १ — व्यापक, भोर की खोज (~१४%)
 
-> **केसा (संवाद, dry):** वही धागा। वही गाँठ। छठा टुकड़ा।
+भोर, गाँठ और कील: केसा ठेला खोलती है तो काउंटर पर धागे का छठा टुकड़ा मिलता है — राख-धूसर, वही माप,
+वही रंग। उसके बगल में एक गाँठ: वही अलौकिक चक्र जो अध्याय ००१ की इकसठवीं गाँठ थी, और जो कट-सिरे की
+अन्त-गाँठ है।
 
-## चित्र-खाना 2 — Macro, the whorl-knot (~13%)
-The whorl-knot extreme close: identical to the sixty-first knot (Ch. 001 Page 009), identical
-to the cut-end's end-knot (Ch. 001 Page 010), identical to the whorl-grain in Ira's finished
-seams (Ch. 002 Page 002). The same fingerprint, repeated across every piece of evidence.
+> **केसा (संवाद, सूखा):** वही धागा। वही गाँठ। छठा टुकड़ा।
 
-> **CAPTION:** The same whorl. In every knot. In every thread. In every piece of evidence the box
-> has held. One hand. One signature. Forty years.
+---
 
-## चित्र-खाना 3 — Medium, the lockbox grows (~14%)
-Kessa adds the sixth thread to the box: five objects now — cut-end, census, posting order,
-gift-thread, and now this. Her hands are steady. Her tally-thread has six new knots this chapter.
+## पैनल २ — मैक्रो, चक्र-गाँठ (~१३%)
 
-> **KESSA:** Five objects. All the same thread. All the same knot.
+चक्र-गाँठ का बहुत पास से: इकसठवीं गाँठ जैसी (अध्याय ००१ पृष्ठ ००९), कट-सिरे की अन्त-गाँठ जैसी
+(अध्याय ००१ पृष्ठ ०१०), इरा की पूरी सीवनों में चक्र-दाने जैसी (अध्याय ००२ पृष्ठ ००२)। वही
+उँगली-छाप, सबूत के हर टुकड़े पर दोहराई हुई।
 
-## चित्र-खाना 4 — Close, Ira's understanding (~13%)
-Ira across the counter, face level with Kessa's. The implication: every piece of thread in the
-box was made by the same hand that sewed her palm. The supply line is not a network — it is one
-person, operating across forty years.
+> **कैप्शन:** वही चक्र। हर गाँठ में। हर धागे में। बक्से के रखे हर सबूत में। एक हाथ। एक हस्ताक्षर।
+> चालीस साल।
 
-> **इरा (संवाद, flat):** One person. Forty years. The same thread.
+---
+
+## पैनल ३ — मध्यम, ताला-बक्सा बढ़ता है (~१४%)
+
+केसा बक्से में छठा धागा जोड़ती है: अब पाँच चीज़ें — कट-सिरा, गणना, स्थानांतरण-आदेश, तोहफ़ा-धागा, और
+अब यह। उसके हाथ स्थिर हैं। इस अध्याय में उसकी गिनती-डोर में छह नई गाँठें हैं।
+
+> **केसा:** पाँच चीज़ें। सब वही धागा। सब वही गाँठ।
+
+---
+
+## पैनल ४ — क्लोज़, इरा की समझ (~१३%)
+
+काउंटर के आर-पार इरा, चेहरा केसा के चेहरे के बराबर। निहितार्थ: बक्से का हर धागा उसी हाथ से बना है
+जिसने उसकी हथेली सीई थी। आपूर्ति-मार्ग कोई जाल नहीं है — यह एक व्यक्ति है, जो चालीस साल से काम कर रहा है।
+
+> **इरा (संवाद, सपाट):** एक व्यक्ति। चालीस साल। वही धागा।
 >
-> **KESSA (dialogue):** That's not a supply line, child. That's a *life's work*.
+> **केसा (संवाद):** यह आपूर्ति-मार्ग नहीं है, बच्ची। यह एक *उम्र भर का काम* है।
 
-## चित्र-खाना 5 — Wide, the basin day (~13%)
-The basin works. The Knot & Nail is open. The filing queue is gone — the coin on the slate has
-done its work. The market trusts Kessa's lock and fears the Council's request in equal measure.
+---
 
-> **CAPTION:** The basin's fear has two addresses now: the Council Stair and the Knot & Nail. One
-> takes. One keeps.
+## पैनल ५ — व्यापक, गर्त का दिन (~१३%)
 
-## चित्र-खाना 6 — Medium, Lekh passes (~13%)
-Through the market: **Lekh**, the young clerk from the visitors' rail, walking the row on an
-errand. He passes the Knot & Nail, sees the counter, sees the lockbox. His cuff-chit is hidden
-in his sleeve. He does not stop. He files the image in the only true record.
+गर्त काम कर रहा है। गाँठ और कील खुली है। दाख़िला-कतार गई — पट्ट पर पड़े सिक्के ने अपना काम कर दिया।
+बाज़ार केसा के ताले पर उतना ही भरोसा करता है जितना परिषद के अनुरोध से डरता है।
 
-> **CAPTION:** Lekh walks. Lekh files. The cuff grows.
+> **कैप्शन:** गर्त के डर के अब दो पते हैं: परिषद-सीढ़ी और गाँठ और कील। एक लेती है। एक रखती है।
 
-## चित्र-खाना 7 — Macro, the stitch — HOOK (~19%)
-Ira's palm, evening lamplight: the stitch has moved again. One loop is now visibly looser than
-the rest. The stitch is *opening*, slowly, loop by loop, the way a knot unties when the rope it's
-tied to is pulled from the other end.
+---
 
-> **ध्वनि:** (tiny) *—*
+## पैनल ६ — मध्यम, लेख गुज़रता है (~१३%)
+
+बाज़ार से: **लेख**, आगंतुक-रेलिंग का वह युवा लिपिक, किसी काम से कतार में चलता हुआ। वह गाँठ और कील के
+पास से गुज़रता है, काउंटर देखता है, ताला-बक्सा देखता है। उसकी कफ़-चिट उसकी आस्तीन में छिपी है। वह रुकता
+नहीं। वह उस दृश्य को अकेले सच्चे अभिलेख में दर्ज कर देता है।
+
+> **कैप्शन:** लेख चलता है। लेख दाख़िल करता है। कफ़ बढ़ती है।
+
+---
+
+## पैनल ७ — मैक्रो, सिलाई — हुक (~१९%)
+
+इरा की हथेली, शाम की लालटेन के प्रकाश में: सिलाई फिर हिली है। एक फंदा अब बाक़ी सबसे स्पष्ट रूप से
+ढीला है। सिलाई *खुल* रही है, धीरे-धीरे, फंदा दर फंदा, वैसे जैसे कोई गाँठ खुलती है जब जिस रस्सी पर वह
+बँधी है, उसे दूसरे सिरे से खींचा जाए।
+
+> **ध्वनि:** (सूक्ष्म) *—*
 >
-> **CAPTION:** The stitch that held for fifteen years is untying itself. Not all at once. Loop
-> by loop. The way a mender's knot releases when the thread it's tied to remembers it was
-> borrowed.
+> **कैप्शन:** वह सिलाई जो पन्द्रह साल से टिकी थी, ख़ुद को खोल रही है। एक साथ नहीं। फंदा दर फंदा।
+> वैसे जैसे सिलाईकर्ता की गाँठ छूटती है जब जिस धागे पर वह बँधी है, उसे याद आता है कि वह उधार था।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The whorl-signature | Lore — *One Hand, Forty Years* |
-| "A life's work." | Lore — *The Single Hand* |
-| Lekh files the box | Event — *The Cuff Grows* |
-| The stitch unties | Power — *Loop by Loop* |
+| चक्र-हस्ताक्षर | लोर — *एक हाथ, चालीस साल* |
+| "उम्र भर का काम।" | लोर — *वह अकेला हाथ* |
+| लेख बक्सा दर्ज करता है | इवेंट — *कफ़ बढ़ती है* |
+| सिलाई खुलती है | पावर — *फंदा दर फंदा* |

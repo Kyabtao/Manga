@@ -1,75 +1,96 @@
-# THREADBORN — Chapter 04 — Page 009
+# सुत्रजात (THREADBORN) — अध्याय ०४ — पृष्ठ ००९
 
-**अध्याय शीर्षक:** *The Weight of Thread* / *धागे का बोझ*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (evening)
-**पृष्ठ प्रकार:** The mark reads — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *धागे का बोझ*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (शाम)
+**पृष्ठ प्रकार:** चिह्न पढ़ा जाता है — ७ पैनल, अन्त में हुक
 
-> Beats: Page 008 — the stitch opened, the mark is visible, the thread is in Ira's hand.
+> English source: [`page-009.md`](page-009.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००८ — सिलाई खुल गई, चिह्न दिखता है, धागा इरा के हाथ में है।
 
 ---
 
-## चित्र-खाना 1 — Wide, the evening stall (~14%)
-Evening, Knot & Nail: the lockbox is closed. Ira's palm is open on the counter, the Sutra-mark
-visible. Kessa's loupe is down, reading the mark the way she has read a thousand others — but
-this one she has never seen before.
+## पैनल १ — व्यापक, शाम का ठेला (~१४%)
 
-> **केसा (संवाद, slow):** Projection mark. Palm. Closed. Dormant.
+शाम, गाँठ और कील: ताला-बक्सा बन्द है। इरा की हथेली काउंटर पर खुली है, सूत्र-चिह्न दिखता हुआ। केसा का
+लूप नीचे है, चिह्न को वैसे पढ़ते हुए जैसे उसने हज़ार और पढ़े हैं — पर यह वाला उसने पहले कभी नहीं देखा।
 
-## चित्र-खाना 2 — Macro, the mark (~13%)
-The mark extreme close: a fine dark pattern in the skin, dormant — not dead. The mark is closed
-the way a bud is closed: waiting for the right season. The stitch was the winter; the opening is
-the spring.
+> **केसा (संवाद, धीमा):** प्रक्षेपण-चिह्न। हथेली। बन्द। सुप्त।
 
-> **CAPTION:** The mark is not dead. It is dormant. It has been dormant since the day it was sewn
-> shut.
+---
 
-## चित्र-खाना 3 — Medium, Kessa's reading (~14%)
-Kessa's loupe on the mark: she reads the thread-pattern inside the closed mark. What she sees
-makes her hands stop.
+## पैनल २ — मैक्रो, चिह्न (~१३%)
 
-> **केसा (संवाद, quiet):** The thread inside is braided.
+चिह्न बहुत पास से: त्वचा में एक बारीक गहरा नमूना, सुप्त — मृत नहीं। चिह्न वैसे बन्द है जैसे कली बन्द
+होती है: सही मौसम की प्रतीक्षा में। सिलाई सर्दी थी; खुलना वसंत है।
+
+> **कैप्शन:** चिह्न मरा हुआ नहीं है। वह सुप्त है। वह उस दिन से सुप्त है जिस दिन उसे सी कर बन्द किया गया।
+
+---
+
+## पैनल ३ — मध्यम, केसा की पढ़ाई (~१४%)
+
+चिह्न पर केसा का लूप: वह बन्द चिह्न के भीतर का धागा-नमूना पढ़ती है। जो वह देखती है, उससे उसके हाथ
+रुक जाते हैं।
+
+> **केसा (संवाद, धीमा):** भीतर का धागा बुना हुआ है।
 >
-> **केसा (संवाद, quieter):** Two strands. One is yours. One is not.
+> **केसा (संवाद, और धीमा):** दो तंतु। एक तुम्हारा। एक नहीं।
 
-## चित्र-खाना 4 — Close, the implication (~13%)
-Ira's face: braided thread means Manavkin — humankin. Mixed blood. The mark carries two strands,
-one of which was sewn into her palm before she could speak. The second strand is the sewer's.
+---
 
-> **इरा (संवाद, flat):** The sewer braided their thread into my mark.
+## पैनल ४ — क्लोज़, निहितार्थ (~१३%)
+
+इरा का चेहरा: बुना हुआ धागा मतलब मानवकिण — मिश्रित रक्त। चिह्न दो तंतु ढोता है, जिनमें से एक उसकी
+हथेली में तब सीया गया था जब वह बोल भी नहीं सकती थी। दूसरा तंतु सीवर का है।
+
+> **इरा (संवाद, सपाट):** सीवर ने अपना धागा मेरे चिह्न में बुन दिया।
 >
-> **KESSA (dialogue):** Before you could speak. Before you could choose.
+> **केसा (संवाद):** इससे पहले कि तुम बोल सको। इससे पहले कि तुम चुन सको।
 
-## चित्र-खाना 5 — Medium, the weight (~13%)
-Ira's hand closes over the mark — the gesture from Chapter 1, covering the stitch. Except now
-the stitch is gone and the mark is beneath. The same gesture, the same hand, different knowledge.
+---
 
-> **शीर्षक (Ira's voice, small):** The stitch is gone. The mark is here. The thread that held me
-> shut is the same thread braided into what I am.
+## पैनल ५ — मध्यम, बोझ (~१३%)
 
-## चित्र-खाना 6 — Wide, the lockbox at night (~14%)
-Night: the lockbox on the counter, Kessa's hand on the lid. Seven objects inside now: cut-end,
-census, posting order, gift-thread, sixth thread, seventh thread (child's knot), and the
-sewer's thread — the one that just came out of Ira's palm.
+इरा का हाथ चिह्न पर बन्द हो जाता है — अध्याय ००१ का वह इशारा, सिलाई को ढँकना। बस अब सिलाई गई है और
+उसके नीचे चिह्न है। वही इशारा, वही हाथ, अलग ज्ञान।
 
-> **CAPTION:** Seven objects. One thread. One hand. One girl.
+> **कैप्शन (इरा का स्वर, धीमा):** सिलाई गई। चिह्न यहाँ है। जिस धागे ने मुझे बन्द रखा, वही धागा अब
+> उसमें बुना है जो मैं हूँ।
 
-## चित्र-खाना 7 — Close, the basin sleeps — HOOK (~19%)
-The basin at night: the Knot & Nail's lamp is low, the shutters are up. On the roof above the
-stall, unseen by anyone, a small mark glows faintly in the dark — not the Spindle, not the Loom.
-A projection mark, dormant, catching the light of a turning lattice overhead.
+---
 
-> **शीर्षक (none spoken):**
-> The mark catches the Loom's light. For fifteen years it was dark. Tonight it is not.
+## पैनल ६ — व्यापक, रात में ताला-बक्सा (~१४%)
+
+रात: काउंटर पर ताला-बक्सा, ढक्कन पर केसा का हाथ। भीतर अब सात चीज़ें: कट-सिरा, गणना, स्थानांतरण-आदेश,
+तोहफ़ा-धागा, छठा धागा, सातवाँ धागा (बच्चे की गाँठ), और सीवर का धागा — वह जो अभी इरा की हथेली से
+निकला है।
+
+> **कैप्शन:** सात चीज़ें। एक धागा। एक हाथ। एक लड़की।
+
+---
+
+## पैनल ७ — क्लोज़, गर्त सोता है — हुक (~१९%)
+
+रात में गर्त: गाँठ और कील की लालटेन धीमी है, शटर चढ़े हैं। ठेले के ऊपर की छत पर, किसी को दिखे बिना,
+अँधेरे में एक छोटा चिह्न मंद-सा चमकता है — तकुआ नहीं, सूत्र-यन्त्र नहीं। एक प्रक्षेपण-चिह्न, सुप्त, ऊपर
+घूमते जालीदार ढाँचे की रोशनी पकड़ता हुआ।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> चिह्न सूत्र-यन्त्र की रोशनी पकड़ता है। पन्द्रह साल वह अँधेरा था। आज रात नहीं है।
 >
-> **शीर्षक (smaller):**
-> The hand has opened. The mark has been seen. And the Loom, which does not speak, has noticed.
+> **कैप्शन (छोटा):**
+> हाथ खुल गया। चिह्न देखा जा चुका है। और सूत्र-यन्त्र, जो नहीं बोलता, ने ध्यान दे लिया है।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| Braided thread in the mark | Lore — *Two Strands, One Palm* |
-| "Before you could choose." | Event — *The Sewer's Braid* |
-| The mark catches the Loom | Power — *First Light* |
+| चिह्न में बुना धागा | लोर — *दो तंतु, एक हथेली* |
+| "इससे पहले कि तुम चुन सको।" | इवेंट — *सीवर की बुनाई* |
+| चिह्न सूत्र-यन्त्र की रोशनी पकड़ता है | पावर — *पहला प्रकाश* |

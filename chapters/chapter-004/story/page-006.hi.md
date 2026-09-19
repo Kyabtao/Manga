@@ -1,76 +1,100 @@
-# THREADBORN — Chapter 04 — Page 006
+# सुत्रजात (THREADBORN) — अध्याय ०४ — पृष्ठ ००६
 
-**अध्याय शीर्षक:** *The Weight of Thread* / *धागे का बोझ*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail + up-terrace (morning)
-**पृष्ठ प्रकार:** The confession's consequence — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *धागे का बोझ*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील + ऊपरी कगार (सुबह)
+**पृष्ठ प्रकार:** स्वीकारोक्ति का परिणाम — ७ पैनल, अन्त में हुक
 
-> Beats: Page 005 — the stitch unties loop by loop, the sixth thread, Lekh's passing.
+> English source: [`page-006.md`](page-006.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००५ — सिलाई फंदा दर फंदा खुलती हुई, छठा धागा, लेख का गुज़रना।
 
 ---
 
-## चित्र-खाना 1 — Wide, the morning (~14%)
-Morning: the Knot & Nail's counter holds the coin-slate, the lockbox, and — new — a grey envelope
-delovernight. No crimson seal. Grey wax only. A Council communication without the principal.
+## पैनल १ — व्यापक, सुबह (~१४%)
 
-> **CAPTION:** Grey only. No crimson. The Council writes alone for the first time.
+सुबह: गाँठ और कील के काउंटर पर सिक्का-पट्ट, ताला-बक्सा, और — नई चीज़ — रात भर में आया एक धूसर लिफ़ाफ़ा।
+कोई क़िरमिज़ी मुहर नहीं। केवल धूसर मोम। प्रमुख के बिना एक परिषद-संदेश।
 
-## चित्र-खाना 2 — Medium, the letter (~13%)
-Kessa opens the envelope: a formal notice, grey ink. The Council acknowledges the lockbox's
-contents and requests — not demands — a *schedule of custody*. A list of what is in the box,
-signed by the custodian.
+> **कैप्शन:** केवल धूसर। कोई क़िरमिज़ी नहीं। परिषद पहली बार अकेले लिखती है।
 
-> **GREY CLERK (in the letter):** The Office requests a schedule of custody, signed by the
-> custodian of record.
+---
 
-## चित्र-खाना 3 — Close, Kessa's response (~14%)
-Kessa's hands: she sets the notice face-down on the counter — her refusal grammar — and then
-does something new. She writes on the back of the notice, in Kshudra knot-script: one line, one
-knot-pattern. The knot-script says: *open the box and count*.
+## पैनल २ — मध्यम, ख़त (~१३%)
 
-> **केसा (संवाद, dry):** If they want a list, they can open the box themselves.
+केसा लिफ़ाफ़ा खोलती है: एक औपचारिक सूचना, धूसर स्याही में। परिषद ताला-बक्से की विषय-वस्तु स्वीकार
+करती है और अनुरोध करती है — माँगती नहीं — एक *अभिरक्षण-अनुसूची* की। बक्से में जो है उसकी सूची,
+संरक्षक के दस्तख़त के साथ।
 
-## चित्र-खाना 4 — Medium, up-terrace (~13%)
-Up-terrace: Rekhak at his desk, chain running, oath-link dark. Lekh stands at the rail — standing,
-this one time, because the notice is in his hand and the cuff-chit in his sleeve has grown. The
-notice bears Kessa's knot-script reply.
+> **धूसर लिपिक (ख़त में):** कार्यालय अभिरक्षण-अनुसूची का अनुरोध करता है, अभिलेख-संरक्षक के दस्तख़त
+> सहित।
 
-> **लेख (संवाद, standing):** The custodian replied in knot-script. The Office cannot read it.
+---
+
+## पैनल ३ — क्लोज़, केसा का जवाब (~१४%)
+
+केसा के हाथ: वह सूचना को काउंटर पर उलटा रख देती है — उसका इनकार-व्याकरण — और फिर कुछ नया करती है।
+वह सूचना के पीछे लिखती है, क्षुद्र गाँठ-लिपि में: एक पंक्ति, एक गाँठ-नमूना। गाँठ-लिपि कहती है:
+*बक्सा खोलो और गिनो*।
+
+> **केसा (संवाद, सूखा):** अगर उन्हें सूची चाहिए, तो वे ख़ुद बक्सा खोलें।
+
+---
+
+## पैनल ४ — मध्यम, ऊपरी कगार (~१३%)
+
+ऊपरी कगार: अपनी मेज़ पर रेखक, ज़ंजीर चलती हुई, शपथ-कड़ी काली। लेख रेलिंग पर खड़ा है — इस बार खड़ा है,
+क्योंकि सूचना उसके हाथ में है और उसकी आस्तीन में कफ़-चिट बढ़ चुकी है। सूचना पर केसा का
+गाँठ-लिपि में जवाब है।
+
+> **लेख (संवाद, खड़े हुए):** संरक्षक ने गाँठ-लिपि में जवाब दिया। कार्यालय इसे पढ़ नहीं सकता।
 >
-> **REKHAK (dialogue):** I can.
+> **रेखक (संवाद):** मैं पढ़ सकता हूँ।
 
-## चित्र-खाना 5 — Close, the reading (~14%)
-Rekhak's fingers on the knot-script: chain-reader, now knot-reader. He reads Kessa's reply:
-*open the box and count*. His chain hums. The oath-link is still.
+---
 
-> **रेखक (संवाद, soft):** She says open the box and count.
+## पैनल ५ — क्लोज़, पढ़ाई (~१४%)
+
+गाँठ-लिपि पर रेखक की उँगलियाँ: ज़ंजीर-पाठक, अब गाँठ-पाठक। वह केसा का जवाब पढ़ता है: *बक्सा खोलो और
+गिनो*। उसकी ज़ंजीर गुनगुनाती है। शपथ-कड़ी स्थिर है।
+
+> **रेखक (संवाद, कोमल):** वह कहती है, बक्सा खोलो और गिनो।
 >
-> **LEKH (dialogue):** Will the Office comply?
+> **लेख (संवाद):** क्या कार्यालय पालन करेगा?
 >
-> **REKHAK (dialogue):** The Office never opens what it cannot close.
+> **रेखक (संवाद):** कार्यालय वह कभी नहीं खोलता जिसे वह बन्द न कर सके।
 
-## चित्र-खाना 6 — Wide, the basin afternoon (~13%)
-Afternoon: the Knot & Nail works. Ira mends at the counter — a dock worker with a torn mark, the
-routine work of the stall. The stitch on her palm trembles as she works, responding to the needle.
+---
 
-> **CAPTION:** The stitch trembles at the needle. It knows the needle is not its own.
+## पैनल ६ — व्यापक, गर्त की दोपहर (~१३%)
 
-## चित्र-खाना 7 — Macro, the stitch loosens — HOOK (~19%)
-Ira's palm, mid-mend: the stitch loosens one more loop. The old thread — the sewer's thread — is
-now visibly different from Ira's own mending thread. Two threads, two hands, one palm. The stitch
-is *separating* from the palm's surface, loop by loop.
+दोपहर बाद: गाँठ और कील काम कर रही है। इरा काउंटर पर सीती है — एक गोदी-मज़दूर, फटे निशान के साथ,
+ठेले का रोज़ का काम। काम करते समय उसकी हथेली की सिलाई काँपती है, सुई को जवाब देती हुई।
+
+> **कैप्शन:** सिलाई सुई पर काँपती है। वह जानती है कि सुई उसकी अपनी नहीं है।
+
+---
+
+## पैनल ७ — मैक्रो, सिलाई ढीली होती है — हुक (~१९%)
+
+सिलाई के बीच इरा की हथेली: सिलाई एक और फंदा ढीला कर देती है। पुराना धागा — सीवर का धागा — अब इरा के
+अपने सिलाई-धागे से स्पष्ट रूप से अलग दिखता है। दो धागे, दो हाथ, एक हथेली। सिलाई हथेली की सतह से
+*अलग हो* रही है, फंदा दर फंदा।
 
 > **ध्वनि:** *—*
 >
-> **CAPTION:** Two threads. Two hands. One palm. The stitch is separating. And the girl who was
-> sewn shut is, loop by loop, being opened.
+> **कैप्शन:** दो धागे। दो हाथ। एक हथेली। सिलाई अलग हो रही है। और जो लड़की सी कर बन्द की गई थी,
+> वह फंदा दर फंदा खोली जा रही है।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| Grey-only letter | Event — *Council Writes Alone* |
-| Knot-script reply | Event — *Kessa's Knot Answer* |
-| "The Office never opens what it cannot close." | Lore — *The Rule of Closing* |
-| The stitch separates | Power — *Two Threads, One Palm* |
+| केवल-धूसर ख़त | इवेंट — *परिषद अकेले लिखती है* |
+| गाँठ-लिपि जवाब | इवेंट — *केसा का गाँठ-उत्तर* |
+| "कार्यालय वह कभी नहीं खोलता जिसे वह बन्द न कर सके।" | लोर — *बन्द करने का नियम* |
+| सिलाई अलग होती है | पावर — *दो धागे, एक हथेली* |

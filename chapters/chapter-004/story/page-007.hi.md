@@ -1,74 +1,95 @@
-# THREADBORN — Chapter 04 — Page 007
+# सुत्रजात (THREADBORN) — अध्याय ०४ — पृष्ठ ००७
 
-**अध्याय शीर्षक:** *The Weight of Thread* / *धागे का बोझ*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, dock (night)
-**पृष्ठ प्रकार:** The cutter's last lesson — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *धागे का बोझ*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गोदी (रात)
+**पृष्ठ प्रकार:** काटने वाले का अन्तिम पाठ — ७ पैनल, अन्त में हुक
 
-> Beats: Page 006 — the stitch separates, two threads in one palm. The Council's grey-only letter.
+> English source: [`page-007.md`](page-007.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००६ — सिलाई अलग होती हुई, एक हथेली में दो धागे। परिषद का केवल-धूसर ख़त।
 
 ---
 
-## चित्र-खाना 1 — Wide, the dock at night (~14%)
-Night, dock three: Bhan asleep, sleeve up. The pattern and continuation on his arm are now a
-complex stitch-grammar — a lesson plan visible in skin. The cutter approaches.
+## पैनल १ — व्यापक, रात में गोदी (~१४%)
 
-> **CAPTION:** Night fifty-six. The lesson is almost complete.
+रात, गोदी तीन: भान सोया हुआ, आस्तीन चढ़ी। उसकी बाँह पर नमूना और निरन्तरता अब एक जटिल सिलाई-व्याकरण हैं
+— त्वचा में दिखती एक पाठ-योजना। काटने वाला पास आता है।
 
-## चित्र-खाना 2 — Medium, the cutter works (~13%)
-The cutter's hands: tonight they do not open the arm. They *close* it — permanently. The nightly
-opening stops. The cutter seals the seam with a final stitch, ash-grey, identical to Ira's
-mending thread.
+> **कैप्शन:** छप्पनवीं रात। पाठ लगभग पूरा है।
 
-> **ध्वनि:** *tsss*
+---
 
-## चित्र-खाना 3 — Close, the final stitch (~14%)
-The final stitch: the cutter ties off the seam with a whorl-knot — the same signature as the
-cut-end, the sixty-first knot, every piece in the box. The lesson is finished. The arm is
-sealed.
+## पैनल २ — मध्यम, काटने वाला काम करता है (~१३%)
 
-> **CAPTION:** The cutter finishes. The arm is sealed. The lesson is complete.
+काटने वाले के हाथ: आज रात वे बाँह को खोलते नहीं। वे उसे *बन्द* करते हैं — स्थायी रूप से। रात्रि-उद्घाटन
+रुक जाता है। काटने वाला सीवन को एक अन्तिम सिलाई से सील देता है, राख-धूसर, इरा के सिलाई-धागे जैसी।
 
-## चित्र-खाना 4 — Macro, the cutter's pause (~13%)
-The cutter's hands, still on Bhan's arm: a pause. The cutter traces the sealed seam one last
-time — the appraiser's gesture, the thumb on the edge. Then the cutter reaches into their coat
-and produces one more piece of thread — the seventh — and places it on Bhan's chest, over his
-heart.
+> **ध्वनि:** *त्स्स्स*
 
-> **CAPTION:** The seventh thread. Left on the heart. Not a lesson. A *payment*.
+---
 
-## चित्र-खाना 5 — Medium, the departure (~13%)
-The cutter stands, turns toward the basin's centre — toward the Knot & Nail. The hood faces the
-stall-row one last time. Then the cutter walks toward the Council Stair, not away from it.
+## पैनल ३ — क्लोज़, अन्तिम सिलाई (~१४%)
 
-> **CAPTION:** The cutter walks toward the stair. The lessons are over.
+अन्तिम सिलाई: काटने वाला सीवन को चक्र-गाँठ से बन्द करता है — वही हस्ताक्षर जो कट-सिरे पर है, इकसठवीं
+गाँठ पर है, बक्से की हर चीज़ पर है। पाठ समाप्त। बाँह सील। 
 
-## चित्र-खाना 6 — Wide, morning at the stall (~14%)
-Morning: Ira arrives at the dock to find Bhan awake, arm sealed, the seventh thread on his chest.
-He holds it out to her.
+> **कैप्शन:** काटने वाला पूरा करता है। बाँह सील हो जाती है। पाठ पूरा हो जाता है।
 
-> **भान (संवाद, quiet):** They finished. Last night. They sealed it and left this.
+---
+
+## पैनल ४ — मैक्रो, काटने वाले का ठहराव (~१३%)
+
+भान की बाँह पर अब भी काटने वाले के हाथ: एक ठहराव। काटने वाला सील हुए सीवन को आख़िरी बार छूता है —
+परखन-हार का इशारा, किनारे पर अंगूठा। फिर काटने वाला अपने कोट में हाथ डालता है और एक और धागा निकालता
+है — सातवाँ — और उसे भान के सीने पर, उसके दिल के ऊपर रख देता है।
+
+> **कैप्शन:** सातवाँ धागा। दिल पर छोड़ा गया। पाठ नहीं। एक *भुगतान*।
+
+---
+
+## पैनल ५ — मध्यम, प्रस्थान (~१३%)
+
+काटने वाला खड़ा होता है, गर्त के केन्द्र की ओर मुड़ता है — गाँठ और कील की ओर। टोपी आख़िरी बार
+ठेला-कतार की ओर मुड़ती है। फिर काटने वाला परिषद-सीढ़ी की ओर चलता है, उससे दूर नहीं।
+
+> **कैप्शन:** काटने वाला सीढ़ी की ओर चलता है। पाठ ख़त्म हो गए।
+
+---
+
+## पैनल ६ — व्यापक, ठेले पर सुबह (~१४%)
+
+सुबह: इरा गोदी पर पहुँचती है और भान को जागा हुआ पाती है, बाँह सील, सातवाँ धागा उसके सीने पर। वह उसे
+उसकी ओर बढ़ाता है।
+
+> **भान (संवाद, धीमा):** उन्होंने पूरा कर दिया। कल रात। उन्होंने इसे सील किया और यह छोड़ गए।
 >
-> **IRA (dialogue):** On your heart?
+> **इरा (संवाद):** तुम्हारे दिल पर?
 >
-> **BHAN (dialogue):** Payment, I think.
+> **भान (संवाद):** भुगतान, मुझे लगता है।
 
-## चित्र-खाना 7 — Macro, the seventh thread — HOOK (~19%)
-The seventh thread in Ira's hand: same colour, same gauge, same whorl-knot at one end. But at
-the other end, a new mark: a tiny loop, the size of a child's first knot — the kind a Kshudra
-child ties when they learn to thread. The first knot. The beginning.
+---
 
-> **CAPTION:** The seventh thread. Same colour. Same gauge. One end: the whorl. The other end:
-> a child's first knot. Forty years of thread, from the first knot to the last.
+## पैनल ७ — मैक्रो, सातवाँ धागा — हुक (~१९%)
+
+इरा के हाथ में सातवाँ धागा: वही रंग, वही माप, एक सिरे पर वही चक्र-गाँठ। पर दूसरे सिरे पर एक नया निशान:
+एक नन्हा फंदा, बच्चे की पहली गाँठ के आकार का — वह क़िस्म जो क्षुद्र बच्चा धागा करना सीखते समय बाँधता है।
+पहली गाँठ। शुरुआत।
+
+> **कैप्शन:** सातवाँ धागा। वही रंग। वही माप। एक सिरा: चक्र। दूसरा सिरा: बच्चे की पहली गाँठ। चालीस
+> साल का धागा, पहली गाँठ से आख़िरी तक।
 >
-> **शीर्षक (smaller):**
-> The cutter has shown Ira the beginning of the thread. And the beginning is younger than she is.
+> **कैप्शन (छोटा):**
+> काटने वाले ने इरा को धागे की शुरुआत दिखा दी है। और शुरुआत उससे छोटी है।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The cutter finishes | Event — *Lesson Complete* |
-| Payment on the heart | Lore — *The Heart's Thread* |
-| The child's first knot | Lore — *The Beginning Knot* |
+| काटने वाला पूरा करता है | इवेंट — *पाठ सम्पन्न* |
+| दिल पर भुगतान | लोर — *दिल का धागा* |
+| बच्चे की पहली गाँठ | लोर — *शुरुआत की गाँठ* |

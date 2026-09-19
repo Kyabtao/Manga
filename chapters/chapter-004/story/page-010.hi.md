@@ -1,86 +1,105 @@
-# THREADBORN — Chapter 04 — Page 010 — FINALE
+# सुत्रजात (THREADBORN) — अध्याय ०४ — पृष्ठ ०१० — अन्तिम
 
-**अध्याय शीर्षक:** *The Weight of Thread* / *धागे का बोझ*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (morning)
-**पृष्ठ प्रकार:** Chapter finale — 7 panels
+**अध्याय शीर्षक:** *धागे का बोझ*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (सुबह)
+**पृष्ठ प्रकार:** अध्याय-अन्त — ७ पैनल
 
-> Beats: Page 009 — braided thread, dormant mark, the Loom noticed.
+> English source: [`page-010.md`](page-010.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००९ — बुना धागा, सुप्त चिह्न, सूत्र-यन्त्र ने ध्यान दिया।
 
 ---
 
-## चित्र-खाना 1 — Wide, the morning after (~14%)
-Morning, Knot & Nail: Kessa opens the stall. The lockbox is on the counter, heavy with seven
-objects. Ira arrives with her kit, palm open, mark visible. The market works. Ash falls.
+## पैनल १ — व्यापक, अगली सुबह (~१४%)
 
-> **शीर्षक (none spoken):**
-> The morning after the mark was seen. The basin does not know. The Loom does.
+सुबह, गाँठ और कील: केसा ठेला खोलती है। काउंटर पर ताला-बक्सा, सात चीज़ों से भारी। इरा अपनी थैली लिए
+पहुँचती है, हथेली खुली, चिह्न दिखता हुआ। बाज़ार काम कर रहा है। राख गिरती है।
 
-## चित्र-खाना 2 — Medium, the mend (~13%)
-Ira mends at the counter — a dock worker with a torn mark. Her first mend with the Sutra-mark
-visible. The mark is dormant but its presence changes the mend: the needle moves differently,
-the thread responds differently. The mark is not pulling — it is *listening*.
+> **कैप्शन (कोई बोलता नहीं):**
+> जिस सुबह चिह्न देखा गया, उसके अगले दिन। गर्त नहीं जानता। सूत्र-यन्त्र जानता है।
 
-> **शीर्षक (Ira's voice, small):**
-> The mark doesn't pull. It listens. As if it's been listening for fifteen years and only now
-> has something to hear.
+---
 
-## चित्र-खाना 3 — Close, the new thread (~14%)
-Ira's mending thread: it is different now. The thread she uses for mending has always been
-ash-grey, ordinary. Today it carries a faint braid — the mark's dormant braid, bleeding into
-her work. The mend is stronger. The thread is no longer single-strand.
+## पैनल २ — मध्यम, सिलाई (~१३%)
 
-> **CAPTION:** The mark is dormant. But the braid is awake.
+इरा काउंटर पर सीती है — एक गोदी-मज़दूर, फटे निशान के साथ। सूत्र-चिह्न दिखते हुए उसकी पहली सिलाई।
+चिह्न सुप्त है पर उसकी उपस्थिति सिलाई बदल देती है: सुई अलग चलती है, धागा अलग जवाब देता है। चिह्न खींच
+नहीं रहा — वह *सुन* रहा है।
 
-## चित्र-खाना 4 — Medium, Kessa sees (~13%)
-Kessa's loupe on Ira's mending thread: the braid is visible under magnification. Two strands
-twisted — Ira's own thread and the sewer's, braided together. The dormant mark is leaking its
-braid into Ira's work.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> चिह्न खींचता नहीं। वह सुनता है। जैसे वह पन्द्रह साल से सुन रहा हो और अब पहली बार उसके पास सुनने को
+> कुछ हो।
 
-> **केसा (संवाद, quiet):** तुम्हारा धागा अब बुना हुआ है।
+---
+
+## पैनल ३ — क्लोज़, नया धागा (~१४%)
+
+इरा का सिलाई-धागा: अब वह अलग है। सिलाई के लिए जो धागा वह इस्तेमाल करती है वह हमेशा राख-धूसर, साधारण
+था। आज उसमें एक हल्की बुनाई है — चिह्न की सुप्त बुनाई, उसके काम में रिसती हुई। सिलाई मज़बूत है। धागा
+अब एक-तंतु नहीं रहा। 
+
+> **कैप्शन:** चिह्न सुप्त है। पर बुनाई जागी हुई है।
+
+---
+
+## पैनल ४ — मध्यम, केसा देखती है (~१३%)
+
+इरा के सिलाई-धागे पर केसा का लूप: आवर्धन में बुनाई दिखती है। दो तंतु ऐंठे हुए — इरा का अपना धागा और
+सीवर का, साथ बुने हुए। सुप्त चिह्न अपनी बुनाई इरा के काम में रिसा रहा है।
+
+> **केसा (संवाद, धीमा):** तुम्हारा धागा अब बुना हुआ है।
 >
-> **IRA (dialogue):** I know.
+> **इरा (संवाद):** मुझे पता है।
 
-## चित्र-खाना 5 — Wide, the basin (~14%)
-The basin: the Knot & Nail works, the market adjusts, the stall-row trusts the lock. Rekhak walks
-his rounds, chain running, oath-link dark. He passes the stall and his chain hums — the four
-notes, wrong key, same shape. Ira hears it. The stitch is gone; the mark is listening.
+---
 
-> **CAPTION:** The chain hums the four notes. The mark listens. The stitch is gone. The girl is
-> not.
+## पैनल ५ — व्यापक, गर्त (~१४%)
 
-## चित्र-खाना 6 — Close, Ira's palm (~13%)
-Ira's palm, mending: the dormant mark catches the lamplight. For one frame — one panel — the
-mark flickers. Not open. Not pulling. Just *flickering*, the way a candle gutter before it
-decides whether to stay lit.
+गर्त: गाँठ और कील काम कर रही है, बाज़ार तालमेल बैठा रहा है, ठेला-कतार ताले पर भरोसा करती है। रेखक
+अपने फेरे पर चलता है, ज़ंजीर चलती हुई, शपथ-कड़ी काली। वह ठेले के पास से गुज़रता है और उसकी ज़ंजीर
+गुनगुनाती है — चार स्वर, ग़लत सुर, वही आकार। इरा सुनती है। सिलाई गई है; चिह्न सुन रहा है।
+
+> **कैप्शन:** ज़ंजीर चार स्वर गुनगुनाती है। चिह्न सुनता है। सिलाई गई है। लड़की नहीं।
+
+---
+
+## पैनल ६ — क्लोज़, इरा की हथेली (~१३%)
+
+इरा की हथेली, सिलाई करती हुई: सुप्त चिह्न लालटेन की रोशनी पकड़ता है। एक फ़्रेम के लिए — एक पैनल —
+चिह्न टिमटिमाता है। खुलता नहीं। खींचता नहीं। बस *टिमटिमाता है*, वैसे जैसे मोमबत्ती की लौ झिझकती है
+इससे पहले कि वह तय करे कि जलती रहेगी या नहीं।
 
 > **ध्वनि:** *—*
 >
-> **CAPTION:** The mark flickers. Once. The girl does not feel it. The Loom does.
+> **कैप्शन:** चिह्न टिमटिमाता है। एक बार। लड़की उसे महसूस नहीं करती। सूत्र-यन्त्र करता है।
 
-## चित्र-खाना 7 — Wide, the lockbox — FINAL HOOK (~19%)
-The lockbox on the counter, Kessa's hand on the lid. Inside, seven objects: the entire history
-of the thread that sewed Ira's palm. Outside, the basin works. Above, the Loom turns. On the
-Council Stair, unseen, a seventh piece of thread lies at the threshold — the supply line has
-reached the terraces again.
+---
 
-> **शीर्षक (none spoken):**
-> The box holds seven objects. The mark holds a braid. The chain holds an echo. And the girl who
-> was sewn shut has been opened — not by force, not by choice, but by the weight of everything
-> she now knows.
+## पैनल ७ — व्यापक, ताला-बक्सा — अन्तिम हुक (~१९%)
+
+काउंटर पर ताला-बक्सा, ढक्कन पर केसा का हाथ। भीतर सात चीज़ें: उस धागे की पूरी कहानी जिसने इरा की
+हथेली सीई। बाहर, गर्त काम कर रहा है। ऊपर, सूत्र-यन्त्र घूमता है। परिषद-सीढ़ी पर, किसी को दिखे बिना,
+दहलीज़ पर धागे का सातवाँ टुकड़ा पड़ा है — आपूर्ति-मार्ग फिर ऊपरी कगारों तक पहुँच गया है।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> बक्से में सात चीज़ें हैं। चिह्न एक बुनाई थामे है। ज़ंजीर एक प्रतिध्वनि थामे है। और जो लड़की सी कर
+> बन्द की गई थी, वह खुल चुकी है — न ज़ोर से, न चुनाव से, बल्कि उस सब के बोझ से जो वह अब जानती है।
 >
-> **शीर्षक (final box):**
-> The hand has opened. The mark is listening. The thread is braided. And the Loom, which does not
-> speak, has begun to pay attention.
+> **कैप्शन (अन्तिम बक्सा):**
+> हाथ खुल गया। चिह्न सुन रहा है। धागा बुना हुआ है। और सूत्र-यन्त्र, जो नहीं बोलता, ध्यान देने लगा है।
 >
-> **END OF CHAPTER FOUR.**
+> **अध्याय चार समाप्त।**
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The dormant mark listens | Power — *The Listening Mark* |
-| Braided mending thread | Power — *Braid Leak* |
-| The mark flickers | Power — *First Flicker* |
-| Seven objects in the box | Lore — *The Weight of Thread* |
+| सुप्त चिह्न सुनता है | पावर — *सुनता हुआ चिह्न* |
+| बुना हुआ सिलाई-धागा | पावर — *बुनाई-रिसाव* |
+| चिह्न टिमटिमाता है | पावर — *पहली टिमटिमाहट* |
+| बक्से में सात चीज़ें | लोर — *धागे का बोझ* |

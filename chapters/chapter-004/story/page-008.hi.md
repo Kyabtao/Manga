@@ -1,82 +1,101 @@
-# THREADBORN — Chapter 04 — Page 008
+# सुत्रजात (THREADBORN) — अध्याय ०४ — पृष्ठ ००८
 
-**अध्याय शीर्षक:** *The Weight of Thread* / *धागे का बोझ*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (afternoon)
-**पृष्ठ प्रकार:** The stitch opens — 7 panels, chapter's chain-stop, hook at bottom
+**अध्याय शीर्षक:** *धागे का बोझ*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (दोपहर बाद)
+**पृष्ठ प्रकार:** सिलाई खुलती है — ७ पैनल, अन्त में हुक
 
-> Beats: Page 007 — the cutter finishes, the seventh thread with the child's first knot.
-> The stitch separating loop by loop.
+> English source: [`page-008.md`](page-008.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००७ — काटने वाला पूरा करता है, बच्चे की पहली गाँठ वाला सातवाँ धागा। सिलाई फंदा दर फंदा
+> अलग होती हुई।
 
 ---
 
-## चित्र-खाना 1 — Wide, the stall (~14%)
-Afternoon, Knot & Nail: Ira sets the seventh thread on the counter beside the lockbox. Kessa
-reads the child's knot. Her loupe is down.
+## पैनल १ — व्यापक, ठेला (~१४%)
 
-> **केसा (संवाद, slow):** यह उनकी बँधी हुई पहली गाँठ है। The very first.
+दोपहर बाद, गाँठ और कील: इरा सातवाँ धागा काउंटर पर ताला-बक्से के बगल में रखती है। केसा बच्चे की गाँठ
+पढ़ती है। उसका लूप नीचे है।
 
-## चित्र-खाना 2 — Medium, the implication (~13%)
-Kessa's hands: she opens the lockbox and lays the seventh thread inside — six objects now. Her
-hands tremble — the first time the series shows Kessa's hands shaking.
+> **केसा (संवाद, धीमा):** यह उनकी बाँधी पहली गाँठ है। बिल्कुल पहली।
 
-> **CAPTION:** Six objects. All one thread. All one hand. The box holds a life.
+---
 
-## चित्र-खाना 3 — Close, Ira's palm (~14%)
-Ira's palm on the counter, lamplight on the stitch: the stitch has loosened to the point of
-*translucence*. The old thread — the sewer's thread — is now visibly separate from Ira's own
-skin. Two layers: the girl and the thread that held her shut.
+## पैनल २ — मध्यम, निहितार्थ (~१३%)
+
+केसा के हाथ: वह ताला-बक्सा खोलती है और सातवाँ धागा भीतर रख देती है — अब छह चीज़ें। उसके हाथ काँपते हैं
+— शृंखला में पहली बार केसा के हाथ काँपते दिखते हैं।
+
+> **कैप्शन:** छह चीज़ें। सब एक धागा। सब एक हाथ। बक्सा एक जीवन थामे है।
+
+---
+
+## पैनल ३ — क्लोज़, इरा की हथेली (~१४%)
+
+काउंटर पर इरा की हथेली, सिलाई पर लालटेन की रोशनी: सिलाई इतनी ढीली हो चुकी है कि *पारदर्शी* लगती है।
+पुराना धागा — सीवर का धागा — अब इरा की अपनी त्वचा से स्पष्ट रूप से अलग दिखता है। दो परतें: लड़की, और
+वह धागा जिसने उसे बन्द रखा था।
 
 > **ध्वनि:** *—*
 >
-> **CAPTION:** The stitch is translucent. The girl is visible beneath it.
+> **कैप्शन:** सिलाई पारदर्शी है। उसके नीचे लड़की दिखती है।
 
-## चित्र-खाना 4 — Macro, the opening (~13%)
-The stitch opens. Not all at once — one loop releases, then another. The old thread does not
-break; it *unwinds*, the way a mender's knot releases when the tension is removed. The thread
-comes out clean, whole, undamaged — the sewer's work was perfect, and its perfection is what
-allows it to release cleanly.
+---
 
-> **CAPTION:** The stitch unwinds. Clean. Whole. Perfect work, releasing perfectly.
+## पैनल ४ — मैक्रो, खुलना (~१३%)
 
-## चित्र-खाना 5 — Medium, the thread in Ira's hand (~14%)
-The old thread, now free, rests in Ira's palm: a length of ash-grey thread, identical to every
-piece in the box. The same colour, same gauge, same age as the cut-end. The same school. The same
-hand. The thread that sewed her palm shut for fifteen years is now in her hand, and it is the same
-thread the cutter has been running through Bhan's arm.
+सिलाई खुलती है। एक साथ नहीं — एक फंदा छूटता है, फिर दूसरा। पुराना धागा टूटता नहीं; वह *खुलता* है,
+वैसे जैसे सिलाईकर्ता की गाँठ छूटती है जब तनाव हटा दिया जाए। धागा साफ़, पूरा, बिना क्षति बाहर आता है —
+सीवर का काम निर्दोष था, और उसकी निर्दोषता ही उसे साफ़ छूटने देती है।
 
-> **CAPTION:** The thread is out. The same thread. The same hand. The same school.
+> **कैप्शन:** सिलाई खुलती है। साफ़। पूरी। निर्दोष काम, निर्दोष ढंग से छूटता हुआ।
 
-## चित्र-खाना 6 — Wide, the stall reacts (~13%)
-The Knot & Nail: Kessa's loupe is down, her hands are on the counter, her eyes are on the thread.
-The market is quiet — the basin does not know what just happened. The lockbox is open. Six objects
-inside. One thread in Ira's hand.
+---
 
-> **केसा (संवाद, quiet):** It released.
+## पैनल ५ — मध्यम, इरा के हाथ में धागा (~१४%)
+
+पुराना धागा, अब आज़ाद, इरा की हथेली में पड़ा है: राख-धूसर धागे की एक लम्बाई, बक्से की हर चीज़ जैसी।
+वही रंग, वही माप, कट-सिरे जैसी उम्र। वही विद्या। वही हाथ। जिस धागे ने उसकी हथेली पन्द्रह साल बन्द
+रखी, वह अब उसके हाथ में है, और यह वही धागा है जो काटने वाला भान की बाँह से निकालता आया है।
+
+> **कैप्शन:** धागा बाहर है। वही धागा। वही हाथ। वही विद्या।
+
+---
+
+## पैनल ६ — व्यापक, ठेले की प्रतिक्रिया (~१३%)
+
+गाँठ और कील: केसा का लूप नीचे है, उसके हाथ काउंटर पर, उसकी आँखें धागे पर। बाज़ार शान्त है — गर्त नहीं
+जानता कि अभी क्या हुआ। ताला-बक्सा खुला है। भीतर छह चीज़ें। इरा के हाथ में एक धागा।
+
+> **केसा (संवाद, धीमा):** वह छूट गया।
 >
-> **इरा (संवाद, flat):** It released.
+> **इरा (संवाद, सपाट):** वह छूट गया।
 
-## चित्र-खाना 7 — Macro, the open palm — HOOK (~19%)
-Ira's palm: open, bare, the stitch gone. The palm is not empty — the Sutra-mark is visible for
-the first time in fifteen years. A projection mark, closed, dormant. The mark that was hidden
-behind the stitch. The mark that was never missing — only *shut*.
+---
 
-> **शीर्षक (Ira's voice, smallest):** Not empty. Never empty. Shut.
+## पैनल ७ — मैक्रो, खुली हथेली — हुक (~१९%)
+
+इरा की हथेली: खुली, नंगी, सिलाई गई। हथेली ख़ाली नहीं है — सूत्र-चिह्न पन्द्रह साल में पहली बार दिखता
+है। एक प्रक्षेपण-चिह्न, बन्द, सुप्त। वह चिह्न जो सिलाई के पीछे छिपा था। वह चिह्न जो कभी ग़ायब नहीं था —
+केवल *बन्द* था।
+
+> **कैप्शन (इरा का स्वर, सबसे धीमा):** ख़ाली नहीं। कभी ख़ाली नहीं थी। बन्द।
 >
-> **शीर्षक (none spoken):**
-> The mark that everyone said was missing was always there. Sewn closed. Hidden. Waiting.
+> **कैप्शन (कोई बोलता नहीं):**
+> जिस चिह्न को सब ग़ायब कहते थे, वह हमेशा वहीं था। सी कर बन्द। छिपा हुआ। प्रतीक्षा में।
 >
-> **शीर्षक (final box):**
-> The hand has opened. The thread is out. The mark is visible.
->
-> **END OF CHAPTER FOUR.**
+> **कैप्शन (अन्तिम बक्सा):**
+> हाथ खुल गया। धागा बाहर है। चिह्न दिखता है।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The stitch unwinds | Power — *Clean Release* |
-| The thread in her hand | Relic — *The Sewer's Thread* |
-| The mark is visible | Power — *The Hidden Mark* |
-| "Not empty. Never empty. Shut." | Lore — *The Girl Who Was Hidden* |
+| सिलाई खुलती है | पावर — *साफ़ मुक्ति* |
+| उसके हाथ में धागा | रिलिक — *सीवर का धागा* |
+| चिह्न दिखता है | पावर — *छिपा हुआ चिह्न* |
+| "ख़ाली नहीं। कभी ख़ाली नहीं थी। बन्द।" | लोर — *वह लड़की जो छिपी थी* |

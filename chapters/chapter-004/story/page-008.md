@@ -68,8 +68,6 @@ behind the stitch. The mark that was never missing — only *shut*.
 >
 > **CAPTION (final box):**
 > The hand has opened. The thread is out. The mark is visible.
->
-> **END OF CHAPTER FOUR.**
 
 ---
 
