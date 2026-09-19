@@ -1,146 +1,146 @@
-# THREADBORN — Chapter 03 — Page 006
+# सुत्रजात (THREADBORN) — अध्याय ०३ — पृष्ठ ००६
 
-**अध्याय शीर्षक:** *The Hand That Opens* / *वह हाथ जो खोलता है*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (mid-morning)
-**पृष्ठ प्रकार:** The basin's reaction — 7 panels, hook at the bottom
+**अध्याय शीर्षक:** *वह हाथ जो खोलता है*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (सुबह का मध्य)
+**पृष्ठ प्रकार:** गर्त की प्रतिक्रिया — ७ पैनल, अन्त में हुक
 
-> पिछले पृष्ठ से: Page 005: the three threads on the counter, the cutter's nightly visit to
-> Bhan, the charcoal mark kept. Page 002: the lockbox holds three objects, Kessa refused to sign.
+> English source: [`page-006.md`](page-006.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the basin at the stall (~14%)
-
-**कैमरा:** Mid-morning, Knot & Nail: a small queue has formed — not for mending, for *filing*.
-Three basin faces, none named before, carrying objects: a torn rent-chit, a dock-log fragment, a
-knot-receipt. They want Kessa to put things in the box.
-
-**चित्र:** The posting order's consequence: the basin has heard that the Knot & Nail now holds
-the census, and every stall-owner with a paper they don't want the Council to find is standing
-in line.
-
-> **शीर्षक (none spoken):**
-> By noon, four people had asked Kessa to store something in the lockbox. She turned them all
-> down. By evening, she had a waiting list.
+> पृष्ठ ००५ से आगे आते सूत्र: काउंटर पर तीन धागे, काटने वाले की भान के पास रात्रि-यात्रा, कोयला-निशान
+> रखा गया। पृष्ठ ००२: ताला-बक्से में तीन चीज़ें, केसा ने दस्तख़त करने से इनकार किया।
 
 ---
 
-## चित्र-खाना 2 — Medium, the first request (~13%)
+## पैनल १ — व्यापक, ठेले पर गर्त (~१४%)
 
-**कैमरा:** A stall-owner (unnamed, broad, nervous) holds out a torn rent-chit — the kind the
-Council issues and the basin fears. He wants it in Kessa's box because the box now holds the
-census, and the census is safe.
+**कैमरा:** सुबह का मध्य, गाँठ और कील: एक छोटी कतार लगी है — सिलाई के लिए नहीं, *दाख़िले* के लिए।
+गर्त के तीन चेहरे, जिनमें कोई पहले नामित नहीं, चीज़ें लिए हुए: एक फटी किराया-चिट, गोदी-बही का एक
+टुकड़ा, एक गाँठ-रसीद। वे चाहते हैं कि केसा चीज़ें बक्से में रख दे।
 
-**चित्र:** Kessa's hand is flat on the counter, palm down: *no.* Her loupe is up. She is not
-appraising; she is refusing.
+**दृश्य:** स्थानांतरण-आदेश का परिणाम: गर्त ने सुन लिया है कि गाँठ और कील के पास अब गणना है, और हर
+वह ठेला-मालिक जिसके पास ऐसा कागज़ है जो वह परिषद को नहीं दिखाना चाहता, कतार में खड़ा है।
 
-> **दुकानदार (संवाद, nervous):**
-> You hold the census. You hold the letter. One more won't—
+> **कैप्शन (कोई बोलता नहीं):**
+> दोपहर तक चार लोगों ने केसा से कहा था कि वह कुछ ताला-बक्से में रख दे। उसने सबको मना कर दिया।
+> शाम तक उसके पास इंतज़ार-सूची थी।
+
+---
+
+## पैनल २ — मध्यम, पहला अनुरोध (~१३%)
+
+**कैमरा:** एक ठेला-मालिक (अनाम, चौड़ा, घबराया हुआ) एक फटी किराया-चिट बढ़ाता है — वह क़िस्म जो परिषद
+जारी करती है और गर्त डरती है। वह उसे केसा के बक्से में चाहता है क्योंकि बक्से में अब गणना है, और गणना
+सुरक्षित है।
+
+**दृश्य:** केसा का हाथ काउंटर पर सपाट है, हथेली नीचे: *नहीं।* उसका लूप ऊपर है। वह परख नहीं रही; वह
+इनकार कर रही है।
+
+> **ठेला-मालिक (संवाद, घबराया):**
+> आप गणना रखती हैं। आप ख़त रखती हैं। एक और से कुछ नहीं—
 >
-> **केसा (संवाद, flat):**
-> I hold what was given. I don't take deposits.
+> **केसा (संवाद, सपाट):**
+> जो दिया गया वो मैं रखती हूँ। मैं जमा नहीं लेती।
 
 ---
 
-## चित्र-खाना 3 — Close, the queue grows (~13%)
+## पैनल ३ — क्लोज़, कतार बढ़ती है (~१३%)
 
-**कैमरा:** The queue from Kessa's perspective: faces she has known for years, all carrying
-papers, all afraid. The market's fear has a new shape — not the Council's re-stamp, but the
-principal's paperwork. The box is the only safe place they can name.
+**कैमरा:** केसा की दृष्टि से कतार: ऐसे चेहरे जिन्हें वह सालों से जानती है, सब कागज़ लिए, सब डरे हुए।
+बाज़ार के डर का नया आकार है — परिषद की दोबारा-मुहर नहीं, बल्कि प्रमुख का कागज़ी काम। बक्सा अकेली ऐसी
+सुरक्षित जगह है जिसका नाम वे ले सकते हैं।
 
-**चित्र:** The queue is quiet and dignified and afraid. Kessa sees each face the way she sees
-each debt-mark: as information.
+**दृश्य:** कतार चुप है और गरिमापूर्ण है और डरी हुई है। केसा हर चेहरे को वैसे देखती है जैसे हर ऋण-निशान
+को: सूचना के रूप में।
 
-> **शीर्षक (Ira's voice, small):**
-> The basin doesn't want protection. It wants a lock. Kessa's lockbox just became the market's
-> safe-deposit, and she never advertised.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> गर्त को सुरक्षा नहीं चाहिए। उसे ताला चाहिए। केसा का ताला-बक्सा अभी बाज़ार का तिजोरी-घर बन गया, और
+> उसने कभी इश्तिहार नहीं दिया।
 
 ---
 
-## चित्र-खाना 4 — Medium, the three threads (~14%)
+## पैनल ४ — मध्यम, तीन धागे (~१४%)
 
-**कैमरा:** The counter's corner: the three threads still laid out from Page 005 — cut-end,
-counter-gift, Ira's own. Ira's hand moves across them, comparing. Kessa watches the queue with
-one eye and the threads with the other.
+**कैमरा:** काउंटर का कोना: पृष्ठ ००५ से अब भी बिछे तीन धागे — कट-सिरा, काउंटर-तोहफ़ा, इरा का अपना।
+इरा का हाथ उनके ऊपर चलता है, तुलना करता हुआ। केसा एक आँख से कतार देखती है और दूसरी से धागे।
 
-**चित्र:** The three threads as the page's anchor: same colour, same gauge, three ages. Ira's
-fingers trace the counter-gift — the fresh one, left overnight.
+**दृश्य:** तीन धागे इस पृष्ठ का लंगर हैं: वही रंग, वही माप, तीन उम्रें। इरा की उँगलियाँ
+काउंटर-तोहफ़े को छूती हैं — वह ताज़े को, जो रात भर में छोड़ा गया।
 
-> **इरा (संवाद, to the thread):**
-> This one was left while we slept. On a counter that faces the whole row. Nobody saw.
+> **इरा (संवाद, धागे से):**
+> यह तब छोड़ा गया जब हम सो रहे थे। ऐसे काउंटर पर जिसका मुँह पूरी कतार की ओर है। किसी ने नहीं देखा।
 >
-> **केसा (संवाद, from the queue):**
-> Nobody ever sees thread-work. That's why it's thread-work.
+> **केसा (संवाद, कतार से):**
+> धागे का काम कोई कभी नहीं देखता। इसीलिए वह धागे का काम है।
 
 ---
 
-## चित्र-खाना 5 — Wide, the afternoon (~13%)
+## पैनल ५ — व्यापक, दोपहर बाद (~१३%)
 
-**कैमरा:** Afternoon: the queue is gone. Kessa sits alone at the counter, the lockbox closed,
-the three threads stored inside it now — four objects: cut-end, census, posting order, gift-thread.
-Her tally-thread has new knots: one for each refused request.
+**कैमरा:** दोपहर बाद: कतार गई। केसा अकेली काउंटर पर बैठी है, ताला-बक्सा बन्द, तीनों धागे अब उसके
+भीतर रखे — चार चीज़ें: कट-सिरा, गणना, स्थानांतरण-आदेश, तोहफ़ा-धागा। उसकी गिनती-डोर में नई गाँठें हैं:
+हर ठुकराए गए अनुरोध के लिए एक।
 
-**चित्र:** Kessa's tally-thread is heavier than yesterday. The lockbox is heavier than yesterday.
-The stall is the same.
+**दृश्य:** केसा की गिनती-डोर कल से भारी है। ताला-बक्सा कल से भारी है। ठेला वैसा ही है।
 
-> **शीर्षक (none spoken):**
-> Four refused. One box. The basin's fear has found its address.
-
----
-
-## चित्र-खाना 6 — Medium, Rekhak passes (~13%)
-
-**कैमरा:** Through the market, without stopping: Rekhak Vahni walks the row on his rounds as
-Reckoner-of-record. Chain running, oath-link dark, collar high. He passes the Knot & Nail without
-looking — procedure does not revisit unsigned slates. But his chain hums as he passes, and the
-hum is one note different.
-
-**चित्र:** Rekhak in motion, not stopping, not looking. The chain's hum is the only event. One note
-different — the first variation since the silent second.
-
-> **शीर्षक (Ira's voice, small):**
-> His chain hummed as he passed. One note different. I know that note. I've heard it in my sleep.
+> **कैप्शन (कोई बोलता नहीं):**
+> चार ठुकराए। एक बक्सा। गर्त के डर को अपना पता मिल गया है।
 
 ---
 
-## चित्र-खाना 7 — Close, the note — HOOK (~19%)
+## पैनल ६ — मध्यम, रेखक गुज़रता है (~१३%)
 
-**कैमरा:** On Ira's face, eyes tracking Rekhak's retreating form. The note from the chain hangs
-in the air — off-key, familiar, *wrong*. Not wrong as in incorrect. Wrong as in *the same melody,
-played in the wrong key.* The four notes: her mother's four notes, hummed through brass instead of
-a human throat.
+**कैमरा:** बाज़ार से, बिना रुके: रेखक वह्नि अभिलेख-रेखक के रूप में अपने फेरे पर कतार में चलता है।
+ज़ंजीर चलती हुई, शपथ-कड़ी काली, कॉलर ऊँचा। वह गाँठ और कील के पास से बिना देखे गुज़रता है — प्रक्रिया
+बिना हस्ताक्षर वाले पट्टों पर लौटती नहीं। पर गुज़रते समय उसकी ज़ंजीर गुनगुनाती है, और गुनगुनाहट एक स्वर
+अलग है।
 
-**चित्र:** Ira's eyes widen. Not shock — recognition. The four notes are in the chain's hum, but
-they don't match. They match *wrongly*. The melody is there; the pitch is wrong; the key is wrong;
-the timing is wrong. But the *shape* is identical.
+**दृश्य:** रेखक गति में, न रुकता, न देखता। ज़ंजीर की गुनगुनाहट अकेली घटना है। एक स्वर अलग — उस मौन
+क्षण के बाद पहला बदलाव।
 
-> **शीर्षक (Ira's voice, smallest):**
-> Four notes. Off-key. The same shape, the same count, the wrong pitch. Not her voice. His chain.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> गुज़रते समय उसकी ज़ंजीर गुनगुनाई। एक स्वर अलग। मैं वह स्वर जानती हूँ। मैंने उसे नींद में सुना है।
+
+---
+
+## पैनल ७ — क्लोज़, स्वर — हुक (~१९%)
+
+**कैमरा:** इरा के चेहरे पर, आँखें रेखक की दूर होती आकृति पर। ज़ंजीर से निकला स्वर हवा में लटका है —
+बेसुरा, जाना-पहचाना, *ग़लत*। ग़लत यानी अशुद्ध नहीं। ग़लत यानी *वही धुन, ग़लत सुर में बजाई हुई।*
+चार स्वर: उसकी माँ के चार स्वर, पीतल से गुनगुनाए हुए, किसी मानव कंठ के बजाय।
+
+**दृश्य:** इरा की आँखें फैलती हैं। झटका नहीं — पहचान। चार स्वर ज़ंजीर की गुनगुनाहट में हैं, पर वे मेल
+नहीं खाते। वे *ग़लत* मेल खाते हैं। धुन वहाँ है; सुर ग़लत है; ताल ग़लत है; समय ग़लत है। पर *आकार*
+बिल्कुल एक जैसा है।
+
+> **कैप्शन (इरा का स्वर, सबसे धीमा):**
+> चार स्वर। बेसुरे। वही आकार, वही गिनती, ग़लत सुर। उसकी आवाज़ नहीं। उसकी ज़ंजीर।
 >
-> **शीर्षक (none spoken):**
-> The four notes matched for the first time. They matched *wrongly*.
+> **कैप्शन (कोई बोलता नहीं):**
+> चार स्वर पहली बार मिले। वे *ग़लत* मिले।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The basin's filing instinct** is the page's social observation: the lockbox's new role as
-  safe-deposit comes from fear, not trust. Kessa's refusal is commercial (she doesn't take
-  deposits) and moral (she won't be the basin's bank).
-- **The four notes match wrongly** — this is the chapter's planted payoff. The chain hums the
-  same four-note shape as Ira's mother's sewing melody, but in the wrong key, wrong pitch,
-  wrong timing. The *shape* is the match; the *sound* is wrong. Do not resolve why.
-- **Rekhak does not stop at the stall.** Procedure does not revisit. The chain's hum is
-  involuntary — the oath-link or the deepening debt, not a choice.
-- **Chain budget: still unspent.** The chain-stop is reserved for a later page in the chapter.
-  The hum's note-variation is not a stop; it is a *drift*.
+- **गर्त की दाख़िला-प्रवृत्ति** इस पृष्ठ का सामाजिक निरीक्षण है: ताला-बक्से की नई भूमिका
+  तिजोरी-घर के रूप में डर से आती है, भरोसे से नहीं। केसा का इनकार व्यापारिक है (वह जमा नहीं लेती)
+  और नैतिक भी (वह गर्त का बैंक नहीं बनेगी)।
+- **चार स्वर ग़लत मिलते हैं** — यह इस अध्याय का बोया हुआ फल है। ज़ंजीर वही चार-स्वर आकार गुनगुनाती है
+  जो इरा की माँ की सिलाई-धुन का है, पर ग़लत सुर, ग़लत पिच, ग़लत समय में। *आकार* मेल है; *ध्वनि*
+  ग़लत है। क्यों, यह न सुलझाएँ।
+- **रेखक ठेले पर नहीं रुकता।** प्रक्रिया लौटती नहीं। ज़ंजीर की गुनगुनाहट अनैच्छिक है — शपथ-कड़ी या
+  गहराता ऋण, कोई चुनाव नहीं।
+- **ज़ंजीर बजट: अब भी अख़र्च।** ज़ंजीर-रोक अध्याय के किसी बाद के पृष्ठ के लिए आरक्षित है। गुनगुनाहट
+  का स्वर-परिवर्तन रोक नहीं है; वह *बहाव* है।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The basin's filing queue | Event card — *The Market's Fear Finds Its Address* |
-| "I don't take deposits." | Event card — *Kessa Refuses the Basin* |
-| The four notes, wrong key | Lore card — *Wrong Match* |
-| The chain hum, one note different | Relic card — *Chain Drift* |
+| गर्त की दाख़िला-कतार | इवेंट कार्ड — *बाज़ार के डर को पता मिला* |
+| "मैं जमा नहीं लेती।" | इवेंट कार्ड — *केसा ने गर्त को ठुकराया* |
+| चार स्वर, ग़लत सुर | लोर कार्ड — *ग़लत मेल* |
+| ज़ंजीर की गुनगुनाहट, एक स्वर अलग | रिलिक कार्ड — *ज़ंजीर का बहाव* |

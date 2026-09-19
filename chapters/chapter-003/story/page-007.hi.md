@@ -1,147 +1,148 @@
-# THREADBORN — Chapter 03 — Page 007
+# सुत्रजात (THREADBORN) — अध्याय ०३ — पृष्ठ ००७
 
-**अध्याय शीर्षक:** *The Hand That Opens* / *वह हाथ जो खोलता है*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (next morning)
-**पृष्ठ प्रकार:** The reading — 7 panels, hook at the bottom
+**अध्याय शीर्षक:** *वह हाथ जो खोलता है*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (अगली सुबह)
+**पृष्ठ प्रकार:** पढ़ाई — ७ पैनल, अन्त में हुक
 
-> पिछले पृष्ठ से: Page 006: the four notes matching wrongly through Rekhak's chain, the
-> basin's filing queue, Kessa's refusal. Page 002: the oath-link visible but unread.
+> English source: [`page-007.md`](page-007.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the stall at dawn (~14%)
-
-**कैमरा:** Dawn, Knot & Nail: Ira arrives before the first bell, kit on her back. Kessa is
-already behind the counter, loupe down, lockbox open. The four objects are out on the counter:
-cut-end, census, posting order, gift-thread. An appraisal is in progress.
-
-**चित्र:** The stall is in its working configuration: Kessa appraising, Ira arriving. The
-lockbox is open and heavy with evidence.
-
-> **शीर्षक (Ira's voice, small):**
-> I came to ask about the four notes. She had already started without me.
+> पृष्ठ ००६ से आगे आते सूत्र: रेखक की ज़ंजीर से ग़लत मेल खाते चार स्वर, गर्त की दाख़िला-कतार, केसा का
+> इनकार। पृष्ठ ००२: शपथ-कड़ी दिखती है पर पढ़ी नहीं जाती।
 
 ---
 
-## चित्र-खाना 2 — Medium, the question (~13%)
+## पैनल १ — व्यापक, भोर के समय ठेला (~१४%)
 
-**कैमरा:** Ira across the counter, face level with Kessa's. The question from Page 006's hook.
+**कैमरा:** भोर, गाँठ और कील: इरा पहली घंटी से पहले पहुँचती है, थैली पीठ पर। केसा पहले से काउंटर के पीछे
+है, लूप नीचे, ताला-बक्सा खुला। चारों चीज़ें काउंटर पर बाहर हैं: कट-सिरा, गणना, स्थानांतरण-आदेश,
+तोहफ़ा-धागा। परख चल रही है।
 
-**चित्र:** Two faces close, lamplight between them.
+**दृश्य:** ठेला अपनी कामकाजी अवस्था में: केसा परखती हुई, इरा पहुँचती हुई। ताला-बक्सा खुला और सबूतों
+से भारी।
 
-> **इरा (संवाद, quiet):**
-> His chain hummed my mother's four notes. Wrong key. Wrong pitch. Same shape.
->
-> **IRA (dialogue):**
-> How does a Reckoner's chain carry a melody that was only ever hummed in one room?
-
----
-
-## चित्र-खाना 3 — Close, Kessa's answer (~14%)
-
-**कैमरा:** Kessa's hands on the counter: one on the lockbox lid, one on the tally-thread. She
-does not answer the question directly. She answers it with a fact.
-
-**चित्र:** Kessa's loupe-eye is on Ira. Her bare eye is on the box.
-
-> **केसा (संवाद, dry):**
-> Chains carry what's sworn to them. His chain held a held-stop oath. The oath was about you.
->
-> **KESSA (dialogue):**
-> Anything sworn about you goes into the chain. Including the shape of sounds that were near you
-> when the oath was made.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> मैं चार स्वरों के बारे में पूछने आई थी। उसने मेरे बिना ही शुरू कर दिया था।
 
 ---
 
-## चित्र-खाना 4 — Medium, the connection (~13%)
+## पैनल २ — मध्यम, सवाल (~१३%)
 
-**कैमरा:** On Ira's face: understanding. The four notes were humming in the room when she was
-born — her mother sewed and hummed. The stitch on her palm was sewn with those notes in the air.
-Rekhak's oath was about the fold in her palm. The chain recorded everything near the oath,
-including the ghost of the melody.
+**कैमरा:** इरा काउंटर के पार, चेहरा केसा के चेहरे के बराबर। पृष्ठ ००६ के हुक का सवाल।
 
-**चित्र:** Ira's hand goes to her palm — the stitch, the source.
+**दृश्य:** दो चेहरे क़रीब, बीच में लालटेन की रोशनी।
 
-> **इरा (संवाद, flat):**
-> The notes were in the room when I was sewn. The oath is about the seam. The chain picked up the
-> echo.
+> **इरा (संवाद, धीमा):**
+> उसकी ज़ंजीर ने मेरी माँ के चार स्वर गुनगुनाए। ग़लत सुर। ग़लत पिच। वही आकार।
 >
-> **KESSA (dialogue):**
-> An echo, not a voice. That's why it's wrong.
+> **इरा (संवाद):**
+> एक रेखक की ज़ंजीर ऐसी धुन कैसे ढो सकती है जो कभी एक ही कमरे में गुनगुनाई गई थी?
 
 ---
 
-## चित्र-खाना 5 — Macro, the oath-link (~14%)
+## पैनल ३ — क्लोज़, केसा का जवाब (~१४%)
 
-**कैमरा:** Ira's question, asked at last: she wants to read the oath-link. Not today — she is
-asking permission from the only person who might know whether reading it costs something.
+**कैमरा:** काउंटर पर केसा के हाथ: एक ताला-बक्से के ढक्कन पर, एक गिनती-डोर पर। वह सवाल का सीधा जवाब
+नहीं देती। वह उसका जवाब एक तथ्य से देती है।
 
-**चित्र:** Ira's eyes on Kessa's, asking without words.
+**दृश्य:** केसा की लूप-आँख इरा पर है। उसकी खुली आँख बक्से पर।
 
-> **इरा (संवाद, small):**
-> Can I read it?
+> **केसा (संवाद, सूखा):**
+> ज़ंजीरें वह ढोती हैं जो उनसे शपथ लिया जाए। उसकी ज़ंजीर ने एक थामी-रोक शपथ रखी थी। शपथ तुम्हारे
+> बारे में थी।
 >
-> **केसा (संवाद, after a long beat):**
-> Reading a held-stop oath is free. What you do after is not.
->
-> **KESSA (dialogue):**
-> When you're ready to carry what it says, read it. Not before.
+> **केसा (संवाद):**
+> तुम्हारे बारे में जो भी शपथ लिया जाए, वह ज़ंजीर में चला जाता है। उन आवाज़ों का आकार भी, जो शपथ के
+> समय तुम्हारे पास थीं।
 
 ---
 
-## चित्र-खाना 6 — Medium, the stall settles (~13%)
+## पैनल ४ — मध्यम, सम्बन्ध (~१३%)
 
-**कैमरा:** The morning normalises: Kessa closes the lockbox, returns it to its place. Ira
-opens her kit. A first customer approaches — a dock worker with a torn mark. The Knot & Nail is
-a pawn stall again, for this one moment.
+**कैमरा:** इरा के चेहरे पर: समझ। जब वह पैदा हुई तो चार स्वर कमरे में गुनगुनाते थे — उसकी माँ सीती थी और
+गुनगुनाती थी। उसकी हथेली की सिलाई उन स्वरों के बीच सीई गई थी। रेखक की शपथ उसकी हथेली की मोड़ के बारे
+में थी। ज़ंजीर ने शपथ के आस-पास की हर चीज़ दर्ज कर ली, उस धुन के प्रेत सहित।
 
-**चित्र:** Business as usual: Kessa appraises, Ira mends. The lockbox is under the counter. The
-four objects are inside.
+**दृश्य:** इरा का हाथ उसकी हथेली पर जाता है — सिलाई, स्रोत।
 
-> **शीर्षक (none spoken):**
-> The lockbox holds four objects. The chain carries an echo. The cutter practises at night. And
-> in the Knot & Nail, two women work — one appraises, one mends — and neither says the word
-> they are both thinking.
+> **इरा (संवाद, सपाट):**
+> जब मुझे सीया गया तब स्वर कमरे में थे। शपथ सीवन के बारे में है। ज़ंजीर ने प्रतिध्वनि उठा ली।
+>
+> **केसा (संवाद):**
+> प्रतिध्वनि, आवाज़ नहीं। इसीलिए वह ग़लत है।
 
 ---
 
-## चित्र-खाना 7 — Macro, the stitch — HOOK (~19%)
+## पैनल ५ — मैक्रो, शपथ-कड़ी (~१४%)
 
-**कैमरा:** Ira's palm, mid-mend: the needle passes through a stranger's mark, and the stitch
-on her own palm catches the light. For one frame — one panel — the stitch *moves*. Not much. A
-tremor, a shift, the faintest change in tension. The first movement since it was sewn.
+**कैमरा:** इरा का सवाल, आख़िरकार पूछा गया: वह शपथ-कड़ी पढ़ना चाहती है। आज नहीं — वह उस अकेले व्यक्ति
+से अनुमति माँग रही है जिसे शायद पता हो कि पढ़ने की क़ीमत कुछ है या नहीं।
 
-**चित्र:** The stitch on Ira's palm shifts. It does not open. It does not break. It *adjusts* —
-the way a knot settles when the rope it's tied to changes direction.
+**दृश्य:** इरा की आँखें केसा की आँखों पर, बिना शब्द पूछती हुई।
 
-> **ध्वनि:** (tiny, in the stitch) *—*
+> **इरा (संवाद, धीमा):**
+> क्या मैं इसे पढ़ सकती हूँ?
 >
-> **शीर्षक (Ira's voice, smallest):**
-> It moved.
+> **केसा (संवाद, लम्बे ठहराव के बाद):**
+> थामी-रोक शपथ पढ़ना मुफ़्त है। उसके बाद तुम जो करोगी, वह नहीं।
 >
-> **शीर्षक (none spoken):**
-> The stitch that has held for fifteen years adjusted to the weight of what she now knows.
-> Not a release. Not an opening. A *recognition*.
+> **केसा (संवाद):**
+> जब तुम इसे ढोने के लिए तैयार हो, तब पढ़ो। उससे पहले नहीं।
+
+---
+
+## पैनल ६ — मध्यम, ठेला सामान्य होता है (~१३%)
+
+**कैमरा:** सुबह सामान्य हो जाती है: केसा ताला-बक्सा बन्द करती है, उसे उसकी जगह लौटाती है। इरा अपनी
+थैली खोलती है। पहला ग्राहक आता है — एक गोदी-मज़दूर, फटे निशान के साथ। गाँठ और कील इस एक क्षण के लिए
+फिर से गिरवी-दुकान है।
+
+**दृश्य:** रोज़ का काम: केसा परखती है, इरा सीती है। ताला-बक्सा काउंटर के नीचे। चारों चीज़ें भीतर।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> ताला-बक्से में चार चीज़ें हैं। ज़ंजीर एक प्रतिध्वनि ढोती है। काटने वाला रात में अभ्यास करता है। और
+> गाँठ और कील में दो औरतें काम करती हैं — एक परखती है, एक सीती है — और कोई भी वह शब्द नहीं कहती जो
+> दोनों सोच रही हैं।
+
+---
+
+## पैनल ७ — मैक्रो, सिलाई — हुक (~१९%)
+
+**कैमरा:** इरा की हथेली, सिलाई के बीच: सुई एक अजनबी के निशान से गुज़रती है, और उसकी अपनी हथेली की सिलाई
+रोशनी पकड़ती है। एक फ़्रेम के लिए — एक पैनल — सिलाई *हिलती* है। ज़्यादा नहीं। एक कँपकँपी, एक खिसकाव,
+तनाव में सबसे हल्का बदलाव। सीए जाने के बाद पहली हरकत।
+
+**दृश्य:** इरा की हथेली की सिलाई खिसकती है। वह खुलती नहीं। वह टूटती नहीं। वह *समायोजित* होती है —
+वैसे जैसे कोई गाँठ बैठ जाती है जब जिस रस्सी पर वह बँधी है, वह दिशा बदल दे।
+
+> **ध्वनि:** (सिलाई में सूक्ष्म) *—*
+>
+> **कैप्शन (इरा का स्वर, सबसे धीमा):**
+> वह हिली।
+>
+> **कैप्शन (कोई बोलता नहीं):**
+> वह सिलाई जो पन्द्रह साल से टिकी थी, उस भार के अनुसार समायोजित हो गई जो अब इरा जानती है। मुक्ति नहीं।
+> खुलना नहीं। एक *पहचान*।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The echo explanation** is Kessa's: the chain recorded the melody's shape because it was
-  present when the oath was sworn. This is canon — chains carry environmental echoes of
-  oaths. Do not over-explain; Kessa's two sentences are enough.
-- **The stitch moves** — this is the chapter's power event. Not a dramatic burst; a quiet
-  adjustment. The stitch recognises that Ira now knows what it is (an inheritance, not an
-  origin). It does not open. It shifts.
-- **"When you're ready to carry what it says"** — Kessa's warning about the oath-link is
-  a planted seed for a much later arc. Do not resolve it this chapter.
-- **Chain budget: the chapter's one stop is approaching.** Do not spend it yet.
+- **प्रतिध्वनि की व्याख्या** केसा की है: ज़ंजीर ने धुन का आकार दर्ज किया क्योंकि वह शपथ लेने के समय
+  मौजूद थी। यह कैनन है — ज़ंजीरें शपथों की परिवेशीय प्रतिध्वनियाँ ढोती हैं। ज़्यादा न समझाएँ; केसा के
+  दो वाक्य काफ़ी हैं।
+- **सिलाई हिलती है** — यह इस अध्याय की शक्ति-घटना है। नाटकीय विस्फोट नहीं; एक शान्त समायोजन। सिलाई
+  पहचानती है कि इरा अब जानती है कि वह क्या है (विरासत, उत्पत्ति नहीं)। वह खुलती नहीं। वह खिसकती है।
+- **"जब तुम इसे ढोने के लिए तैयार हो"** — शपथ-कड़ी के बारे में केसा की चेतावनी बहुत बाद के आर्क के लिए
+  बोया गया बीज है। इस अध्याय में इसे न सुलझाएँ।
+- **ज़ंजीर बजट: अध्याय की एकमात्र रोक निकट है।** अभी ख़र्च न करें।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The echo in the chain | Lore card — *Chain Memory* |
-| "Reading is free. What you do after is not." | Event card — *The Cost After* |
-| The stitch moves | Power card — *First Recognition* (Ira's palm) |
+| ज़ंजीर में प्रतिध्वनि | लोर कार्ड — *ज़ंजीर की स्मृति* |
+| "पढ़ना मुफ़्त है। उसके बाद जो करोगी, वह नहीं।" | इवेंट कार्ड — *बाद की क़ीमत* |
+| सिलाई हिलती है | पावर कार्ड — *पहली पहचान* (इरा की हथेली) |

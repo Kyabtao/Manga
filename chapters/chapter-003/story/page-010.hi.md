@@ -1,161 +1,163 @@
-# THREADBORN — Chapter 03 — Page 010 — FINALE
+# सुत्रजात (THREADBORN) — अध्याय ०३ — पृष्ठ ०१० — अन्तिम
 
-**अध्याय शीर्षक:** *The Hand That Opens* / *वह हाथ जो खोलता है*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin (the Knot & Nail, the dock, the roof)
-**पृष्ठ प्रकार:** Chapter finale — 7 panels
+**अध्याय शीर्षक:** *वह हाथ जो खोलता है*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त (गाँठ और कील, गोदी, छत)
+**पृष्ठ प्रकार:** अध्याय-अन्त — ७ पैनल
 
-> पिछले पृष्ठ से: Page 009: the chain-stop confession, the oath-link holding two oaths, Rekhak's
-> "I saw what you are." Page 008: the cut-end moves, the four-object portrait. Page 007: the stitch's
-> first movement. Page 005: the cutter's nightly visit. Page 003: Bhan's arm left readable.
+> English source: [`page-010.md`](page-010.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> पृष्ठ ००९ से आगे आते सूत्र: ज़ंजीर-रोक स्वीकारोक्ति, शपथ-कड़ी दो शपथें थामे हुए, रेखक का "मैंने देखा
+> कि तुम क्या हो।" पृष्ठ ००८: कट-सिरा हिलता है, चार-वस्तु वाला चित्र। पृष्ठ ००७: सिलाई की पहली हरकत।
+> पृष्ठ ००५: काटने वाले की रात्रि-यात्रा। पृष्ठ ००३: भान की बाँह पढ़ने योग्य छोड़ी गई।
 >
-> **Chapter 003 budget closed:** chain-stop spent on Page 009. Four notes matched *wrongly* on
-> Page 006. Sewer still unnamed. The box held four objects; the fifth arrives on this page.
+> **अध्याय ००३ का बजट बन्द:** ज़ंजीर-रोक पृष्ठ ००९ पर ख़र्च। चार स्वर पृष्ठ ००६ पर *ग़लत* मेल खाए।
+> सीवर अब भी अनाम। बक्से में चार चीज़ें थीं; पाँचवीं इस पृष्ठ पर आती है।
 
 ---
 
-## चित्र-खाना 1 — Wide, the Knot & Nail after (~14%)
+## पैनल १ — व्यापक, उसके बाद गाँठ और कील (~१४%)
 
-**कैमरा:** The Knot & Nail, afternoon: Rekhak has gone. Kessa sits behind the counter, loupe up,
-lockbox open. Ira stands at the threshold, one foot in the stall, one in the basin. The oath-link's
-weight hangs in the air between the two women.
+**कैमरा:** गाँठ और कील, दोपहर बाद: रेखक जा चुका है। केसा काउंटर के पीछे बैठी है, लूप ऊपर, ताला-बक्सा
+खुला। इरा दरवाज़े पर खड़ी है, एक पैर ठेले में, एक गर्त में। शपथ-कड़ी का बोझ दोनों औरतों के बीच हवा में
+लटका है।
 
-**चित्र:** The stall after the confession: nothing has changed and everything is heavier. Kessa's
-hands are still on the counter. The lockbox is open.
+**दृश्य:** स्वीकारोक्ति के बाद का ठेला: कुछ नहीं बदला और सब कुछ भारी है। केसा के हाथ अब भी काउंटर पर।
+ताला-बक्सा खुला।
 
-> **शीर्षक (Ira's voice, small):**
-> He saw what I am. He lied to protect it. And the chain recorded both.
-
----
-
-## चित्र-खाना 2 — Medium, Kessa's verdict (~13%)
-
-**कैमरा:** Kessa's hands: she ties a new knot in the tally-thread — the confession is filed.
-Then she does something unexpected: she closes the lockbox and pushes it across the counter toward
-Ira. Not giving it to her. *Sharing* it.
-
-**चित्र:** The box slides across the counter. Kessa's hands release it. Ira's hands receive it.
-The first time anyone else has touched the box.
-
-> **केसा (संवाद, dry):**
-> You read a Reckoner's chain in my stall. You stitched the evidence. You left the mark. And now
-> you know what the Reckoner saw.
->
-> **KESSA (dialogue):**
-> The box is yours too, child. It has been since the first thread.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> उसने देखा कि मैं क्या हूँ। उसने इसे बचाने के लिए झूठ बोला। और ज़ंजीर ने दोनों दर्ज कर लिए।
 
 ---
 
-## चित्र-खाना 3 — Close, the box between them (~14%)
+## पैनल २ — मध्यम, केसा का फ़ैसला (~१३%)
 
-**कैमरा:** The lockbox between two pairs of hands: Kessa's scarred Kshudra hands on one side,
-Ira's calloused mender's gloves on the other. The box is closed. Four objects inside. The
-tally-thread is heavier than it was at the chapter's start.
+**कैमरा:** केसा के हाथ: वह गिनती-डोर में एक नई गाँठ बाँधती है — स्वीकारोक्ति दाख़िल हो गई। फिर वह
+अप्रत्याशित कुछ करती है: वह ताला-बक्सा बन्द करती है और उसे काउंटर के आर-पार इरा की ओर सरका देती है।
+उसे दे नहीं रही। उसे *बाँट* रही है।
 
-**चित्र:** The box as shared property: not a gift, not a transfer, a *partnership*. Two women
-and a box that holds the basin's most dangerous truths.
+**दृश्य:** बक्सा काउंटर पर सरकता है। केसा के हाथ उसे छोड़ देते हैं। इरा के हाथ उसे ग्रहण करते हैं।
+पहली बार किसी और ने बक्से को छुआ है।
 
-> **शीर्षक (none spoken):**
-> The Knot & Nail keeps its lock. The lockbox keeps its key. But the box has two hands on it now.
+> **केसा (संवाद, सूखा):**
+> तुमने मेरे ठेले में एक रेखक की ज़ंजीर पढ़ी। तुमने सबूत सी दिया। तुमने निशान छोड़ा। और अब तुम जानती हो
+> कि रेखक ने क्या देखा।
+>
+> **केसा (संवाद):**
+> बक्सा तुम्हारा भी है, बच्ची। पहले धागे से है।
 
 ---
 
-## चित्र-खाना 4 — Medium, the dock at dusk (~13%)
+## पैनल ३ — क्लोज़, उनके बीच बक्सा (~१४%)
 
-**कैमरा:** Dock three, dusk: Bhan at the grain-lift, sleeve rolled up. The nightly cut is there
-— same turn-back, same angle — but tonight something is different. Beside the cut, the charcoal
-mark Ira left is still sewn in (the cutter kept it). And beside that, a new mark: the cutter has
-left a second thread, identical to the first, looped once around the mend's edge.
+**कैमरा:** दो जोड़ी हाथों के बीच ताला-बक्सा: एक ओर केसा के निशानदार क्षुद्र हाथ, दूसरी ओर इरा के
+गठीले सिलाईकर्ता-दस्ताने। बक्सा बन्द है। भीतर चार चीज़ें। गिनती-डोर अध्याय के आरम्भ से भारी है।
 
-**चित्र:** Bhan's arm is now a conversation: Ira's mend, the cutter's nightly opening, the
-charcoal mark, and now a second thread-loop. The arm is a page with three authors.
+**दृश्य:** बक्सा साझा सम्पत्ति के रूप में: तोहफ़ा नहीं, हस्तांतरण नहीं, एक *साझेदारी*। दो औरतें और एक
+बक्सा जो गर्त के सबसे ख़तरनाक सच थामे है।
 
-> **शीर्षक (none spoken):**
-> Night fifty-four. The arm is read. The mark is kept. The cutter replies.
+> **कैप्शन (कोई बोलता नहीं):**
+> गाँठ और कील अपना ताला रखती है। ताला-बक्सा अपनी चाबी रखता है। पर बक्से पर अब दो हाथ हैं।
 
 ---
 
-## चित्र-खाना 5 — Wide, the roof at night (~13%)
+## पैनल ४ — मध्यम, गोधूलि में गोदी (~१३%)
 
-**कैमरा:** Ira on her roof, under the turning Loom — the same position as Chapter 1 Page 010.
-The Loom turns. The Spindle is steady. Ash falls. She holds her palm open, stitch visible, and
-looks at it with the knowledge of what it is: an inheritance, a school's diploma, a forty-year-old
-thread's younger sibling.
+**कैमरा:** गोदी तीन, गोधूलि: भान अनाज-उत्थापक पर, आस्तीन चढ़ी। रात की कटाई वहाँ है — वही मोड़-सिरा,
+वही कोण — पर आज रात कुछ अलग है। कटाई के बगल में, इरा जो कोयला-निशान छोड़ गई थी, वह अब भी सीया हुआ
+है (काटने वाले ने उसे रखा)। और उसके बगल में एक नया निशान: काटने वाले ने दूसरा धागा छोड़ा है, पहले
+जैसा ही, सिलाई के किनारे एक बार लिपटा हुआ।
 
-**चित्र:** Ira on the roof, palm open, the Loom above. The stitch is visible and still. She is
-not vowing tonight. She is *seeing*.
+**दृश्य:** भान की बाँह अब एक बातचीत है: इरा की सिलाई, काटने वाले का रात्रि-उद्घाटन, कोयला-निशान, और
+अब दूसरा धागा-लपेट। बाँह तीन लेखकों वाला पृष्ठ है।
 
-> **शीर्षक (Ira's voice, small):**
-> The cutter taught my stitch. The sewer closed my hand. The Reckoner saw what I am. The chain
-> recorded the lie. And the box holds all of it.
->
-> **शीर्षक (smaller):**
-> I am not empty. I am *filed*.
+> **कैप्शन (कोई बोलता नहीं):**
+> चौवनवीं रात। बाँह पढ़ी गई। निशान रखा गया। काटने वाला जवाब देता है।
 
 ---
 
-## चित्र-खाना 6 — Close, the palm (~14%)
+## पैनल ५ — व्यापक, रात में छत (~१३%)
 
-**कैमरा:** Extreme close on Ira's palm: the stitch, the faint tremor from Pages 007–008, the
-whorl-grain in the old seam. The stitch has not opened. It has not broken. But it has *settled* —
-the way a question settles when the answer is known but not yet spoken.
+**कैमरा:** इरा अपनी छत पर, घूमते सूत्र-यन्त्र के नीचे — वही स्थिति जो अध्याय ००१ पृष्ठ ०१० की थी।
+सूत्र-यन्त्र घूमता है। तकुआ स्थिर है। राख गिरती है। वह अपनी हथेली खुली रखे है, सिलाई दिखती हुई, और उसे
+इस ज्ञान के साथ देखती है कि वह क्या है: एक विरासत, एक विद्या का डिप्लोमा, चालीस साल पुराने धागे का
+छोटा भाई।
 
-**चित्र:** The stitch is the same as Page 001 of Chapter 1 — but now the reader knows what it is.
-The same image, reread with everything the chapters have taught.
+**दृश्य:** इरा छत पर, हथेली खुली, ऊपर सूत्र-यन्त्र। सिलाई दिखती है और स्थिर है। वह आज क़सम नहीं खा
+रही। वह *देख* रही है।
 
-> **शीर्षक (none spoken):**
-> That was the stitch everyone asked about.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> काटने वाले ने मेरी सिलाई सिखाई। सीवर ने मेरा हाथ बन्द किया। रेखक ने देखा कि मैं क्या हूँ। ज़ंजीर ने
+> झूठ दर्ज किया। और बक्सा यह सब थामे है।
 >
-> **शीर्षक (smaller):**
-> That was the hand that opened.
+> **कैप्शन (छोटा):**
+> मैं ख़ाली नहीं हूँ। मैं *दाख़िल* हूँ।
 
 ---
 
-## चित्र-खाना 7 — Wide, the basin sleeps — FINAL HOOK (~19%)
+## पैनल ६ — क्लोज़, हथेली (~१४%)
 
-**कैमरा:** Night, the basin from above: the Knot & Nail's shutters are up, Kessa's lamp is low,
-the lockbox is under the counter. The dock is quiet. Bhan sleeps with his sleeve down. The
-Council Stair is dark. And at the stair's foot, unseen by anyone, a small object lies on the
-lowest step: a **fifth piece of thread**, ash-grey, same gauge, same colour, looped once —
-identical to the thread the cutter left on Bhan's arm and the thread left on Kessa's counter.
+**कैमरा:** इरा की हथेली पर बहुत पास से: सिलाई, पृष्ठ ००७–००८ से वह हल्की कँपकँपी, पुराने सीवन में
+चक्र-दाना। सिलाई खुली नहीं है। वह टूटी नहीं है। पर वह *बैठ* चुकी है — वैसे जैसे कोई सवाल बैठ जाता है
+जब जवाब पता हो पर अभी कहा न गया हो।
 
-**चित्र:** The fifth thread on the Council Stair. Not at the Knot & Nail. Not at the dock. At the
-stair — the boundary between the basin and the terraces. The supply line has reached the Council's
-threshold.
+**दृश्य:** सिलाई वही है जो अध्याय ००१ के पृष्ठ ००१ में थी — पर अब पाठक जानता है कि वह क्या है। वही
+दृश्य, अध्यायों की सिखाई हर बात के साथ दोबारा पढ़ा हुआ।
 
-> **शीर्षक (none spoken):**
-> The box holds four objects. The basin holds its breath. The Reckoner holds his oath.
+> **कैप्शन (कोई बोलता नहीं):**
+> वह वही सिलाई थी जिसके बारे में सबने पूछा था।
 >
-> **शीर्षक (final box, smaller):**
-> At the foot of the Council Stair, one thread lies. Same colour. Same gauge. Same age as the
-> stitch on a girl's palm. The supply line has reached the threshold.
+> **कैप्शन (छोटा):**
+> वह वह हाथ था जिसने खोला।
+
+---
+
+## पैनल ७ — व्यापक, गर्त सोता है — अन्तिम हुक (~१९%)
+
+**कैमरा:** रात, ऊपर से गर्त: गाँठ और कील के शटर चढ़े हैं, केसा की लालटेन धीमी है, ताला-बक्सा काउंटर के
+नीचे। गोदी शान्त है। भान आस्तीन नीचे किए सोता है। परिषद-सीढ़ी अँधेरी है। और सीढ़ी के तल पर, किसी को
+दिखे बिना, सबसे निचली सीढ़ी पर एक छोटी चीज़ पड़ी है: **धागे का पाँचवाँ टुकड़ा**, राख-धूसर, वही माप,
+वही रंग, एक बार लिपटा हुआ — बिल्कुल वैसा ही जैसा काटने वाले ने भान की बाँह पर छोड़ा था और जैसा केसा के
+काउंटर पर छोड़ा गया था।
+
+**दृश्य:** परिषद-सीढ़ी पर पाँचवाँ धागा। गाँठ और कील पर नहीं। गोदी पर नहीं। सीढ़ी पर — गर्त और ऊपरी
+कगारों के बीच की सीमा पर। आपूर्ति-मार्ग परिषद की दहलीज़ तक पहुँच गया है।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> बक्से में चार चीज़ें हैं। गर्त अपनी साँस रोके है। रेखक अपनी शपथ थामे है।
 >
-> **शीर्षक (last line):**
-> The cutter is not coming to the basin. The cutter is leaving it.
+> **कैप्शन (अन्तिम बक्सा, छोटा):**
+> परिषद-सीढ़ी के तल पर एक धागा पड़ा है। वही रंग। वही माप। उसी उम्र का जो एक लड़की की हथेली पर सिलाई
+> है। आपूर्ति-मार्ग दहलीज़ तक पहुँच गया है।
 >
-> **END OF CHAPTER THREE.**
+> **कैप्शन (आख़िरी पंक्ति):**
+> काटने वाला गर्त में नहीं आ रहा। काटने वाला गर्त छोड़ रहा है।
+>
+> **अध्याय तीन समाप्त।**
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The box is shared** — Kessa's gesture of pushing it across the counter is the chapter's
-  emotional climax, not a dramatic revelation. The partnership is the thesis.
-- **The fifth thread on the Council Stair** is the chapter's closing hook: the supply line
-  reaches the terraces. The cutter is moving *up*, not staying in the basin.
-- **Ira on the roof** echoes Chapter 1 Page 010 — same position, different knowledge. Ch. 001:
-  *"Sleep."* Ch. 003: *"I am filed."*
-- **The stitch reread** is the same palm from Chapter 1 Page 001, seen with everything the
-  reader now knows. The image rhymes.
-- **Chain budget: spent (Page 009).** No more stops this chapter. Four notes: matched *wrongly*
-  (Page 006). Sewer: still unnamed. The Loom never speaks.
+- **बक्सा साझा हो जाता है** — केसा का उसे काउंटर के आर-पार सरकाना इस अध्याय का भावनात्मक शिखर है,
+  कोई नाटकीय उद्घाटन नहीं। साझेदारी ही सिद्धान्त है।
+- **परिषद-सीढ़ी पर पाँचवाँ धागा** इस अध्याय का समापन-हुक है: आपूर्ति-मार्ग ऊपरी कगारों तक पहुँच जाता
+  है। काटने वाला *ऊपर* जा रहा है, गर्त में रुका नहीं।
+- **छत पर इरा** अध्याय ००१ के पृष्ठ ०१० की प्रतिध्वनि है — वही स्थिति, अलग ज्ञान। अध्याय ००१: *"सो
+जाओ।"* अध्याय ००३: *"मैं दाख़िल हूँ।"*
+- **सिलाई की पुनः-पढ़ाई** अध्याय ००१ के पृष्ठ ००१ की वही हथेली है, जो अब पाठक के हर ज्ञान के साथ दिखती
+  है। दृश्य तुक मिलाता है।
+- **ज़ंजीर बजट: ख़र्च (पृष्ठ ००९)।** इस अध्याय में और रोक नहीं। चार स्वर: *ग़लत* मेल खाए (पृष्ठ ००६)।
+  सीवर: अब भी अनाम। सूत्र-यन्त्र कभी नहीं बोलता।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The box shared | Event card — *Two Hands on One Box* |
-| Bhan's arm, three authors | Lore card — *The Conversation Arm* |
-| "I am filed." | Lore card — *The Girl Who Was Counted* |
-| Fifth thread on the Council Stair | Lore card — *The Threshold Thread* |
-| The cutter leaves the basin | Lore card — *Supply Line Ascending* |
+| बक्सा साझा | इवेंट कार्ड — *एक बक्से पर दो हाथ* |
+| भान की बाँह, तीन लेखक | लोर कार्ड — *बातचीत वाली बाँह* |
+| "मैं दाख़िल हूँ।" | लोर कार्ड — *वह लड़की जिसे गिना गया* |
+| परिषद-सीढ़ी पर पाँचवाँ धागा | लोर कार्ड — *दहलीज़ का धागा* |
+| काटने वाला गर्त छोड़ता है | लोर कार्ड — *आपूर्ति-मार्ग चढ़ता हुआ* |

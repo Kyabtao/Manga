@@ -1,146 +1,146 @@
-# THREADBORN — Chapter 03 — Page 008
+# सुत्रजात (THREADBORN) — अध्याय ०३ — पृष्ठ ००८
 
-**अध्याय शीर्षक:** *The Hand That Opens* / *वह हाथ जो खोलता है*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (afternoon)
-**पृष्ठ प्रकार:** The census opens — 7 panels, hook at the bottom
+**अध्याय शीर्षक:** *वह हाथ जो खोलता है*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (दोपहर बाद)
+**पृष्ठ प्रकार:** गणना खुलती है — ७ पैनल, अन्त में हुक
 
-> पिछले पृष्ठ से: Page 007: the stitch's first movement, the echo explanation, the oath-link
-> unread. Page 005: the three threads as a family photograph. Page 001: the posting order.
+> English source: [`page-008.md`](page-008.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the afternoon appraisal (~14%)
-
-**कैमरा:** Afternoon, Knot & Nail: no customers. Kessa sits behind the counter, loupe down, the
-lockbox open. The census lies on the counter — the pot-row's list, bought by the Grey Clerk, with
-the crimson cross-out at the foot. This is the first time Kessa has read it since it entered her box.
-
-**चित्र:** Kessa reading the census the way she reads debt-marks: line by line, no expression,
-thumb on the tally-thread.
-
-> **शीर्षक (none spoken):**
-> The blink census. Ink names, charcoal names, one fingernail scratch, three Kshudra knots. Every
-> witness to the silent second. Except one.
+> पृष्ठ ००७ से आगे आते सूत्र: सिलाई की पहली हरकत, प्रतिध्वनि की व्याख्या, शपथ-कड़ी अपठित। पृष्ठ ००५:
+> तीन धागे पारिवारिक तस्वीर के रूप में। पृष्ठ ००१: स्थानांतरण-आदेश।
 
 ---
 
-## चित्र-खाना 2 — Macro, the cross-out (~13%)
+## पैनल १ — व्यापक, दोपहर बाद की परख (~१४%)
 
-**कैमरा:** Extreme close on the census's foot: the name *Ira Sutar*, crossed out in crimson — dry,
-no initial, the mark that initialled itself overnight (Ch. 002 Page 004). Kessa's loupe hovers
-over the cross-out.
+**कैमरा:** दोपहर बाद, गाँठ और कील: कोई ग्राहक नहीं। केसा काउंटर के पीछे बैठी है, लूप नीचे, ताला-बक्सा
+खुला। काउंटर पर गणना पड़ी है — पॉट-कतार की सूची, जिसे धूसर लिपिक ने ख़रीदा था, तल में क़िरमिज़ी काट के
+साथ। यह पहली बार है कि केसा ने इसे पढ़ा है, अपने बक्से में आने के बाद।
 
-**चित्र:** The crimson cross-out is dry, old now, but its meaning has changed. What was once a
-correction (*she was not a witness*) now reads differently: the principal counted her and then
-corrected itself — which means the principal *knew* she was there.
+**दृश्य:** केसा गणना को वैसे पढ़ रही है जैसे ऋण-निशान पढ़ती है: पंक्ति दर पंक्ति, कोई भाव नहीं,
+गिनती-डोर पर अंगूठा।
 
-> **केसा (संवाद, to the cross-out):**
-> You counted her. Then you crossed her out. That's not a correction. That's a signature.
+> **कैप्शन (कोई बोलता नहीं):**
+> टकटकी-गणना। स्याही के नाम, कोयले के नाम, एक नाख़ून की खरोंच, तीन क्षुद्र गाँठें। मौन क्षण के हर
+> गवाह का नाम। एक को छोड़कर।
 
 ---
 
-## चित्र-खाना 3 — Medium, the interpretation (~14%)
+## पैनल २ — मैक्रो, क़िरमिज़ी काट (~१३%)
 
-**कैमरा:** Kessa's hands on the census, spreading it flat. Her loupe moves from the crimson
-cross-out to the grey names above it. The grey names are witnesses; the crimson name is something
-else.
+**कैमरा:** गणना के तल पर बहुत पास से: नाम *इरा सुतार*, क़िरमिज़ी में काटा हुआ — सूखा, कोई आद्याक्षर
+नहीं, वह निशान जिसने रात भर में ख़ुद को आद्याक्षर दिए (अध्याय ००२ पृष्ठ ००४)। केसा का लूप काट के ऊपर
+मँडराता है।
 
-**चित्र:** The census as a document with two layers: grey (Council procedure) and crimson (the
-principal's count). Ira's name is the only one that exists in both layers.
+**दृश्य:** क़िरमिज़ी काट सूखा है, अब पुराना, पर उसका अर्थ बदल चुका है। जो कभी सुधार था (*वह गवाह नहीं
+थी*) अब अलग पढ़ा जाता है: प्रमुख ने उसे गिना और फिर ख़ुद को सुधार लिया — मतलब प्रमुख *जानता था* कि वह
+वहाँ थी।
 
-> **केसा (संवाद, dry):**
-> The Council counts witnesses. The principal counts *interests*. Your name is in both columns.
+> **केसा (संवाद, काट से):**
+> तुमने उसे गिना। फिर तुमने उसे काट दिया। यह सुधार नहीं है। यह एक दस्तख़त है।
+
+---
+
+## पैनल ३ — मध्यम, व्याख्या (~१४%)
+
+**कैमरा:** गणना पर केसा के हाथ, उसे सपाट फैलाते हुए। उसका लूप क़िरमिज़ी काट से ऊपर के धूसर नामों की ओर
+जाता है। धूसर नाम गवाह हैं; क़िरमिज़ी नाम कुछ और है।
+
+**दृश्य:** गणना दो परतों वाला दस्तावेज़ है: धूसर (परिषद की प्रक्रिया) और क़िरमिज़ी (प्रमुख की गिनती)।
+इरा का नाम अकेला ऐसा है जो दोनों परतों में मौजूद है।
+
+> **केसा (संवाद, सूखा):**
+> परिषद गवाह गिनती है। प्रमुख *हित* गिनता है। तुम्हारा नाम दोनों स्तम्भों में है।
 >
-> **KESSA (dialogue):**
-> That makes you the only person on this list who is both a witness and a subject.
+> **केसा (संवाद):**
+> इससे तुम इस सूची की अकेली ऐसी व्यक्ति बन जाती हो जो गवाह भी है और विषय भी।
 
 ---
 
-## चित्र-खाना 4 — Close, the stitch responds (~13%)
+## पैनल ४ — क्लोज़, सिलाई जवाब देती है (~१३%)
 
-**कैमरा:** Ira across the counter, hand on the census beside Kessa's. Her palm-stitch catches
-the light — the same tremor as Page 007, this time more visible. The stitch responds to the
-proximity of the census, the way a compass needle responds to north.
+**कैमरा:** इरा काउंटर के पार, हाथ केसा के हाथ के बगल में गणना पर। उसकी हथेली-सिलाई रोशनी पकड़ती है —
+वही कँपकँपी जो पृष्ठ ००७ की थी, इस बार ज़्यादा दिखती हुई। सिलाई गणना की निकटता पर वैसे जवाब देती है
+जैसे दिक्सूचक की सुई उत्तर पर।
 
-**चित्र:** The stitch and the crimson cross-out in the same frame: two marks about the same girl,
-one in skin, one in ink, both made by hands that are not in the room.
+**दृश्य:** सिलाई और क़िरमिज़ी काट एक ही फ़्रेम में: एक ही लड़की के बारे में दो निशान, एक त्वचा में,
+एक स्याही में, दोनों ऐसे हाथों से बने जो इस कमरे में नहीं हैं।
 
-> **शीर्षक (Ira's voice, small):**
-> My palm moved again. Not at the mend. At the list. As if the stitch knows the name on the paper
-> is its own.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> मेरी हथेली फिर हिली। सिलाई के समय नहीं। सूची के समय। जैसे सिलाई जानती हो कि कागज़ पर लिखा नाम उसका
+> अपना है।
 
 ---
 
-## चित्र-खाना 5 — Medium, the lockbox grows (~14%)
+## पैनल ५ — मध्यम, ताला-बक्सा बढ़ता है (~१४%)
 
-**कैमरा:** Kessa folds the census and returns it to the box: four objects now. Her hands are
-slow. She does not close the lid — she looks at the four objects the way an appraiser looks at
-a collection that has become more valuable than the sum of its parts.
+**कैमरा:** केसा गणना मोड़ती है और उसे बक्से में लौटा देती है: अब चार चीज़ें। उसके हाथ धीरे हैं। वह ढक्कन
+बन्द नहीं करती — वह चारों चीज़ों को वैसे देखती है जैसे कोई परखन-हार ऐसे संग्रह को देखता है जो अपने हिस्सों
+के जोड़ से ज़्यादा क़ीमती हो गया हो।
 
-**चित्र:** The four objects in the open box: cut-end (thread), census (paper), posting order
-(letter), gift-thread (fresh). Each one about Ira. Each one by a different hand.
+**दृश्य:** खुले बक्से में चारों चीज़ें: कट-सिरा (धागा), गणना (कागज़), स्थानांतरण-आदेश (ख़त),
+तोहफ़ा-धागा (ताज़ा)। हर एक इरा के बारे में। हर एक किसी और हाथ की।
 
-> **केसा (संवाद, quiet):**
-> Four objects. Three hands. All about one girl.
+> **केसा (संवाद, धीमा):**
+> चार चीज़ें। तीन हाथ। सब एक लड़की के बारे में।
 >
-> **KESSA (dialogue):**
-> This box is not a filing cabinet anymore, child. It's a portrait.
+> **केसा (संवाद):**
+> यह बक्सा अब फ़ाइल-कैबिनेट नहीं है, बच्ची। यह एक चित्र है।
 
 ---
 
-## चित्र-खाना 6 — Wide, the evening row (~13%)
+## पैनल ६ — व्यापक, शाम की कतार (~१३%)
 
-**कैमरा:** Evening: the stall-row quietens. The Knot & Nail stays open — Kessa has not closed
-the shutters since the reopening. The market adjusts: two more stall-owners have moved their
-displays one inch closer. The smallest unit of trust continues to accumulate.
+**कैमरा:** शाम: ठेला-कतार शान्त होती है। गाँठ और कील खुली रहती है — केसा ने फिर खुलने के बाद से शटर
+बन्द नहीं किए। बाज़ार तालमेल बैठाता है: दो और ठेला-मालिक अपनी दुकानें एक इंच और क़रीब खिसका चुके हैं।
+भरोसे की सबसे छोटी इकाई जमा होती रहती है।
 
-**चित्र:** The basin at dusk, the Knot & Nail as its centre of gravity. The inch-closer is
-visible: display edges shifted, the row contracting around the stall.
+**दृश्य:** गोधूलि में गर्त, गाँठ और कील उसके गुरुत्व-केन्द्र के रूप में। एक इंच क़रीब दिखता है: दुकानों
+के किनारे खिसके हुए, कतार ठेले के इर्द-गिर्द सिकुड़ती हुई।
 
-> **शीर्षक (none spoken):**
-> The basin does not say thank you. It moves its furniture one inch and calls it nothing.
+> **कैप्शन (कोई बोलता नहीं):**
+> गर्त धन्यवाद नहीं कहता। वह अपना फ़र्नीचर एक इंच खिसका देता है और उसे कुछ नहीं कहता।
 
 ---
 
-## चित्र-खाना 7 — Macro, the box — HOOK (~19%)
+## पैनल ७ — मैक्रो, बक्सा — हुक (~१९%)
 
-**कैमरा:** Night: the lockbox on the counter, lid closed, Kessa's hand resting on it. From
-inside the box, a faint sound — the cut-end shifting on its felt bed. Not a voice. Not a hum.
-A *settling*, the way old thread settles when the air pressure changes.
+**कैमरा:** रात: काउंटर पर ताला-बक्सा, ढक्कन बन्द, उस पर केसा का हाथ टिका हुआ। बक्से के भीतर से एक
+हल्की आवाज़ — कट-सिरा अपने नमदा-बिस्तर पर खिसकता हुआ। आवाज़ नहीं। गुनगुनाहट नहीं। एक *बैठना*, वैसे
+जैसे पुराना धागा बैठ जाता है जब हवा का दबाव बदलता है।
 
-**चित्र:** The box is closed and the thread inside it moves. No one opens the lid. No one touches
-the box. The thread moves on its own — or responds to something in the room, or in the basin,
-or in the air.
+**दृश्य:** बक्सा बन्द है और उसमें धागा हिलता है। कोई ढक्कन नहीं खोलता। कोई बक्से को नहीं छूता। धागा
+अपने आप हिलता है — या कमरे में, या गर्त में, या हवा में किसी चीज़ को जवाब देता है।
 
-> **ध्वनि:** (inside the box, faint) *—*
+> **ध्वनि:** (बक्से के भीतर, हल्का) *—*
 >
-> **शीर्षक (none spoken):**
-> The cut-end has not moved in forty years. Tonight it settles. Kessa's hand does not lift from
-> the lid.
+> **कैप्शन (कोई बोलता नहीं):**
+> कट-सिरा चालीस साल से नहीं हिला। आज रात वह बैठ जाता है। केसा का हाथ ढक्कन से नहीं उठता।
 >
-> **शीर्षक (smaller):**
-> Whatever the box is holding, it is no longer holding still.
+> **कैप्शन (छोटा):**
+> बक्सा जो भी थामे हुए है, अब वह स्थिर नहीं है।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The census re-read** changes its meaning: what was a bureaucratic list in Chapter 2 is now
-  a portrait of the principal's interest in Ira. The crimson cross-out is not a correction; it
-  is a signature.
-- **The stitch responds to the census** — the second movement, stronger than Page 007. The
-  stitch recognises its own name on paper. This is the chapter's power escalation.
-- **The four-object lockbox** is now the chapter's central icon. Every object is about Ira.
-  Kessa's word — *portrait* — names it.
-- **The cut-end moves** — the chapter's hook. No explanation this page. No one opens the box.
-  The thread settles on its own. Let the mystery sit.
-- **Chain budget: still unspent.** The chapter's one stop is for the finale.
+- **गणना की पुनः-पढ़ाई** उसका अर्थ बदल देती है: जो अध्याय ००२ में एक नौकरशाही सूची थी, अब इरा में
+  प्रमुख की रुचि का चित्र है। क़िरमिज़ी काट सुधार नहीं है; वह एक दस्तख़त है।
+- **सिलाई गणना पर जवाब देती है** — दूसरी हरकत, पृष्ठ ००७ से ज़्यादा तेज़। सिलाई कागज़ पर अपना नाम
+  पहचानती है। यह इस अध्याय की शक्ति-वृद्धि है।
+- **चार-वस्तु वाला ताला-बक्सा** अब अध्याय का केन्द्रीय प्रतीक है। हर चीज़ इरा के बारे में है। केसा का
+  शब्द — *चित्र* — उसे नाम देता है।
+- **कट-सिरा हिलता है** — अध्याय का हुक। इस पृष्ठ पर कोई व्याख्या नहीं। कोई बक्सा नहीं खोलता। धागा
+  अपने आप बैठ जाता है। रहस्य को बैठने दें।
+- **ज़ंजीर बजट: अब भी अख़र्च।** अध्याय की एकमात्र रोक अन्तिम दृश्य के लिए है।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The crimson cross-out as signature | Lore card — *The Principal's Count* |
-| Four objects, three hands, one girl | Relic card — *The Portrait Box* |
-| The cut-end settles | Lore card — *The Box Moves* |
+| दस्तख़त के रूप में क़िरमिज़ी काट | लोर कार्ड — *प्रमुख की गिनती* |
+| चार चीज़ें, तीन हाथ, एक लड़की | रिलिक कार्ड — *चित्र-बक्सा* |
+| कट-सिरा बैठ जाता है | लोर कार्ड — *बक्सा हिलता है* |

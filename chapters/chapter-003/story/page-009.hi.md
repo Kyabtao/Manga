@@ -1,156 +1,153 @@
-# THREADBORN — Chapter 03 — Page 009
+# सुत्रजात (THREADBORN) — अध्याय ०३ — पृष्ठ ००९
 
-**अध्याय शीर्षक:** *The Hand That Opens* / *वह हाथ जो खोलता है*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (the next morning)
-**पृष्ठ प्रकार:** The reading of the oath-link — 7 panels, chapter's chain-stop, hook at the bottom
+**अध्याय शीर्षक:** *वह हाथ जो खोलता है*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (अगली सुबह)
+**पृष्ठ प्रकार:** शपथ-कड़ी की पढ़ाई — ७ पैनल, अध्याय की ज़ंजीर-रोक, अन्त में हुक
 
-> पिछले पृष्ठ से: Page 008: the stitch responds to the census, the cut-end moves, the four-object
-> portrait. Page 007: Kessa's warning about reading the oath-link. Page 006: the four notes matched
-> wrongly.
+> English source: [`page-009.md`](page-009.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the morning decision (~14%)
-
-**कैमरा:** Morning, Knot & Nail: Ira arrives and sits at the counter. She does not open her kit.
-She does not say good morning. She sets her hands flat on the counter — palm up, stitch visible —
-and looks at Kessa.
-
-**चित्र:** The gesture says everything: *I'm ready.* Kessa reads it the way she reads everything —
-with her hands, not her words.
-
-> **शीर्षक (Ira's voice, small):**
-> I sat down and showed her my hands. She knew before I said it.
+> पृष्ठ ००८ से आगे आते सूत्र: सिलाई गणना पर जवाब देती है, कट-सिरा हिलता है, चार-वस्तु वाला चित्र।
+> पृष्ठ ००७: शपथ-कड़ी पढ़ने के बारे में केसा की चेतावनी। पृष्ठ ००६: चार स्वर ग़लत मेल खाए।
 
 ---
 
-## चित्र-खाना 2 — Medium, the preparation (~13%)
+## पैनल १ — व्यापक, सुबह का निर्णय (~१४%)
 
-**कैमरा:** Kessa's hands: she closes the lockbox, moves it to one side, and sets the tally-thread
-on the counter between them — the thread she stores memories in, the thread that held the four notes.
-One end is in her hand; the other she offers to Ira.
+**कैमरा:** सुबह, गाँठ और कील: इरा आती है और काउंटर पर बैठ जाती है। वह अपनी थैली नहीं खोलती। वह सुप्रभात
+नहीं कहती। वह अपने हाथ काउंटर पर सपाट रखती है — हथेली ऊपर, सिलाई दिखती हुई — और केसा की ओर देखती है।
 
-**चित्र:** The tally-thread as a bridge: Kessa holds one end, Ira holds the other. The thread
-between them is the only object in the frame.
+**दृश्य:** इशारा सब कुछ कह देता है: *मैं तैयार हूँ।* केसा उसे वैसे पढ़ती है जैसे सब कुछ पढ़ती है — हाथों
+से, शब्दों से नहीं।
 
-> **केसा (संवाद, dry):**
-> If you read it, you carry it. Not the words — the weight. The chain stopped for those words.
-> They cost something.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> मैं बैठ गई और उसे अपने हाथ दिखाए। कहने से पहले ही वह जान चुकी थी।
+
+---
+
+## पैनल २ — मध्यम, तैयारी (~१३%)
+
+**कैमरा:** केसा के हाथ: वह ताला-बक्सा बन्द करती है, उसे एक ओर सरकाती है, और दोनों के बीच काउंटर पर
+गिनती-डोर रख देती है — वह डोर जिसमें वह यादें रखती है, वह डोर जिसने चार स्वर थामे थे। एक सिरा उसके हाथ
+में है; दूसरा वह इरा को बढ़ाती है।
+
+**दृश्य:** गिनती-डोर पुल की तरह: केसा एक सिरा पकड़े, इरा दूसरा। उनके बीच का धागा फ़्रेम की अकेली चीज़ है।
+
+> **केसा (संवाद, सूखा):**
+> अगर तुम इसे पढ़ोगी, तो इसे ढ़ोओगी। शब्द नहीं — बोझ। ज़ंजीर उन शब्दों पर रुकी थी। उनकी क़ीमत है।
 >
-> **IRA (dialogue):**
-> I know.
+> **इरा (संवाद):**
+> मुझे पता है।
 
 ---
 
-## चित्र-खाना 3 — Close, the visit (~14%)
+## पैनल ३ — क्लोज़, मुलाक़ात (~१४%)
 
-**कैमरा:** The Knot & Nail's threshold: Rekhak Vahni walks past on his rounds — not stopping,
-procedure as usual. But today Ira is at the counter, palm up, and the stall's loupe-lamp is
-pointed at the door. She calls to him — one word.
+**कैमरा:** गाँठ और कील का दरवाज़ा: रेखक वह्नि अपने फेरे पर गुज़रता है — रुकता नहीं, प्रक्रिया हमेशा की
+तरह। पर आज इरा काउंटर पर है, हथेली ऊपर, और ठेले की लूप-लालटेन दरवाज़े की ओर तानी हुई है। वह उसे
+पुकारती है — एक शब्द।
 
-**चित्र:** Ira's voice reaching the door. Rekhak stops. The chain in his hand does not stop. The
-oath-link is visible: dark, still, waiting.
+**दृश्य:** इरा की आवाज़ दरवाज़े तक पहुँचती है। रेखक रुक जाता है। उसके हाथ की ज़ंजीर नहीं रुकती।
+शपथ-कड़ी दिखती है: काली, स्थिर, इंतज़ार करती हुई।
 
-> **इरा (संवाद, one word, clear):**
-> Reckoner.
-
----
-
-## चित्र-खाना 4 — Medium, the chain offered (~13%)
-
-**कैमरा:** Rekhak at the counter's edge, chain held out at hip height — the counting-chain's
-standard position. He does not speak. He holds the chain the way a clerk holds a file: for
-inspection, not for interpretation. The oath-link is the fourth link from his thumb.
-
-**चित्र:** The chain between Rekhak and Ira: brass links running, one dark, one still. Ira's
-hand hovers over the oath-link. Kessa's loupe is down; she is watching.
-
-> **रेखक (संवाद, formal, after a long silence):**
-> A held-stop oath is public record. Read it.
->
-> **शीर्षक (none spoken):**
-> The Council's Reckoner offers the chain. The girl who owes nothing reaches for the one link
-> that holds his lie.
+> **इरा (संवाद, एक शब्द, साफ़):**
+> रेखक।
 
 ---
 
-## चित्र-खाना 5 — Macro, the reading (~14%)
+## पैनल ४ — मध्यम, ज़ंजीर बढ़ाई गई (~१३%)
 
-**कैमरा:** Ira's fingers on the oath-link: the dark link, still among the running brass. Her
-touch is mender's-touch — she reads stitch-grammar; chain-grammar is different but the
-principle is the same: tension, knot, release.
+**कैमरा:** रेखक काउंटर के किनारे, ज़ंजीर कमर की ऊँचाई पर बढ़ाई हुई — गिनती-ज़ंजीर की मानक स्थिति। वह
+बोलता नहीं। वह ज़ंजीर वैसे थामे है जैसे कोई लिपिक फ़ाइल थामता है: निरीक्षण के लिए, व्याख्या के लिए नहीं।
+शपथ-कड़ी उसके अंगूठे से चौथी कड़ी है।
 
-**चित्र:** The oath-link opens for her. Not physically — the link does not break — but
-*legibly*: words appear in the brass, held-stop words, Rekhak's voice from Chapter 2 Page 006:
+**दृश्य:** रेखक और इरा के बीच ज़ंजीर: पीतल की कड़ियाँ चलती हुईं, एक काली, एक स्थिर। इरा का हाथ
+शपथ-कड़ी के ऊपर मँडराता है। केसा का लूप नीचे है; वह देख रही है।
 
-> **शीर्षक (in the link, Rekhak's voice):**
-> *"The palm held a fold, not a door. I saw the fold. In the palm, I saw nothing else."*
-
-**चित्र जारी:** The words are true. They are also a lie. The limiting clause — *"nothing
-else"* — is the lie. The chain holds the truth and the omission in the same brass.
-
-> **शीर्षक (Ira's voice, smallest):**
-> He saw the fold. He said nothing else. The chain holds the truth and the lie in the same link.
+> **रेखक (संवाद, औपचारिक, लम्बी चुप्पी के बाद):**
+> थामी-रोक शपथ सार्वजनिक अभिलेख है। इसे पढ़ो।
+>
+> **कैप्शन (कोई बोलता नहीं):**
+> परिषद का रेखक ज़ंजीर बढ़ाता है। जिस लड़की पर कुछ बकाया नहीं, वह उस अकेली कड़ी की ओर हाथ बढ़ाती है
+> जो उसका झूठ थामे है।
 
 ---
 
-## चित्र-खाना 6 — Medium, the weight (~13%)
+## पैनल ५ — मैक्रो, पढ़ाई (~१४%)
 
-**कैमरा:** Ira releases the oath-link. Her hand is steady. Her face does the thing the series
-has shown only twice: asks the unforgivable question.
+**कैमरा:** शपथ-कड़ी पर इरा की उँगलियाँ: काली कड़ी, चलते पीतल के बीच स्थिर। उसका स्पर्श सिलाईकर्ता का
+स्पर्श है — वह सिलाई-व्याकरण पढ़ती है; ज़ंजीर-व्याकरण अलग है पर सिद्धान्त वही है: तनाव, गाँठ, मुक्ति।
 
-**चित्र:** Rekhak's eyes on hers. The chain runs. The oath-link is dark. Kessa's loupe catches
-the light.
+**दृश्य:** शपथ-कड़ी उसके लिए खुलती है। भौतिक रूप से नहीं — कड़ी टूटती नहीं — बल्कि *पठनीय* रूप से:
+पीतल में शब्द प्रकट होते हैं, थामी-रोक शब्द, अध्याय ००२ पृष्ठ ००६ से रेखक की आवाज़:
 
-> **इरा (संवाद, flat):**
-> You saw the fold. You said nothing else. What else did you see?
->
-> **रेखक (संवाद, after a beat, soft):**
-> I saw a thread I could not name. Sleeping. Sewn round with thread that does not cast shadow.
->
-> **रेखक (संवाद, softer):**
-> I saw what you are, Ira Sutar. And I lied to protect it.
+> **कैप्शन (कड़ी में, रेखक की आवाज़):**
+> *"हथेली में एक मोड़ थी, दरवाज़ा नहीं। मैंने मोड़ देखी। हथेली में, मैंने और कुछ नहीं देखा।"*
+
+**दृश्य जारी:** शब्द सच हैं। वे झूठ भी हैं। सीमित करने वाला उपवाक्य — *"और कुछ नहीं"* — झूठ है।
+ज़ंजीर सच और छोड़ दी गई बात को एक ही पीतल में थामे है।
+
+> **कैप्शन (इरा का स्वर, सबसे धीमा):**
+> उसने मोड़ देखी। उसने और कुछ नहीं कहा। ज़ंजीर सच और झूठ एक ही कड़ी में थामे है।
 
 ---
 
-## चित्र-खाना 7 — Wide, the chain stops — HOOK (~19%)
+## पैनल ६ — मध्यम, बोझ (~१३%)
 
-**कैमरा:** The chain stops. Chapter 3's one chain-stop: the chain in Rekhak's hand stands
-perfectly still from his first word to his last. The held-stop oath is sworn again — not in
-the re-review chamber, but in the Knot & Nail, across a counter, in front of a girl and a
-goblin.
+**कैमरा:** इरा शपथ-कड़ी छोड़ देती है। उसका हाथ स्थिर है। उसका चेहरा वह करता है जो शृंखला ने अब तक
+केवल दो बार दिखाया है: वह अक्षम्य सवाल पूछती है।
 
-**चित्र:** The chain stopped, Rekhak's hand rigid, the brass frozen. The oath-link is darker
-than before. The words are committed: *I saw what you are. I lied to protect it.* The chain
-records them. The basin's one chain-reader has just heard the Reckoner's second lie, and this
-one is not a shield — it is a confession.
+**दृश्य:** रेखक की आँखें उसकी आँखों पर। ज़ंजीर चलती है। शपथ-कड़ी काली है। केसा का लूप रोशनी पकड़ता है।
 
-> **ध्वनि:** (the chain, stopped) *—*
+> **इरा (संवाद, सपाट):**
+> तुमने मोड़ देखी। तुमने और कुछ नहीं कहा। और क्या देखा?
 >
-> **शीर्षक (none spoken):**
-> The chain stopped. His words were true. And the link that holds them will never move again.
+> **रेखक (संवाद, एक क्षण बाद, कोमल):**
+> मैंने एक धागा देखा जिसे मैं नाम नहीं दे सकता था। सोता हुआ। ऐसे धागे से चारों ओर सीया हुआ जो छाया
+> नहीं डालता।
 >
-> **शीर्षक (smaller):**
-> Chapter 3's one chain-stop. Spent.
+> **रेखक (संवाद, और कोमल):**
+> मैंने देखा कि तुम क्या हो, इरा सुतार। और मैंने इसे बचाने के लिए झूठ बोला।
+
+---
+
+## पैनल ७ — व्यापक, ज़ंजीर रुकती है — हुक (~१९%)
+
+**कैमरा:** ज़ंजीर रुक जाती है। अध्याय ०३ की एकमात्र ज़ंजीर-रोक: रेखक के हाथ की ज़ंजीर उसके पहले शब्द से
+आख़िरी शब्द तक पूरी तरह स्थिर खड़ी रहती है। थामी-रोक शपथ फिर ली जाती है — पुनरीक्षा-कक्ष में नहीं,
+बल्कि गाँठ और कील में, एक काउंटर के आर-पार, एक लड़की और एक गोबलिन के सामने।
+
+**दृश्य:** ज़ंजीर रुकी, रेखक का हाथ कड़ा, पीतल जमा हुआ। शपथ-कड़ी पहले से काली है। शब्द दर्ज हो चुके हैं:
+*मैंने देखा कि तुम क्या हो। मैंने इसे बचाने के लिए झूठ बोला।* ज़ंजीर उन्हें दर्ज करती है। गर्त के अकेले
+ज़ंजीर-पाठक ने अभी रेखक का दूसरा झूठ सुना है, और यह ढाल नहीं है — यह स्वीकारोक्ति है।
+
+> **ध्वनि:** (ज़ंजीर, रुकी हुई) *—*
+>
+> **कैप्शन (कोई बोलता नहीं):**
+> ज़ंजीर रुकी। उसके शब्द सच थे। और जो कड़ी उन्हें थामे है, वह फिर कभी नहीं हिलेगी।
+>
+> **कैप्शन (छोटा):**
+> अध्याय ०३ की एकमात्र ज़ंजीर-रोक। ख़र्च हो गई।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The chapter's one chain-stop is spent** on Rekhak's confession: *"I saw what you are. I lied
-  to protect it."* These are true words under a held-stop oath. The chain records them honestly.
-  The oath-link darkens further — now holding two oaths.
-- **The oath-link reading** is the first time Ira uses her chain-reading ability. It is not a
-  power burst; it is touch-literacy, the same as reading stitch-grammar.
-- **Rekhak's confession** is voluntary. He is not coerced; he chooses to tell her. The procedure
-  of offering the chain is his way of making it official.
-- **Kessa watches, silent.** She does not intervene. The loupe says she is appraising.
+- **अध्याय की एकमात्र ज़ंजीर-रोक ख़र्च होती है** रेखक की स्वीकारोक्ति पर: *"मैंने देखा कि तुम क्या हो।
+  मैंने इसे बचाने के लिए झूठ बोला।"* ये थामी-रोक शपथ के अधीन सच्चे शब्द हैं। ज़ंजीर उन्हें ईमानदारी से
+  दर्ज करती है। शपथ-कड़ी और काली हो जाती है — अब दो शपथें थामे हुए।
+- **शपथ-कड़ी की पढ़ाई** पहली बार है कि इरा अपनी ज़ंजीर-पढ़ने की क्षमता इस्तेमाल करती है। यह शक्ति का
+  विस्फोट नहीं है; यह स्पर्श-साक्षरता है, सिलाई-व्याकरण पढ़ने जैसी।
+- **रेखक की स्वीकारोक्ति** स्वैच्छिक है। उस पर दबाव नहीं है; वह ख़ुद उसे बताने का चुनाव करता है। ज़ंजीर
+  बढ़ाने की प्रक्रिया उसका तरीक़ा है इसे औपचारिक बनाने का।
+- **केसा देखती है, चुप।** वह हस्तक्षेप नहीं करती। लूप कहता है कि वह परख रही है।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The oath-link reading | Power card — *Chain Literacy* (Ira) |
-| "I saw what you are." | Event card — *The Reckoner's Confession* |
-| Chain-stop, Knot & Nail | Procedure card — *Second Oath, Same Link* |
+| शपथ-कड़ी की पढ़ाई | पावर कार्ड — *ज़ंजीर-साक्षरता* (इरा) |
+| "मैंने देखा कि तुम क्या हो।" | इवेंट कार्ड — *रेखक की स्वीकारोक्ति* |
+| ज़ंजीर-रोक, गाँठ और कील | प्रक्रिया कार्ड — *दूसरी शपथ, वही कड़ी* |
