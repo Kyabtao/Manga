@@ -129,7 +129,7 @@ light. Somewhere far above, the Loom turns.
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - **The callback structure is the chapter's spine closing.** Page 001's two captions return verbatim in
   Panel 1 and are answered by a third in Panel 3: *"That was the first lie anyone told about her."* From
@@ -158,7 +158,7 @@ light. Somewhere far above, the Loom turns.
 - Chapter 1 closes with **three locked boxes** (the sewer, the principal, Kessa's swatch) and **one open
   hand**. That ratio is the series' contract with the reader.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|

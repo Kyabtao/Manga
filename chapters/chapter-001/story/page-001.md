@@ -122,7 +122,7 @@ hand shut a long time ago, and they were *good at it*.
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - This is the **first time mending is shown**. The reader must understand it is *labour* — needle,
   thread, sitting down, pain. Not a superpower.
@@ -133,7 +133,7 @@ hand shut a long time ago, and they were *good at it*.
   That is the tone for Chapter 1.
 - **Do not** reveal who stitched her hand. That is a long-arc box.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|

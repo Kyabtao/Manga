@@ -130,7 +130,7 @@ nine and sixty, frozen. Patra's shadow in the corner has straightened half a bea
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - **The fold is the chapter's reveal and not the box's key.** The reader now knows: Ira's thread was not
   taken — it was folded, pressed and sewn down *sleeping*. Who folded it, why, and with what right stay
@@ -155,7 +155,7 @@ nine and sixty, frozen. Patra's shadow in the corner has straightened half a bea
 - Sewer locked, buyer unnamed, principal unseen. The vision shows material only: fold, knot, whorl,
   shadowless thread. No hands, no faces, no cuffs, no Mendery.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|

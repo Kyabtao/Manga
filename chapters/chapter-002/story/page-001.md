@@ -149,7 +149,7 @@ somehow that is worse.
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - **The rumour is the silent second's public face.** Nobody names the hour, the hum or the flicker in
   the same sentence as Ira. The basin's story stays folkloric ("four hundred of us blinked") while the
@@ -176,7 +176,7 @@ somehow that is worse.
   smaller than the truth.
 - Sewer locked, principal unseen, knot-shape ownerless, Loom silent.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|

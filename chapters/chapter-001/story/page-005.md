@@ -168,7 +168,7 @@ the form — and Patra's eyes keep sliding to it and away, like a tongue over a 
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - **No ash above the third landing. Ever.** The up-terrace is drawn clean from this page on; the basin
   is the only place in Agnikhand where the sky falls. Ira's raised-hand *ash-catch* is her up-terrace
@@ -194,7 +194,7 @@ the form — and Patra's eyes keep sliding to it and away, like a tongue over a 
 - **Ira neither signs nor consents on this page.** Page 006 is her counter-offer; menders inspect the
   tear before they sew.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|

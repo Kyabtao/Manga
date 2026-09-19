@@ -203,6 +203,21 @@ NAV = [
     ("about.html", "About"),
 ]
 
+def nav_chapters(root):
+    """Build a chapters dropdown for the header nav."""
+    items = []
+    for c in CHAPTERS:
+        if not pages_of(c):
+            continue
+        chnum = c.split("-")[1]
+        n = len(pages_of(c))
+        status = chapter_status(c)
+        items.append('<a href="%sread/%s/index.html">Chapter %s <span>%d pages · %s</span></a>'
+                     % (root, c, chnum, n, status))
+    return ('<div class="nav-chapters">'
+            '<button class="nav-ch-btn" aria-expanded="false">Chapters ▾</button>'
+            '<div class="nav-ch-dropdown" hidden>%s</div></div>' % "".join(items))
+
 def page(title, site_rel, body, sidebar="", lang="en", crumb=""):
     root = posixpath.relpath(".", posixpath.dirname(site_rel) or ".")
     if root == ".":
@@ -212,6 +227,7 @@ def page(title, site_rel, body, sidebar="", lang="en", crumb=""):
     nav = "".join(
         '<a class="%s" href="%s%s">%s</a>' % ("on" if root + h == site_rel else "", root, h, label)
         for h, label in NAV)
+    nav += nav_chapters(root)
     return """<!DOCTYPE html>
 <html lang="%s">
 <head>
@@ -293,15 +309,13 @@ def build_reader(ch):
                 continue
             site_rel = "read/%s/%s%s.html" % (ch, pg, suffix)
             body = render_md(src, site_rel)
-            art = ('<figure class="art"><img src="%s" alt="Chapter %s page %s art" loading="lazy">'
-                   '<figcaption>Page art — full-colour webtoon strip, no lettering. Dialogue lives in the script below.</figcaption></figure>' % (img, chnum, num))
             toggle = ('<div class="lang"><a class="%s" href="%s.html">English</a>'
                       '<a class="%s" href="%s.hi.html">हिन्दी</a></div>' % (
                           "on" if lang == "en" else "", pg, "on" if lang == "hi" else "", pg))
             links = ('<div class="pagelinks">%s<a class="btn" href="cast-%s.html">Cast &amp; card lines</a>%s</div>'
                      % (prev_l, num, nxt_l))
-            reader = ('<div class="reader"><div class="rtoggle">%s</div><div class="rart">%s</div>'
-                      '<div class="rscript">%s</div></div>' % (toggle, art, body))
+            reader = ('<div class="reader"><div class="rtoggle">%s</div>'
+                      '<div class="rscript">%s</div></div>' % (toggle, body))
             peek = ('<a class="artpeek" href="%s" target="_blank" rel="noopener" '
                     'aria-label="Show page art">🖼 Art</a>'
                     '<div class="artoverlay"><img src="%s" alt="Chapter %s page %s art, full page">'
@@ -425,9 +439,32 @@ def build_home_and_index():
         '<a class="row" href="%s/index.html"><b>Chapter %s</b><span>%s · %s · %s</span><i>→</i></a>'
         % (c, c.split("-")[1], chapter_title(c), pages_word(len(pages_of(c))), chapter_status(c))
         for c in CHAPTERS if pages_of(c))
+    # Enhanced read index with per-chapter page lists and position info
+    ch_cards = []
+    for c in CHAPTERS:
+        if not pages_of(c):
+            continue
+        chnum = c.split("-")[1]
+        pgs_list = pages_of(c)
+        status = chapter_status(c)
+        page_links = []
+        for i, pg in enumerate(pgs_list):
+            num = pg.split("-")[1]
+            pos = i + 1
+            page_links.append(
+                '<a class="rn-page" href="%s/index.html#%s"><b>%s</b><span>Page %s of %s</span></a>'
+                % (c, pg, num, pos, len(pgs_list)))
+        ch_cards.append(
+            '<div class="rn-chapter"><div class="rn-header">'
+            '<a href="%s/index.html"><b>Chapter %s</b></a>'
+            '<span>%s · %s · %s</span></div>'
+            '<div class="rn-pages">%s</div></div>'
+            % (c, chnum, chapter_title(c), pages_word(len(pgs_list)), status,
+               "".join(page_links)))
     html = page("Read", "read/index.html",
                 '<h1>Read</h1><p class="lede">Chapter by chapter, page by page. Every page exists in '
-                'English and Hindi; the art carries no lettering by design.</p>%s' % rows,
+                'English and Hindi; the art carries no lettering by design.</p>'
+                '<div class="readnav">%s</div>%s' % ("".join(ch_cards), rows),
                 crumb='<a href="../index.html">Home</a> / Read')
     write("read/index.html", html)
 

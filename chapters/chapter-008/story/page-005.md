@@ -1,0 +1,204 @@
+# THREADBORN — Chapter 08 — Page 005
+
+**Chapter title:** *The First Pupil* / *पहला शिष्य*
+**Arc:** II — The Mendery
+**Sector:** Agnikhand — the Knot & Nail, Ashfall Basin
+**Page type:** Regular — 7 panels
+
+> Beats: Page 004 — the book gives Ira hands without names and the principal names without hands.
+> Neither can move. The school comes to the stall instead.
+>
+> **This page:** the woman in the doorway. And the word she uses.
+
+---
+
+## PANEL 1 — Medium, the doorway (~13%)
+
+**Camera:** The stall front, from inside. The woman in the doorway: **JADI** — Kshudra, very old,
+stooped, in basin clothes that were good forty years ago and have been mended by an expert ever
+since. Her left hand is still up on the doorframe. She is looking at Ira's hands, not her face.
+
+**Image:** An old woman who has walked two streets to stand in a doorway and look at a pair of
+hands.
+
+> **CAPTION (Ira's voice):**
+> She's Kshudra, she's older than Nandi by a decade, and she's dressed in a coat that's been mended
+> about a hundred times by somebody who was extremely good at it.
+>
+> **CAPTION:**
+> And she hasn't looked at my face once since she got to the door.
+
+---
+
+## PANEL 2 — Close, Ira's palm shown (~14%)
+
+**Camera:** Close: Ira, understanding, turns her left hand over and holds it out, palm up — the way
+you show a mark to a person who cannot ask for it. The stitch is *closed.* No braid. No crimson.
+A flat seam and a shut door.
+
+**Image:** The mender answering the only question the visitor is actually asking.
+
+> **CAPTION (Ira's voice):**
+> So I turn my hand over and hold it out, because there's only one thing she's come here to check
+> and I'd rather she got it over with.
+
+> **JADI:**
+> ...
+>
+> **JADI:**
+> Closed.
+
+---
+
+## PANEL 3 — Close, Jadi's face (~14%)
+
+**Camera:** Jadi's face for the first time. Deep-lined, hard-used, Kshudra. Her eyes go from the
+hand to Ira's face at last — and what lands there is not disappointment. It is **recognition.**
+
+**Image:** The first pupil, seeing the school in a face.
+
+> **JADI:**
+> You shut it.
+>
+> **IRA:**
+> Two nights ago.
+>
+> **JADI:**
+> Mm. She did the same thing, the year they came for her. Closed the hand and let them take her
+> quiet, and worked from behind the wall for twenty years.
+
+> **JADI:**
+> You'll be *her*, then.
+
+---
+
+## PANEL 4 — Medium, the word (~15%)
+
+**Camera:** Jadi comes properly in and lowers herself onto the stool by the counter like a woman
+whose knees have an arrangement with gravity. Kessa has already poured tea — the second time in
+the series Kessa has poured tea for someone (Ch. 001 Page 003 was the first). Ira stands.
+
+**Image:** The school's first pupil sitting down in the school's newest stall.
+
+> **IRA:**
+> I'm her daughter.
+>
+> **JADI:**
+> I know what you are. I asked what you *are.*
+>
+> **JADI:**
+> *(and she says the word plainly, no ceremony, the way you'd say a trade)*
+>
+> **JADI:**
+> You're the teacher.
+
+> **CAPTION (Ira's voice):**
+> Kessa's hand stops over the tea.
+>
+> **CAPTION:**
+> I have been called a hole, a debt, a defect, a price, a fold, an entry in the third register, a
+> girl with the braided mark, and provisionally licensed under a private hand.
+>
+> **CAPTION:**
+> Nobody has ever used that word about me. Nobody has ever used it in this basin about anyone.
+
+---
+
+## PANEL 5 — Large, the first page (~15%)
+
+**Camera:** Ira has the Book of the Hand open on the counter at the back section. Jadi's eyes go
+to it and stay. And on the **first** pupil page — the very first in forty years — the stitched-down
+first knot is visible, and it is the same grip as the hand in the doorway.
+
+**Image:** Page one of forty years, and the woman who is page one, sitting in front of it.
+
+> **IRA:**
+> The Roll's gone. She took it. But the book's still on the shelf, and the first page in the back
+> of it is —
+>
+> **JADI:**
+> Mine. Yes.
+>
+> **JADI:**
+> I was twelve. She had a stall in the pot-row with a sign that said *mending* and no licence and
+> four of us sitting on crates behind her copying her hands. First day she never said one word to
+> any of us. Just sewed, and let us watch, and at the end of the day she called us up one at a
+> time and put a thread through our palms.
+
+> **JADI:**
+> Rule three. Before speech. She said if she told us what it was first, we'd have *decided*
+> something. This way it was just *true.*
+
+---
+
+## PANEL 6 — Close, the failing mark (~14%)
+
+**Camera:** Jada holds her left palm up between them under the lamp. The braid is there — grey, old,
+flattened by decades of work — and at the root of it, where the teacher's strand entered her hand
+at twelve years old, the seam has **opened.** Not torn. *Grown out.* Skin has closed over part of
+the thread. The braid has come loose and is lying on the surface of the palm like something the
+body has decided to reject.
+
+**Image:** The first pupil's mark, failing. The panel is the medical reality of a forty-year stitch
+in a woman who was twelve when it was put in.
+
+> **CAPTION (Ira's voice):**
+> Forty-four years in one hand. I've never seen the seam from the outside before — I've only ever
+> seen mine, from the inside, which is a completely different view.
+>
+> **CAPTION:**
+> It hasn't torn. That's what I notice. It's been *worked* at, over and over, for a long time, with
+> something small and sharp, by somebody patient.
+
+---
+
+## PANEL 7 — Close, Jadi asks — CLOSING HOOK (~15%)
+
+**Camera:** Jadi, holding the palm up, looking at Ira with an expression that is not fear and not
+hope — it is the flat patience of a woman who has already decided the answer is no.
+
+**Image:** The first pupil asking the new teacher for the one thing the school cannot give.
+
+> **JADI:**
+> I've spent the last nine months getting it out. Little at a time, so it wouldn't heal round it.
+>
+> **JADI:**
+> I can't finish it. It's at the root and my hand won't go deep enough.
+>
+> **JADI:**
+> So that's what I've come for, teacher. Not to get it mended.
+>
+> **JADI (last line):**
+> Pull it out.
+
+---
+
+## Writing & art notes
+
+- **"Teacher" is the chapter's title landing.** Ira has spent the whole series being read by other
+  people. This is the first time anyone has named her as the *reader.* Held flat, no swell, no
+  music — Jadi says it like a job title, which makes it heavier, not lighter.
+- **Jadi's name should not be spoken on-panel until Page 006.** She is "the woman in the doorway"
+  on 004 and "she" through most of 005. The name arrives with her history.
+- **The tea is a deliberate echo of Ch. 001 Page 003** (Kessa pouring for Ira, with the loupe up).
+  Second time in the series; same counter; different meaning. Kessa hands out tea to people she has
+  decided to keep.
+- **Jadi's origin story is the school's origin story:** a sign saying *mending*, no licence, four
+  children on crates, no words. This is what the Council called unlicensed. Play it warmly, not
+  tragically — those were good days and she should tell it like good days.
+- **The failing mark is mechanical, not mystical.** Grown out, worked at with something small and
+  sharp, patiently, for nine months. Ira reads it clinically, because she is a mender and that is
+  how she loves people.
+- **Jadi's request is the chapter's dilemma** and it should genuinely be an argument she *wins* on
+  the merits. Her case: the strand is how they are found. The teacher's answer must be better than
+  "no." That argument is Page 009.
+
+## Card-game hooks
+
+| Beat | Card |
+|---|---|
+| The hand held out palm-up | Action — *Show The Mark* |
+| "You'll be *her*, then." | Lore — *Recognised At The Door* |
+| "You're the teacher." | Title — *The Teacher* |
+| Four children on crates behind a mending sign | Lore — *The Unlicensed Stall* |
+| "Pull it out." | Objective — *Unmake The Rule* |
