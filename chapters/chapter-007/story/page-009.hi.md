@@ -1,200 +1,190 @@
-# THREADBORN — Chapter 07 — Page 009
+# सुत्रजात (THREADBORN) — अध्याय ०७ — पृष्ठ ००९
 
-**अध्याय शीर्षक:** *The Crimson Line* / *क़िरमिज़ी पंक्ति*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Mendery, the archive's back wall
-**पृष्ठ प्रकार:** Turn page — 7 panels
+**अध्याय शीर्षक:** *क़िरमिज़ी पंक्ति*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — मेंडरी, तहख़ाने का अभिलेखागार (तीसरी सुबह)
+**पृष्ठ प्रकार:** संदेश — ७ पैनल, अन्त में हुक
 
-> Beats: Page 008 — the Roll of Hands is gone. The school's pupil register, forty years deep,
-> listing every hand taught. One name on it is not in the Council's registers. Nandi will not
-> say it. Ira holds two records of herself and has been asked for neither.
->
-> **This page:** why the twenty years, why the second bell, and the message the mother left
-> behind.
+> English source: [`page-009.md`](page-009.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Medium, Ira sits down at last (~13%)
-
-**कैमरा:** Ira finally sits — on the floor, among the disbound quires, kit beside her, letter on
-her knee. Nandi on her stool. Two Kshudra lamps. This is the first time in the series Ira has sat
-down inside the archive instead of standing in front of it.
-
-**चित्र:** The girl taking her place in the workshop, in the only way she can: by sitting in it.
-
-> **शीर्षक (Ira's voice):**
-> I sit down. That's not nothing. I've been in this cellar three times and I've stood up for all
-> three of them, because standing up is how you leave a room you're not allowed in.
->
-> **CAPTION:**
-> I'm done standing.
+> **यह पृष्ठ:** बीस साल क्यों, दूसरी घंटी क्यों, और वह संदेश जो माँ पीछे छोड़ गई।
 
 ---
 
-## चित्र-खाना 2 — Close, Nandi's arithmetic (~14%)
+## पैनल १ — मध्यम, इरा आख़िरकार बैठती है (~१३%)
 
-**कैमरा:** Nandi, close, dry as ever. She has an answer for every question and has been sitting on
-all of them for two nights because nobody asked in the right order.
+**कैमरा:** इरा आख़िरकार बैठती है — फ़र्श पर, जिल्द-खुले दस्तों के बीच, थैली बग़ल में, घुटने पर ख़त।
+नन्दी अपने स्टूल पर। दो क्षुद्र लालटेनें। शृंखला में यह पहली बार है कि इरा अभिलेखागार के सामने खड़ी
+होने के बजाय उसके भीतर बैठी है।
 
-**चित्र:** The keeper of an archive doing what she does: supplying the record, not the verdict.
+**दृश्य:** लड़की कार्यशाला में अपनी जगह ले रही है, अपने पास जो एक ही तरीक़ा है: वहाँ बैठकर।
 
-> **IRA:**
-> बीस साल। वह बीस साल बँधी क्यों रही? वह उस कुर्सी से कभी भी
-> उठ सकती थी जिस दिन परिषद ने देखना बंद किया।
+> **कैप्शन (इरा का स्वर):**
+> मैं बैठ जाती हूँ। यह कोई छोटी बात नहीं है। मैं इस तहख़ाने में तीन बार आई हूँ और तीनों बार खड़ी रही
+> हूँ, क्योंकि खड़े रहना ही वह तरीक़ा है जिससे तुम ऐसा कमरा छोड़ते हो जिसमें तुम्हें आने की इजाज़त
+> नहीं।
 >
-> **NANDI:**
-> Because the chair was the *deal*, girl. So long as she was bound and quiet and in one room, that
-> shelf stayed where it was and nobody upstairs thought to look at the back wall of a cellar in a
-> trade that buys and sells debts.
->
-> **NANDI:**
-> Her freedom was the rent on that shelf. She has been paying it twenty years.
+> **कैप्शन:**
+> मेरा खड़े रहना ख़त्म हुआ।
 
 ---
 
-## चित्र-खाना 3 — Close, Ira gets the shape (~14%)
+## पैनल २ — क्लोज़, नन्दी का हिसाब (~१४%)
 
-**कैमरा:** Ira, looking up at the empty space. She has the whole thing now.
+**कैमरा:** नन्दी, पास से, हमेशा की तरह रूखी। उसके पास हर सवाल का जवाब है और वह दो रात से उन सब पर
+बैठी है क्योंकि किसी ने सही क्रम में नहीं पूछा।
 
-**चित्र:** The mender seeing the seam that was hidden in the fold for twenty years.
+**दृश्य:** अभिलेखागार की रखवाली करने वाली वही कर रही है जो वह करती है: अभिलेख दे रही है, फ़ैसला नहीं।
 
-> **शीर्षक (Ira's voice):**
-> Two nights ago an Inspector stood on the Council Stair and said *files were supposed to be
-> destroyed*, and I've been carrying that sentence around like a stone ever since.
+> **इरा:**
+> बीस साल। वह बीस साल बद्ध क्यों रही? वह उस दिन कुर्सी से उठ सकती थी जिस दिन परिषद ने देखना बन्द
+> कर दिया।
 >
-> **CAPTION:**
-> She heard it before I did. Of course she did. She's the supply line — she's been inside the
-> Office's paperwork for forty years, one thread at a time, and an audit warrant is exactly the
-> kind of thing that moves through a building where a woman has friends.
+> **नन्दी:**
+> क्योंकि कुर्सी ही *सौदा* था, लड़की। जब तक वह बद्ध थी और चुप थी और एक ही कमरे में थी, वह ताख़ा वहीं
+> रहता था और ऊपर वाले किसी ने यह सोचने की ज़हमत नहीं ली कि ऋण ख़रीदने-बेचने वाले धंधे के तहख़ाने की
+> पिछली दीवार की ओर देखे।
 >
-> **CAPTION:**
-> She knew the audit was coming. She knew it before the man holding it did. And she went and got
-> the one file on that wall that the audit *must not* find, and she carried it out of the
-> building, and then she sat down somewhere two streets away and started sewing.
+> **नन्दी:**
+> उसकी आज़ादी उस ताख़े का किराया थी। वह बीस साल से वह किराया चुका रही है।
 
 ---
 
-## चित्र-खाना 4 — Medium, Nandi's last piece (~14%)
+## पैनल ३ — क्लोज़, इरा को आकार समझ आता है (~१४%)
 
-**कैमरा:** Nandi reaches into her apron and takes out nothing at all — her hands come up empty and
-she folds them. She was not asked to hand over an object. She was asked to hand over a sentence.
+**कैमरा:** इरा, ख़ाली जगह की ओर देखती हुई। उसके पास अब पूरी बात है।
 
-**चित्र:** The old woman finally opening the thing she was left to hold.
+**दृश्य:** सिलाई करने वाली वह सीवन देख रही है जो बीस साल तह में छिपी रही।
 
-> **NANDI:**
-> Before she went out the back door she stood at that shelf for a while and then she said a thing
-> to me and told me to hold it until you came down here by yourself. Not with the girl from the
-> counter. Not with the Reckoner. By yourself.
+> **कैप्शन (इरा का स्वर):**
+> दो रात पहले एक निरीक्षक परिषद-सीढ़ी पर खड़ा था और उसने कहा *फ़ाइलें नष्ट की जानी थीं*, और मैं तब
+> से वह वाक्य पत्थर की तरह ढोए हुए हूँ।
 >
-> **NANDI:**
-> She said: *tell her I did not write her name in the roll.*
+> **कैप्शन:**
+> उसने यह मुझसे पहले सुना। बेशक सुना। वह आपूर्ति-मार्ग है — वह चालीस साल से कार्यालय की काग़ज़ी
+> कार्रवाई के भीतर है, एक-एक धागा करके, और लेखा-अधिपत्र ठीक ऐसी चीज़ है जो ऐसी इमारत में चलती है
+> जहाँ किसी स्त्री के दोस्त हों।
 >
-> **NANDI:**
-> *Tell her I sewed her instead.*
+> **कैप्शन:**
+> उसे पता था कि लेखा आ रहा है। उसे उस आदमी से पहले पता था जो उसे थामे हुए था। और वह जाकर उस दीवार
+> की वह एक फ़ाइल ले आई जिसे लेखा *नहीं* ढूँढ़ सकता था, और उसे इमारत से बाहर ले गई, और फिर दो गलियाँ
+> दूर कहीं बैठकर सीने लगी।
 
 ---
 
-## चित्र-खाना 5 — Close, Ira (~14%)
+## पैनल ४ — मध्यम, नन्दी का आख़िरी टुकड़ा (~१४%)
 
-**कैमरा:** Close on Ira's face — and then close on her palm, the loose stitch, the lifted thread.
-The panel holds both: the face and the hand, one above the other, in a single narrow frame.
+**कैमरा:** नन्दी अपने एप्रन में हाथ डालती है और कुछ नहीं निकालती — उसके हाथ ख़ाली ऊपर आते हैं और वह
+उन्हें बाँध लेती है। उससे कोई चीज़ सौंपने को नहीं कहा गया था। उससे एक वाक्य सौंपने को कहा गया था।
 
-**चित्र:** The student discovering that she was never a pupil on paper. The school's only
-unwritten student.
+**दृश्य:** बूढ़ी स्त्री आख़िरकार वह चीज़ खोल रही है जिसे थामे रहने के लिए उसे छोड़ा गया था।
 
-> **शीर्षक (Ira's voice):**
-> Not in the roll. Not in the school's own book. Forty years of names on that shelf and mine was
-> never one of them, not once, not in the year I was sewn in, not in the year the Council wrote me
-> down and crossed me out again.
+> **नन्दी:**
+> पिछले दरवाज़े से निकलने से पहले वह कुछ देर उस ताख़े पर खड़ी रही और फिर उसने मुझसे एक बात कही और
+> कहा कि इसे तब तक थामे रखूँ जब तक तुम ख़ुद यहाँ नीचे न आ जाओ। काउंटर वाली लड़की के साथ नहीं।
+> ऋण-लेखाधिकारी के साथ नहीं। ख़ुद।
 >
-> **CAPTION:**
-> I have spent my whole life being a hole in other people's ledgers and I have always assumed
-> that at least *somewhere* there was a book with me in it — a school book, a mother's book, one
-> honest page.
+> **नन्दी:**
+> उसने कहा: *उससे कहना कि मैंने उसका नाम पंजी में नहीं लिखा।*
 >
-> **CAPTION:**
-> There isn't. She never made one.
->
-> **CAPTION:**
-> Because a book can be audited.
+> **नन्दी:**
+> *उससे कहना कि मैंने उसके बजाय उसे सीया।*
 
 ---
 
-## चित्र-खाना 6 — Medium, the third sentence (~14%)
+## पैनल ५ — क्लोज़, इरा (~१४%)
 
-**कैमरा:** Nandi delivering the rest. She said there was more and she is not going to make Ira ask
-for it twice.
+**कैमरा:** इरा के चेहरे पर क्लोज़ — और फिर उसकी हथेली पर क्लोज़, ढीली सिलाई, उठा हुआ धागा। पैनल दोनों
+थामता है: चेहरा और हाथ, एक के ऊपर एक, एक ही तंग फ़्रेम में।
 
-**चित्र:** A message delivered in full, by a keeper who does not editorialise.
+**दृश्य:** शिष्य को पता चल रहा है कि वह काग़ज़ पर कभी शिष्य थी ही नहीं। विद्यालय का अकेला अनलिखा शिष्य।
 
-> **NANDI:**
-> यह पहला हिस्सा था। दूसरा भी था।
+> **कैप्शन (इरा का स्वर):**
+> पंजी में नहीं। विद्यालय की अपनी किताब में नहीं। उस ताख़े पर चालीस साल के नाम और मेरा कभी उनमें से एक
+> नहीं था, एक बार भी नहीं, न उस साल जब मुझे सीया गया, न उस साल जब परिषद ने मुझे लिखा और फिर काट दिया।
 >
-> **NANDI:**
-> *Tell her* — and I am giving it to you the way she gave it to me — *not to sign anything that
-> asks her to exist.*
-
-> **शीर्षक (Ira's voice):**
-> Twice.
+> **कैप्शन:**
+> मैंने अपनी पूरी ज़िन्दगी दूसरों की बहियों में एक छेद होकर बिताई है और मैंने हमेशा यह मान लिया था कि
+> *कहीं तो* एक किताब होगी जिसमें मैं हूँ — कोई विद्यालय की किताब, माँ की किताब, एक ईमानदार पन्ना।
 >
-> **CAPTION:**
-> Eleven words in a fold, and three sentences in a cellar two nights apart. She has warned me
-> twice, in two channels, from two different rooms in the same city.
+> **कैप्शन:**
+> वह नहीं है। उसने कभी बनाई ही नहीं।
 >
-> **CAPTION:**
-> And I have never heard her hurry before in my life.
+> **कैप्शन:**
+> क्योंकि किताब का लेखा हो सकता है।
 
 ---
 
-## चित्र-खाना 7 — Close, the needle comes out — CLOSING HOOK (~15%)
+## पैनल ६ — मध्यम, तीसरा वाक्य (~१४%)
 
-**कैमरा:** Ira's hands, close, on the floor among the quires. She unfolds the needle-roll. She
-takes out the needle she was given at the Unspooling, the one she has used on Bhan and on the dock
-and on the counter. She takes out the small wax knife. And she uncoils a length of the blank
-strand from her wrist-wrap — the crimson-under-grey.
+**कैमरा:** नन्दी बाक़ी बता रही है। उसने कहा था कि कुछ और है और वह इरा से दोबारा नहीं माँगवाएगी।
 
-**चित्र:** The mender choosing her tools. This is not a rescue plan. This is a *reply.*
+**दृश्य:** एक संदेश पूरा पहुँचाया गया, ऐसी रखवाली करने वाली के हाथों जो उसमें अपनी राय नहीं घोलती।
 
-> **IRA:**
-> मैं इस पर दस्तख़त नहीं कर रही। जलाऊँगी भी नहीं — जलाओ और एक अनस्पूलिंग में विद्या उसकी
-> हो जाएगी, और वह अग्निखंड की एक तहख़ाने में एप्रन में किताब लिए खड़ी होगी, बिना किसी जगह।
+> **नन्दी:**
+> वह पहला हिस्सा था। एक दूसरा भी था।
 >
-> **IRA:**
-> निकलने के दो रास्ते और कोई भी रास्ता नहीं। ठीक है। तो मैं कोई दरवाज़ा नहीं लूँगी।
+> **नन्दी:**
+> *उससे कहना* — और मैं इसे तुम्हें वैसे ही दे रही हूँ जैसे उसने मुझे दिया था — *कि ऐसी किसी चीज़ पर
+> हस्ताक्षर न करे जो उससे होने की माँग करे।*
+
+> **कैप्शन (इरा का स्वर):**
+> दो बार।
 >
-> **IRA (last line):**
-> She answered him in the fold. I'm going to answer in the fold.
+> **कैप्शन:**
+> एक तह में ग्यारह शब्द, और एक तहख़ाने में दो रात के फ़ासले पर तीन वाक्य। उसने मुझे दो बार चेताया है,
+> दो चैनलों से, एक ही शहर के दो अलग कमरों से।
 >
-> **शीर्षक (smaller):**
-> And then I'm going to send it back down the only road in this city that is *hers.*
+> **कैप्शन:**
+> और मैंने उसे अपनी ज़िन्दगी में पहले कभी जल्दी करते नहीं सुना।
+
+---
+
+## पैनल ७ — क्लोज़, सुई बाहर आती है — अन्तिम हुक (~१५%)
+
+**कैमरा:** इरा के हाथ, पास से, दस्तों के बीच फ़र्श पर। वह सुई-पोटली खोलती है। वह वह सुई निकालती है जो
+उसे अनुकुलन पर दी गई थी, वही जिसे उसने भान पर और गोदी पर और काउंटर पर इस्तेमाल किया। वह वह छोटी
+मोम-छुरी निकालती है। और वह अपनी कलाई-पट्टी से ख़ाली तंतु की एक लम्बाई खोलती है — धूसर-के-नीचे-क़िरमिज़ी।
+
+**दृश्य:** सिलाई करने वाली अपने औज़ार चुन रही है। यह कोई बचाव-योजना नहीं है। यह एक *जवाब* है।
+
+> **इरा:**
+> मैं इस पर हस्ताक्षर नहीं करूँगी। मैं इसे जलाऊँगी भी नहीं — जला दो और एक अनुकुलन में विद्यालय उसका
+> हो जाएगा, और वह अग्निखण्ड के एक तहख़ाने में एप्रन में किताब लिए बैठी होगी और खड़े होने की जगह
+> नहीं होगी।
+>
+> **इरा:**
+> निकलने के दो रास्ते और कोई भी रास्ता नहीं। ठीक है। तो मैं दोनों दरवाज़े नहीं लूँगी।
+>
+> **इरा (अन्तिम पंक्ति):**
+> उसने उसे तह में जवाब दिया। मैं भी तह में जवाब दूँगी।
+>
+> **कैप्शन (छोटा):**
+> और फिर मैं इसे इस शहर के उस अकेले रास्ते से वापस भेजूँगी जो *उसका* है।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **Page 009 is the chapter's engine room.** It converts plot into motive: the twenty years was
-  rent, the audit is the trigger, and the mother's two warnings are the proof that she is afraid.
-  Keep the panels narrow and the dialogue flat — this is the page with the most information and
-  the least motion, so the *faces* have to carry it.
-- **"I did not write her name in the roll. I sewed her instead."** is the thesis of the entire
-  series delivered in one line. A record can be audited, seized and destroyed. A stitch cannot
-  be taken off a person by a clerk. The principal files people; the mother *wears* them. Do not
-  underline it. Do not have Ira explain it. Let it sit.
-- **Ira's misunderstanding on Page 008 is deliberate and should read as a misunderstanding in
-  hindsight** — she assumed she was in the roll. Page 009 takes the assumption away. Her reaction
-  is not grief; it is the vertigo of a person who has just discovered the shape of her own
-  protection.
-- **Do not show the mother.** Not here, not anywhere in Chapter 007. She is present in wax, in
-  thread, in extracted spines and in a sentence passed hand to hand. Her absence from the frame is
-  the chapter's structure.
-- **Loom rule observed:** the Loom turns overhead and does not comment. No Loom panel in 007.
+- **जवाब एक पंक्ति में पहुँचाया जाता है।** एक अभिलेख का लेखा हो सकता है, ज़ब्त हो सकता है, जलाया जा सकता
+  है। सिलाई को कोई लिपिक किसी व्यक्ति से उतार नहीं सकता। प्रमुख लोगों को फ़ाइल करता है; माँ उन्हें
+  *पहनती* है। इसे रेखांकित न करें। इरा से इसे समझाने को न कहें। इसे पड़ा रहने दें।
+- **पृष्ठ ००८ पर इरा की ग़लतफ़हमी जानबूझकर है और पीछे मुड़कर देखने पर ग़लतफ़हमी ही लगनी चाहिए** — उसने
+  मान लिया कि वह पंजी में है। पृष्ठ ००९ वह मान्यता छीन लेता है। उसकी प्रतिक्रिया शोक नहीं है; वह उस
+  व्यक्ति का चक्कर है जिसे अभी-अभी अपनी ही रक्षा का आकार पता चला है।
+- **माँ को मत दिखाएँ।** यहाँ नहीं, अध्याय ००७ में कहीं नहीं। वह मोम में मौजूद है, धागे में, निकाले गए
+  मेरुदंडों में, और एक ऐसे वाक्य में जो हाथों-हाथ चला। फ़्रेम में उसका न होना ही इस अध्याय की बनावट है।
+- **सूत्र-यन्त्र का नियम पाला गया:** सूत्र-यन्त्र ऊपर घूमता है और टिप्पणी नहीं करता। ००७ में सूत्र-यन्त्र
+  का कोई पैनल नहीं।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| "Her freedom was the rent on that shelf." | Lore — *Twenty Years' Rent* |
-| She heard the audit before the Inspector did | Power — *The Supply Line Hears* |
-| "I did not write her name in the roll." | Lore — *The Unwritten Pupil* |
-| "Not to sign anything that asks her to exist." | Warning — *The Second Warning* |
-| The needle-roll opens | Action — *Answer In The Fold* |
+| "उसकी आज़ादी उस ताख़े का किराया थी।" | लोर — *बीस साल का किराया* |
+| उसने निरीक्षक से पहले लेखा सुना | पावर — *आपूर्ति-मार्ग सुनता है* |
+| "मैंने उसका नाम पंजी में नहीं लिखा।" | लोर — *अनलिखा शिष्य* |
+| "ऐसी किसी चीज़ पर हस्ताक्षर न करे जो उससे होने की माँग करे।" | चेतावनी — *दूसरी चेतावनी* |
+| सुई-पोटली खुलती है | क्रिया — *तह में जवाब दो* |

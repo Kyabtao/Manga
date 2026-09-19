@@ -1,197 +1,196 @@
-# THREADBORN — Chapter 07 — Page 008
+# सुत्रजात (THREADBORN) — अध्याय ०७ — पृष्ठ ००८
 
-**अध्याय शीर्षक:** *The Crimson Line* / *क़िरमिज़ी पंक्ति*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Mendery, the archive's back wall
-**पृष्ठ प्रकार:** Reveal page — 7 panels
+**अध्याय शीर्षक:** *क़िरमिज़ी पंक्ति*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — मेंडरी, पिछली दीवार (तीसरी सुबह)
+**पृष्ठ प्रकार:** हाथ-पंजी — ७ पैनल, अन्त में हुक
 
-> Beats: Page 007 — the archive is disbound, every quire opened, every spine unthreaded. Forty
-> years of the Mendery's files were held shut by Sutar, M. Nandi was extracting, not binding.
->
-> **This page:** the back wall. One file's width of empty shelf.
+> English source: [`page-008.md`](page-008.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Medium, the back wall (~13%)
-
-**कैमरा:** The archive's back wall, third morning. The oldest Kshudra files in the building —
-knot-script labels, hand-cut boards, thread old enough to have gone brown — and one **gap**, one
-file's width, dust outline still visible on the shelf where it stood.
-
-**चित्र:** The back wall, and the shape of a missing thing. Ira's hand is already on the shelf
-edge — the exact position from Ch. 006 Page 001.
-
-> **शीर्षक (Ira's voice):**
-> I have stood at this shelf before. Chapter six, first morning, looking for a file with my
-> mother's name on it, and I found one, and it said *sewn shut* in crimson, and I thought that
-> was the worst thing that shelf could do to me.
->
-> **CAPTION:**
-> This is worse. There's a hole in it now.
+> **यह पृष्ठ:** पिछली दीवार। एक फ़ाइल की चौड़ाई की ख़ाली ताख़।
 
 ---
 
-## चित्र-खाना 2 — Close, the dust outline (~14%)
+## पैनल १ — मध्यम, पिछली दीवार (~१३%)
 
-**कैमरा:** Macro on the shelf. Clean board, except for one rectangle of softer, darker board
-where a file's boards pressed down for forty years and kept the dust off. Plus a fine trail of
-grey at the shelf's lip where the file was slid out — *fast*, not lifted.
+**कैमरा:** अभिलेखागार की पिछली दीवार, तीसरी सुबह। इमारत की सबसे पुरानी क्षुद्र फ़ाइलें — गाँठ-लिपि के
+पट्ट, हाथ से कटे पत्ते, इतना पुराना धागा कि भूरा पड़ गया हो — और एक **अंतराल**, एक फ़ाइल की चौड़ाई,
+ताख़ पर उस जगह की धूल-रेखा अब भी दिखती हुई जहाँ वह खड़ी थी।
 
-**चित्र:** The file was pulled, not carried. A mender reads it in a second, and so should the
-reader.
+**दृश्य:** पिछली दीवार, और एक ग़ायब चीज़ का आकार। इरा का हाथ पहले से ताख़े के किनारे पर है — ठीक वही
+जगह जो अध्याय ००६ पृष्ठ ००१ की है।
 
-> **शीर्षक (Ira's voice):**
-> Dragged, not lifted. She was in a hurry at the end.
+> **कैप्शन (इरा का स्वर):**
+> मैं इस ताख़े पर पहले भी खड़ी हो चुकी हूँ। अध्याय छह, पहली सुबह, ऐसी फ़ाइल ढूँढ़ती हुई जिस पर मेरी माँ
+> का नाम हो, और मुझे एक मिली, और उस पर क़िरमिज़ी में लिखा था *सी कर बन्द*, और मुझे लगा कि यह ताख़ा
+> मेरे साथ इससे बुरा कुछ नहीं कर सकता।
 >
-> **CAPTION:**
-> You can tell. You can always tell. The dust says she hooked the boards and pulled straight out,
-> which means she'd already decided before she reached the shelf.
+> **कैप्शन:**
+> यह उससे बुरा है। अब इसमें एक छेद है।
 
 ---
 
-## चित्र-खाना 3 — Close, the shelf label (~14%)
+## पैनल २ — क्लोज़, धूल-रेखा (~१४%)
 
-**कैमरा:** Close on the shelf's lip, where every file on the back wall has its name sewn on in
-knot-script — a short braid in Kshudra knot-craft, each knot a letter, the whole thing a word.
-The label is still there, sewn to the shelf itself, waiting for a file that is not coming back.
+**कैमरा:** ताख़े पर मैक्रो। साफ़ पत्ता, सिवाय चिकने, गहरे पत्ते के एक आयत के, जहाँ चालीस साल तक एक फ़ाइल
+के पत्ते दबे रहे और धूल को दूर रखा। साथ में ताख़े के किनारे पर धूसर की एक महीन लकीर, जहाँ फ़ाइल को
+खींचकर बाहर निकाला गया — *तेज़ी से*, उठाकर नहीं।
 
-**चित्र:** Knot-script, close. A label that stays when its file leaves. This is the series'
-oldest writing system and it is being read by the wrong eyes — Ira's.
+**दृश्य:** फ़ाइल खींची गई, उठाई नहीं गई। सिलाई करने वाला इसे एक सेकंड में पढ़ लेता है, और पाठक को भी
+पढ़ लेना चाहिए।
 
-> **शीर्षक (Ira's voice):**
-> I can read four knots of knot-script. I can read my own name and I can read the word for
-> *thread* and that is the whole of it. Nandi has never offered to teach me more and I have
-> never been stupid enough to ask.
+> **कैप्शन (इरा का स्वर):**
+> खींची गई, उठाई नहीं गई। अन्त में उसे जल्दी थी।
 >
-> **CAPTION:**
-> So I hold the label up and I don't say anything, and Nandi takes it out of my fingers like it
-> weighs something.
+> **कैप्शन:**
+> तुम बता सकते हो। तुम हमेशा बता सकते हो। धूल कहती है कि उसने पत्तों को अँकुड़ा लगाकर सीधे बाहर
+> खींचा, मतलब उसने ताख़े तक पहुँचने से पहले ही तय कर लिया था।
 
 ---
 
-## चित्र-खाना 4 — Large, Nandi reads the label (~15%)
+## पैनल ३ — क्लोज़, ताख़े का नाम-पट्ट (~१४%)
 
-**कैमरा:** Nandi's gnarled hands turning the knotted label over. She reads it flat, without
-ceremony, and her voice is the voice of a woman reading a shelf number she has read ten thousand
-times — because she has.
+**कैमरा:** ताख़े के किनारे पर क्लोज़, जहाँ पिछली दीवार की हर फ़ाइल का नाम गाँठ-लिपि में सीया हुआ है —
+क्षुद्र की गाँठ-विद्या में एक छोटी बुनाई, हर गाँठ एक अक्षर, पूरी चीज़ एक शब्द। नाम-पट्ट अब भी वहीं है,
+ख़ुद ताख़े पर सीया हुआ, ऐसी फ़ाइल की प्रतीक्षा में जो वापस नहीं आ रही।
 
-**चित्र:** The old Kshudra reading her own archive's oldest label aloud, to the one person in
-Agnikhand it belongs to.
+**दृश्य:** गाँठ-लिपि, पास से। ऐसा नाम-पट्ट जो अपनी फ़ाइल के जाने पर भी रह जाता है। यह शृंखला की सबसे
+पुरानी लेखन-प्रणाली है और इसे ग़लत आँखें पढ़ रही हैं — इरा की।
 
-> **NANDI:**
-> *हाथों की सूची।*
+> **कैप्शन (इरा का स्वर):**
+> मैं गाँठ-लिपि की चार गाँठें पढ़ सकती हूँ। मैं अपना नाम पढ़ सकती हूँ और मैं *धागा* वाला शब्द पढ़ सकती
+> हूँ और बस इतना ही। नन्दी ने मुझे और सिखाने की कभी पेशकश नहीं की और मैं कभी इतनी बेवक़ूफ़ नहीं रही कि
+> पूछ लूँ।
 >
-> **NANDI:**
-> Every hand the school ever taught, in the order it was taught. Kind, the year the strand went
-> in, and the knot they tied first. No names — never one, not in forty years. A name is a handle,
-> and a handle can be read off a page.
->
-> **NANDI:**
-> Started when she founded it, kept up through the binding, kept up *after* the binding — she had
-> students long after the Council shut her, girl, that is the entire point of the sewer.
->
-> **NANDI:**
-> Forty years of pupils on one set of quires. And it was standing on this shelf at the second
-> bell, two nights ago, when I locked the cellar behind me.
+> **कैप्शन:**
+> तो मैं नाम-पट्ट ऊपर उठाती हूँ और कुछ नहीं कहती, और नन्दी इसे मेरी उँगलियों से ऐसे ले लेती है जैसे
+> इसका कोई वज़न हो।
 
 ---
 
-## चित्र-खाना 5 — Close, Ira (~14%)
+## पैनल ४ — बड़ा, नन्दी नाम-पट्ट पढ़ती है (~१५%)
 
-**कैमरा:** Ira, close, working it. Not shock — arithmetic. Her eyes moving slightly, the way they
-moved on Page 002 when she read clause four.
+**कैमरा:** नन्दी के गाँठों भरे हाथ गाँठदार नाम-पट्ट को पलटते हुए। वह इसे सपाट ढंग से पढ़ती है, बिना किसी
+औपचारिकता के, और उसका स्वर ऐसी स्त्री का स्वर है जो कोई ताख़ा-नंबर पढ़ रही हो जिसे उसने दस हज़ार बार
+पढ़ा है — क्योंकि उसने पढ़ा है।
 
-**चित्र:** The mender adding up what a list of pupils is worth.
+**दृश्य:** बूढ़ी क्षुद्र अपने अभिलेखागार का सबसे पुराना नाम-पट्ट बुलंद आवाज़ में पढ़ रही है, उस एक
+व्यक्ति के लिए जिसका वह अग्निखण्ड में है।
 
-> **शीर्षक (Ira's voice):**
-> Forty years of students.
+> **नन्दी:**
+> *हाथों की पंजी।*
 >
-> **CAPTION:**
-> Kshudra, Manav, Manavkin — she didn't choose by kind, she chose by *hand.* Rule three: the
-> teacher's strand is sewn into the student before the student's first speech.
+> **नन्दी:**
+> विद्यालय ने जिस-जिस हाथ को सिखाया, उसी क्रम में जिसमें सिखाया। जाति, वह साल जब तंतु सीया गया, और
+> वह पहली गाँठ जो उसने बाँधी। कोई नाम नहीं — एक भी नहीं, चालीस साल में नहीं। नाम एक दस्ता होता है,
+> और दस्ता पन्ने से पढ़ा जा सकता है।
 >
-> **CAPTION:**
-> Which means every single person on that roll has a piece of my mother sitting in their palm.
-> Which means every single person on that roll is *findable* by the thread in my hand.
+> **नन्दी:**
+> यह उसने विद्यालय खोलते ही शुरू की, बंधन के दौरान चलाती रही, बंधन के *बाद भी* चलाती रही — परिषद के
+> बन्द कराने के बाद भी उसके शिष्य थे, लड़की, सीवर का पूरा मतलब यही है।
+>
+> **नन्दी:**
+> एक ही दस्ते पर चालीस साल के शिष्य। और दो रात पहले, दूसरी घंटी पर, जब मैंने अपने पीछे तहख़ाने का
+> ताला लगाया, तब वह इसी ताख़े पर खड़ी थी।
 
 ---
 
-## चित्र-खाना 6 — Medium, Nandi says the thing (~14%)
+## पैनल ५ — क्लोज़, इरा (~१४%)
 
-**कैमरा:** Nandi, and for the first time in the series, she will not meet Ira's eyes. She looks
-at the empty shelf instead. Her hands are flat on her knees.
+**कैमरा:** इरा, पास से, इसे सुलझाती हुई। सदमा नहीं — हिसाब। उसकी आँखें ज़रा-सी हिल रही हैं, जैसे पृष्ठ
+००२ पर हिली थीं जब उसने खंड चार पढ़ा था।
 
-**चित्र:** An archive keeper declining to disclose. She is not protecting a principle; she is
-protecting a person, and it costs her something to do it.
+**दृश्य:** सिलाई करने वाली जोड़ रही है कि शिष्यों की एक सूची की कीमत क्या है।
 
-> **NANDI:**
-> There is one name on that roll that is not in the Council's registers. One. And I have kept
-> that shelf for forty years and never once written it out, not in knot-script, not in speech,
-> not to you, not to her.
+> **कैप्शन (इरा का स्वर):**
+> चालीस साल के शिष्य।
 >
-> **IRA:**
+> **कैप्शन:**
+> क्षुद्र, मानव, मानवकिण — उसने जाति देखकर नहीं चुना, उसने *हाथ* देखकर चुना। नियम तीन: गुरु का तंतु
+> बोलने से पहले शिष्य में सीया जाता है।
+>
+> **कैप्शन:**
+> मतलब उस पंजी पर लिखा हर एक व्यक्ति अपनी हथेली में मेरी माँ का एक टुकड़ा लिए बैठा है। मतलब उस पंजी
+> पर लिखा हर एक व्यक्ति मेरे हाथ के धागे से *ढूँढ़ा जा सकता है।*
+
+---
+
+## पैनल ६ — मध्यम, नन्दी वह बात कहती है (~१४%)
+
+**कैमरा:** नन्दी, और शृंखला में पहली बार, वह इरा की आँखों में नहीं देखेगी। वह इसके बजाय ख़ाली ताख़े को
+देखती है। उसके हाथ घुटनों पर सपाट हैं।
+
+**दृश्य:** एक अभिलेख-रक्षक बताने से इनकार कर रही है। वह किसी सिद्धांत की रक्षा नहीं कर रही; वह एक
+व्यक्ति की रक्षा कर रही है, और इसमें उसे कुछ लगता है।
+
+> **नन्दी:**
+> उस पंजी पर एक नाम है जो परिषद की पंजियों में नहीं है। एक। और मैंने चालीस साल वह ताख़ा सँभाला है और
+> एक बार भी उसे लिखा नहीं, न गाँठ-लिपि में, न बोलकर, न तुमसे, न उससे।
+>
+> **इरा:**
 > किसका?
 >
-> **NANDI:**
-> The school taught one hand that went **up the terrace** and never came back down.
+> **नन्दी:**
+> विद्यालय ने एक ऐसा हाथ सिखाया जो **कगार के ऊपर** चला गया और कभी वापस नीचे नहीं आया।
 >
-> **NANDI:**
-> ...अपनी माँ से पूछो। उस सूची में वह अकेली है जिसे इसे कहने की अनुमति है।
+> **नन्दी:**
+> ...अपनी माँ से पूछो। उस पंजी पर अकेली वही है जिसे इसे कहने की इजाज़त है।
 
 ---
 
-## चित्र-खाना 7 — Close, the two names — CLOSING HOOK (~16%)
+## पैनल ७ — क्लोज़, दो नाम — अन्तिम हुक (~१६%)
 
-**कैमरा:** Ira, alone in frame, the empty shelf behind her. One hand holds the principal's letter.
-The other is open, palm up, stitch in it. She is looking at the gap.
+**कैमरा:** इरा, फ़्रेम में अकेली, उसके पीछे ख़ाली ताख़ा। एक हाथ में प्रमुख का ख़त। दूसरा खुला, हथेली
+ऊपर, उसमें सिलाई। वह अंतराल को देख रही है।
 
-**चित्र:** A girl holding two pieces of paper about herself — one that names her and one that used
-to — standing in front of an empty shelf where the second one lived.
+**दृश्य:** एक लड़की अपने बारे में काग़ज़ के दो टुकड़े थामे हुई — एक जो उसका नाम लेता है और एक जो पहले
+लेता था — ऐसे ख़ाली ताख़े के सामने खड़ी जहाँ दूसरा रहता था।
 
-> **शीर्षक (Ira's voice):**
-> The principal has written my name into the third register. *Ira Sutar, of the School of the
-> Braided Thread.* A licence with four clauses and my mother's name in the fourth one.
+> **कैप्शन (इरा का स्वर):**
+> प्रमुख ने मेरा नाम तीसरी पंजी में लिख दिया है। *इरा सुतार, बुने धागे के विद्यालय की ओर से।* चार
+> खंडों वाला परवाना, और चौथे खंड में मेरी माँ का नाम।
 >
-> **CAPTION:**
-> And my mother has walked out of a cellar with a book that has had my name in it since I was
-> four years old, sewn in before I could talk, in her own hand.
+> **कैप्शन:**
+> और मेरी माँ एक तहख़ाने से ऐसी किताब लेकर निकल गई है जिसमें मेरा नाम तब से है जब मैं चार साल की थी,
+> बोलने से पहले सीया हुआ, उसके अपने हाथ से।
 >
-> **शीर्षक (last line):**
-> He put me in a filing. She took the only paper in Agnikhand that has ever had my name on it
-> without a crimson line through it.
+> **कैप्शन (अन्तिम पंक्ति):**
+> उसने मुझे एक फ़ाइल में डाल दिया। उसने अग्निखण्ड का वह अकेला काग़ज़ उठा लिया जिस पर मेरा नाम कभी
+> बिना क़िरमिज़ी लकीर के रहा।
 >
-> **शीर्षक (smaller):**
-> Two people are holding a record of me.
+> **कैप्शन (छोटा):**
+> दो लोग मेरा अभिलेख थामे हुए हैं।
 >
-> **शीर्षक (smallest):**
-> I have not been asked.
+> **कैप्शन (सबसे छोटा):**
+> मुझसे पूछा नहीं गया।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The gap is the chapter's coldest image.** No blood, no violence — one rectangle of clean dust
-  on a shelf. Draw it once, big, and let it sit.
-- **The Roll of Hands is the arc's weapon.** Canon from here: the school's pupil register, kept
-  continuously from founding through the twenty years of binding, listing every pupil by name,
-  kind and the year the teacher's strand was sewn in. It is the only document in Agnikhand that
-  connects the principal to the school.
-- **Nandi's refusal is a character beat, not a tease.** She has kept the principal's name out of
-  writing for forty years, deliberately, and she is not going to say it now in a cellar with the
-  door open. Her refusal is the most principled act in the chapter. Do not play it as coyness —
-  play it as a woman protecting the only leverage her friend has left.
-- **Ira's realisation is about *findability*, not mystery.** Chapter 005 established that the
-  braid can be read. Page 008 turns that around: the roll plus the braid equals a way to find
-  every pupil her mother ever taught. That is the strategic fact of Arc II.
-- **The two-names ending must land flat.** No tears, no raised voice. Ira has just been handed a
-  licence by a man and robbed of a birth-line by her mother, and both were done *for* her.
+- **अंतराल इस अध्याय की सबसे ठंडी छवि है।** न ख़ून, न हिंसा — ताख़े पर साफ़ धूल का एक आयत। इसे एक बार,
+  बड़ा खींचें, और उसे पड़ा रहने दें।
+- **हाथों की पंजी इस आर्क का हथियार है।** यहाँ से क़ानून: विद्यालय की शिष्य-पंजी, जो स्थापना से लेकर
+  बंधन के बीस सालों तक लगातार चलती रही, हर शिष्य को नाम, जाति और वह साल दर्ज करती हुई जब गुरु का
+  तंतु सीया गया। यह अग्निखण्ड का अकेला ऐसा दस्तावेज़ है जो प्रमुख को विद्यालय से जोड़ता है।
+- **नन्दी का इनकार एक चरित्र-क्षण है, कोई चिढ़ाना नहीं।** उसने चालीस साल जानबूझकर प्रमुख का नाम लिखने
+  से बाहर रखा है, और वह अब इसे खुले दरवाज़े वाले तहख़ाने में नहीं कहेगी। उसका इनकार इस अध्याय का सबसे
+  सिद्धांतवादी कर्म है। इसे छेड़खानी की तरह मत खेलें — इसे ऐसी स्त्री की तरह खेलें जो उस एकमात्र पकड़ की
+  रक्षा कर रही है जो उसकी सहेली के पास बची है।
+- **इरा की समझ *ढूँढ़ने योग्यता* के बारे में है, रहस्य के बारे में नहीं।** अध्याय ००५ ने स्थापित किया कि
+  बुनाई पढ़ी जा सकती है। पृष्ठ ००८ उसे पलट देता है: पंजी + बुनाई = उन सारे शिष्यों तक पहुँचने का रास्ता
+  जिन्हें उसकी माँ ने कभी सिखाया। यही आर्क II का रणनीतिक तथ्य है।
+- **दो-नाम वाला अन्त सपाट उतरना चाहिए।** न आँसू, न ऊँचा स्वर। इरा को अभी-अभी एक आदमी ने परवाना थमाया है
+  और उसकी माँ ने उसकी जन्म-रेखा छीन ली है, और दोनों काम उसके *लिए* किए गए हैं।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| One file's width of clean dust | Clue — *The Empty Standing Place* |
-| The Roll of Hands | Relic — *The Roll* |
-| A label sewn to a shelf | Lore — *Knots Stay When Files Leave* |
-| "One hand went up the terrace and never came back down." | Lore — *The Unwritten Name* |
-| Two people holding a record of me | Event — *Spoken For* |
+| एक फ़ाइल की चौड़ाई की साफ़ धूल | सुराग़ — *ख़ाली खड़ी जगह* |
+| हाथों की पंजी | रिलिक — *पंजी* |
+| ताख़े पर सीया नाम-पट्ट | लोर — *फ़ाइल जाती है, गाँठ रहती है* |
+| "एक हाथ कगार के ऊपर चला गया और कभी वापस नहीं आया।" | लोर — *वह अनलिखा नाम* |
+| दो लोग मेरा अभिलेख थामे हैं | इवेंट — *मेरी ओर से बोला गया* |

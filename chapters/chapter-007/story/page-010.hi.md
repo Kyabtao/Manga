@@ -1,208 +1,199 @@
-# THREADBORN — Chapter 07 — Page 010 — FINALE
+# सुत्रजात (THREADBORN) — अध्याय ०७ — पृष्ठ ०१० — अन्तिम
 
-**अध्याय शीर्षक:** *The Crimson Line* / *क़िरमिज़ी पंक्ति*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Knot & Nail, the Mendery's supply drop
-**पृष्ठ प्रकार:** Chapter finale — 7 panels
+**अध्याय शीर्षक:** *क़िरमिज़ी पंक्ति*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — गाँठ और कील (रात) → मेंडरी की पिछली सीढ़ी (भोर से पहले)
+**पृष्ठ प्रकार:** अध्याय-अन्त — ७ पैनल
 
-> Beats: Page 009 — twenty years was rent on a shelf. The mother took the Roll of Hands before the
-> audit could. Nandi delivered two messages: *I did not write her name in the roll / I sewed her
-> instead,* and *do not sign anything that asks her to exist.*
->
-> **This page:** the reply.
+> English source: [`page-010.md`](page-010.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
-> **Chapter 007 budget closed:** chain-stop **not spent** (second chapter running — held for the
-> Arc II turn). Loom never speaks. Mother never appears on panel and never speaks. Four notes
-> heard once, correctly, through the strand (Page 005).
+> **अध्याय ००७ का बजट बन्द:** ज़ंजीर-रोक **ख़र्च नहीं हुई** (दूसरा अध्याय लगातार — आर्क II के मोड़ के
+> लिए बची है)। सूत्र-यन्त्र कभी नहीं बोलता। माँ कभी पैनल पर नहीं आती और कभी नहीं बोलती। चार स्वर एक बार,
+> ठीक, तंतु के ज़रिए सुने गए (पृष्ठ ००५)।
 
 ---
 
-## चित्र-खाना 1 — Wide, the stall at night (~13%)
+## पैनल १ — व्यापक, रात का ठेला (~१३%)
 
-**कैमरा:** The Knot & Nail, shuttered, one lamp. The counter cleared. Laid out in a row: the
-principal's open letter, the needle, the wax knife, the spool-wrist with the blank strand uncoiled,
-and — at the end of the row — the lifted crimson seal with its scoop taken out of it.
+**कैमरा:** गाँठ और कील, शटर बन्द, एक लालटेन। काउंटर ख़ाली किया हुआ। एक क़तार में रखे हुए: प्रमुख का
+खुला ख़त, सुई, मोम-छुरी, ख़ाली तंतु खोले हुए कलाई की रील, और — क़तार के आख़िर में — उठाई हुई क़िरमिज़ी
+मोहर, जिसके बीच से एक बूँद खोदी हुई है।
 
-**चित्र:** A workbench, prepared. Everything the chapter has produced, laid out as a job.
+**दृश्य:** एक कार्य-मेज़, तैयार। इस अध्याय ने जो कुछ निकाला, सब एक काम की तरह रखा हुआ।
 
-> **शीर्षक (Ira's voice):**
-> Mending is four moves. Open the tear. Match the thread. Close the seam. Finish the knot.
+> **कैप्शन (इरा का स्वर):**
+> सिलाई चार हरकतें हैं। फटन खोलो। धागा मिलाओ। सीवन बन्द करो। गाँठ पूरी करो।
 >
-> **CAPTION:**
-> She left me a tear in a fold with eleven words in it. I'm going to do the same four moves back.
+> **कैप्शन:**
+> उसने मेरे लिए एक तह में एक फटन छोड़ा जिसमें ग्यारह शब्द हैं। मैं वही चार हरकतें वापस करने जा रही हूँ।
 
 ---
 
-## चित्र-खाना 2 — Large, the wax knife (~15%)
+## पैनल २ — बड़ा, मोम-छुरी (~१५%)
 
-**कैमरा:** Macro: Ira's wax knife digging a second bead out of the **letter's own crimson seal**
-— the way her mother's thumbnail did, three days before, in a corridor she will never see. She
-does not melt it over a flame. She works it warm in her fingers, the way it was worked the first
-time.
+**कैमरा:** मैक्रो: इरा की मोम-छुरी **ख़त की अपनी क़िरमिज़ी मोहर** में से दूसरी बूँद खोद रही है — वैसे
+ही जैसे तीन दिन पहले उसकी माँ के अँगूठे ने किया था, ऐसे गलियारे में जिसे वह कभी नहीं देखेगी। वह इसे
+लौ पर नहीं पिघलाती। वह इसे अपनी उँगलियों में गर्म करके नरम करती है, जैसे इसे पहली बार नरम किया गया था।
 
-**चित्र:** The daughter repeating the mother's method exactly, having never been taught it, because
-she reads seams for a living and a seam is a seam.
+**दृश्य:** बेटी माँ का तरीक़ा बिलकुल दोहरा रही है, बिना कभी सिखाए गए, क्योंकि वह सीवनें पढ़कर गुज़ारा
+करती है और सीवन सीवन होती है।
 
-> **शीर्षक (Ira's voice):**
-> You don't melt the wax. Melt it and it goes liquid and it crawls, and you can see a crawled line
-> from across a market. You work it in your fingers until it's soft enough to drag, and you drag
-> it, and it sits on the fibre in a raised bead and goes cloudy when it cools.
+> **कैप्शन (इरा का स्वर):**
+> तुम मोम को नहीं पिघलाते। पिघलाओ और वह तरल होकर रिसने लगती है, और रिसी हुई लकीर पूरे बाज़ार से
+> दिख जाती है। तुम इसे उँगलियों में तब तक गर्म करते हो जब तक वह खींचने लायक नरम न हो जाए, और फिर
+> खींचते हो, और वह रेशे पर एक उभरी बूँद में बैठती है और ठंडी होकर धुँधली पड़ जाती है।
 >
-> **CAPTION:**
-> She didn't teach me that. I watched a woman do it once, on a page that wasn't mine, and I read
-> the whole thing off the material the way she'd have wanted me to.
+> **कैप्शन:**
+> वह मुझे यह नहीं सिखा गई। मैंने एक बार एक स्त्री को यह करते देखा था, ऐसे पन्ने पर जो मेरा नहीं था,
+> और मैंने पूरी बात सामग्री से पढ़ ली, जैसे वह चाहती कि मैं पढ़ूँ।
 
 ---
 
-## चित्र-खाना 3 — Large, the crease-writ, second hand (~15%)
+## पैनल ३ — बड़ा, तह-लिखत, दूसरा हाथ (~१५%)
 
-**कैमरा:** Macro on the open fold. Beneath the mother's eleven crimson words, a second line
-appears, in the same crimson, in the same crease, drawn in a different hand — smaller, more
-even, a needleworker's hand.
+**कैमरा:** खुली तह पर मैक्रो। माँ के ग्यारह क़िरमिज़ी शब्दों के नीचे एक दूसरी पंक्ति उभरती है, उसी
+क़िरमिज़ी में, उसी तह में, अलग हाथ से खींची हुई — छोटी, ज़्यादा एक-सी, सुई का काम करने वाले का हाथ।
 
-> *The founder's hand has not signed.*
-> *The stall is open.*
-> *— a hand of the school*
+> *संस्थापक के हाथ ने हस्ताक्षर नहीं किए।*
+> *ठेला खुला है।*
+> *— विद्यालय का एक हाथ*
 
-**चित्र:** A conversation inside a crease. Two hands, same wax, same fold, three days apart, and
-the paper is the only place in the world they have ever both been at once.
+**दृश्य:** एक तह के भीतर बातचीत। दो हाथ, वही मोम, वही तह, तीन दिन का फ़ासला, और यह काग़ज़ दुनिया की
+अकेली जगह है जहाँ वे दोनों कभी एक साथ रहे हैं।
 
-> **शीर्षक (Ira's voice):**
-> Same sign-off. *A hand of the school.* She invented it and I've never used it and it fits
-> exactly the way a thread fits the gauge it was cut for.
-
----
-
-## चित्र-खाना 4 — Close, Kessa's tally-thread (~14%)
-
-**कैमरा:** Kessa at the counter, loupe up. She lifts the letter, presses the flattened crease
-against the twist of her tally-thread, and rubs — thumb down the knot, once, twice. The reading
-goes into the cord and stays there. She keeps no ink and has never kept a written record in her
-life.
-
-**चित्र:** The only ledger in Agnikhand that cannot be audited, taking a copy of the only two
-sentences in Agnikhand that matter.
-
-> **KESSA:**
-> किताबें वह रख सकता है।
->
-> **KESSA:**
-> पढ़ना मैं रखती हूँ।
-
-> **शीर्षक (Ira's voice):**
-> Two hundred pages ago she told me that she keeps no ink because ink is a thing the up-terrace can
-> take off you. Then she took the only copy of my mother's handwriting that exists outside of a
-> stolen book and put it in a knotted cord and hung it back around her own wrist.
->
-> **CAPTION:**
-> That's the whole of Kessa, that is. She'll appraise your whole life and never once write it down.
+> **कैप्शन (इरा का स्वर):**
+> वही अन्तिम पंक्ति। *विद्यालय का एक हाथ।* उसने इसे ईजाद किया और मैंने इसे कभी इस्तेमाल नहीं किया और
+> यह ठीक वैसे ही बैठती है जैसे धागा उसी माप में बैठता है जिसके लिए उसे काटा गया था।
 
 ---
 
-## चित्र-खाना 5 — Medium, the fold closes (~14%)
+## पैनल ४ — क्लोज़, केसा की गिनती-डोर (~१४%)
 
-**कैमरा:** Ira closes the letter along its original fold. The crease-writ disappears into the
-paper exactly as designed — the two messages, four lines, gone. Then she takes the needle.
+**कैमरा:** काउंटर पर केसा, लूप ऊपर। वह ख़त उठाती है, सपाट की हुई तह को अपनी गिनती-डोर की ऐंठन पर दबाती
+है, और रगड़ती है — अँगूठा गाँठ पर नीचे, एक बार, दो बार। पाठ डोर में चला जाता है और वहीं रहता है। वह कोई
+स्याही नहीं रखती और अपनी ज़िन्दगी में कभी कोई लिखा हुआ अभिलेख नहीं रखा।
 
-**चित्र:** The fold shutting on the conversation. Watch the panel: the writing should visibly
-vanish as the paper goes over.
+**दृश्य:** अग्निखण्ड की अकेली ऐसी बही जिसका लेखा नहीं हो सकता, अग्निखण्ड के उन अकेले दो वाक्यों की
+नक़ल ले रही है जो मायने रखते हैं।
 
-> **शीर्षक (Ira's voice):**
-> Shut, and it's gone. Both of them. Mine and hers. Four lines of the only real talking either of
-> us has ever done, and a boy on the terrace could hold this letter up to a lamp and see ink and
-> nothing else.
+> **केसा:**
+> किताबें वह ले जाए।
+>
+> **केसा:**
+> पाठ मैं रखती हूँ।
+
+> **कैप्शन (इरा का स्वर):**
+> दो सौ पृष्ठ पहले उसने मुझसे कहा था कि वह स्याही नहीं रखती क्योंकि स्याही ऐसी चीज़ है जिसे ऊपरी कगार
+> तुमसे छीन सकता है। फिर उसने मेरी माँ के हस्तलेख की वह अकेली नक़ल उठाई जो किसी चुराई हुई किताब के
+> बाहर मौजूद है, और उसे गाँठों वाली डोर में डालकर अपनी कलाई पर वापस लटका लिया।
+>
+> **कैप्शन:**
+> केसा पूरी यही है। वह तुम्हारी पूरी ज़िन्दगी परख लेगी और एक बार भी उसे लिखेगी नहीं।
 
 ---
 
-## चित्र-खाना 6 — Macro, the third seal and the first knot (~13%)
+## पैनल ५ — मध्यम, तह बन्द होती है (~१४%)
 
-**कैमरा:** Extreme macro: the needle going through the closed fold. Thread drawing the paper shut,
-four passes, then the finish — **a first knot**, the small uneven knot a Kshudra child ties when
-learning to thread. Tied hard, the way the cutter tied it on Bhan's arm in Chapter 004 and the way
-it sat on the end of the seventh thread in the lockbox.
+**कैमरा:** इरा ख़त को उसकी मूल तह पर बन्द करती है। तह-लिखत काग़ज़ में ठीक वैसे ही ग़ायब हो जाती है जैसे
+बनाई गई थी — दोनों संदेश, चार पंक्तियाँ, गए। फिर वह सुई उठाती है।
 
-**चित्र:** Three seals on one letter: grey wax, crimson wax, and thread. The third one is tied with
-a child's knot by an adult who was taught it at four years old, before she could speak, by the
-woman the letter is travelling to.
+**दृश्य:** तह बातचीत पर बन्द हो रही है। पैनल पर ध्यान दें: जैसे काग़ज़ ऊपर जाता है, लिखाई साफ़ दिखते-दिखते
+ग़ायब होनी चाहिए।
 
-> **ध्वनि:** *tsk ... tsk ... tsk ... tsk*
-
-> **शीर्षक (Ira's voice):**
-> Then I sew the fold shut. Because a letter with two waxes on it has two owners, and this one is
-> about to have a third, and she should be able to see from the outside that somebody answered her.
+> **कैप्शन (इरा का स्वर):**
+> बन्द, और गया। दोनों। मेरा और उसका। हम दोनों की अब तक की अकेली असली बातचीत की चार पंक्तियाँ, और
+> कगार पर बैठा कोई लड़का इस ख़त को लालटेन के सामने उठाकर देखे तो उसे स्याही दिखेगी और कुछ नहीं।
 
 ---
 
-## चित्र-खाना 7 — Wide, the drop — FINAL HOOK (~16%)
+## पैनल ६ — मैक्रो, तीसरी मोहर और पहली गाँठ (~१३%)
 
-**कैमरा:** The Mendery's back stair, the supply drop — the chute in the mortar where forty years of
-thread came up out of the dark into the basin. Ira posts the letter through it. It falls. The
-chute is empty, then dark, then quiet. Then she sits on the step and takes her own left hand in
-her right, and with the needle still holding the thread, she **re-sews her own stitch** — the
-lifted loops drawn tight, the seam closed, the strand laid back down in the palm and finished with
-a small knot she has never tied on herself before.
+**कैमरा:** अत्यधिक मैक्रो: सुई बन्द तह में से गुज़र रही है। धागा काग़ज़ को बन्द कस रहा है, चार फेरे,
+और फिर अन्त — **पहली गाँठ**, वह छोटी असमान गाँठ जो क्षुद्र बच्चा धागा पिरोना सीखते हुए बाँधता है। कसकर
+बाँधी हुई, वैसे ही जैसे काटने वाले ने अध्याय ००४ में भान की बाँह पर बाँधी थी और वैसे ही जैसे वह ताला-बक्से
+के सातवें धागे के सिरे पर बैठी थी।
 
-**चित्र:** A girl closing a door. The stitch, open since Chapter 007 Page 005, shut by the girl
-who owns it, in the same evening, with the same needle, at the same step her mother used for forty
-years.
+**दृश्य:** एक ख़त पर तीन मोहरें: धूसर मोम, क़िरमिज़ी मोम, और धागा। तीसरी किसी बच्चे की गाँठ से बाँधी
+हुई है, ऐसे बड़े ने बाँधी है जिसे यह चार साल की उम्र में सिखाई गई थी, बोलने से पहले, उस स्त्री ने जिस तक
+यह ख़त जा रहा है।
 
-> **शीर्षक (Ira's voice):**
-> Down the chute is the only road out of Agnikhand that has ever been hers. Forty years of thread
-> up that mortar, and now one letter down it, folded shut, with a knot on it she'll know the second
-> she touches it.
->
-> **CAPTION:**
-> फिर मैं सिलाई बंद करती हूँ।
->
-> **CAPTION:**
-> Not because I'm finished with her. Because an open channel can be *followed*, and she is out
-> there somewhere with a book in her apron and a name in it that the terrace has been waiting
-> forty years to read. So I draw the loops down, one at a time, the way she did it when I was four
-> and couldn't talk yet.
->
-> **शीर्षक (last line):**
-> Rule three. The teacher's strand is sewn into the student before speech.
->
-> **शीर्षक (smaller):**
-> Nobody said who has to hold the needle.
+> **ध्वनि:** *त्सक ... त्सक ... त्सक ... त्सक*
 
-> **शीर्षक (final, over a small panel of her palm, sewn shut, no crimson under the grey):**
-> Four Unspoolings I have been the girl with the door in her hand. Tonight I shut it, and I did it
-> myself, and there is no one in Agnikhand who can open it now but me.
+> **कैप्शन (इरा का स्वर):**
+> फिर मैं तह को सीकर बन्द कर देती हूँ। क्योंकि दो मोमों वाले ख़त के दो मालिक होते हैं, और इस पर अब एक
+> तीसरा होने वाला है, और उसे बाहर से दिख जाना चाहिए कि किसी ने उसे जवाब दिया है।
+
+---
+
+## पैनल ७ — व्यापक, गिरान — अन्तिम हुक (~१६%)
+
+**कैमरा:** मेंडरी की पिछली सीढ़ी, आपूर्ति-गिरान — गारे में बनी वह नाली जिससे चालीस साल का धागा अँधेरे
+से ऊपर, गर्त तक आया था। इरा उसमें से ख़त नीचे भेजती है। वह गिरता है। नाली ख़ाली, फिर अँधेरी, फिर शान्त।
+फिर वह सीढ़ी पर बैठती है और अपना बायाँ हाथ दाएँ में लेती है, और सुई में अब भी धागा पिरोया हुआ है, और वह
+**अपनी सिलाई ख़ुद दोबारा सीती है** — उठे हुए फंदे कसकर नीचे खींचे, सीवन बन्द, तंतु वापस हथेली में लेटा
+हुआ और एक छोटी गाँठ से पूरा किया हुआ जो उसने पहले कभी ख़ुद पर नहीं बाँधी।
+
+**दृश्य:** एक लड़की एक दरवाज़ा बन्द कर रही है। सिलाई, जो अध्याय ००७ पृष्ठ ००५ से खुली थी, उसी लड़की ने
+बन्द की जो उसकी मालिक है, उसी शाम, उसी सुई से, उसी सीढ़ी पर जिसे उसकी माँ चालीस साल इस्तेमाल करती रही।
+
+> **कैप्शन (इरा का स्वर):**
+> नाली के नीचे ही अग्निखण्ड से बाहर जाने वाला अकेला रास्ता है जो कभी उसका रहा है। उस गारे से चालीस
+> साल का धागा ऊपर आया, और अब उससे एक ख़त नीचे गया, मुड़ा बन्द, और उस पर एक गाँठ है जिसे वह छूते ही
+> पहचान लेगी।
 >
-> **END OF CHAPTER SEVEN.**
+> **कैप्शन:**
+> फिर मैं सिलाई बन्द कर देती हूँ।
+>
+> **कैप्शन:**
+> इसलिए नहीं कि मेरा उससे काम ख़त्म है। इसलिए कि खुले चैनल का *पीछा* किया जा सकता है, और वह कहीं बाहर
+> है, एप्रन में किताब लिए, और उसमें एक नाम है जिसे पढ़ने के लिए कगार चालीस साल से प्रतीक्षा कर रहा है।
+> तो मैं फंदे नीचे खींचती हूँ, एक-एक करके, वैसे जैसे उसने किया था जब मैं चार साल की थी और बोल भी नहीं
+> सकती थी।
+>
+> **कैप्शन (अन्तिम पंक्ति):**
+> नियम तीन। गुरु का तंतु बोलने से पहले शिष्य में सीया जाता है।
+>
+> **कैप्शन (छोटा):**
+> किसी ने नहीं कहा कि सुई किसे थामनी है।
+
+> **कैप्शन (अन्तिम, उसकी हथेली के एक छोटे पैनल के ऊपर, सी कर बन्द, धूसर के नीचे कोई क़िरमिज़ी नहीं):**
+> चार अनुकुलन मैं वह लड़की रही हूँ जिसके हाथ में दरवाज़ा है। आज रात मैंने उसे बन्द किया, और यह मैंने
+> ख़ुद किया, और अग्निखण्ड में अब कोई नहीं है जो इसे खोल सके — सिवाय मेरे।
+>
+> **अध्याय सात समाप्त।**
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The reply is four moves — the mending craft — applied to a document.** Open the tear, match
-  the thread, close the seam, finish the knot. The reader has known this since Chapter 001 Page
-  007; this is the first time the series shows it used as an argument. Do not have Ira say
-  "I am mending this letter." Let the panel sequence say it.
-- **The third seal is the chapter's icon.** Grey wax, crimson wax, braid. Use it for the chapter's
-  key art and for the card *The Three-Sealed Letter.*
-- **Kessa's line is the chapter's thesis.** *"किताबें वह रख सकता है। पढ़ना मैं रखती हूँ।"* Put the
-  tally-thread rub across from it, one panel, no commentary.
-- **THE ENDING IS A CHOICE, NOT A SACRIFICE.** Ira closing the stitch is not noble suffering — it
-  is damage control performed by a person who has been surrounded by professionals of paperwork
-  for six chapters and has finally understood the game. She does not cry. She does not explain it
-  to Kessa on-panel. The reader will feel the size of it.
-- **The last caption is the chapter's turn into Arc II's endgame.** "Nobody said who has to hold
-  the needle" restates rule three as Ira's claim on it: she is now the teacher of her own strand.
-  That is the change Chapter 007 exists to make.
-- **Do not resolve the principal.** He is unnamed, unshown, unanswered — and he now holds an
-  answered letter he cannot read. That asymmetry is the hook into Chapter 008.
-- **Chain-stop budget: unspent, two chapters running.** Note it in the chapter summary. The Arc II
-  turn will spend it.
+- **जवाब चार हरकतें हैं — सिलाई का हुनर — एक दस्तावेज़ पर लागू।** फटन खोलो, धागा मिलाओ, सीवन बन्द करो,
+  गाँठ पूरी करो। पाठक इसे अध्याय ००१ पृष्ठ ००७ से जानता है; यह पहली बार है कि शृंखला इसे एक तर्क की
+  तरह इस्तेमाल करते हुए दिखाती है। इरा से यह मत कहलवाएँ कि "मैं इस ख़त की सिलाई कर रही हूँ।" पैनलों
+  का क्रम यह कह दे।
+- **तीसरी मोहर इस अध्याय का प्रतीक है।** धूसर मोम, क़िरमिज़ी मोम, बुनाई। इसे अध्याय की मुख्य कलाकृति और
+  *तीन-मोहर वाला ख़त* कार्ड के लिए इस्तेमाल करें।
+- **केसा की पंक्ति इस अध्याय का सार है।** *"किताबें वह ले जाए। पाठ मैं रखती हूँ।"* इसके सामने गिनती-डोर
+  की रगड़ रखें, एक पैनल, कोई टिप्पणी नहीं।
+- **अन्त एक चुनाव है, बलिदान नहीं।** इरा का सिलाई बन्द करना कोई उदात्त कष्ट नहीं है — यह ऐसे व्यक्ति का
+  नुक़सान-नियंत्रण है जो छह अध्याय से काग़ज़ी कार्रवाई के पेशेवरों से घिरा रहा है और जिसने आख़िरकार
+  खेल समझ लिया है। वह रोती नहीं। वह केसा को पैनल पर समझाती नहीं। पाठक इसका आकार ख़ुद महसूस करेगा।
+- **आख़िरी कैप्शन अध्याय को आर्क II के अन्तिम दौर में मोड़ता है।** "किसी ने नहीं कहा कि सुई किसे थामनी
+  है" नियम तीन को इरा के दावे की तरह दोहराता है: अब वह अपने ही तंतु की गुरु है। यही वह बदलाव है जिसके
+  लिए अध्याय ००७ मौजूद है।
+- **प्रमुख को सुलझाएँ नहीं।** वह अनाम है, अनदेखा, अनुत्तरित — और अब उसके पास एक जवाबदिया हुआ ख़त है
+  जिसे वह पढ़ नहीं सकता। यही असमानता अध्याय ००८ का हुक है।
+- **ज़ंजीर-रोक बजट: अभी ख़र्च नहीं, दो अध्याय लगातार।** अध्याय-सार में दर्ज करें। आर्क II का मोड़ इसे
+  ख़र्च करेगा।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| Four moves, applied to a letter | Skill — *Mend The Argument* |
-| Wax worked in the fingers | Technique — *The Crease-Writ (Second Hand)* |
-| "किताबें वह रख सकता है। पढ़ना मैं रखती हूँ।" | Relic — *The Tally-Thread* |
-| Grey, crimson, braid | Relic — *The Three-Sealed Letter* |
-| Ira closes her own stitch | Event — *Nobody Said Who Holds The Needle* |
-| "I have been the girl with the door in her hand." | Lore — *The Door Shuts* |
+| मोम-छुरी दूसरी बूँद खोदती है | कौशल — *वही तरीक़ा* |
+| माँ के शब्दों के नीचे इरा की पंक्ति | रिलिक — *तह-लिखत, दूसरा हाथ* |
+| "किताबें वह ले जाए। पाठ मैं रखती हूँ।" | लोर — *स्याही नहीं रखती* |
+| तह पर सीया तीसरी मोहर | रिलिक — *तीन-मोहर वाला ख़त* |
+| इरा अपनी सिलाई दोबारा सीती है | इवेंट — *दरवाज़ा, ख़ुद बन्द किया* |
+| "किसी ने नहीं कहा कि सुई किसे थामनी है।" | लोर — *वह जो सुई थामता है* |
