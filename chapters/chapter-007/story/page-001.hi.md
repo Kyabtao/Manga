@@ -1,185 +1,184 @@
-# THREADBORN — Chapter 07 — Page 001
+# सुत्रजात (THREADBORN) — अध्याय ०७ — पृष्ठ ००१
 
-**अध्याय शीर्षक:** *The Crimson Line* / *क़िरमिज़ी पंक्ति*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Knot & Nail, the roof over it, the Council Stair
-**पृष्ठ प्रकार:** Chapter opener — 7 panels
+**अध्याय शीर्षक:** *क़िरमिज़ी पंक्ति*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — गाँठ और कील, उसके ऊपर की छत, परिषद-सीढ़ी
+**पृष्ठ प्रकार:** अध्याय-प्रारम्भ — ७ पैनल
 
-> Beats: Chapter 006 closed on the counter — the principal's letter, grey wax and crimson wax
-> touching on one fold, **unopened**, Kessa's loupe down beside it. Chapter 007 opens it. But not
-> on page 001. Page 001 is the **night of not opening it** — the cost of restraint, and the first
-> sign that the letter is not inert.
+> English source: [`page-001.md`](page-001.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: अध्याय ००६ काउंटर पर बंद हुआ — प्रमुख का ख़त, एक ही तह पर धूसर मोम और क़िरमिज़ी मोम छूते हुए,
+> **अनखुला**, उसके बग़ल में केसा का नीचे रखा लूप। अध्याय ००७ उसे खोलता है। पर पृष्ठ ००१ पर नहीं।
+> पृष्ठ ००१ **उसे न खोलने की रात** है — संयम की क़ीमत, और पहला संकेत कि ख़त निर्जीव नहीं है।
 >
-> **Chapter 007 premise:** a name is a hook. The letter gives Ira a name — and a name is how
-> paperwork finds you. Everything the principal has ever wanted, he has taken by writing it down.
-> This chapter is Ira learning that the gift is the trap, and answering it in the only language
-> she has.
+> **अध्याय ००७ का आधार:** नाम एक हुक है। ख़त इरा को एक नाम देता है — और नाम ही वह तरीक़ा है जिससे
+> काग़ज़ी कार्रवाई तुम्हें ढूँढ़ लेती है। प्रमुख ने जो कुछ भी चाहा, वह लिखकर लिया। यह अध्याय इरा के
+> यह सीखने का है कि देन ही जाल है, और उसका जवाब वही भाषा है जो उसके पास है।
 >
-> **Continuity:** chain echo fading (Ch. 006 p007, p010). Eight objects in the lockbox plus the
-> charter. Four notes now match **correctly** through the thread's memory. Mother three days gone.
-> Chain-stop budget **unspent** — Chapter 007 holds it in reserve, second chapter running.
+> **निरन्तरता:** ज़ंजीर की प्रतिध्वनि फीकी पड़ रही है (अध्याय ००६ पृष्ठ ००७, ०१०)। ताला-बक्से में आठ
+> चीज़ें, और अधिकार-पत्र। चार स्वर अब धागे की स्मृति से **ठीक** मिलते हैं। माँ तीन दिन से गई हुई।
+> ज़ंजीर-रोक बजट **अभी ख़र्च नहीं** — अध्याय ००७ उसे दूसरे अध्याय से लगातार बचाए हुए है।
 
 ---
 
-## चित्र-खाना 1 — Wide, the roof (~14%)
+## पैनल १ — व्यापक, छत (~१४%)
 
-**कैमरा:** Night. The roof over the Knot & Nail. Ira lies on her back under the turning Loom, the
-letter flat on her open palm — on the stitch, on the mark. Ash falls past her. The Loom's light
-crosses her face every few seconds, slow.
+**कैमरा:** रात। गाँठ और कील के ऊपर की छत। इरा पीठ के बल घूमते सूत्र-यन्त्र के नीचे लेटी है, ख़त उसकी
+खुली हथेली पर — सिलाई पर, चिह्न पर। राख उसके ऊपर से गिरती हुई। सूत्र-यन्त्र का उजाला हर कुछ सेकंड में
+उसके चेहरे पर से गुज़रता है, धीरे-धीरे।
 
-**चित्र:** The girl, the Loom and the letter. The letter held exactly where the thread lives. She
-is not reading it. She is *listening* to it. She has been here for hours.
+**दृश्य:** लड़की, सूत्र-यन्त्र और ख़त। ख़त ठीक वहाँ पकड़ा हुआ जहाँ धागा रहता है। वह उसे पढ़ नहीं रही।
+वह उसे *सुन* रही है। वह घंटों से यहीं है।
 
-> **शीर्षक (Ira's voice):**
-> Kessa said: not here. Not alone. Not with your hand on it.
+> **कैप्शन (इरा का स्वर):**
+> केसा ने कहा था: यहाँ नहीं। अकेले नहीं। हाथ उस पर रखकर नहीं।
 >
-> **CAPTION:**
-> So I did the next best thing. I lay down with it and let the thread do the reading.
+> **कैप्शन:**
+> तो मैंने अगली सबसे अच्छी चीज़ की। मैं उसके साथ लेट गई और धागे को पढ़ने दिया।
 
 ---
 
-## चित्र-खाना 2 — Close, the palm (~14%)
+## पैनल २ — क्लोज़, हथेली (~१४%)
 
-**कैमरा:** Extreme close on Ira's open palm. The stitch, sewn shut fifteen years ago. On top of
-it, the letter. The braided mark's blank strand has come loose from the palm and is climbing,
-slowly, toward the fold — not toward the grey wax. Toward the **crimson**.
+**कैमरा:** इरा की खुली हथेली पर अत्यधिक पास से। सिलाई, जो पन्द्रह साल पहले सी कर बन्द की गई थी। उसके
+ऊपर, ख़त। बुने चिह्न का ख़ाली तंतु हथेली से ढीला पड़कर धीरे-धीरे तह की ओर चढ़ रहा है — धूसर मोम की ओर
+नहीं। **क़िरमिज़ी** की ओर।
 
-**चित्र:** The strand choosing. Out of two seals on one fold, the thread goes to the crimson one.
-It knows that wax.
+**दृश्य:** तंतु चुनाव कर रहा है। एक ही तह पर दो मोहरों में से धागा क़िरमिज़ी वाली की ओर जाता है। वह उस
+मोम को पहचानता है।
 
-> **शीर्षक (Ira's voice, small):**
-> The strand went past the grey. It didn't even slow at the grey.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> तंतु धूसर के पास से गुज़र गया। धूसर पर वह ज़रा भी धीमा नहीं पड़ा।
 >
-> **CAPTION:**
-> It's been three days since the sewer went quiet. Three days since the last mending thread came
-> up out of the dark. And the strand on my palm is climbing toward the principal's seal like a
-> dog that heard a door.
+> **कैप्शन:**
+> सीवर के चुप होने के तीन दिन बीत गए। तीन दिन पहले आख़िरी सिलाई-धागा अँधेरे से ऊपर आया था। और मेरी
+> हथेली का तंतु प्रमुख की मोहर की ओर ऐसे चढ़ रहा है जैसे कोई कुत्ता दरवाज़े की आहट सुनकर।
 
 ---
 
-## चित्र-खाना 3 — Macro, the crimson wax (~14%)
+## पैनल ३ — मैक्रो, क़िरमिज़ी मोम (~१४%)
 
-**कैमरा:** Macro. The crimson seal fills the panel. At this magnification the truth is visible:
-the crimson wax is **not one pour**. There is an outer ring — smooth, clean, a stamp's edge. And
-inside it, a slightly different red, faintly cloudy, pressed in by something that was not a stamp.
-A fingertip.
+**कैमरा:** मैक्रो। क़िरमिज़ी मोहर पूरा पैनल भर देती है। इस आवर्धन पर सच दिख जाता है: क़िरमिज़ी मोम
+**एक ही डाल** का नहीं है। बाहर एक छल्ला है — चिकना, साफ़, मुहर के किनारे जैसा। और उसके भीतर, ज़रा-सा
+अलग लाल, हल्का धुँधला, ऐसी किसी चीज़ से दबाया हुआ जो मुहर नहीं थी। एक उँगली की पोर।
 
-**चित्र:** The seal that was opened and closed again. The panel is the evidence and nothing else.
+**दृश्य:** वह मोहर जो खोली गई और फिर बन्द कर दी गई। पैनल सबूत है और कुछ नहीं।
 
-> **शीर्षक (none spoken):**
-> One pour of wax has one edge. This seal has two.
+> **कैप्शन (कोई बोलता नहीं):**
+> मोम की एक डाल का किनारा एक ही होता है। इस मोहर के दो हैं।
 >
-> **CAPTION:**
-> Somebody opened the principal's letter before it reached the stair. Somebody read it. And then
-> somebody pressed the crimson back down with a thumb and put it in the dark for a girl to find.
+> **कैप्शन:**
+> किसी ने प्रमुख का ख़त सीढ़ी तक पहुँचने से पहले खोला। किसी ने पढ़ा। और फिर किसी ने अँगूठे से
+> क़िरमिज़ी मोम को वापस दबा दिया और उसे अँधेरे में उस लड़की के लिए रख दिया जो उसे ढूँढ़ लेगी।
 
 ---
 
-## चित्र-खाना 4 — Medium, Kessa at the counter (~13%)
+## पैनल ४ — मध्यम, काउंटर पर केसा (~१३%)
 
-**कैमरा:** Below, in the stall, Kessa has not gone to bed. She sits with the loupe **up** and the
-tally-thread across her knuckles, counting nothing — just holding it. She is looking at the hatch
-in the ceiling that leads to the roof. She has been looking at it for a while.
+**कैमरा:** नीचे, ठेले में, केसा सोने नहीं गई। वह लूप **ऊपर** किए बैठी है और गिनती-डोर उसकी पोरों पर
+लिपटी है, कुछ गिन नहीं रही — बस थामे हुए। वह छत में बने उस दरवाज़े को देख रही है जो छत तक जाता है।
+वह कुछ देर से उसे देख रही है।
 
-**चित्र:** The woman who raised her, awake, not going up. Waiting to be asked. Kessa's interiority
-is hands and shutters — here, both: hands full, shutters half.
+**दृश्य:** जिस स्त्री ने उसे पाला, वह जाग रही है, ऊपर नहीं जा रही। पूछे जाने की प्रतीक्षा में। केसा का
+भीतर हाथों और शटरों से दिखता है — यहाँ दोनों: हाथ भरे, शटर आधे।
 
-> **शीर्षक (none spoken):**
-> She doesn't come up. That's the whole of it. She doesn't come up, and she doesn't call down,
-> and she doesn't put the lamp out.
+> **कैप्शन (कोई बोलता नहीं):**
+> वह ऊपर नहीं आती। पूरी बात इतनी ही है। वह ऊपर नहीं आती, और वह नीचे से पुकारती नहीं, और वह लालटेन
+> बुझाती भी नहीं।
 >
-> **शीर्षक (Ira's voice):**
-> Four Unspoolings I've lived on that roof. She has never once climbed it. She keeps the stall and
-> I keep the sky, and the hatch is the border, and neither of us crosses it for nothing.
+> **कैप्शन (इरा का स्वर):**
+> उस छत पर मैंने चार अनुकुलन बिताए हैं। वह एक बार भी उस पर नहीं चढ़ी। वह ठेला रखती है और मैं आकाश, और
+> वह दरवाज़ा ही सरहद है, और हम दोनों में से कोई बिना बात उसे पार नहीं करता।
 
 ---
 
-## चित्र-खाना 5 — Close, two hands on one fold (~14%)
+## पैनल ५ — क्लोज़, एक तह पर दो हाथ (~१४%)
 
-**कैमरा:** Dawn. The Knot & Nail counter, shutters up, market still thin. The letter lies between
-them. Ira's hand on the left corner, Kessa's scarred hand on the right. Kessa's rule, spoken
-plainly, no ornament.
+**कैमरा:** भोर। गाँठ और कील का काउंटर, शटर चढ़े, बाज़ार अब भी पतला। ख़त उनके बीच पड़ा है। बाएँ कोने पर
+इरा का हाथ, दाएँ पर केसा का निशानों भरा हाथ। केसा का नियम, सीधे कहा गया, बिना किसी सजावट के।
 
-**चित्र:** Two hands, one fold. The witness, done properly. This is a Kshudra counter and a
-Kshudra rule: nothing is opened by one person.
+**दृश्य:** दो हाथ, एक तह। गवाही, ठीक ढंग से की गई। यह क्षुद्र का काउंटर है और क्षुद्र का नियम: एक
+व्यक्ति कुछ नहीं खोलता।
 
-> **KESSA:**
-> दो मोम से सील किया ख़त दो मालिकों वाला ख़त है। एक हाथ से खोलो और तुम
-> अकेली हो जो जानती हो उसमें क्या लिखा है — यानी अकेली तुम ही हो जिस पर कोई इल्ज़ाम लगा सके।
+> **केसा:**
+> दो मोमों में मुहरबन्द ख़त दो मालिकों वाला ख़त होता है। इसे एक हाथ से खोलो और जो उसमें लिखा है, वह
+> सिर्फ़ तुमने देखा — मतलब इल्ज़ाम भी सिर्फ़ तुम पर लगेगा।
 >
-> **KESSA:**
-> तो। दो हाथ। तुम धूसर लो। मैं क़िरमिज़ी लूँगी।
+> **केसा:**
+> तो। दो हाथ। तुम धूसर लो। मैं क़िरमिज़ी लेती हूँ।
 
 ---
 
-## चित्र-खाना 6 — Close, the grey breaks (~13%)
+## पैनल ६ — क्लोज़, धूसर टूटती है (~१३%)
 
-**कैमरा:** Ira's thumbnail under the grey seal. One clean motion. The grey wax does what wax does
-when no one has touched it — it **snaps**, the whole stamp lifting off in one piece, the Council's
-mark intact and unbroken in her hand like a coin.
+**कैमरा:** धूसर मोहर के नीचे इरा का अँगूठा। एक साफ़ हरकत। धूसर मोम वही करती है जो मोम करती है जब उसे
+किसी ने छुआ न हो — वह **चटक** जाती है, पूरी मुहर एक ही टुकड़े में उठ जाती है, परिषद का निशान उसके हाथ
+में ऐसा साबुत और अनटूटा जैसे कोई सिक्का।
 
-**चित्र:** A clean break. The grey was never opened. The grey is honest. Whatever is wrong with
-this letter, it is not wrong at the Council's end.
+**दृश्य:** साफ़ टूट। धूसर कभी खुली ही नहीं थी। धूसर ईमानदार है। इस ख़त में जो भी गड़बड़ है, वह परिषद
+के सिरे पर नहीं है।
 
-> **ध्वनि:** *tk*
-
-> **शीर्षक (Ira's voice):**
-> Grey comes off in one piece. Clean. Never touched. The Council's stamp whole in my hand like a
-> coin somebody dropped and forgot to want.
+> **ध्वनि:** *टक*
+>
+> **कैप्शन (इरा का स्वर):**
+> धूसर एक ही टुकड़े में निकल आती है। साफ़। कभी छुई नहीं गई। परिषद की मुहर मेरे हाथ में साबुत, ऐसे
+> सिक्के की तरह जिसे किसी ने गिरा दिया और चाहना भूल गया।
 
 ---
 
-## चित्र-खाना 7 — Macro, the crimson gives — CLOSING HOOK (~18%)
+## पैनल ७ — मैक्रो, क़िरमिज़ी झुकती है — अन्तिम हुक (~१८%)
 
-**कैमरा:** Kessa's thumbnail under the crimson seal. It does **not** snap. It **lifts** — the
-whole seal comes up as one soft piece, slightly cloudy, the way wax comes up when it has already
-been broken once and pressed back down warm. Kessa goes completely still. Her thumb stays where it
-is. She does not look at Ira. She looks at the wax.
+**कैमरा:** क़िरमिज़ी मोहर के नीचे केसा का अँगूठा। वह **चटकती नहीं**। वह **उठती** है — पूरी मोहर एक
+नरम टुकड़े की तरह ऊपर आ जाती है, ज़रा धुँधली, ऐसे जैसे मोम उठती है जब वह पहले भी एक बार टूट चुकी हो और
+गर्म हालत में वापस दबा दी गई हो। केसा पूरी तरह स्थिर हो जाती है। उसका अँगूठा जहाँ था वहीं रहता है। वह
+इरा की ओर नहीं देखती। वह मोम की ओर देखती है।
 
-**चित्र:** The crimson seal, whole, soft, already-opened, sitting on Kessa's thumb. The proof.
+**दृश्य:** क़िरमिज़ी मोहर, साबुत, नरम, पहले ही खुली हुई, केसा के अँगूठे पर पड़ी। सबूत।
 
-> **KESSA:**
+> **केसा:**
 > ...बच्ची।
 >
-> **KESSA:**
-> यह पहले ही खुल चुका है।
+> **केसा:**
+> यह वाली तो पहले ही खुली हुई है।
 
-> **शीर्षक (none spoken):**
-> Three days. A letter sealed in two waxes, carried down a stair, and left in the dark for a girl
-> to find. And somebody got to the crimson before she did.
+> **कैप्शन (कोई बोलता नहीं):**
+> तीन दिन। दो मोमों में मुहरबन्द एक ख़त, सीढ़ी से नीचे उतारा गया, और अँधेरे में एक लड़की के लिए छोड़
+> दिया गया। और क़िरमिज़ी तक उससे पहले कोई पहुँच गया।
 >
-> **शीर्षक (last line):**
-> The principal wrote the letter. Somebody else read it first.
+> **कैप्शन (अन्तिम पंक्ति):**
+> प्रमुख ने ख़त लिखा। किसी और ने उसे पहले पढ़ लिया।
 >
-> **शीर्षक (smaller):**
-> Somebody who could reach the crimson wax and no further.
+> **कैप्शन (छोटा):**
+> कोई ऐसा, जो क़िरमिज़ी मोम तक पहुँच सका और उससे आगे नहीं।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **Page 001 is the night of not opening it.** The chapter's restraint is the point: Ira's whole
-  ethic is *nothing gets sewn till I've seen the tear*. She applies it to paper. Kessa's rule —
-  two hands on one fold — is a Kshudra counter-law and mirrors the school's rule one (*thread is
-  braided, never single*): nothing is true that one person holds alone.
-- **The strand goes to the crimson, not the grey.** Established here so that Page 005 pays it:
-  the braid does not know the principal's hand. It knows the wax.
-- **The two-pour seal is the chapter's engine.** It is a physical, verifiable clue — no magic, no
-  Sight. A mender's evidence: you read a seam by whether it has been sewn twice.
-- **Kessa's interiority stays shutters-and-hands.** She never says *I was worried*. She says the
-  lamp is still lit and the hatch is still shut and that is the same sentence.
-- **Do not name the principal.** He is *the principal* throughout Chapter 007. First naming is
-  planned for Ch. 20–30 (see Ch. 001 summary).
-- **The Loom never speaks.** It turns; it does not comment.
-- **Four notes are not in this page** — deliberately. Chapter 007 keeps the notes rare so that
-  their next appearance lands.
+- **पृष्ठ ००१ उसे न खोलने की रात है।** अध्याय का संयम ही मुद्दा है: इरा का पूरा सिद्धांत है *जब तक फटन
+  देख न लूँ, तब तक कुछ सीया नहीं जाता*। वह उसे काग़ज़ पर लागू करती है। केसा का नियम — एक तह पर दो हाथ —
+  क्षुद्र काउंटर का नियम है और विद्यालय के पहले नियम (*धागा बुना जाता है, कभी अकेला नहीं*) का प्रतिबिम्ब
+  है: जो एक व्यक्ति अकेले थामे, वह सच नहीं।
+- **तंतु क़िरमिज़ी की ओर जाता है, धूसर की ओर नहीं।** यह यहाँ स्थापित होता है ताकि पृष्ठ ००५ उसका फल दे
+  सके: बुनाई प्रमुख का हाथ नहीं जानती। वह मोम जानती है।
+- **दो-डाल वाली मोहर इस अध्याय का इंजन है।** यह भौतिक, परखने योग्य सुराग़ है — न जादू, न दृष्टि। सिलाई
+  करने वाले का सबूत: तुम सीवन इससे पढ़ते हो कि वह दो बार सीया गया है या नहीं।
+- **केसा का भीतर शटरों और हाथों में ही रहता है।** वह कभी नहीं कहती *मुझे फ़िक्र थी*। वह कहती है लालटेन अब
+  भी जल रही है और दरवाज़ा अब भी बन्द है, और यह एक ही वाक्य है।
+- **प्रमुख का नाम मत लो।** पूरे अध्याय ००७ में वह *प्रमुख* ही है। पहला नामकरण अध्याय २०–३० में तय है
+  (अध्याय ००१ का सार देखें)।
+- **सूत्र-यन्त्र कभी नहीं बोलता।** वह घूमता है; वह टिप्पणी नहीं करता।
+- **इस पृष्ठ पर चार स्वर नहीं हैं** — जानबूझकर। अध्याय ००७ स्वरों को दुर्लभ रखता है ताकि उनका अगला
+  प्रकटन असर करे।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The letter on the stitch, unread | Relic — *The Night Before Reading* |
-| The strand passing the grey | Power — *Ink Knows Its Own* |
-| Two pours in one seal | Item — *The Resealed Crimson* |
-| Two hands on one fold | Rule — *Never Open Alone* |
-| "यह पहले ही खुल चुका है।" | Lore — *The Letter Was Read First* |
+| सिलाई पर अनपढ़ा ख़त | रिलिक — *पढ़ने से पहले की रात* |
+| तंतु धूसर के पास से गुज़रता है | पावर — *स्याही अपने को जानती है* |
+| एक मोहर में दो डाल | आइटम — *फिर से दबाई क़िरमिज़ी* |
+| एक तह पर दो हाथ | नियम — *अकेले कभी मत खोलो* |
+| "यह वाली तो पहले ही खुली हुई है।" | लोर — *ख़त पहले पढ़ा जा चुका* |

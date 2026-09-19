@@ -1,184 +1,183 @@
-# THREADBORN — Chapter 07 — Page 002
+# सुत्रजात (THREADBORN) — अध्याय ०७ — पृष्ठ ००२
 
-**अध्याय शीर्षक:** *The Crimson Line* / *क़िरमिज़ी पंक्ति*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Knot & Nail, Ashfall Basin
-**पृष्ठ प्रकार:** Regular — 7 panels
+**अध्याय शीर्षक:** *क़िरमिज़ी पंक्ति*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (भोर)
+**पृष्ठ प्रकार:** परवाना — ७ पैनल, अन्त में हुक
 
-> Beats: Page 001 — the crimson seal is already broken, already re-pressed. Somebody read the
-> principal's letter before Ira did. Two hands on one fold; grey broke clean, crimson gave soft.
->
-> **This page:** the letter's body. Grey ink, formal, one sheet. The outside of the letter was
-> careful — *to the girl with the braided mark*. The inside is not careful at all.
+> English source: [`page-002.md`](page-002.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Medium, the sheet (~14%)
-
-**कैमरा:** The Knot & Nail counter, dawn. The letter is open flat between two pairs of hands.
-One sheet of heavy paper, folded once. Grey ink, ruled lines, a clerk's spacing.
-
-**चित्र:** The letter as an object. Heavy paper. Grey ink. Ruled. Someone wrote this at a desk
-with a straightedge.
-
-> **शीर्षक (Ira's voice):**
-> One sheet. Folded once. Grey ink, ruled lines, spacing you could set a level on.
->
-> **CAPTION:**
-> Somebody wrote this at a desk. Somebody dried it before it was folded. And somebody, at the
-> top of the page, wrote *my name*.
+> **यह पृष्ठ:** ख़त का भीतरी हिस्सा। धूसर स्याही, औपचारिक, एक ही पन्ना। ख़त का बाहरी हिस्सा सतर्क था —
+> *बुने चिह्न वाली लड़की के नाम*। भीतर का हिस्सा ज़रा भी सतर्क नहीं है।
 
 ---
 
-## चित्र-खाना 2 — Close, the address line (~14%)
+## पैनल १ — मध्यम, पन्ना (~१४%)
 
-**कैमरा:** Close on the top of the sheet. One line, centred, in formal Agnikhand script:
+**कैमरा:** गाँठ और कील का काउंटर, भोर। ख़त दो जोड़ी हाथों के बीच खुला, सपाट पड़ा है। भारी काग़ज़ का
+एक पन्ना, एक बार मुड़ा हुआ। धूसर स्याही, लकीरदार ख़ाने, लिपिक जैसी दूरी।
 
-> *To Ira Sutar, of the School of the Braided Thread.*
+**दृश्य:** ख़त एक चीज़ के रूप में। भारी काग़ज़। धूसर स्याही। लकीरदार। किसी ने इसे मेज़ पर, पैमाने के साथ
+लिखा है।
 
-**चित्र:** Her name, written properly, on a document that came down the Council Stair.
-
-> **शीर्षक (Ira's voice):**
-> Nobody writes my name.
+> **कैप्शन (इरा का स्वर):**
+> एक पन्ना। एक बार मुड़ा हुआ। धूसर स्याही, लकीरदार ख़ाने, ऐसी दूरी जिस पर तुम जल-तराज़ू तौल सको।
 >
-> **CAPTION:**
-> I've been a hole in the ledger since I was four years old. The Council wrote me down, then
-> wrote me out, then wrote me down again with a crimson line through it. Six chapters of
-> paperwork and not one page of it has ever managed four letters and three vowels in a row.
->
-> **CAPTION:**
-> This one managed it on the first try.
+> **कैप्शन:**
+> किसी ने इसे मेज़ पर लिखा। किसी ने मोड़ने से पहले सुखाया। और किसी ने, पन्ने के सबसे ऊपर, *मेरा नाम*
+> लिखा।
 
 ---
 
-## चित्र-खाना 3 — Close, Kessa's loupe (~13%)
+## पैनल २ — क्लोज़, पता-पंक्ति (~१४%)
 
-**कैमरा:** Kessa's eye behind the loupe, running across the letter edge to edge, slow. Her mouth
-is doing the flat thing it does when she is reading numbers she does not like.
+**कैमरा:** पन्ने के ऊपरी हिस्से पर क्लोज़। एक पंक्ति, बीचोंबीच, औपचारिक अग्निखण्ड लिपि में:
 
-**चित्र:** The appraiser at work. She is not reading the letter for what it says. She is reading
-it for what it *is*.
+> *इरा सुतार को, बुने धागे के विद्यालय की ओर से।*
 
-> **KESSA:**
-> Cream laid stock, ninety-weight. Grey iron-gall, looks like, laid down in one pass —
+**दृश्य:** उसका नाम, ठीक से लिखा हुआ, ऐसे दस्तावेज़ पर जो परिषद-सीढ़ी से उतरकर आया है।
+
+> **कैप्शन (इरा का स्वर):**
+> मेरा नाम कोई नहीं लिखता।
 >
-> **KESSA:**
-> — and the margin rules were drawn first, in pencil, and the pencil's still under the ink.
-
-> **शीर्षक (Ira's voice):**
-> She appraised the letter the way she appraises a debt: not what it is, what it cost.
+> **कैप्शन:**
+> जब से मैं चार साल की थी, मैं बही में एक छेद रही हूँ। परिषद ने मुझे लिखा, फिर मिटाया, फिर
+> क़िरमिज़ी लकीर फेरकर दोबारा लिखा। छह अध्याय की काग़ज़ी कार्रवाई और उसका एक भी पन्ना कभी चार
+> अक्षर और तीन मात्राएँ एक पंक्ति में नहीं ला पाया।
+>
+> **कैप्शन:**
+> इस वाले ने पहली ही बार में ला दीं।
 
 ---
 
-## चित्र-खाना 4 — Medium, the terms (~14%)
+## पैनल ३ — क्लोज़, केसा का लूप (~१३%)
 
-**कैमरा:** The body of the letter, held up so the reader can see the ruled block that Kessa is
-reading aloud. The header is formal.
+**कैमरा:** लूप के पीछे केसा की आँख, ख़त के किनारे से किनारे तक धीरे-धीरे चलती हुई। उसका मुँह वह सपाट
+हरकत कर रहा है जो वह करता है जब वह ऐसे अंक पढ़ रही हो जो उसे पसंद नहीं।
 
-> **LETTER OF PROVISIONAL LICENCE**
-> *Schools and hands, Agnikhand, third register*
+**दृश्य:** परखन-हार काम पर। वह ख़त इसलिए नहीं पढ़ रही कि उसमें क्या लिखा है। वह इसे इसलिए पढ़ रही है
+कि यह *क्या है*।
+
+> **केसा:**
+> क्रीम लेड स्टॉक, नब्बे-वज़नी। धूसर लोहे-ग़ाला, लगता है, एक ही बार में उतारा गया —
 >
-> To: **Ira Sutar**
-> Of: **the School of the Braided Thread** (hereafter *the school*)
-> Term: **one Unspooling**
->
-> 1. The school shall keep **one stall**, in **one basin**, under **one name**.
-> 2. The school shall submit its threads for inspection at **each second bell**.
-> 3. The school's mark shall be entered on the **Council kind-roll**.
-> 4. The school shall **produce its founder before the seal** within the term.
+> **केसा:**
+> — और हाशिये की लकीरें पहले पेंसिल से खींची गई थीं, और पेंसिल अब भी स्याही के नीचे है।
 
-**चित्र:** The licence. Four conditions. A legal instrument in a market where nothing has ever
-been legal.
-
-> **शीर्षक (none spoken):**
-> A licence. For a hand-school. With a stall number and a basin and a bell.
+> **कैप्शन (इरा का स्वर):**
+> उसने ख़त को वैसे परखा जैसे वह ऋण परखती है: यह क्या है नहीं, इस पर क्या लगा।
 
 ---
 
-## चित्र-खाना 5 — Close, Kessa's face (~14%)
+## पैनल ४ — मध्यम, शर्तें (~१४%)
 
-**कैमरा:** Kessa looks up from the page for the first time. Loupe still in. One eye huge behind
-the glass. She is doing arithmetic she is not saying out loud, and losing.
+**कैमरा:** ख़त का मुख्य हिस्सा, ऊपर उठाया हुआ ताकि पाठक वह लकीरदार खंड देख सके जिसे केसा पढ़कर सुना रही
+है। शीर्षक औपचारिक है।
 
-**चित्र:** The floor going out from under a woman who has never once been surprised by paperwork.
-This time she is.
-
-> **KESSA:**
-> ...He's licensed you.
+> **अनंतिम परवाने का ख़त**
+> *विद्यालय और हाथ, अग्निखण्ड, तीसरी पंजी*
 >
-> **KESSA:**
-> Forty years I've traded in this basin under nothing at all. The pot-row, the dock, the whole
-> Ashfall — not one of us has a piece of paper with our name on it that the Council agreed to.
-> That's not an accident, child. That's the arrangement.
+> को: **इरा सुतार**
+> ओर से: **बुने धागे का विद्यालय** (इसके बाद *विद्यालय*)
+> अवधि: **एक अनुकुलन**
+>
+> १. विद्यालय **एक ठेला**, **एक गर्त** में, **एक नाम** के नीचे रखेगा।
+> २. विद्यालय अपने धागे **हर दूसरी घंटी** पर निरीक्षण के लिए देगा।
+> ३. विद्यालय का चिह्न **परिषद की जाति-पंजी** में दर्ज होगा।
+> ४. विद्यालय अवधि के भीतर **अपने संस्थापक को मुहर के सामने प्रस्तुत करेगा**।
+
+**दृश्य:** परवाना। चार शर्तें। ऐसे बाज़ार में एक क़ानूनी दस्तावेज़ जहाँ आज तक कुछ भी क़ानूनी नहीं रहा।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> एक परवाना। एक हस्त-विद्यालय के लिए। ठेला-नंबर, गर्त और घंटी के साथ।
 
 ---
 
-## चित्र-खाना 6 — Medium, Kessa spelling it out (~13%)
+## पैनल ५ — क्लोज़, केसा का चेहरा (~१४%)
 
-**कैमरा:** Kessa sets the loupe down — deliberately, decisively, the gesture from Ch. 006 p010.
-She lays both hands flat on the counter on either side of the letter, penning it in.
+**कैमरा:** केसा पहली बार पन्ने से नज़र उठाती है। लूप अब भी आँख में। शीशे के पीछे एक आँख विशाल। वह ऐसा
+हिसाब लगा रही है जो बोलकर नहीं बता रही, और हार रही है।
 
-**चित्र:** The appraiser ending her own reading. She has seen enough and she wants Ira to see it
-too.
+**दृश्य:** उस स्त्री के पैरों के नीचे से ज़मीन खिसक रही है जिसे काग़ज़ी कार्रवाई ने कभी एक बार भी
+चौंकाया नहीं। इस बार चौंकी है।
 
-> **KESSA:**
-> He has done the one thing the Council refused to do, and he has done it in three clauses.
+> **केसा:**
+> ...उसने तुम्हें परवाना दे दिया।
 >
-> **KESSA:**
-> Under clause three you are *registered*. Under clause one you are *findable*. Under clause two
-> you are *watched.*
->
-> **KESSA:**
-> Tell me what clause four does, and tell me you like it.
+> **केसा:**
+> चालीस साल मैंने इस गर्त में बिना किसी चीज़ के सौदा किया। हाँड़ी-कतार, गोदी, पूरा भस्म-गर्त — हम
+> सबमें से किसी के पास भी काग़ज़ का ऐसा टुकड़ा नहीं है जिस पर हमारा नाम हो और जिसे परिषद ने माना हो।
+> यह इत्तेफ़ाक़ नहीं है, बच्ची। यही बंदोबस्त है।
 
 ---
 
-## चित्र-खाना 7 — Close, Ira reads clause four — CLOSING HOOK (~18%)
+## पैनल ६ — मध्यम, केसा खोलकर बताती है (~१३%)
 
-**कैमरा:** Ira's face, close, reading. The letter is in her hands. We do not see the words again;
-we see her get there. Her jaw sets. Then her eyes come up — not to Kessa. Past her. To the stair.
+**कैमरा:** केसा लूप रख देती है — जानबूझकर, निर्णायक ढंग से, वही हाव-भाव जो अध्याय ००६ पृष्ठ ०१० का है।
+वह दोनों हाथ काउंटर पर सपाट रख देती है, ख़त के दोनों ओर, उसे घेरते हुए।
 
-**चित्र:** The arithmetic arriving behind her eyes. The gift and the trap turning out to be the
-same object, seen from two angles.
+**दृश्य:** परखन-हार अपना पढ़ना ख़त्म कर रही है। उसने काफ़ी देख लिया है और वह चाहती है कि इरा भी देखे।
 
-> **शीर्षक (Ira's voice, slow):**
-> Clause four. *Produce its founder before the seal.*
+> **केसा:**
+> उसने वह एक काम किया है जो परिषद ने करने से इनकार किया, और तीन खंडों में कर दिया।
 >
-> **CAPTION:**
-> There is one founder of the School of the Braided Thread. She is on the back wall of the
-> Mendery in a file that says *sewn shut*. She has been bound twenty years. She is unlicensed,
-> which is the one word this city will not forgive. And she went missing three days ago.
+> **केसा:**
+> खंड तीन के नीचे तुम *दर्ज* हो। खंड एक के नीचे तुम *ढूँढ़ी जा सकती हो*। खंड दो के नीचे तुम *निगरानी
+> में हो।*
 >
-> **शीर्षक (last line):**
-> He hasn't written me a licence.
+> **केसा:**
+> बताओ खंड चार क्या करता है, और बताओ कि तुम्हें यह पसंद है।
+
+---
+
+## पैनल ७ — क्लोज़, इरा खंड चार पढ़ती है — अन्तिम हुक (~१८%)
+
+**कैमरा:** इरा का चेहरा, पास से, पढ़ता हुआ। ख़त उसके हाथों में है। हमें शब्द दोबारा नहीं दिखते; हम
+उसे वहाँ तक पहुँचते देखते हैं। उसका जबड़ा कस जाता है। फिर उसकी आँखें ऊपर आती हैं — केसा की ओर नहीं।
+उसके पार से। सीढ़ी की ओर।
+
+**दृश्य:** उसकी आँखों के पीछे हिसाब पूरा हो रहा है। देन और जाल एक ही चीज़ निकलती हैं, दो कोणों से
+देखी गई।
+
+> **कैप्शन (इरा का स्वर, धीमा):**
+> खंड चार। *अपने संस्थापक को मुहर के सामने प्रस्तुत करेगा।*
 >
-> **शीर्षक (smaller):**
-> He's written a summons. And he's handed it to me to deliver.
+> **कैप्शन:**
+> बुने धागे के विद्यालय की संस्थापक एक ही है। वह मेंडरी की पिछली दीवार पर एक फ़ाइल में है जिस पर लिखा
+> है *सी कर बन्द।* वह बीस साल से बद्ध है। वह बे-परवाना है, और यह वह अकेला शब्द है जो यह शहर माफ़
+> नहीं करेगा। और वह तीन दिन पहले लापता हो गई।
+>
+> **कैप्शन (अन्तिम पंक्ति):**
+> उसने मुझे परवाना नहीं लिखा है।
+>
+> **कैप्शन (छोटा):**
+> उसने एक सम्मन लिखा है। और वह मुझे थमा दिया है ताकि मैं उसे पहुँचा दूँ।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The address on the outside was careful; the inside is not.** Chapter 006 established the
-  envelope said *to the girl with the braided mark* — no name. The principal knows her name
-  perfectly well. He keeps it off the outside so the *courier* can't read it, and puts it on the
-  inside where only she will. This is the principal's whole character in one detail: he controls
-  who can read what, and he is precise about it.
-- **Clause four is the chapter's trap and must be readable at a glance.** Consider setting it in
-  isolation, slightly larger, so a scrolling reader sees it before Kessa says why it matters.
-- **Kessa's arithmetic is spoken flatly.** No panic. She is an appraiser; when the numbers are bad
-  she reads them out slower.
-- **Do not resolve on this page** who wrote the crimson line, or who opened the seal. Ira does not
-  know yet and the reader must not be ahead of her by more than one beat.
-- **Grey ink** is used for Council-tier documents and the Office's grey-ink file (Ch. 005). Keep
-  the letter's grey consistent with that palette.
+- **बाहर का पता सतर्क था; भीतर का नहीं।** अध्याय ००६ में तय हुआ कि लिफ़ाफ़े पर लिखा था *बुने चिह्न वाली
+  लड़की के नाम* — कोई नाम नहीं। प्रमुख उसका नाम पूरी तरह जानता है। वह उसे बाहर से इसलिए हटाता है कि
+  *हरकारा* पढ़ न सके, और भीतर इसलिए रखता है कि सिर्फ़ वह पढ़े। यह प्रमुख का पूरा चरित्र एक ही ब्यौरे में
+  है: वह नियंत्रित करता है कि कौन क्या पढ़ सकता है, और इसमें वह सटीक है।
+- **खंड चार इस अध्याय का जाल है और एक नज़र में पढ़ा जाना चाहिए।** उसे अलग रखने पर विचार करें, ज़रा
+  बड़ा, ताकि स्क्रॉल करने वाला पाठक उसे केसा के कारण बताने से पहले देख ले।
+- **केसा हिसाब सपाट ढंग से बोलती है।** कोई घबराहट नहीं। वह परखन-हार है; जब अंक बुरे हों, वह उन्हें और
+  धीरे पढ़ती है।
+- **इस पृष्ठ पर यह तय न करें** कि क़िरमिज़ी पंक्ति किसने लिखी, या मोहर किसने खोली। इरा अभी नहीं जानती
+  और पाठक उससे एक धड़क से ज़्यादा आगे नहीं होना चाहिए।
+- **धूसर स्याही** परिषद-स्तर के दस्तावेज़ों और कार्यालय की धूसर-स्याही फ़ाइल (अध्याय ००५) के लिए
+  इस्तेमाल होती है। ख़त की धूसर उसी पैलेट से मिलती रहे।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| *To Ira Sutar, of the School of the Braided Thread* | Relic — *The Named Page* |
-| Four conditions of the licence | Rule set — *The Provisional Licence* |
-| Clause three: the kind-roll | Lore — *Registered At Last* |
-| "He's licensed you." | Event — *The Gift That Files You* |
-| Clause four: produce the founder | Objective — *Produce the Founder* |
+| *इरा सुतार को, बुने धागे के विद्यालय की ओर से* | रिलिक — *नाम वाला पन्ना* |
+| परवाने की चार शर्तें | नियम-समूह — *अनंतिम परवाना* |
+| खंड तीन: जाति-पंजी | लोर — *आख़िरकार दर्ज* |
+| "उसने तुम्हें परवाना दे दिया।" | इवेंट — *वह देन जो तुम्हें फ़ाइल कर देती है* |
+| खंड चार: संस्थापक प्रस्तुत करो | लक्ष्य — *संस्थापक को प्रस्तुत करो* |

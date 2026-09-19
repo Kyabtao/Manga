@@ -1,192 +1,189 @@
-# THREADBORN — Chapter 07 — Page 003
+# सुत्रजात (THREADBORN) — अध्याय ०७ — पृष्ठ ००३
 
-**अध्याय शीर्षक:** *The Crimson Line* / *क़िरमिज़ी पंक्ति*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Knot & Nail, Ashfall Basin
-**पृष्ठ प्रकार:** Regular — 7 panels
+**अध्याय शीर्षक:** *क़िरमिज़ी पंक्ति*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (मध्य-सुबह)
+**पृष्ठ प्रकार:** रेखक — ७ पैनल, अन्त में हुक
 
-> Beats: Page 002 — the letter is a licence. Four clauses. Clause four requires the school to
-> *produce its founder before the seal*, and the founder is Ira's mother.
->
-> **This page:** Rekhak. He is the only person in the basin who can read an Agnikhand register,
-> and the licence names one. What he finds is worse than Kessa's reading.
+> English source: [`page-003.md`](page-003.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the market goes quiet (~13%)
-
-**कैमरा:** Exterior, the Knot & Nail, mid-morning. The shuttered stall, the counter, the two
-women at it. And coming up the pot-row, unhurried: **Rekhak Vahni**, collar high, counting-chain
-running at his hip, oath-link dark on the strand of it.
-
-**चित्र:** The Reckoner arriving on business. The market does what the market always does — pots
-down, eyes up. He is not walking fast, which is how everyone knows it's serious.
-
-> **शीर्षक (Ira's voice):**
-> He comes up the pot-row at his rounds' pace, which is slower than his usual pace.
->
-> **CAPTION:**
-> I've learned that one. Fast means *I'm late*. Slow means *I'm being watched from the terrace
-> and I want them to see me walking politely.*
+> **यह पृष्ठ:** रेखक। वह इस गर्त का अकेला ऐसा व्यक्ति है जो अग्निखण्ड की पंजी पढ़ सकता है, और परवाना
+> एक पंजी का नाम लेता है। जो उसे मिलता है, वह केसा के पढ़ने से भी बुरा है।
 
 ---
 
-## चित्र-खाना 2 — Medium, Rekhak at the counter (~13%)
+## पैनल १ — व्यापक, बाज़ार चुप हो जाता है (~१३%)
 
-**कैमरा:** At the counter. Rekhak does not sit, does not lean, does not accept tea. He looks at
-the open letter and then at the two of them, and asks one question, which is his way.
+**कैमरा:** बाहर, गाँठ और कील, मध्य-सुबह। बन्द शटर वाला ठेला, काउंटर, उस पर दो स्त्रियाँ। और
+हाँड़ी-कतार से बिना जल्दी आते हुए: **रेखक वह्नि**, कॉलर ऊँचा, कमर पर गिनती-ज़ंजीर चलती हुई, उसके तार
+पर काली शपथ-कड़ी।
 
-**चित्र:** A Council clerk at a trade counter, asking the only thing he's allowed to ask first.
+**दृश्य:** ऋण-लेखाधिकारी काम पर आ रहा है। बाज़ार वही करता है जो बाज़ार हमेशा करता है — हाँड़ियाँ नीचे,
+आँखें ऊपर। वह तेज़ नहीं चल रहा, और इसी से सब जान जाते हैं कि बात गम्भीर है।
 
-> **REKHAK:**
-> क्या यह दर्ज है?
+> **कैप्शन (इरा का स्वर):**
+> वह हाँड़ी-कतार से अपने फेरे की चाल से आता है, जो उसकी आम चाल से धीमी है।
 >
-> **KESSA:**
-> यह पिछली तीन रातों में कभी तुम्हारी सीढ़ी से नीचे आया और दर्ज नहीं हुआ,
-> रेखक। किसी ने दर्ज नहीं किया। यह बस *छोड़* दिया गया।
-
-> **शीर्षक (Ira's voice):**
-> He doesn't ask what it says. He asks whether it's in a book.
->
-> **CAPTION:**
-> Six chapters and I still forget that for these people the book is the fact and the paper
-> is just the rumour of it.
+> **कैप्शन:**
+> वह मैं सीख चुकी हूँ। तेज़ का मतलब *मुझे देर हो गई*। धीमे का मतलब *कगार से कोई मुझे देख रहा है और
+> मैं चाहता हूँ कि वे मुझे शरीफ़ी से चलते देखें।*
 
 ---
 
-## चित्र-खाना 3 — Close, Rekhak reads the header (~14%)
+## पैनल २ — मध्यम, काउंटर पर रेखक (~१३%)
 
-**कैमरा:** Over his shoulder, close on the top of the letter. His thumb is resting on two words:
-**third register.** His thumb has stopped moving. Nothing else about him has.
+**कैमरा:** काउंटर पर। रेखक नहीं बैठता, न झुकता है, न चाय लेता है। वह खुले ख़त को देखता है और फिर उन
+दोनों को, और एक सवाल पूछता है, जो उसका तरीक़ा है।
 
-**चित्र:** The Reckoner's stillness. The panel shows the words and the thumb and nothing else.
+**दृश्य:** सौदे के काउंटर पर एक परिषद-लिपिक, वही एक चीज़ पूछते हुए जो पहले पूछने की उसे इजाज़त है।
 
-> **REKHAK:**
-> तीसरा रजिस्टर।
+> **रेखक:**
+> यह दर्ज है?
 >
-> **REKHAK:**
-> इसे फिर से अपने आप से कहो, सिलाईकर्ता। *तीसरा रजिस्टर।*
+> **केसा:**
+> यह पिछली तीन रातों में किसी वक़्त तुम्हारी सीढ़ी से उतरा और यह दर्ज नहीं था, ऋण-लेखाधिकारी। किसी ने
+> इसे दर्ज नहीं किया। इसे बस *छोड़* दिया गया।
+
+> **कैप्शन (इरा का स्वर):**
+> वह नहीं पूछता कि उसमें लिखा क्या है। वह पूछता है कि यह किसी बही में है या नहीं।
+>
+> **कैप्शन:**
+> छह अध्याय हो गए और मैं अब भी भूल जाती हूँ कि इन लोगों के लिए बही ही सच है और काग़ज़ उसकी महज़
+> अफ़वाह।
 
 ---
 
-## चित्र-खाना 4 — Medium, the explanation (~14%)
+## पैनल ३ — क्लोज़, रेखक शीर्षक पढ़ता है (~१४%)
 
-**कैमरा:** Rekhak, close enough to see the neck-line (past the jaw since Ch. 001 — keep it
-continuous). He explains because not explaining is worse for everyone, and he does it in the flat
-recitation of a man reading a rule he has known since he was nine.
+**कैमरा:** उसके कन्धे के ऊपर से, ख़त के ऊपरी हिस्से पर क्लोज़। उसका अँगूठा दो शब्दों पर टिका है:
+**तीसरी पंजी।** उसका अँगूठा हिलना बन्द हो गया है। उसमें और कुछ भी नहीं बदला।
 
-**चित्र:** The clerk delivering a piece of institutional knowledge that changes the shape of the
-whole chapter.
+**दृश्य:** ऋण-लेखाधिकारी की स्थिरता। पैनल में शब्द हैं, अँगूठा है, और कुछ नहीं।
 
-> **REKHAK:**
-> The Council keeps three registers. The first is the debt-roll — every soul, every owing.
-> The second is the kind-roll — every kind the Council will admit exists.
+> **रेखक:**
+> तीसरी पंजी।
 >
-> **REKHAK:**
-> The third has no head to it, no seal on the spine and no clerk of record. It is bound in
-> crimson. It is not the Council's book at all. It is a *private hand's* book that the Council
-> has agreed to keep on a shelf.
->
-> **REKHAK:**
-> तीसरे रजिस्टर की प्रविष्टियाँ कुछ लाइसेंस नहीं करतीं। वे *सूचीबद्ध* करती हैं।
+> **रेखक:**
+> इसे ख़ुद से दोबारा कहो, सिलाई करने वाली। *तीसरी पंजी।*
 
 ---
 
-## चित्र-खाना 5 — Close, Ira (~13%)
+## पैनल ४ — मध्यम, व्याख्या (~१४%)
 
-**कैमरा:** Ira's face. She is holding her own hand very still, the way she did at the Unspooling
-in Chapter 001. The stitch is visible on the palm.
+**कैमरा:** रेखक, इतना पास कि गर्दन की रेखा दिखे (अध्याय ००१ से जबड़े के पार — यह निरन्तर रहे)। वह इसलिए
+समझाता है क्योंकि न समझाना सबके लिए बुरा है, और वह वैसे सपाट पाठ की तरह करता है जैसे कोई नौ साल की उम्र
+से जाना हुआ नियम पढ़ रहा हो।
 
-**चित्र:** The girl hearing the word. Not *licensed*. *सूचीबद्ध।*
+**दृश्य:** लिपिक संस्थागत जानकारी का एक टुकड़ा परोस रहा है जो पूरे अध्याय का आकार बदल देता है।
 
-> **शीर्षक (Ira's voice):**
+> **रेखक:**
+> परिषद तीन पंजियाँ रखती है। पहली ऋण-पंजी — हर प्राणी, हर बकाया। दूसरी जाति-पंजी — हर वह जाति जिसे
+> परिषद मानने को तैयार है।
+>
+> **रेखक:**
+> तीसरी का न कोई शीर्षक है, न मेरुदंड पर मुहर, न कोई लिपिक। वह क़िरमिज़ी में जिल्दबन्द है। वह परिषद
+> की बही है ही नहीं। यह किसी *निजी हाथ* की बही है जिसे परिषद ने अलमारी पर रखने का फ़ैसला किया है।
+>
+> **रेखक:**
+> तीसरी पंजी की प्रविष्टियाँ कोई परवाना नहीं देतीं। वे *सूचीबद्ध* करती हैं।
+
+---
+
+## पैनल ५ — क्लोज़, इरा (~१३%)
+
+**कैमरा:** इरा का चेहरा। वह अपना हाथ बहुत स्थिर थामे है, वैसे जैसे अध्याय ००१ के अनुकुलन के समय थामे
+थी। हथेली पर सिलाई दिखती है।
+
+**दृश्य:** शब्द सुनती हुई लड़की। *परवाना* नहीं। *सूची।*
+
+> **कैप्शन (इरा का स्वर):**
 > सूचीबद्ध।
 >
-> **CAPTION:**
-> Patra said it in the Reckoning Office and I've carried it around like a stone ever since.
-> *My principal does not collect rooms, child. He collects locks.*
+> **कैप्शन:**
+> पत्र ने यह लेखा-कार्यालय में कहा था और तब से मैं इसे पत्थर की तरह ढोए हुए हूँ। *मेरा मुवक्किल कमरे
+> जमा नहीं करता, बच्ची। वह ताले जमा करता है।*
 >
-> **CAPTION:**
-> People keep telling me what he does. I keep not wanting to hear it.
+> **कैप्शन:**
+> लोग मुझे बताते रहते हैं कि वह करता क्या है। मैं उसे सुनना नहीं चाहती रहती हूँ।
 
 ---
 
-## चित्र-खाना 6 — Medium, Kessa's question (~13%)
+## पैनल ६ — मध्यम, केसा का सवाल (~१३%)
 
-**कैमरा:** Kessa, arms folded, has already got to the practical question. Her loupe is up, but
-her hands are still flat on the counter — the posture she uses when she is holding a bargain down.
+**कैमरा:** केसा, बाँहें बँधी, असली सवाल तक पहुँच चुकी है। उसका लूप ऊपर है, पर उसके हाथ अब भी काउंटर
+पर सपाट हैं — वही मुद्रा जो वह सौदा दबाकर रखने के लिए इस्तेमाल करती है।
 
-**चित्र:** The appraiser cutting straight to the mechanism. She wants the rule, not the fear.
+**दृश्य:** परखन-हार सीधे इंजन तक काटती हुई। उसे नियम चाहिए, डर नहीं।
 
-> **KESSA:**
-> Then tell me the rest of it. A private hand's book still has rules of its own. What happens
-> to an entry in the third register if nobody answers the letter it came with?
+> **केसा:**
+> तो बाक़ी बताओ। निजी हाथ की बही के भी अपने नियम होते हैं। तीसरी पंजी की किसी प्रविष्टि का क्या होता
+> है अगर उसके साथ आया ख़त कोई न खोले?
 
-> **REKHAK:**
+> **रेखक:**
 > ...
 >
-> **REKHAK:**
-> At the term's end, an unanswered provision reverts. The entry, the stall, the name, the
-> school — they pass into the register's owning hand.
+> **रेखक:**
+> अवधि के अन्त पर, अनुत्तरित परवाना पलट जाता है। प्रविष्टि, ठेला, नाम, विद्यालय — सब पंजी रखने वाले
+> हाथ में चले जाते हैं।
 >
-> **REKHAK:**
-> He doesn't have to take it, mender. He only has to wait one Unspooling and *not be refused.*
+> **रेखक:**
+> उसे इसे लेना नहीं पड़ेगा, सिलाई करने वाली। उसे बस एक अनुकुलन रुकना है और *इनकार नहीं सुनना।*
 
 ---
 
-## चित्र-खाना 7 — Close, the vise closes — CLOSING HOOK (~20%)
+## पैनल ७ — क्लोज़, दबाव बन्द होता है — अन्तिम हुक (~२०%)
 
-**कैमरा:** Three-shot at the counter: Rekhak on his feet, Kessa with her hands flat, Ira in the
-middle with the letter. The market behind them, working, unaware. Rekhak says the last thing and
-does not stay for the answer — he leaves, because leaving is how he avoids having to file any of
-this.
+**कैमरा:** काउंटर पर तीन-पात्र शॉट: रेखक खड़ा, केसा हाथ सपाट किए, और बीच में इरा, हाथ में ख़त। उनके
+पीछे बाज़ार, काम करता हुआ, बेख़बर। रेखक आख़िरी बात कहता है और जवाब के लिए नहीं रुकता — वह चला जाता है,
+क्योंकि चले जाना ही उसका तरीक़ा है इससे बचने का कि उसे यह सब दर्ज करना पड़े।
 
-**चित्र:** The vise. Answer and the mother is summoned. Stay silent and the school is taken.
-The panel should hold all three faces at once: the clerk who knows, the appraiser who counts it,
-the girl who owns it.
+**दृश्य:** दबाव। जवाब दो और माँ सम्मन में आ जाएगी। चुप रहो और विद्यालय छिन जाएगा। पैनल को तीनों
+चेहरे एक साथ थामने चाहिए: जानने वाला लिपिक, हिसाब लगाने वाली परखन-हार, और इसे थामने वाली लड़की।
 
-> **REKHAK:**
-> Two ways out and neither of them is out. You sign, and clause four sends a writ after your
-> founder — a writ with her *name* on it, if you please, because a writ has to have one.
+> **रेखक:**
+> निकलने के दो रास्ते हैं और कोई भी रास्ता नहीं है। तुम हस्ताक्षर करो, और खंड चार तुम्हारे संस्थापक के
+> पीछे एक लिखत भेज देगा — एक लिखत जिस पर उसका *नाम* होगा, साहब, क्योंकि लिखत पर नाम होना ज़रूरी है।
 >
-> **REKHAK:**
-> You don't sign, and in one Unspooling the school is his by default, stall and thread and
-> everything on the back wall of it.
+> **रेखक:**
+> तुम हस्ताक्षर न करो, और एक अनुकुलन में विद्यालय उसका हो जाएगा, ठेला, धागा, और उसकी पिछली दीवार पर
+> पड़ा सब कुछ।
 >
-> **REKHAK:**
-> ...I'd want to tell you to burn it. I'm obliged to tell you I've seen it.
+> **रेखक:**
+> ...मेरा मन करता है कि तुमसे कहूँ, इसे जला दो। मुझ पर बनता है कि तुमसे कहूँ कि मैंने इसे देख लिया है।
 >
-> **शीर्षक (Ira's voice, last line):**
-> He goes. He walks back down the pot-row at his rounds' pace, and I watch him decide again,
-> mid-street, not to look back.
+> **कैप्शन (इरा का स्वर, अन्तिम पंक्ति):**
+> वह चला जाता है। वह अपने फेरे की चाल से हाँड़ी-कतार से नीचे जाता है, और मैं उसे सड़क के बीचोंबीच
+> दोबारा तय करते देखती हूँ कि पलटकर नहीं देखना है।
 >
-> **शीर्षक (smaller):**
-> Then Kessa says: *child, hold that page flat. He never opened it all the way, and I want to
-> know why the fold is so stiff.*
+> **कैप्शन (छोटा):**
+> फिर केसा कहती है: *बच्ची, वह पन्ना सपाट पकड़ो। उसने इसे कभी पूरा नहीं खोला, और मैं जानना चाहती हूँ
+> कि तह इतनी कड़ी क्यों है।*
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **Rekhak's characterisation holds to Ch. 002–005:** he explains institution truthfully and
-  without editorial, because the alternative is letting someone guess. He is not an ally. He is a
-  clerk with one lie already on his record and no room for a second.
-- **Neck-line continuity:** past the jaw — this has been tracking since Ch. 001 and is a slow
-  visual clock on how badly the oath-link is costing him. Do not reset it.
-- **"Inventory" is the chapter's key verb.** Page 010 pays it: Ira's answer is a refusal to be an
-  entry, made physically, in thread.
-- **Do not let Rekhak see the crimson line.** He reads the front block and leaves. The line is in
-  the crease; the last caption sets up Page 004 by having Kessa notice the fold is stiff.
-- **The third register is new canon here.** Add to glossary: *Third register — the crimson-bound
-  private register the Council keeps on a shelf for a hand that is not the Council. Entries
-  inventory; they do not license.*
+- **रेखक का चरित्र अध्याय ००२–००५ से जुड़ा रहता है:** वह संस्था का सच सच बताता है, बिना किसी टिप्पणी
+  के, क्योंकि दूसरा रास्ता यह है कि कोई अंदाज़ा लगाने लगे। वह सहयोगी नहीं है। वह एक लिपिक है जिसके
+  खाते पर पहले से एक झूठ है और दूसरे की गुंजाइश नहीं।
+- **गर्दन-रेखा की निरन्तरता:** जबड़े के पार — यह अध्याय ००१ से चल रही है और इस बात पर धीमी दृश्य-घड़ी है
+  कि शपथ-कड़ी उससे कितनी महँगी पड़ रही है। इसे रीसेट न करें।
+- **"सूची" इस अध्याय की कुंजी-क्रिया है।** पृष्ठ ०१० इसका फल देता है: इरा का जवाब एक प्रविष्टि बनने से
+  इनकार है, जो वह भौतिक रूप से, धागे में करती है।
+- **रेखक को क़िरमिज़ी पंक्ति देखने न दें।** वह सामने का खंड पढ़ता है और चला जाता है। पंक्ति तह में है;
+  आख़िरी कैप्शन पृष्ठ ००४ की तैयारी करता है, जहाँ केसा को तह कड़ी लगती है।
+- **तीसरी पंजी यहाँ नया क़ानून है।** शब्दावली में जोड़ें: *तीसरी पंजी — वह क़िरमिज़ी-जिल्द निजी पंजी जो
+  परिषद अपनी अलमारी पर ऐसे हाथ के लिए रखती है जो परिषद नहीं है। उसकी प्रविष्टियाँ सूचीबद्ध करती हैं;
+  परवाना नहीं देतीं।*
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| "क्या यह दर्ज है?" | Lore — *The Book Is The Fact* |
-| The third register | Lore — *A Private Hand's Book* |
-| "Entries in the third register license nothing. They inventory." | Rule — *Inventory, Not Licence* |
-| The one-Unspooling reversion | Event — *The Unanswered Provision* |
-| The stiff fold | Clue — *Open It Flat* |
+| "यह दर्ज है?" | लोर — *बही ही सच है* |
+| तीसरी पंजी | लोर — *निजी हाथ की बही* |
+| "प्रविष्टियाँ परवाना नहीं देतीं। वे सूचीबद्ध करती हैं।" | नियम — *सूची, परवाना नहीं* |
+| एक अनुकुलन में पलटाव | इवेंट — *अनुत्तरित परवाना* |
+| कड़ी तह | सुराग़ — *इसे सपाट खोलो* |
