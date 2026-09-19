@@ -44,6 +44,13 @@ on Kessa's tally-thread, which is still the only record of any of it that cannot
   the production, the reader-second **Nima** (Kshudra, enrolled at the hatch at nine), the finding
   **unreadable**, and the grey receipt that removes Jadi's capacity to hold, own, license or be owed.
   Jadi declines to mark it. Closing hook: the slate's reserved line, in chalk — **M. SUTAR.**
+- **Ch. 010 · Pages 004–006** — Nandi's hearing. The register's last line is a **hole** (the mother
+  lifted the knot); the witness identifies cards in eleven seconds each, catches a reversed copy and a
+  knot copied onto an Office fee; then identifies **her own enrolment — year one** — and marks the
+  sheet, entering herself as unreadable. The Office offers her **rooms eleven**, a desk and a girl to
+  train; she accepts on the condition that **the keeper reads every entry out loud with her.** In the
+  corridor she gives **Nima** her own page (*ties two threads at once, counts to forty without a slate,
+  will teach*). Ira goes home with the register and **fourteen claims** to enter at her counter.
 
 ## Open threads (carried in)
 
