@@ -133,3 +133,11 @@ outside. The stitch, seen for the first time as an object rather than a mystery.
 - **The pattern on Bhan's arm** is the chapter's opening escalation: the cutter has moved
   from practice to demonstration. The stitch is reproduced exactly.
 - **Chain budget: ONE for Chapter 004.** Not to be spent early.
+
+## Card-game hooks
+
+| Beat | Card |
+|---|---|
+| The coin set on the slate | Event — *Name Your Price* |
+| The pattern on Bhan's arm | Lore — *Demonstration* |
+| The stitch as a mirror | Power — *A Palm Seen From Outside* |

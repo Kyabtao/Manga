@@ -125,3 +125,11 @@ old (Ira's, the age of her stitch).
 - **The third thread on the counter** is the chapter's escalation: the supply line is active
   and confident enough to deliver to the stall itself.
 - **Chain budget: unspent.** Four notes silent. Sewer unnamed.
+
+## Card-game hooks
+
+| Beat | Card |
+|---|---|
+| The cutter leaves a receipt | Event — *A Sewn Acknowledgement* |
+| Three pieces of ash-grey thread | Lore — *A Family Portrait* |
+| "He wants you to know he is present." | Event — *The Message* |

@@ -9,11 +9,32 @@
 
 | | |
 |---|---|
-| **Critical findings** | **0** — Hindi translations for Chapters 003–008 are now complete (94.4–98.1% Devanagari; floor 80%) |
-| **Major findings** | **2** — one wholly wrong page image; one landscape image in a vertical strip |
-| **Minor findings** | **3** — cast-file format drift, cast-file depth drift, one unresolved pronoun in a style guide |
-| **Structural integrity** | **PASS** — 80/80 scripts, images, casts, summaries all present and correctly named |
-| **Continuity integrity** | **PASS** — lockbox chain, stitch state, four-notes rule and wax grammar all hold |
+| **Critical findings** | **0** (run 2) — Hindi complete for Ch. 001–008 (94.4–98.1% Devanagari; floor 80%); Ch. 009 Hindi pending |
+| **Major findings** | **0** (run 2) — the wrong-project image and the landscape image were fixed in run 1 |
+| **Minor findings** | **3 open** — cast-file format drift, cast-file depth drift, image dimension variation (all deferred, none blocking) |
+| **Structural integrity** | **PASS** — 90/90 EN scripts, 80/80 HI scripts, 80/80 images, 80/80 cast files, 9/9 summaries all present and correctly named |
+| **Continuity integrity** | **PASS** — lockbox chain, stitch state, four-notes rule, wax grammar, chain-stop budget all hold |
+
+## Audit run 2 — 2026-09-19 (scope: Chapters 001–009, website, tooling)
+
+Run 1 is retained below as history. Run 2 re-checks the whole repo after the Chapter 003–008 Hindi
+pass and the Chapter 009 script.
+
+| Check | Result |
+|---|---|
+| Structure | **PASS** — Ch. 001–008: 10 EN + 10 HI + 10 PNG + 10 cast files each; Ch. 009: 10 EN pages scripted (Hindi, cast, images pending) |
+| Naming conventions | **PASS** — 0 off-convention filenames (the four `*-ref.png` character sheets in `chapter-001/characters/` are intentional) |
+| Images | **PASS** — 80 PNGs, all valid, **0 landscape** (fixed in run 1) |
+| Internal links | **PASS** — 308 relative links checked, 0 missing |
+| Hindi coverage | **PASS** — 96.8 / 98.1 / 97.2 / 94.4 / 94.4 / 96.4 / 97.5 / 97.6 (floor 80); Ch. 009 not yet translated |
+| Stray English headers in `.hi.md` | **FIXED this run** — 2 (`chapter-003/story/page-003.hi.md`, `page-005.hi.md` carried `**Camera:**`) |
+| Card-hook section on every EN page | **FIXED this run** — `chapter-003/story/page-005.md` and `chapter-004/story/page-001.md` were missing it (their Hindi mirrors already had the table) |
+| Chapter end markers | **FIXED this run** — `chapter-002/story/page-010.md` had no *END OF CHAPTER TWO* (added EN + HI) |
+| Website build | **PASS** — `python3 website/build.py` clean |
+
+**Remaining open items (all non-blocking):** Ch. 009 Hindi pass; Ch. 009 cast files; Ch. 009 images;
+Ch. 009 `other/glossary.md` + `other/locations.md`; cast-file depth backfill (Ch. 003–009 vs 001–002);
+image dimension standardisation; तकुआ/तकली normalisation.
 
 ---
 
