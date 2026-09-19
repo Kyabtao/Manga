@@ -1,77 +1,88 @@
-# THREADBORN — Chapter 05 — Page 002
+# सुत्रजात (THREADBORN) — अध्याय ०५ — पृष्ठ ००२
 
-**अध्याय शीर्षक:** *The First Pull* / *पहला खिंचाव*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (morning)
-**पृष्ठ प्रकार:** The thread — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *पहला खिंचाव*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (सुबह)
+**पृष्ठ प्रकार:** धागा — ७ पैनल, अन्त में हुक
 
-> Beats: Page 001 — the mark opened, braided thread emerged, the Spindle brightened.
+> सूत्र: पृष्ठ ००१ — चिह्न खुला, बुना धागा निकला, तकली चमकी।
+
+> English source: [`page-002.md`](page-002.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
 ---
 
-## चित्र-खाना 1 — Wide, the stall (~14%)
-The Knot & Nail: the braided thread rises from Ira's palm, ash-grey and shadowless, two strands
-twisted. Kessa's loupe is down. The seven objects on the counter surround the palm. The market
-has gone quiet — the owned quiet of the silent second, but different.
+## पैनल १ — व्यापक, ठेला (~१४%)
 
-> **CAPTION:** The basin does not own this quiet. This quiet owns itself.
+गाँठ और कील: बुना हुआ धागा इरा की हथेली से उठता है, राख-धूसर और छायाहीन, दो तंतु ऐंठे हुए। केसा का लूप
+नीचे है। काउंटर पर रखी सात चीज़ें हथेली को घेरे हुए हैं। बाज़ार चुप हो गया है — मौन क्षण जैसी अपनी हुई
+चुप्पी, पर अलग।
 
-## चित्र-खाना 2 — Medium, Kessa reads (~13%)
-Kessa's loupe on the thread: she reads the braid the way she reads debt-marks. Two strands: one
-carries Ira's own Sutra-signature (ash-grey, Agnikhand, projection type); the other carries
-nothing — no Sector, no Kind, no debt. The sewer's strand is *blank*.
+> **कैप्शन:** यह चुप्पी गर्त की नहीं है। यह चुप्पी अपनी है।
 
-> **केसा (संवाद, slow):** One strand is yours. The other has no signature. No Sector. No Kind.
-> No debt.
+## पैनल २ — मध्यम, केसा पढ़ती है (~१३%)
 
-## चित्र-खाना 3 — Close, the blank strand (~14%)
-The blank strand extreme close: shadowless, like the cut-end. Thread that belongs to no Sector,
-no Kind, no debt. Thread that owes nothing — the same quality as Ira herself.
+धागे पर केसा का लूप: वह बुनाई ऐसे पढ़ती है जैसे ऋण-चिह्न पढ़ती है। दो तंतु: एक पर इरा का अपना
+सूत्र-दस्तख़त है (राख-धूसर, अग्निखण्ड, प्रक्षेपण-प्रकार); दूसरे पर कुछ नहीं — न खण्ड, न जाति, न ऋण।
+सीवर का तंतु *ख़ाली* है।
 
-> **CAPTION:** Thread that owes nothing. Like the girl who carries it. Like the Preta who was
-> struck from the book. Like the stitch that held her shut.
+> **केसा (संवाद, धीमा):** एक तंतु तुम्हारा है। दूसरे पर कोई दस्तख़त नहीं। न खण्ड। न जाति। न ऋण।
 
-## चित्र-खाना 4 — Medium, the mark settles (~13%)
-Ira's palm: the thread does not rise forever. It settles — the braid coils back into the mark,
-not dormant this time, but *contained*. The mark is open, but the thread is held. Ira can feel
-it: a weight, a warmth, a presence.
+## पैनल ३ — क्लोज़, ख़ाली तंतु (~१४%)
 
-> **इरा (संवाद, flat):** I can feel it. It's not pulling. It's *there*.
+ख़ाली तंतु का अत्यधिक पास से दृश्य: छायाहीन, कट-सिरे जैसा। वह धागा जो किसी खण्ड का नहीं, किसी जाति
+का नहीं, किसी ऋण का नहीं। वह धागा जो कुछ नहीं चुकाता — वही गुण जो इरा में है।
 
-## चित्र-खाना 5 — Wide, the basin reacts (~14%)
-The market: faces at the stall's edge. The basin has seen a thread emerge from the girl who had
-none. The owned quiet breaks into whispers — not fear, not yet. Wonder.
+> **कैप्शन:** वह धागा जो कुछ नहीं चुकाता। जैसे वह लड़की जो उसे थामे है। जैसे वह प्रेत जो बही से
+> काट दिया गया। जैसे वह सिलाई जिसने उसे बन्द रखा।
 
-> **दुकानदार (संवाद, low):** She drew a thread.
+## पैनल ४ — मध्यम, चिह्न थमता है (~१३%)
+
+इरा की हथेली: धागा हमेशा के लिए ऊपर नहीं उठता। वह थम जाता है — बुनाई लौटकर चिह्न में लिपट जाती है, इस
+बार सुप्त नहीं, पर *अवरुद्ध*। चिह्न खुला है, पर धागा थामा हुआ है। इरा उसे महसूस कर सकती है: एक भार, एक
+गर्मी, एक उपस्थिति।
+
+> **इरा (संवाद, सपाट):** मैं इसे महसूस कर सकती हूँ। यह खींच नहीं रहा। यह *वहाँ* है।
+
+## पैनल ५ — व्यापक, गर्त प्रतिक्रिया देता है (~१४%)
+
+बाज़ार: ठेले के किनारे पर चेहरे। गर्त ने देख लिया है कि उस लड़की से धागा निकला जिसके पास कोई धागा नहीं
+था। अपनी हुई चुप्पी फुसफुसाहट में टूटती है — डर नहीं, अभी नहीं। विस्मय।
+
+> **ठेला-मालिक (संवाद, धीमा):** उसने धागा निकाला।
 >
-> **गुठली (संवाद, lower):** She never drew a thread.
+> **गुठली (संवाद, और धीमा):** उसने कभी धागा नहीं निकाला था।
 >
-> **STALL-OWNER:** She just did.
+> **ठेला-मालिक:** अभी निकाला।
 
-## चित्र-खाना 6 — Close, Rekhak on the stair (~13%)
-The Council Stair: Rekhak descends, chain running, oath-link dark. He saw the Spindle brighten.
-He is coming to the basin. Not as Reckoner — as the man who lied to protect the girl who just
-drew thread.
+## पैनल ६ — क्लोज़, सीढ़ी पर रेखक (~१३%)
 
-> **CAPTION:** He saw the brightening. He knows what it means. He is coming.
+परिषद-सीढ़ी: रेखक उतरता है, ज़ंजीर चलती हुई, शपथ-कड़ी काली। उसने तकली को चमकते देखा था। वह गर्त की
+ओर आ रहा है। अभी-अभी धागा निकालने वाली लड़की को बचाने के लिए झूठ बोलने वाले आदमी के रूप में — न
+कि ऋण-लेखाधिकारी के रूप में।
 
-## चित्र-खाना 7 — Macro, the thread in the mark — HOOK (~19%)
-Ira's palm, the mark visible, the braid contained. The thread is there — not pulling, not
-spending, not owing. *Present*. The first thread Ira Sutar has ever had. And it owes nothing.
+> **कैप्शन:** उसने चमक देखी। वह जानता है उसका क्या अर्थ है। वह आ रहा है।
 
-> **शीर्षक (none spoken):**
-> The thread owes nothing. The girl owes nothing. The mark is open. The braid is held.
+## पैनल ७ — मैक्रो, चिह्न में धागा — हुक (~१९%)
+
+इरा की हथेली, चिह्न दिखता हुआ, बुनाई अवरुद्ध। धागा वहाँ है — न खींचता हुआ, न खर्च करता हुआ, न चुकाता
+हुआ। *उपस्थित*। इरा सुतार का पहला धागा। और वह कुछ नहीं चुकाता।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> धागा कुछ नहीं चुकाता। लड़की कुछ नहीं चुकाती। चिह्न खुला है। बुनाई थामी हुई है।
 >
-> **शीर्षक (smaller):**
-> The thread that was hidden for fifteen years is awake. And it is the only thread in Rangbhoomi
-> that was never borrowed from the Loom.
+> **कैप्शन (छोटा):**
+> पन्द्रह साल से छिपा धागा जागा हुआ है। और यह रंगभूमि का अकेला ऐसा धागा है जो सूत्र-यन्त्र से कभी
+> उधार नहीं लिया गया।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The blank strand | Lore — *Thread With No Debt* |
-| "It's not pulling. It's there." | Power — *Presence, Not Pull* |
-| The basin's wonder | Event — *The Market Sees* |
-| The thread owes nothing | Power — *Debtless Thread* |
+| ख़ाली तंतु | लोर — *बिन-ऋण धागा* |
+| "यह खींच नहीं रहा। यह वहाँ है।" | पावर — *उपस्थिति, खिंचाव नहीं* |
+| गर्त का विस्मय | इवेंट — *बाज़ार ने देखा* |
+| धागा कुछ नहीं चुकाता | पावर — *ऋणहीन धागा* |

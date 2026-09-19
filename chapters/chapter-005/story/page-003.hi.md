@@ -1,69 +1,80 @@
-# THREADBORN — Chapter 05 — Page 003
+# सुत्रजात (THREADBORN) — अध्याय ०५ — पृष्ठ ००३
 
-**अध्याय शीर्षक:** *The First Pull* / *पहला खिंचाव*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (mid-morning)
-**पृष्ठ प्रकार:** The Reckoner arrives — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *पहला खिंचाव*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (मध्य-सुबह)
+**पृष्ठ प्रकार:** रेखक पहुँचता है — ७ पैनल, अन्त में हुक
 
-> Beats: Page 002 — the thread is contained, the basin whispers, Rekhak descends.
+> सूत्र: पृष्ठ ००२ — धागा अवरुद्ध है, गर्त फुसफुसाता है, रेखक उतरता है।
+
+> English source: [`page-003.md`](page-003.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
 ---
 
-## चित्र-खाना 1 — Wide, the stall (~14%)
-Mid-morning, Knot & Nail: Rekhak at the counter's threshold, chain running, oath-link dark.
-Ira sits with her palm open. Kessa stands behind, loupe down.
+## पैनल १ — व्यापक, ठेला (~१४%)
 
-> **CAPTION:** The Reckoner arrives. Not to audit. To witness.
+सुबह चढ़ी हुई, गाँठ और कील: रेखक काउंटर की दहलीज़ पर, ज़ंजीर चलती हुई, शपथ-कड़ी काली। इरा हथेली खुली
+किए बैठी है। केसा पीछे खड़ी है, लूप नीचे।
 
-## चित्र-खाना 2 — Medium, Rekhak reads (~13%)
-Rekhak's Sight-mark activates: the mark above his left eye glows, debt-marks spread under the eye.
-He reads Ira's palm — the open mark, the braided thread, the two strands. His chain hums.
+> **कैप्शन:** ऋण-लेखाधिकारी पहुँचता है। लेखा-जोखा करने नहीं। गवाह बनने।
 
-> **रेखक (संवाद, soft):** Two strands. One Manavkin. One blank.
+## पैनल २ — मध्यम, रेखक पढ़ता है (~१३%)
 
-## चित्र-खाना 3 — Close, the Sight reading (~14%)
-Through Rekhak's Sight: the mark's interior, the braid. One strand carries Ira's Sutra-signature
-(ash-grey, Agnikhand, projection). The other carries nothing — no Sector, no Kind, no age. The
-blank strand is older than Ira. Older than the cut-end. Older than the box.
+रेखक का दृष्टि-चिह्न सक्रिय होता है: उसकी बाईं आँख के ऊपर का चिह्न चमक उठता है, आँख के नीचे ऋण-चिह्न
+फैलने लगते हैं। वह इरा की हथेली पढ़ता है — खुला चिह्न, बुना धागा, दो तंतु। उसकी ज़ंजीर गुनगुनाती है।
 
-> **रेखक (संवाद, quiet):** खाली तंतु क्षेत्र से पुराना है। Older than the Council.
-> Older than the Loom's current turn.
+> **रेखक (संवाद, कोमल):** दो तंतु। एक मानवकिण। एक ख़ाली।
 
-## चित्र-खाना 4 — Medium, the cost (~13%)
-Rekhak's debt-marks: the Sight reading costs him. New lines appear under his left eye, spreading
-toward his temple. Deep debt climbing toward terminal. He does not stop.
+## पैनल ३ — क्लोज़, दृष्टि-पाठ (~१४%)
 
-> **CAPTION:** Each Sight-reading costs. He pays. He does not stop.
+रेखक की दृष्टि से: चिह्न का भीतर, बुनाई। एक तंतु पर इरा का सूत्र-दस्तख़त है (राख-धूसर, अग्निखण्ड,
+प्रक्षेपण)। दूसरे पर कुछ नहीं — न खण्ड, न जाति, न उम्र। ख़ाली तंतु इरा से पुराना है। कट-सिरे से पुराना।
+बक्से से पुराना।
 
-## चित्र-खाना 5 — Close, the question (~14%)
-Ira's face: she sees the debt-marks spreading and asks the question.
+> **रेखक (संवाद, धीमा):** ख़ाली तंतु खण्ड से पुराना है। परिषद से पुराना। सूत्र-यन्त्र के इस मोड़ से
+> पुराना।
 
-> **इरा (संवाद, flat):** यह तुम्हें कितना पड़ता है?
+## पैनल ४ — मध्यम, कीमत (~१३%)
+
+रेखक के ऋण-चिह्न: दृष्टि-पाठ उससे कीमत वसूलता है। उसकी बाईं आँख के नीचे नई रेखाएँ उभरती हैं, कनपटी की
+ओर फैलती हुईं। गहरा ऋण अन्तिम सीमा की ओर चढ़ता हुआ। वह रुकता नहीं।
+
+> **कैप्शन:** हर दृष्टि-पाठ की कीमत है। वह चुकाता है। वह रुकता नहीं।
+
+## पैनल ५ — क्लोज़, सवाल (~१४%)
+
+इरा का चेहरा: वह फैलते ऋण-चिह्न देखती है और सवाल पूछती है।
+
+> **इरा (संवाद, सपाट):** इसकी तुम्हें कितनी कीमत पड़ती है?
 >
-> **रेखक (संवाद, soft):** मेरे पास से ज़्यादा। इसकी कीमत से कम।
+> **रेखक (संवाद, कोमल):** जितना मेरे पास है, उससे ज़्यादा। जितनी यह लायक है, उससे कम।
 
-## चित्र-खाना 6 — Wide, Kessa's hands (~13%)
-Kessa's hands: she sets a cup of water on the counter for Rekhak — the first time she has offered
-him anything. The basin's two guardians across one counter: the appraiser and the Reckoner, both
-watching the girl with the open mark.
+## पैनल ६ — व्यापक, केसा के हाथ (~१३%)
 
-> **CAPTION:** The first cup. The basin's oldest currency.
+केसा के हाथ: वह रेखक के लिए काउंटर पर एक कटोरा पानी रखती है — पहली बार उसने उसे कुछ दिया है। एक ही
+काउंटर के आमने-सामने गर्त के दो रखवाले: परखन-हार और ऋण-लेखाधिकारी, दोनों खुले चिह्न वाली लड़की को
+देखते हुए।
 
-## चित्र-खाना 7 — Macro, the thread — HOOK (~19%)
-Ira's palm: the braided thread stirs. Not pulling — *responding*. The blank strand reaches toward
-Rekhak's chain, toward the oath-link, toward the echo of the four notes. The thread recognizes
-the chain's memory.
+> **कैप्शन:** पहला कटोरा। गर्त की सबसे पुरानी करेंसी।
+
+## पैनल ७ — मैक्रो, धागा — हुक (~१९%)
+
+इरा की हथेली: बुना धागा हिलता है। खींच नहीं रहा — *जवाब* दे रहा है। ख़ाली तंतु रेखक की ज़ंजीर की ओर
+बढ़ता है, शपथ-कड़ी की ओर, चार स्वरों की प्रतिध्वनि की ओर। धागा ज़ंजीर की स्मृति पहचानता है।
 
 > **ध्वनि:** *—*
 >
-> **CAPTION:** The blank strand reaches for the chain. The thread that owes nothing recognizes the
-> chain that carries the echo. And the echo is her mother's.
+> **कैप्शन:** ख़ाली तंतु ज़ंजीर की ओर बढ़ता है। जो धागा कुछ नहीं चुकाता, वह उस ज़ंजीर को पहचानता है जो
+> प्रतिध्वनि थामे है। और वह प्रतिध्वनि उसकी माँ की है।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The blank strand is oldest | Lore — *Older Than the Loom* |
-| "मेरे पास से ज़्यादा। इसकी कीमत से कम।" | Event — *The Reckoner's Price* |
-| The blank strand reaches | Power — *Thread Recognizes Chain* |
+| ख़ाली तंतु सबसे पुराना | लोर — *सूत्र-यन्त्र से पुराना* |
+| "जितना मेरे पास है, उससे ज़्यादा।" | इवेंट — *रेखक की कीमत* |
+| ख़ाली तंतु बढ़ता है | पावर — *धागा ज़ंजीर को पहचानता है* |

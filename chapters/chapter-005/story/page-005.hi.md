@@ -1,76 +1,87 @@
-# THREADBORN — Chapter 05 — Page 005
+# सुत्रजात (THREADBORN) — अध्याय ०५ — पृष्ठ ००५
 
-**अध्याय शीर्षक:** *The First Pull* / *पहला खिंचाव*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, up-terrace + Knot & Nail (morning)
-**पृष्ठ प्रकार:** The Office responds — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *पहला खिंचाव*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, ऊपरी कगार + गाँठ और कील (सुबह)
+**पृष्ठ प्रकार:** कार्यालय जवाब देता है — ७ पैनल, अन्त में हुक
 
-> Beats: Page 004 — braided mending, no debt, the queue changes.
+> English source: [`page-005.md`](page-005.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००४ — बुनाई से सिलाई, कोई ऋण नहीं, क़तार बदलती है।
 
 ---
 
-## चित्र-खाना 1 — Wide, up-terrace (~14%)
-Morning, the Reckoning Office: rows of desks, clerks re-stamping. Lekh at the visitors' rail,
-cuff-chit growing. A Grey Clerk delivers a notice to Rekhak's desk: the Spindle's brightening
-requires a report.
+## पैनल १ — व्यापक, ऊपरी कगार (~१४%)
 
-> **CAPTION:** The Office files the brightening. Procedure requires a report. The report requires
-> a Reckoner. The Reckoner was already there.
+सुबह, लेखा-कार्यालय: मेज़ों की क़तारें, लिपिक मुहरें दोबारा लगा रहे हैं। लेख भेंट-रेलिंग पर खड़ा है,
+कफ़-चिट बढ़ती हुई। एक धूसर लिपिक रेखक की मेज़ पर सूचना छोड़ता है: तकली की चमक के लिए रिपोर्ट ज़रूरी है।
 
-## चित्र-खाना 2 — Medium, Rekhak's report (~13%)
-Rekhak at his desk, chain running, writing the report. Grey ink, official columns. He writes
-what he saw: two strands, one blank, the mark opened. He does not write about the oath-link.
-He does not write about the four notes.
+> **कैप्शन:** कार्यालय चमक दर्ज करता है। प्रक्रिया को रिपोर्ट चाहिए। रिपोर्ट को ऋण-लेखाधिकारी चाहिए।
+> ऋण-लेखाधिकारी वहाँ पहले से था।
 
-> **शीर्षक (none spoken):**
-> He files the truth. He omits the echo. The chain holds both.
+## पैनल २ — मध्यम, रेखक की रिपोर्ट (~१३%)
 
-## चित्र-खाना 3 — Close, the filing (~14%)
-Lekh receives the report for filing. His cuff-chit is in his sleeve. He reads the report's
-first line: *Sutra-mark opened, projection type, braided thread, Manavkin.* His hand does not
-move to the cuff-chit — this one is official.
+रेखक अपनी मेज़ पर, ज़ंजीर चलती हुई, रिपोर्ट लिखता हुआ। धूसर स्याही, सरकारी ख़ाने। वह लिखता है जो उसने
+देखा: दो तंतु, एक ख़ाली, चिह्न खुला। वह शपथ-कड़ी के बारे में नहीं लिखता। वह चार स्वरों के बारे में नहीं
+लिखता।
 
-> **लेख (संवाद, standing):** मानवकिण। बुना हुआ। प्रक्षेपण। दाखिल।
+> **कैप्शन (कोई बोलता नहीं):**
+> वह सच दर्ज करता है। वह प्रतिध्वनि छोड़ देता है। ज़ंजीर दोनों थामे हुए है।
+
+## पैनल ३ — क्लोज़, दाख़िला (~१४%)
+
+लेख रिपोर्ट दाख़िल करने के लिए लेता है। उसकी कफ़-चिट उसकी आस्तीन में है। वह रिपोर्ट की पहली पंक्ति पढ़ता
+है: *सूत्र-चिह्न खुला, प्रक्षेपण-प्रकार, बुना धागा, मानवकिण।* उसका हाथ कफ़-चिट की ओर नहीं जाता — यह वाला
+सरकारी है।
+
+> **लेख (संवाद, खड़े-खड़े):** मानवकिण। बुना हुआ। प्रक्षेपण। दर्ज।
 >
-> **CAPTION:** The Office has the first official record of Ira Sutar's thread. Filed. Not in
-> crimson. In grey.
+> **कैप्शन:** कार्यालय के पास इरा सुतार के धागे का पहला सरकारी अभिलेख है। दर्ज। क़िरमिज़ी में नहीं। धूसर
+> में।
 
-## चित्र-खाना 4 — Wide, the basin (~13%)
-The basin market: the Knot & Nail works. Ira mends. The queue is longer. The basin trusts the
-girl with the thread that owes nothing. The filing queue for the lockbox has thinned — the
-coin on the grey slate still discourages casual requests.
+## पैनल ४ — व्यापक, गर्त (~१३%)
 
-> **CAPTION:** The basin's two queues: one for mending, one for filing. One grows. One shrinks.
+गर्त-बाज़ार: गाँठ और कील काम कर रही है। इरा सीती है। क़तार लम्बी है। गर्त उस लड़की पर भरोसा करता है
+जिसका धागा कुछ नहीं चुकाता। ताला-बक्से की दाख़िला-क़तार पतली पड़ गई है — धूसर पट्ट पर पड़ा सिक्का अब भी
+साधारण माँगों को हतोत्साहित करता है।
 
-## चित्र-खाना 5 — Medium, Kessa's count (~14%)
-Kessa behind the counter, loupe down, tally-thread in hand. She counts the day's mends: four,
-all clean, all debtless, all with whorl-grain. The tally-thread grows.
+> **कैप्शन:** गर्त की दो क़तारें: एक सिलाई की, एक दाख़िले की। एक बढ़ती है। एक घटती है।
 
-> **केसा (संवाद, dry):** Four mends. No debt. The thread is consistent.
+## पैनल ५ — मध्यम, केसा की गिनती (~१४%)
+
+काउंटर के पीछे केसा, लूप नीचे, हाथ में गिनती-डोर। वह दिन की सिलाइयाँ गिनती है: चार, सब साफ़, सब
+ऋणहीन, सब पर चक्रव्यूह-रेखा। गिनती-डोर बढ़ती है।
+
+> **केसा (संवाद, रूखा):** चार सिलाइयाँ। कोई ऋण नहीं। धागा एक-सा रहता है।
 >
-> **IRA (dialogue):** The thread is not mine alone.
+> **इरा (संवाद):** धागा अकेले मेरा नहीं है।
 
-## चित्र-खाना 6 — Close, the braid (~13%)
-Ira's palm: the braided thread visible in the mark. Two strands: ash-grey (hers) and shadowless
-(the sewer's). The braid holds. The mark is open. The thread is present.
+## पैनल ६ — क्लोज़, बुनाई (~१३%)
 
-> **CAPTION:** Two strands. One palm. No debt. The Loom's first law bent.
+इरा की हथेली: चिह्न में बुना धागा दिखता है। दो तंतु: राख-धूसर (उसका) और छायाहीन (सीवर का)। बुनाई टिकी
+हुई है। चिह्न खुला है। धागा उपस्थित है।
 
-## चित्र-खाना 7 — Macro, the Council Stair — HOOK (~19%)
-The Council Stair: a figure descends — not a Grey Clerk, not Rekhak. Someone new: taller, broader,
-wearing a different uniform. An **Inspector**. The Office has escalated.
+> **कैप्शन:** दो तंतु। एक हथेली। कोई ऋण नहीं। सूत्र-यन्त्र का पहला नियम मुड़ गया।
 
-> **शीर्षक (none spoken):**
-> The Office filed the report. The Office sent an Inspector. Procedure escalates.
+## पैनल ७ — मैक्रो, परिषद-सीढ़ी — हुक (~१९%)
+
+परिषद-सीढ़ी: एक आकृति उतरती है — न धूसर लिपिक, न रेखक। कोई नया: लम्बा, चौड़ा, अलग वर्दी में। एक
+**निरीक्षक**। कार्यालय ने स्तर बढ़ा दिया है।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> कार्यालय ने रिपोर्ट दर्ज की। कार्यालय ने निरीक्षक भेजा। प्रक्रिया का स्तर चढ़ता है।
 >
-> **शीर्षक (smaller):**
-> The basin's thread-girl has been noticed. And the Office does not notice gently.
+> **कैप्शन (छोटा):**
+> गर्त की धागा-लड़की पर ध्यान गया है। और कार्यालय ध्यान कोमलता से नहीं देता।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The official filing | Procedure — *Grey Record* |
-| Four mends, no debt | Power — *Consistent Thread* |
-| The Inspector descends | Event — *Office Escalation* |
+| सरकारी दाख़िला | प्रक्रिया — *धूसर अभिलेख* |
+| चार सिलाइयाँ, कोई ऋण नहीं | पावर — *एक-सा धागा* |
+| निरीक्षक उतरता है | इवेंट — *कार्यालय का दख़ल* |

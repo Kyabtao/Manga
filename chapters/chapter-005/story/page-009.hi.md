@@ -1,78 +1,88 @@
-# THREADBORN — Chapter 05 — Page 009
+# सुत्रजात (THREADBORN) — अध्याय ०५ — पृष्ठ ००९
 
-**अध्याय शीर्षक:** *The First Pull* / *पहला खिंचाव*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (evening)
-**पृष्ठ प्रकार:** The departure — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *पहला खिंचाव*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (शाम)
+**पृष्ठ प्रकार:** प्रस्थान — ७ पैनल, अन्त में हुक
 
-> Beats: Page 008 — the Mendery key, the mother's gift, the first journey begins.
+> English source: [`page-009.md`](page-009.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००८ — मेंडरी की चाबी, माँ की देन, पहली यात्रा शुरू होती है।
 
 ---
 
-## चित्र-खाना 1 — Wide, the evening stall (~14%)
-Evening, Knot & Nail: the last mends of the day. Ira closes her kit. The lockbox is on the
-counter, closed. Kessa's loupe is up. The key is in Ira's belt.
+## पैनल १ — व्यापक, शाम का ठेला (~१४%)
 
-> **शीर्षक (none spoken):**
-> The last day at the Knot & Nail. For now.
+शाम, गाँठ और कील: दिन की आख़िरी सिलाइयाँ। इरा अपनी थैली बन्द करती है। ताला-बक्सा काउंटर पर, बन्द।
+केसा का लूप ऊपर। चाबी इरा की कमर पर।
 
-## चित्र-खाना 2 — Medium, the farewell (~13%)
-Kessa's hands: she reaches across the counter and sets something on Ira's palm — a knot of
-tally-thread. Not a memory; a *protection*. Kshudra knot-work: the thread that cannot be cut.
+> **कैप्शन (कोई बोलता नहीं):**
+> गाँठ और कील पर आख़िरी दिन। फ़िलहाल।
 
-> **केसा (संवाद, dry):**
-> My knots don't ask permission to end. Neither should you.
+## पैनल २ — मध्यम, विदाई (~१३%)
+
+केसा के हाथ: वह काउंटर के पार हाथ बढ़ाकर इरा की हथेली पर कुछ रखती है — गिनती-डोर की एक गाँठ। कोई
+स्मृति नहीं; एक *रक्षा*। क्षुद्र की गाँठ-विद्या: वह धागा जिसे काटा नहीं जा सकता।
+
+> **केसा (संवाद, रूखा):**
+> मेरी गाँठें ख़त्म होने की इजाज़त नहीं माँगतीं। तुम भी न माँगो।
 >
-> **KESSA (dialogue):**
-> वापस आना। बक्सा इंतज़ार करेगा।
+> **केसा (संवाद):**
+> लौट आना। बक्सा प्रतीक्षा करेगा।
 
-## चित्र-खाना 3 — Close, the knot (~14%)
-The knot in Ira's hand: small, dense, Kshudra-made. The same knot-work that protects Kessa's
-stall, her lockbox, her memories. A piece of the Knot & Nail, given.
+## पैनल ३ — क्लोज़, गाँठ (~१४%)
 
-> **CAPTION:** Kessa's knot-work: the thread that cannot be cut. A piece of the stall given to
-> the girl who is leaving it.
+इरा के हाथ में गाँठ: छोटी, ठोस, क्षुद्र की बनाई। वही गाँठ-विद्या जो केसा के ठेले की, उसके ताला-बक्से
+की, उसकी यादों की रक्षा करती है। गाँठ और कील का एक टुकड़ा, दिया गया।
 
-## चित्र-खाना 4 — Medium, the basin (~13%)
-The basin: Ira walks the row for the last time. The stall-owners watch. Guthli nods. Pira nods.
-The basin does not say goodbye. It moves its furniture.
+> **कैप्शन:** केसा की गाँठ-विद्या: वह धागा जिसे काटा नहीं जा सकता। ठेले का एक टुकड़ा, उसे छोड़कर जाने
+> वाली लड़की को दिया गया।
 
-> **CAPTION:** The basin does not say goodbye. It nods.
+## पैनल ४ — मध्यम, गर्त (~१३%)
 
-## चित्र-खाना 5 — Wide, the Council Stair (~14%)
-The Council Stair: Ira stands at the foot, looking up. Not climbing — passing. The Mendery is
-not up-terrace. It is at the crater's base, in the ash-slums where her mother lived. The key
-is in her belt. The mark is on her palm.
+गर्त: इरा आख़िरी बार कतार से गुज़रती है। ठेला-मालिक देखते हैं। गुठली सिर हिलाती है। पीरा सिर हिलाती
+है। गर्त विदा नहीं कहता। वह अपना सामान खिसका देता है।
 
-> **CAPTION:** The Mendery is not above. It is below. Where the ash is deepest. Where her
-> mother was bound.
+> **कैप्शन:** गर्त विदा नहीं कहता। वह सिर हिलाता है।
 
-## चित्र-खाना 6 — Close, the mark (~13%)
-Ira's palm: the braided thread catches the Spindle's light. The mark is open. The thread is held.
-The braid balances. The girl who was sewn shut is walking toward the place that bound the sewer.
+## पैनल ५ — व्यापक, परिषद-सीढ़ी (~१४%)
 
-> **शीर्षक (Ira's voice, small):**
-> The stitch is gone. The mark is open. The thread is braided. And the key to the Mendery has
-> been under the counter since before I could speak.
+परिषद-सीढ़ी: इरा तल पर खड़ी है, ऊपर देखती हुई। चढ़ नहीं रही — गुज़र रही है। मेंडरी ऊपरी कगार पर नहीं
+है। वह कैल्डेरा के तल पर है, राख-बस्तियों में, जहाँ उसकी माँ रहती थी। चाबी उसकी कमर पर है। चिह्न उसकी
+हथेली पर।
 
-## चित्र-खाना 7 — Wide, the ash-slums — HOOK (~19%)
-The ash-slums at the crater's base: the deepest part of the basin, where the ash drifts are
-waist-deep and the buildings are made of basalt scraps. The Mendery is visible: a low, broad
-building with no windows and one door. The back door — the door the key opens — is at the
-building's rear, hidden from the street.
+> **कैप्शन:** मेंडरी ऊपर नहीं है। वह नीचे है। जहाँ राख सबसे गहरी है। जहाँ उसकी माँ बाँधी गई थी।
 
-> **शीर्षक (none spoken):**
-> The Mendery. Where debt-carriers are bound. Where her mother was bound. Where the thread-school
-> that sewed her palm began.
+## पैनल ६ — क्लोज़, चिह्न (~१३%)
+
+इरा की हथेली: बुना धागा तकली का उजाला पकड़ता है। चिह्न खुला है। धागा थामा हुआ है। बुनाई सन्तुलन में है।
+जो लड़की सी कर बन्द की गई थी, वह उस जगह की ओर चल रही है जिसने सीवर को बाँधा था।
+
+> **कैप्शन (इरा का स्वर, धीमा):**
+> सिलाई अब नहीं है। चिह्न खुला है। धागा बुना हुआ है। और मेंडरी की चाबी काउंटर के नीचे उस समय से पड़ी
+> है जब मैं बोल भी नहीं सकती थी।
+
+## पैनल ७ — व्यापक, राख-बस्तियाँ — हुक (~१९%)
+
+कैल्डेरा के तल पर राख-बस्तियाँ: गर्त का सबसे गहरा हिस्सा, जहाँ राख की परतें कमर तक गहरी हैं और मकान
+बेसाल्ट के टुकड़ों के बने हैं। मेंडरी दिखती है: नीची, चौड़ी इमारत, बिना खिड़कियों के, एक दरवाज़े के साथ।
+पिछला दरवाज़ा — वह दरवाज़ा जो चाबी खोलती है — इमारत के पीछे है, गली से छिपा हुआ।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> मेंडरी। जहाँ ऋण-वाहक बाँधे जाते हैं। जहाँ उसकी माँ बाँधी गई थी। जहाँ वह धागा-विद्यालय शुरू हुआ
+> जिसने उसकी हथेली सीई।
 >
-> **शीर्षक (smaller):**
-> The hand has opened. The key is given. The journey starts at the back door.
+> **कैप्शन (छोटा):**
+> हाथ खुल गया है। चाबी दे दी गई है। यात्रा पिछले दरवाज़े से शुरू होती है।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| Kessa's protection knot | Relic — *Knot That Cannot Be Cut* |
-| "Come back." | Event — *The Stall Waits* |
-| The Mendery | Location — *The Mendery* |
+| केसा की रक्षा-गाँठ | रिलिक — *वह गाँठ जो कट न सके* |
+| "लौट आना।" | इवेंट — *ठेला प्रतीक्षा करता है* |
+| मेंडरी | स्थान — *मेंडरी* |

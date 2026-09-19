@@ -1,71 +1,81 @@
-# THREADBORN — Chapter 05 — Page 006
+# सुत्रजात (THREADBORN) — अध्याय ०५ — पृष्ठ ००६
 
-**अध्याय शीर्षक:** *The First Pull* / *पहला खिंचाव*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (afternoon)
-**पृष्ठ प्रकार:** The Inspector — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *पहला खिंचाव*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (दोपहर)
+**पृष्ठ प्रकार:** निरीक्षक — ७ पैनल, अन्त में हुक
 
-> Beats: Page 005 — the Inspector descends, the Office escalates.
+> English source: [`page-006.md`](page-006.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००५ — निरीक्षक उतरता है, कार्यालय स्तर बढ़ाता है।
 
 ---
 
-## चित्र-खाना 1 — Wide, the stall (~14%)
-Afternoon, Knot & Nail: the Inspector at the counter. Broad, official, carrying a slate and a
-measuring-chain — not Rekhak's counting-chain, a *compliance chain*. The basin watches.
+## पैनल १ — व्यापक, ठेला (~१४%)
 
-> **CAPTION:** The Inspector measures. The Reckoner counts. Different tools. Same Office.
+दोपहर, गाँठ और कील: काउंटर पर निरीक्षक। चौड़ा, सरकारी, हाथ में एक पट्ट और एक माप-ज़ंजीर — रेखक की
+गिनती-ज़ंजीर नहीं, एक *अनुपालन-ज़ंजीर*। गर्त देख रहा है।
 
-## चित्र-खाना 2 — Medium, the inspection (~13%)
-The Inspector's slate: grey columns, official. A request to measure Ira's mark — Kind, thread
-colour, strain, debt level. The Office wants a formal registration.
+> **कैप्शन:** निरीक्षक मापता है। ऋण-लेखाधिकारी गिनता है। औज़ार अलग-अलग। कार्यालय एक ही।
 
-> **निरीक्षक (संवाद, official):** The Office requires a formal mark measurement. Kind. Thread.
-> Strain. Debt.
+## पैनल २ — मध्यम, निरीक्षण (~१३%)
 
-## चित्र-खाना 3 — Close, Kessa's refusal (~14%)
-Kessa's hands: she sets the Inspector's slate face-down — her grammar. Then she sets the coin
-on top, the same gesture as the Grey Clerk's visit. The counter-offer.
+निरीक्षक का पट्ट: धूसर ख़ाने, सरकारी। इरा के चिह्न को मापने की माँग — जाति, धागे का रंग, तनाव, ऋण का
+स्तर। कार्यालय को औपचारिक पंजीयन चाहिए।
 
-> **KESSA (dialogue):** When the Office prices the measurement, I'll price the inspection.
+> **निरीक्षक (संवाद, सरकारी):** कार्यालय को चिह्न का औपचारिक माप चाहिए। जाति। धागा। तनाव। ऋण।
 
-## चित्र-खाना 4 — Medium, the Inspector's response (~13%)
-The Inspector does not leave. He stands at the counter, compliance chain in hand, and waits.
-Procedure has patience. The basin watches. The queue for mending holds.
+## पैनल ३ — क्लोज़, केसा का इनकार (~१४%)
 
-> **CAPTION:** The Inspector waits. Procedure has patience. The basin holds its breath.
+केसा के हाथ: वह निरीक्षक का पट्ट औंधा रख देती है — यही उसका व्याकरण है। फिर वह उसके ऊपर सिक्का रखती
+है, वही हाव-भाव जो धूसर लिपिक की यात्रा में था। पलट-पेशकश।
 
-## चित्र-खाना 5 — Close, Ira's choice (~14%)
-Ira's face: she looks at the Inspector, at Kessa, at her own palm. The mark is open. The thread
-is there. The Office wants to measure it. She can refuse (Kessa's grammar) or submit (procedure's
-grammar).
+> **केसा (संवाद):** जब कार्यालय माप का दाम तय करेगा, मैं निरीक्षण का दाम तय करूँगी।
 
-> **इरा (संवाद, flat):** नापो।
+## पैनल ४ — मध्यम, निरीक्षक का जवाब (~१३%)
+
+निरीक्षक जाता नहीं। वह काउंटर पर खड़ा रहता है, हाथ में अनुपालन-ज़ंजीर, और प्रतीक्षा करता है। प्रक्रिया
+में धैर्य है। गर्त देखता है। सिलाई की क़तार टिकी हुई है।
+
+> **कैप्शन:** निरीक्षक प्रतीक्षा करता है। प्रक्रिया में धैर्य है। गर्त साँस रोके हुए है।
+
+## पैनल ५ — क्लोज़, इरा का चुनाव (~१४%)
+
+इरा का चेहरा: वह निरीक्षक को देखती है, केसा को देखती है, अपनी हथेली को देखती है। चिह्न खुला है। धागा
+वहाँ है। कार्यालय उसे मापना चाहता है। वह इनकार कर सकती है (केसा का व्याकरण) या झुक सकती है (प्रक्रिया का
+व्याकरण)।
+
+> **इरा (संवाद, सपाट):** माप लो।
 >
-> **केसा (संवाद, sharp):** Child—
+> **केसा (संवाद, तेज़):** बच्ची—
 >
-> **IRA (dialogue):** They'll measure eventually. Better here than up-terrace.
+> **इरा (संवाद):** वे आख़िर मापेंगे ही। यहाँ बेहतर है, ऊपरी कगार पर नहीं।
 
-## चित्र-खाना 6 — Wide, the measurement (~13%)
-The Inspector's compliance chain on Ira's palm: the chain reads the mark. Kind: Manavkin.
-Thread: braided, ash-grey + blank. Strain: the chain hums — the braid's strain is higher than
-any single-strand Manavkin. Debt: zero. The chain's reading echoes through the basin.
+## पैनल ६ — व्यापक, माप (~१३%)
 
-> **CAPTION:** Kind: Manavkin. Thread: braided. Strain: high. Debt: zero. The basin hears the
-> reading.
+इरा की हथेली पर निरीक्षक की अनुपालन-ज़ंजीर: ज़ंजीर चिह्न पढ़ती है। जाति: मानवकिण। धागा: बुना हुआ,
+राख-धूसर + ख़ाली। तनाव: ज़ंजीर गुनगुनाती है — बुनाई का तनाव किसी भी एक-तंतु मानवकिण से ज़्यादा है। ऋण:
+शून्य। ज़ंजीर का पाठ गर्त में गूँजता है।
 
-## चित्र-खाना 7 — Macro, the Inspector's face — HOOK (~19%)
-The Inspector's face: he reads the chain's measurement and his expression changes. Not surprise.
-Not fear. *Recognition*. He has seen a braided mark before. He knows what it means.
+> **कैप्शन:** जाति: मानवकिण। धागा: बुना हुआ। तनाव: ऊँचा। ऋण: शून्य। गर्त पाठ सुन लेता है।
 
-> **निरीक्षक (संवाद, quiet, to himself):** Braided. Projection. Zero debt.
+## पैनल ७ — मैक्रो, निरीक्षक का चेहरा — हुक (~१९%)
+
+निरीक्षक का चेहरा: वह ज़ंजीर का माप पढ़ता है और उसका भाव बदल जाता है। आश्चर्य नहीं। डर नहीं।
+*पहचान*। उसने पहले भी बुना हुआ चिह्न देखा है। वह जानता है उसका क्या अर्थ है।
+
+> **निरीक्षक (संवाद, धीमा, स्वयं से):** बुना हुआ। प्रक्षेपण। शून्य ऋण।
 >
-> **निरीक्षक (संवाद, quieter):** मेंडरी के अभिलेखों जैसा।
+> **निरीक्षक (संवाद, और धीमा):** मेंडरी के अभिलेखों जैसा।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The compliance chain | Procedure — *The Compliance Chain* |
-| Ira submits to measurement | Event — *The Girl Measures* |
-| "मेंडरी के अभिलेखों जैसा।" | Lore — *The Mendery Connection* |
+| अनुपालन-ज़ंजीर | प्रक्रिया — *अनुपालन-ज़ंजीर* |
+| इरा माप के लिए झुकती है | इवेंट — *लड़की नापी जाती है* |
+| "मेंडरी के अभिलेखों जैसा।" | लोर — *मेंडरी का जुड़ाव* |

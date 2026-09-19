@@ -1,82 +1,93 @@
-# THREADBORN — Chapter 05 — Page 008
+# सुत्रजात (THREADBORN) — अध्याय ०५ — पृष्ठ ००८
 
-**अध्याय शीर्षक:** *The First Pull* / *पहला खिंचाव*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (morning)
-**पृष्ठ प्रकार:** The decision — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *पहला खिंचाव*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (सुबह)
+**पृष्ठ प्रकार:** फ़ैसला — ७ पैनल, अन्त में हुक
 
-> Beats: Page 007 — the Mendery connection, the thread-school and the Mendery.
+> English source: [`page-008.md`](page-008.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००७ — मेंडरी का जुड़ाव, धागा-विद्यालय और मेंडरी।
 
 ---
 
-## चित्र-खाना 1 — Wide, the morning (~14%)
-Morning, Knot & Nail: Ira arrives with the kit. Kessa is behind the counter, loupe up. The
-lockbox is open. Seven objects on the counter. The posting order's Mendery reference is visible.
+## पैनल १ — व्यापक, सुबह (~१४%)
 
-> **शीर्षक (none spoken):**
-> The morning after the connection. The box is open. The reference is waiting.
+सुबह, गाँठ और कील: इरा थैली लेकर पहुँचती है। केसा काउंटर के पीछे, लूप ऊपर। ताला-बक्सा खुला है।
+काउंटर पर सात चीज़ें। हस्तांतरण-आदेश में मेंडरी का हवाला दिखता हुआ।
 
-## चित्र-खाना 2 — Medium, the question (~13%)
-Ira's face: the question she has held since Chapter 1. Not *who sewed me* — *who was my mother
-in the Mendery, and what did she sew into me.*
+> **कैप्शन (कोई बोलता नहीं):**
+> जुड़ाव के बाद की सुबह। बक्सा खुला है। हवाला प्रतीक्षा कर रहा है।
 
-> **इरा (संवाद, flat):**
-> मेरी माँ मेंडरी में थी। The thread is braided. The Inspector knew.
+## पैनल २ — मध्यम, सवाल (~१३%)
+
+इरा का चेहरा: वह सवाल जो वह अध्याय ०१ से थामे हुए है। *मुझे किसने सीया* नहीं — *मेंडरी में मेरी माँ
+कौन थी, और उसने मुझमें क्या सीया।*
+
+> **इरा (संवाद, सपाट):**
+> मेरी माँ मेंडरी में थी। धागा बुना हुआ है। निरीक्षक जानता था।
 >
-> **IRA (dialogue):**
-> I need the Mendery file.
+> **इरा (संवाद):**
+> मुझे मेंडरी की फ़ाइल चाहिए।
 
-## चित्र-खाना 3 — Close, Kessa's hands (~14%)
-Kessa's hands: she closes the lockbox. Then she does something unexpected: she reaches under the
-counter and produces a key — not the lockbox's key, a different one. Older. Kshudra-made.
+## पैनल ३ — क्लोज़, केसा के हाथ (~१४%)
 
-> **केसा (संवाद, dry):**
-> The Mendery keeps files. The Knot & Nail keeps keys.
+केसा के हाथ: वह ताला-बक्सा बन्द करती है। फिर वह कुछ अप्रत्याशित करती है: वह काउंटर के नीचे हाथ डालकर
+एक चाबी निकालती है — ताला-बक्से की चाबी नहीं, कोई और। पुरानी। क्षुद्र का बनाया हुआ।
+
+> **केसा (संवाद, रूखा):**
+> मेंडरी अभिलेख रखती है। गाँठ और कील चाबियाँ रखती है।
 >
-> **KESSA (dialogue):**
-> This key opens the Mendery's back door. Your mother gave it to me.
+> **केसा (संवाद):**
+> यह चाबी मेंडरी का पिछला दरवाज़ा खोलती है। तुम्हारी माँ ने इसे मुझे दिया था।
 
-## चित्र-खाना 4 — Medium, the key (~13%)
-The key in Kessa's hand: small, black, Kshudra-forged. Old. It has been under the counter for
-fifteen years — since the day Ira's mother was bound.
+## पैनल ४ — मध्यम, चाबी (~१३%)
 
-> **CAPTION:** The key has been under the counter since the day Ira was sewn shut. Kessa has been
-> waiting for the girl to ask.
+केसा के हाथ में चाबी: छोटी, काली, क्षुद्र की ढली। पुरानी। वह पन्द्रह साल से काउंटर के नीचे पड़ी है —
+उस दिन से, जिस दिन इरा की माँ बाँधी गई थी।
 
-## चित्र-खाना 5 — Close, Ira's palm (~14%)
-Ira's palm: the mark is open, the thread is held. The braided thread responds to the key's
-proximity — the blank strand reaches toward it, the way it reached toward Rekhak's chain.
+> **कैप्शन:** चाबी काउंटर के नीचे उस दिन से है जिस दिन इरा को सी कर बन्द किया गया। केसा उस लड़की के
+> पूछने की प्रतीक्षा कर रही थी।
+
+## पैनल ५ — क्लोज़, इरा की हथेली (~१४%)
+
+इरा की हथेली: चिह्न खुला है, धागा थामा हुआ। बुना धागा चाबी की नज़दीकी पर जवाब देता है — ख़ाली तंतु उसकी
+ओर बढ़ता है, जैसे वह रेखक की ज़ंजीर की ओर बढ़ा था।
 
 > **ध्वनि:** *—*
 >
-> **CAPTION:** The thread recognizes the key. The way it recognized the chain. The way it
-> recognized the box.
+> **कैप्शन:** धागा चाबी को पहचानता है। जैसे उसने ज़ंजीर को पहचाना। जैसे उसने बक्से को पहचाना।
 
-## चित्र-खाना 6 — Wide, the basin (~13%)
-The basin: the Knot & Nail works, the market adjusts. The stall-row trusts the lock. The
-filing queue is gone. The mending queue grows. The girl with the open mark mends without debt.
+## पैनल ६ — व्यापक, गर्त (~१३%)
 
-> **CAPTION:** The basin's hope has a name now: the girl at the Knot & Nail.
+गर्त: गाँठ और कील काम कर रही है, बाज़ार तालमेल बैठा रहा है। ठेला-कतार ताले पर भरोसा करती है।
+दाख़िला-क़तार ख़त्म हो चुकी है। सिलाई की क़तार बढ़ती है। खुले चिह्न वाली लड़की बिना ऋण के सीती है।
 
-## चित्र-खाना 7 — Macro, the key in Ira's hand — HOOK (~19%)
-Ira's hand: the key from Kessa. Her palm is open, the mark visible, the braided thread held.
-The key and the mark in the same frame: the two objects that will take her to the Mendery.
+> **कैप्शन:** गर्त की आशा का अब एक नाम है: गाँठ और कील की लड़की।
 
-> **शीर्षक (none spoken):**
-> The hand has opened. The mark is awake. The thread is braided. The key is given.
+## पैनल ७ — मैक्रो, इरा के हाथ में चाबी — हुक (~१९%)
+
+इरा का हाथ: केसा से मिली चाबी। उसकी हथेली खुली है, चिह्न दिखता हुआ, बुना धागा थामा हुआ। चाबी और चिह्न
+एक ही फ़्रेम में: वे दो चीज़ें जो उसे मेंडरी तक ले जाएँगी।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> हाथ खुल गया है। चिह्न जागा हुआ है। धागा बुना हुआ है। चाबी दे दी गई है।
 >
-> **शीर्षक (smaller):**
-> The girl who owes nothing is going to the place that binds debts. And the key that opens the
-> back door has been waiting under the counter for fifteen years.
+> **कैप्शन (छोटा):**
+> जो लड़की कुछ नहीं चुकाती, वह उस जगह जा रही है जो ऋण बाँधती है। और पिछला दरवाज़ा खोलने वाली चाबी
+> पन्द्रह साल से काउंटर के नीचे प्रतीक्षा कर रही है।
 >
-> **शीर्षक (last line):**
-> The first pull is over. The first journey begins.
+> **कैप्शन (अन्तिम पंक्ति):**
+> पहला खिंचाव ख़त्म हुआ। पहली यात्रा शुरू होती है।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The Mendery key | Relic — *The Back-Door Key* |
-| "Your mother gave it to me." | Lore — *The Mother's Key* |
-| The thread recognizes the key | Power — *Thread Memory* |
+| मेंडरी की चाबी | रिलिक — *पिछले दरवाज़े की चाबी* |
+| "तुम्हारी माँ ने इसे मुझे दिया था।" | लोर — *माँ की चाबी* |
+| धागा चाबी को पहचानता है | पावर — *धागे की स्मृति* |

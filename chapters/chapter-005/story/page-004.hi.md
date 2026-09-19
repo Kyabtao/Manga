@@ -1,77 +1,86 @@
-# THREADBORN — Chapter 05 — Page 004
+# सुत्रजात (THREADBORN) — अध्याय ०५ — पृष्ठ ००४
 
-**अध्याय शीर्षक:** *The First Pull* / *पहला खिंचाव*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (afternoon)
-**पृष्ठ प्रकार:** The first mend — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *पहला खिंचाव*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (दोपहर)
+**पृष्ठ प्रकार:** पहली सिलाई — ७ पैनल, अन्त में हुक
 
-> Beats: Page 003 — Rekhak's Sight reading, the blank strand reaches for the chain.
+> सूत्र: पृष्ठ ००३ — रेखक का दृष्टि-पाठ, ख़ाली तंतु ज़ंजीर की ओर बढ़ता है।
+
+> English source: [`page-004.md`](page-004.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
 ---
 
-## चित्र-खाना 1 — Wide, the afternoon (~14%)
-Afternoon, Knot & Nail: Rekhak has gone, leaving the cup empty on the counter. Ira sits with her
-palm open, the braided thread contained in the mark. A dock worker approaches — a torn mark, the
-routine work.
+## पैनल १ — व्यापक, दोपहर (~१४%)
 
-> **शीर्षक (Ira's voice, small):**
-> He left the cup. I left the mark open. The afternoon brought work.
+दोपहर, गाँठ और कील: रेखक जा चुका है, काउंटर पर ख़ाली कटोरा छोड़ गया है। इरा हथेली खुली किए बैठी है,
+बुना धागा चिह्न में अवरुद्ध। एक गोदी-मज़दूर पास आता है — फटा निशान, रोज़ का काम।
 
-## चित्र-खाना 2 — Medium, the first mend (~13%)
-Ira mends the dock worker's torn mark. The needle moves differently now — the braided thread
-responds, the mark *listens*. The mend is faster, cleaner, stronger. The whorl-grain appears
-in the seam — the same as always, but clearer.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> वह कटोरा छोड़ गया। मैंने चिह्न खुला छोड़ दिया। दोपहर काम ले आई।
 
-> **ध्वनि:** *tchk* (needle through skin)
+## पैनल २ — मध्यम, पहली सिलाई (~१३%)
 
-## चित्र-खाना 3 — Close, the braided thread works (~14%)
-Macro on the mend: the braided thread — ash-grey and shadowless — moves through the needle. The
-blank strand does the work the sewer's thread used to do: it *holds*, it *seals*, it creates no
-debt. The mend is complete. No debt-mark appears on Ira's skin.
+इरा गोदी-मज़दूर का फटा निशान सीती है। सुई अब अलग चलती है — बुना धागा जवाब देता है, चिह्न *सुनता* है।
+सिलाई तेज़, साफ़, मज़बूत। सीवन में चक्रव्यूह-रेखा उभरती है — जैसी हमेशा उभरती है, पर इस बार ज़्यादा
+स्पष्ट।
 
-> **CAPTION:** No debt. The thread that owes nothing mends without cost. The rule holds.
+> **ध्वनि:** *त्स्स्स* (त्वचा में से सुई)
 
-## चित्र-खाना 4 — Medium, the dock worker reacts (~13%)
-The dock worker examines the mend: the seam is invisible, the whorl-grain is the only evidence.
-He rolls his sleeve. It does not itch.
+## पैनल ३ — क्लोज़, बुना धागा काम करता है (~१४%)
 
-> **DOCK WORKER (dialogue):** यह खुजलाता नहीं।
+सिलाई पर मैक्रो: बुना धागा — राख-धूसर और छायाहीन — सुई में से गुज़रता है। ख़ाली तंतु वह काम करता है जो
+पहले सीवर का धागा करता था: वह *थामता* है, वह *बन्द* करता है, वह कोई ऋण नहीं बनाता। सिलाई पूरी। इरा की
+त्वचा पर कोई ऋण-चिह्न नहीं उभरता।
+
+> **कैप्शन:** कोई ऋण नहीं। जो धागा कुछ नहीं चुकाता, वह बिना कीमत के सीता है। नियम टिका हुआ है।
+
+## पैनल ४ — मध्यम, गोदी-मज़दूर की प्रतिक्रिया (~१३%)
+
+गोदी-मज़दूर सिलाई परखता है: सीवन अदृश्य, चक्रव्यूह-रेखा ही अकेला सबूत। वह अपनी आस्तीन चढ़ाता है। यह
+खुजलाता नहीं।
+
+> **गोदी-मज़दूर (संवाद):** यह खुजलाता नहीं।
 >
-> **CAPTION:** The second itch-less mend. The basin will talk.
+> **कैप्शन:** दूसरी बिना-खुजली सिलाई। गर्त बातें करेगा।
 
-## चित्र-खाना 5 — Wide, the basin watches (~14%)
-The market: the news spreads. The girl with no thread drew a thread. The girl with no debt mends
-without cost. The Knot & Nail's filing queue returns — not for storage, but for mending. The
-basin wants the thread that owes nothing.
+## पैनल ५ — व्यापक, गर्त देखता है (~१४%)
 
-> **CAPTION:** By evening, the queue was for mending. The basin's fear found a new address: hope.
+बाज़ार: ख़बर फैलती है। जिस लड़की के पास धागा नहीं था, उसने धागा निकाला। जिस लड़की पर ऋण नहीं, वह
+बिना कीमत सीती है। गाँठ और कील की क़तार लौट आती है — रखने के लिए नहीं, सिलने के लिए। गर्त को वह धागा
+चाहिए जो कुछ नहीं चुकाता।
 
-## चित्र-खाना 6 — Close, Ira's palm (~13%)
-Ira's palm: the mark is open, the thread is contained. The dormant Sutra-mark is no longer
-dormant — it is *active*, held in check by the braid's balance. Ira's strand and the sewer's
-strand, in equilibrium.
+> **कैप्शन:** शाम तक क़तार सिलाई की हो गई थी। गर्त के डर को नया पता मिल गया: आशा।
 
-> **शीर्षक (Ira's voice, small):**
-> The mark is open. The thread is held. The braid balances. I don't pull — the thread is *there*.
+## पैनल ६ — क्लोज़, इरा की हथेली (~१३%)
 
-## चित्र-खाना 7 — Macro, the lockbox — HOOK (~19%)
-The lockbox on the counter: Kessa's hand on the lid. Inside, seven objects. Outside, the girl
-with the open mark. The box held the evidence of the thread for forty years. Now the thread
-is in the girl, and the box holds the history.
+इरा की हथेली: चिह्न खुला है, धागा अवरुद्ध। सुप्त सूत्र-चिह्न अब सुप्त नहीं — वह *सक्रिय* है, बुनाई के
+सन्तुलन ने उसे क़ाबू में रखा है। इरा का तंतु और सीवर का तंतु, सन्तुलन में।
 
-> **शीर्षक (none spoken):**
-> The box held the thread. The girl holds the thread. The box holds the history. Both are full.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> चिह्न खुला है। धागा थामा हुआ है। बुनाई सन्तुलन में है। मैं खींचती नहीं — धागा *वहाँ* है।
+
+## पैनल ७ — मैक्रो, ताला-बक्सा — हुक (~१९%)
+
+काउंटर पर ताला-बक्सा: ढक्कन पर केसा का हाथ। भीतर सात चीज़ें। बाहर, खुले चिह्न वाली लड़की। बक्से ने
+चालीस साल तक उस धागे का सबूत रखा। अब धागा लड़की में है, और बक्सा इतिहास रखता है।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> बक्से ने धागा रखा था। लड़की धागा थामे है। बक्सा इतिहास रखता है। दोनों भरे हुए हैं।
 >
-> **शीर्षक (smaller):**
-> The first pull happened without pulling. The thread was given, not borrowed. The Loom's first
-> law does not apply.
+> **कैप्शन (छोटा):**
+> पहला खिंचाव बिना खींचे हुआ। धागा दिया गया, उधार नहीं लिया गया। सूत्र-यन्त्र का पहला नियम लागू नहीं
+> होता।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The first mend with the braid | Power — *Braided Mending* |
-| No debt-mark | Power — *Costless Mend* |
-| "The basin's hope." | Event — *The Queue Changes* |
-| The thread was given, not borrowed | Lore — *The Exception* |
+| बुनाई से पहली सिलाई | पावर — *बुनी हुई सिलाई* |
+| कोई ऋण-चिह्न नहीं | पावर — *बिना-कीमत सिलाई* |
+| "गर्त की आशा।" | इवेंट — *क़तार बदलती है* |
+| धागा दिया गया, उधार नहीं | लोर — *अपवाद* |

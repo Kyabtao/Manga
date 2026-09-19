@@ -1,76 +1,87 @@
-# THREADBORN — Chapter 05 — Page 007
+# सुत्रजात (THREADBORN) — अध्याय ०५ — पृष्ठ ००७
 
-**अध्याय शीर्षक:** *The First Pull* / *पहला खिंचाव*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (evening)
-**पृष्ठ प्रकार:** The Mendery connection — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *पहला खिंचाव*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (शाम)
+**पृष्ठ प्रकार:** मेंडरी का जुड़ाव — ७ पैनल, अन्त में हुक
 
-> Beats: Page 006 — the Inspector recognizes the braided mark, "मेंडरी के अभिलेखों जैसा।"
+> English source: [`page-007.md`](page-007.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००६ — निरीक्षक बुना हुआ चिह्न पहचानता है, "मेंडरी के अभिलेखों जैसा।"
 
 ---
 
-## चित्र-खाना 1 — Wide, the evening stall (~14%)
-Evening: the Inspector has gone. The Knot & Nail is quiet. Ira sits at the counter, palm open.
-Kessa's loupe is down, her hands are still.
+## पैनल १ — व्यापक, शाम का ठेला (~१४%)
 
-> **शीर्षक (Ira's voice, small):**
-> The Inspector said "Mendery." He said it like he'd said it before.
+शाम: निरीक्षक जा चुका है। गाँठ और कील शान्त है। इरा काउंटर पर बैठी है, हथेली खुली। केसा का लूप नीचे
+है, उसके हाथ स्थिर हैं।
 
-## चित्र-खाना 2 — Medium, the Mendery (~13%)
-Kessa's hands: she opens the lockbox and draws out the posting order — the grey+crimson letter.
-She points to a line in the grey columns: the census transfer's official reason. The reason says:
-*mark anomaly, Mendery file reference.*
+> **कैप्शन (इरा का स्वर, धीमा):**
+> निरीक्षक ने "मेंडरी" कहा। उसने ऐसे कहा जैसे उसने पहले भी कहा हो।
 
-> **केसा (संवाद, slow):** The transfer references a Mendery file. The census was moved here
-> because of a Mendery record.
+## पैनल २ — मध्यम, मेंडरी (~१३%)
 
-## चित्र-खाना 3 — Close, the connection (~14%)
-Ira's face: the Mendery. Where debt-carriers are bound. Where her mother was bound. The lockbox
-holds the evidence of a thread-school that includes Ira's palm — and the Mendery holds the
-records of the woman who sewed it.
+केसा के हाथ: वह ताला-बक्सा खोलती है और हस्तांतरण-आदेश निकालती है — धूसर+क़िरमिज़ी ख़त। वह धूसर ख़ानों
+में एक पंक्ति दिखाती है: गिनती-स्थानांतरण का सरकारी कारण। कारण कहता है: *चिह्न-विसंगति, मेंडरी फ़ाइल का
+हवाला।*
 
-> **इरा (संवाद, flat):** मेरी माँ मेंडरी में थी। The thread is braided. The Inspector
-> recognized it.
+> **केसा (संवाद, धीमा):** हस्तांतरण में एक मेंडरी फ़ाइल का हवाला है। गिनती यहाँ इसलिए भेजी गई कि
+> मेंडरी में एक अभिलेख है।
+
+## पैनल ३ — क्लोज़, जुड़ाव (~१४%)
+
+इरा का चेहरा: मेंडरी। जहाँ ऋण-वाहक बाँधे जाते हैं। जहाँ उसकी माँ बाँधी गई थी। ताला-बक्सा उस
+धागा-विद्यालय का सबूत रखता है जिसमें इरा की हथेली भी शामिल है — और मेंडरी उस औरत के अभिलेख रखती है
+जिसने उसे सीया था।
+
+> **इरा (संवाद, सपाट):** मेरी माँ मेंडरी में थी। धागा बुना हुआ है। निरीक्षक ने उसे पहचान लिया।
 >
-> **KESSA (dialogue):** The thread-school and the Mendery are connected.
+> **केसा (संवाद):** धागा-विद्यालय और मेंडरी जुड़े हुए हैं।
 
-## चित्र-खाना 4 — Medium, Kessa's tally-thread (~13%)
-Kessa ties a new knot: the Mendery connection is filed. Her tally-thread is heavy now — a knot
-for every revelation this chapter. The thread is the heaviest it has ever been.
+## पैनल ४ — मध्यम, केसा की गिनती-डोर (~१३%)
 
-> **CAPTION:** The tally-thread grows. Each knot a fact. Each fact a weight.
+केसा एक नई गाँठ लगाती है: मेंडरी का जुड़ाव दर्ज हो गया। उसकी गिनती-डोर अब भारी है — इस अध्याय के हर
+खुलासे के लिए एक गाँठ। धागा अब तक का सबसे भारी है।
 
-## चित्र-खाना 5 — Wide, the basin night (~14%)
-Night: the Knot & Nail's shutters are up. The basin sleeps. The Spindle's light is still
-brighter than usual — the second brightening holds. The Loom turns.
+> **कैप्शन:** गिनती-डोर बढ़ती है। हर गाँठ एक तथ्य। हर तथ्य एक भार।
 
-> **CAPTION:** The Spindle holds its brightness. The basin sleeps. The Loom turns.
+## पैनल ५ — व्यापक, रात का गर्त (~१४%)
 
-## चित्र-खाना 6 — Close, Ira's palm (~13%)
-Ira on her roof, palm open to the sky. The braided thread catches the Spindle's light — not
-glowing, not pulling, just *present*. The mark is open. The thread is held. The braid balances.
+रात: गाँठ और कील के शटर चढ़े हैं। गर्त सोता है। तकली का उजाला अब भी आम से ज़्यादा है — दूसरी चमक टिकी
+हुई है। सूत्र-यन्त्र घूमता है।
 
-> **शीर्षक (Ira's voice, small):**
-> The thread was hidden. The stitch held it shut. The cutter showed me the school. The box held
-> the history. The Reckoner saw what I am. And the Mendery holds the name.
+> **कैप्शन:** तकली अपनी चमक थामे है। गर्त सोता है। सूत्र-यन्त्र घूमता है।
 
-## चित्र-खाना 7 — Macro, the lockbox — HOOK (~19%)
-The lockbox on the counter, Kessa's hand on the lid. Seven objects inside. Outside, the basin
-sleeps. Above, the Loom turns. On Ira's roof, the mark glows faintly — not dormant, not pulling,
-just *present*. The thread that was hidden is awake. The girl who was sewn shut is open.
+## पैनल ६ — क्लोज़, इरा की हथेली (~१३%)
 
-> **शीर्षक (none spoken):**
-> The hand has opened. The thread is awake. The mark is measured. The Office has filed.
+इरा अपनी छत पर, हथेली आकाश की ओर खुली। बुना धागा तकली का उजाला पकड़ता है — चमकता नहीं, खींचता नहीं,
+बस *उपस्थित*। चिह्न खुला है। धागा थामा हुआ है। बुनाई सन्तुलन में है।
+
+> **कैप्शन (इरा का स्वर, धीमा):**
+> धागा छिपा था। सिलाई ने उसे बन्द रखा। काटने वाले ने मुझे विद्यालय दिखाया। बक्से ने इतिहास रखा।
+> ऋण-लेखाधिकारी ने देखा कि मैं क्या हूँ। और नाम मेंडरी के पास है।
+
+## पैनल ७ — मैक्रो, ताला-बक्सा — हुक (~१९%)
+
+काउंटर पर ताला-बक्सा, ढक्कन पर केसा का हाथ। भीतर सात चीज़ें। बाहर गर्त सोता है। ऊपर सूत्र-यन्त्र घूमता
+है। इरा की छत पर चिह्न मद्धम-सा चमकता है — न सुप्त, न खींचता हुआ, बस *उपस्थित*। जो धागा छिपा था, वह
+जागा हुआ है। जो लड़की सी कर बन्द की गई थी, वह खुली है।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> हाथ खुल गया है। धागा जागा हुआ है। चिह्न नापा जा चुका है। कार्यालय ने दर्ज कर लिया है।
 >
-> **शीर्षक (smaller):**
-> The Mendery holds the name of the woman who braided her thread into a girl's palm. And the girl
-> who owes nothing is going to find it.
+> **कैप्शन (छोटा):**
+> मेंडरी के पास उस औरत का नाम है जिसने अपना धागा एक लड़की की हथेली में बुना। और जो लड़की कुछ नहीं
+> चुकाती, वह उसे ढूँढ़ने जा रही है।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The Mendery file reference | Lore — *The Mendery File* |
-| "The thread-school and the Mendery are connected." | Lore — *The Connection* |
-| The mark glows | Power — *Awake, Not Pulling* |
+| मेंडरी फ़ाइल का हवाला | लोर — *मेंडरी फ़ाइल* |
+| "धागा-विद्यालय और मेंडरी जुड़े हुए हैं।" | लोर — *जुड़ाव* |
+| चिह्न चमकता है | पावर — *जागा हुआ, खींचता नहीं* |

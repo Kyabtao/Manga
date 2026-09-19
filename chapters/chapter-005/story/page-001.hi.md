@@ -1,90 +1,99 @@
-# THREADBORN — Chapter 05 — Page 001
+# सुत्रजात (THREADBORN) — अध्याय ०५ — पृष्ठ ००१
 
-**अध्याय शीर्षक:** *The First Pull* / *पहला खिंचाव*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (dawn)
-**पृष्ठ प्रकार:** Chapter opening — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *पहला खिंचाव*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (भोर)
+**पृष्ठ प्रकार:** अध्याय-प्रारम्भ — ७ पैनल, अन्त में हुक
 
-> पिछले पृष्ठ से: Chapter 004: the stitch opened, the mark is visible and dormant, the thread
-> is braided, the mark flickered, the Loom noticed. Seven objects in the lockbox. The cutter
-> finished and left the basin. The chain-stop was spent in Ch. 003.
+> English source: [`page-001.md`](page-001.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> अध्याय ००४ से आगे आते सूत्र: सिलाई खुल गई, चिह्न दिखता और सुप्त है, धागा बुना हुआ है, चिह्न टिमटिमाया,
+> सूत्र-यन्त्र ने ध्यान दे लिया। ताला-बक्से में सात चीज़ें। काटने वाले ने काम पूरा किया और गर्त छोड़ दिया।
+> ज़ंजीर-रोक अध्याय ००३ में ख़र्च हो चुकी है।
 
 ---
 
-## चित्र-खाना 1 — Wide, dawn, the Knot & Nail (~14%)
-Dawn: the Knot & Nail before the first bell. Kessa is not behind the counter — she is standing
-in front of it, in the market row, loupe up, looking at the sky. The Loom turns above, as it
-always does. But the Spindle — the pillar of light in the caldera's centre — is brighter than
-usual.
+## पैनल १ — व्यापक, भोर, गाँठ और कील (~१४%)
 
-> **शीर्षक (none spoken):**
-> Dawn, day sixty. The Spindle is brighter. Not by much. By enough that the basin notices.
+भोर: पहली घंटी से पहले की गाँठ और कील। केसा काउंटर के पीछे नहीं है — वह काउंटर के सामने खड़ी है,
+बाज़ार की कतार में, लूप ऊपर उठाए, आकाश की ओर देखती हुई। सूत्र-यन्त्र ऊपर घूमता है, जैसे हमेशा घूमता
+है। पर तकली — कैल्डेरा के बीच वह उजाले का स्तम्भ — आम दिनों से ज़्यादा चमकीली है।
 
-## चित्र-खाना 2 — Medium, the market notices (~13%)
-The basin market: stall-owners pausing, looking up. Guthli's pot steams and the steam bends
-toward the Spindle — the same gesture as the Council Stair warning, but toward the light, not
-the stair. Pira stands at the pot, arms full, eyes up.
+> **कैप्शन (कोई बोलता नहीं):**
+> भोर, साठवाँ दिन। तकली ज़्यादा चमकीली है। बहुत ज़्यादा नहीं। इतनी कि गर्त ध्यान दे।
 
-> **गुठली (संवाद, low):** तकली चमक रही है।
+## पैनल २ — मध्यम, बाज़ार ध्यान देता है (~१३%)
+
+गर्त-बाज़ार: ठेला-मालिक रुक जाते हैं, ऊपर देखते हैं। गुठली की हाँड़ी से भाप उठती है और भाप तकली की
+ओर मुड़ जाती है — वही हाव-भाव जो परिषद-सीढ़ी की चेतावनी में था, पर सीढ़ी की ओर नहीं, उजाले की ओर।
+पीरा हाँड़ी के पास खड़ी है, बाँहें भरी हुईं, आँखें ऊपर।
+
+> **गुठली (संवाद, धीमा):** तकली चमक रही है।
 >
-> **पीरा (संवाद, lower):** It hasn't been this bright since the silent second.
+> **पीरा (संवाद, और धीमा):** मौन क्षण के बाद से इतनी चमकीली नहीं हुई।
 
-## चित्र-खाना 3 — Close, Ira at the counter (~14%)
-The Knot & Nail's counter: Ira sits, palm open, mark visible. The mark is not dormant this
-morning — it is *warm*. Not glowing. Not pulling. Warm, the way a stone warms in the sun. The
-Spindle's light is reaching it.
+## पैनल ३ — क्लोज़, काउंटर पर इरा (~१४%)
 
-> **शीर्षक (Ira's voice, small):**
-> मेरी हथेली गर्म है। Not from the mend. From the light.
+गाँठ और कील का काउंटर: इरा बैठी है, हथेली खुली, चिह्न दिखता हुआ। आज सुबह चिह्न सुप्त नहीं है — वह
+*गर्म* है। चमकता नहीं। खींचता नहीं। गर्म, जैसे धूप में पत्थर गर्म होता है। तकली का उजाला उस तक
+पहुँच रहा है।
 
-## चित्र-खाना 4 — Macro, the mark responds (~13%)
-The mark extreme close: the dormant pattern is *moving*. The two braided strands — Ira's own
-and the sewer's — are uncoiling slowly, the way a spring releases. The mark is not opening
-yet. It is *preparing*.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> मेरी हथेली गर्म है। सिलाई से नहीं। रोशनी से।
+
+## पैनल ४ — मैक्रो, चिह्न जवाब देता है (~१३%)
+
+चिह्न का अत्यधिक पास से दृश्य: सुप्त आकृति *हिल* रही है। दो बुने तंतु — इरा का अपना और सीवर का —
+धीरे-धीरे खुल रहे हैं, वैसे जैसे कमानी ढीली पड़ती है। चिह्न अभी खुल नहीं रहा। वह *तैयारी* कर रहा है।
 
 > **ध्वनि:** *—*
 >
-> **CAPTION:** The braid uncoils. Two strands. Fifteen years of sleep. The Spindle calls.
+> **कैप्शन:** बुनाई खुलती है। दो तंतु। पन्द्रह साल की नींद। तकली पुकार रही है।
 
-## चित्र-खाना 5 — Medium, Kessa's hands (~14%)
-Kessa's hands: she returns to the counter, sees the mark's warmth, and does the only thing she
-can — she opens the lockbox and sets the seven objects on the counter around Ira's palm. The
-cut-end, the census, the posting order, the threads. The box's history surrounds the mark.
+## पैनल ५ — मध्यम, केसा के हाथ (~१४%)
 
-> **केसा (संवाद, quiet):** अगर यह खुलता है, तो यहाँ खुलेगा। With everything it came from.
+केसा के हाथ: वह काउंटर पर लौटती है, चिह्न की गर्मी देखती है, और वही करती है जो वह कर सकती है —
+वह ताला-बक्सा खोलती है और सात चीज़ें इरा की हथेली के चारों ओर काउंटर पर रख देती है। कट-सिरा, गिनती,
+हस्तांतरण-आदेश, धागे। बक्से का पूरा इतिहास चिह्न को घेर लेता है।
 
-## चित्र-खाना 6 — Wide, the Spindle brightens (~13%)
-The Spindle: brighter still. The basin is watching now — not afraid, not yet, but attentive.
-The last time the Spindle changed was the silent second. This is the second change.
+> **केसा (संवाद, धीमा):** अगर यह खुलता है, तो यहाँ खुलेगा। जिस सब से यह आया, उसी के साथ।
 
-> **शीर्षक (none spoken):**
-> The Spindle brightened once, in four centuries. The silent second. Now it brightens again.
-> The basin watches. The basin remembers.
+## पैनल ६ — व्यापक, तकली और चमकीली होती है (~१३%)
 
-## चित्र-खाना 7 — Macro, the mark opens — HOOK (~19%)
-Ira's palm: the mark opens. Not violently, not dramatically — a bloom, a release, a fifteen-year
-exhale. The braid unfurls. Thread emerges — not one strand, *two*, braided: ash-grey and
-shadowless, Ira's thread and the sewer's, together. The thread rises from her palm like smoke
-from an ember, and it is the first thread Ira Sutar has ever produced.
+तकली: और भी चमकीली। गर्त अब देख रहा है — डरा हुआ नहीं, अभी नहीं, पर ध्यान देते हुए। पिछली बार जब
+तकली बदली थी, वह मौन क्षण था। यह दूसरा बदलाव है।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> चार सदियों में तकली एक बार चमकी थी। मौन क्षण। अब वह फिर चमकती है। गर्त देखता है। गर्त याद रखता है।
+
+## पैनल ७ — मैक्रो, चिह्न खुलता है — हुक (~१९%)
+
+इरा की हथेली: चिह्न खुलता है। हिंसक ढंग से नहीं, नाटकीय ढंग से नहीं — एक खिलाव, एक मुक्ति, पन्द्रह
+साल की एक साँस। बुनाई खुल जाती है। धागा निकलता है — एक तंतु नहीं, *दो*, बुने हुए: राख-धूसर और
+छायाहीन, इरा का धागा और सीवर का, साथ-साथ। धागा उसकी हथेली से ऐसे उठता है जैसे सुलगते अंगारे से
+धुआँ, और यह पहला धागा है जो इरा सुतार ने कभी निकाला।
 
 > **ध्वनि:** *—*
 >
-> **शीर्षक (none spoken):**
-> Ira Sutar drew a thread.
+> **कैप्शन (कोई बोलता नहीं):**
+> इरा सुतार ने धागा निकाला।
 >
-> **शीर्षक (smaller):**
-> It took fifteen years. It took a stitch, a box, a cutter, a confession, and a locked mark.
-> The thread that emerged was not hers alone. It was braided. Two strands. Two hands.
+> **कैप्शन (छोटा):**
+> इसमें पन्द्रह साल लगे। इसमें लगी एक सिलाई, एक बक्सा, एक काटने वाला, एक स्वीकारोक्ति, और एक
+> बन्द चिह्न। जो धागा निकला वह अकेले उसका नहीं था। वह बुना हुआ था। दो तंतु। दो हाथ।
 >
-> **शीर्षक (last line):**
-> The girl with no thread drew one. And it was not what anyone expected.
+> **कैप्शन (अन्तिम पंक्ति):**
+> जिस लड़की के पास कोई धागा नहीं था, उसने धागा निकाला। और वह वैसा नहीं था जैसी किसी ने अपेक्षा की थी।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The Spindle brightens | Event — *Second Brightening* |
-| The mark opens | Power — *The First Pull* |
-| Braided thread emerges | Power — *Two Strands, One Thread* |
-| "Fifteen years of sleep." | Lore — *The Exhale* |
+| तकली चमकती है | इवेंट — *दूसरी चमक* |
+| चिह्न खुलता है | पावर — *पहला खिंचाव* |
+| बुना धागा निकलता है | पावर — *दो तंतु, एक धागा* |
+| "पन्द्रह साल की नींद।" | लोर — *वह साँस* |

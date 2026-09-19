@@ -1,89 +1,96 @@
-# THREADBORN — Chapter 05 — Page 010 — FINALE
+# सुत्रजात (THREADBORN) — अध्याय ०५ — पृष्ठ ०१० — अन्तिम
 
-**अध्याय शीर्षक:** *The First Pull* / *पहला खिंचाव*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Mendery's back door (night)
-**पृष्ठ प्रकार:** Chapter finale — 7 panels
+**अध्याय शीर्षक:** *पहला खिंचाव*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, मेंडरी का पिछला दरवाज़ा (रात)
+**पृष्ठ प्रकार:** अध्याय-अन्त — ७ पैनल
 
-> Beats: Page 009 — the departure, Kessa's knot, the ash-slums, the Mendery's back door.
->
-> **Chapter 005 budget closed.** Chain-stop: spent in Ch. 003. Four notes: matched *wrongly* in
-> Ch. 003. Sewer: still unnamed. The Loom never speaks.
+> English source: [`page-010.md`](page-010.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> **अध्याय ००५ का बजट बन्द।** ज़ंजीर-रोक: अध्याय ००३ में ख़र्च हो चुकी। चार स्वर: अध्याय ००३ में
+> *ग़लत* ढंग से मिले। सीवर: अब भी अनाम। सूत्र-यन्त्र कभी नहीं बोलता।
 
 ---
 
-## चित्र-खाना 1 — Wide, the back door (~14%)
-Night, the Mendery's back door: Ira stands before it, key in hand. The door is basalt, old,
-unmarked. No lock visible — the keyhole is hidden in the stone. Ira's palm glows faintly in
-the dark.
+## पैनल १ — व्यापक, पिछला दरवाज़ा (~१४%)
 
-> **शीर्षक (none spoken):**
-> The back door. The key. The mark. The girl.
+रात, मेंडरी का पिछला दरवाज़ा: इरा उसके सामने खड़ी है, हाथ में चाबी। दरवाज़ा बेसाल्ट का, पुराना, बिना
+किसी निशान के। कोई ताला दिखता नहीं — चाबी का छेद पत्थर में छिपा है। अँधेरे में इरा की हथेली मद्धम-सी
+चमकती है।
 
-## चित्र-खाना 2 — Medium, the key in the lock (~13%)
-Ira's hand: the key finds the hidden keyhole. The lock turns — Kshudra-made, the same craft
-as Kessa's lockbox. The door opens inward, silent.
+> **कैप्शन (कोई बोलता नहीं):**
+> पिछला दरवाज़ा। चाबी। चिह्न। लड़की।
 
-> **ध्वनि:** *tk* (lock turning)
+## पैनल २ — मध्यम, ताले में चाबी (~१३%)
 
-## चित्र-खाना 3 — Close, the interior (~14%)
-The Mendery's interior: dark, narrow, walls lined with shelves — not shelves of thread, but
-shelves of *records*. Files. Ledgers. The Mendery's debt-carrier archive. Dust and ash on every
-surface. No one has been here in years.
+इरा का हाथ: चाबी छिपा हुआ छेद ढूँढ़ लेती है। ताला घूमता है — क्षुद्र का बनाया, वही कारीगरी जो केसा के
+ताला-बक्से की है। दरवाज़ा भीतर की ओर खुलता है, चुपचाप।
 
-> **CAPTION:** The Mendery's back room. Not a workhouse. An archive. Every debt-carrier ever bound.
-> Every thread ever braided. Every file the Council never wanted to read.
+> **ध्वनि:** *टक* (ताला घूमता हुआ)
 
-## चित्र-खाना 4 — Macro, the file (~13%)
-Ira's hand on the shelves: she finds it — not by searching, but by *feeling*. The braided
-thread in her mark reaches toward one file, the way it reached toward the chain and the key.
-The file is labelled in grey ink: *SUTAR, M. — Braid-carrier, projection type, Mendery bound.*
+## पैनल ३ — क्लोज़, भीतर (~१४%)
 
-> **CAPTION:** The thread finds the file. The way it found the chain. The way it found the key.
-> The braid remembers where it came from.
+मेंडरी का भीतर: अँधेरा, तंग, दीवारों पर ताख़ों की क़तारें — धागों के ताख़े नहीं, *अभिलेखों* के। फ़ाइलें।
+बहियाँ। मेंडरी का ऋण-वाहक अभिलेखागार। हर सतह पर धूल और राख। यहाँ सालों से कोई नहीं आया।
 
-## चित्र-खाना 5 — Medium, the file opens (~14%)
-Ira opens the file. Inside: one page, grey ink, official columns. Name. Kind. Thread. Debt.
-And at the foot, in crimson — the same crimson as the principal's paperwork — one line:
-*Braid-carrier. Projection type. Sewn shut.*
+> **कैप्शन:** मेंडरी का पिछला कक्ष। कारख़ाना नहीं। अभिलेखागार। हर ऋण-वाहक जो कभी बाँधा गया। हर धागा
+> जो कभी बुना गया। हर फ़ाइल जिसे परिषद ने कभी पढ़ना नहीं चाहा।
 
-> **शीर्षक (Ira's voice, smallest):**
-> *Sewn shut.* The same words. The same crimson. The principal's paperwork is in the Mendery
-> file.
+## पैनल ४ — मैक्रो, फ़ाइल (~१३%)
 
-## चित्र-खाना 6 — Wide, the archive (~13%)
-Ira in the archive, file in hand, mark glowing faintly. The shelves stretch into the dark.
-Hundreds of files. Hundreds of debt-carriers. Her mother's file is one of many — but the
-crimson line is unique.
+ताख़ों पर इरा का हाथ: वह उसे ढूँढ़ लेती है — खोजकर नहीं, *महसूस करके*। उसके चिह्न में बुना धागा एक
+फ़ाइल की ओर बढ़ता है, जैसे वह ज़ंजीर की ओर बढ़ा था और चाबी की ओर। फ़ाइल पर धूसर स्याही में लिखा है:
+*सुतार, म. — बुनाई-वाहक, प्रक्षेपण-प्रकार, मेंडरी-बद्ध।*
 
-> **CAPTION:** Hundreds of files. One crimson line. The principal's paperwork reached into the
-> Mendery before Ira was born.
+> **कैप्शन:** धागा फ़ाइल ढूँढ़ लेता है। जैसे उसने ज़ंजीर ढूँढ़ी। जैसे उसने चाबी ढूँढ़ी। बुनाई को याद
+> है कि वह कहाँ से आई।
 
-## चित्र-खाना 7 — Macro, the page — FINAL HOOK (~19%)
-The file's page, in Ira's hands: the crimson line at the foot. *Sewn shut.* Beside it, in
-the same crimson hand, one more line — added later, in a different year, the ink slightly
-fresher: *The braid will open. The thread will pull. लड़की आएगी।*
+## पैनल ५ — मध्यम, फ़ाइल खुलती है (~१४%)
 
-> **शीर्षक (none spoken):**
-> The principal's paperwork predicted her. Before she was sewn. Before she was hidden. Before
-> the stitch, the box, the cutter, the confession.
+इरा फ़ाइल खोलती है। भीतर: एक पन्ना, धूसर स्याही, सरकारी ख़ाने। नाम। जाति। सूत्र। ऋण। और सबसे नीचे,
+क़िरमिज़ी में — वही क़िरमिज़ी जो प्रमुख की काग़ज़ी कार्रवाई की है — एक पंक्ति: *बुनाई-वाहक।
+प्रक्षेपण-प्रकार। सी कर बन्द।*
+
+> **कैप्शन (इरा का स्वर, सबसे धीमा):**
+> *सी कर बन्द।* वही शब्द। वही क़िरमिज़ी। प्रमुख की काग़ज़ी कार्रवाई मेंडरी की फ़ाइल में है।
+
+## पैनल ६ — व्यापक, अभिलेखागार (~१३%)
+
+अभिलेखागार में इरा, हाथ में फ़ाइल, चिह्न मद्धम चमकता हुआ। ताख़े अँधेरे में दूर तक फैले हैं। सैकड़ों
+फ़ाइलें। सैकड़ों ऋण-वाहक। उसकी माँ की फ़ाइल उनमें से एक है — पर क़िरमिज़ी पंक्ति अनोखी है।
+
+> **कैप्शन:** सैकड़ों फ़ाइलें। एक क़िरमिज़ी पंक्ति। प्रमुख की काग़ज़ी कार्रवाई इरा के जन्म से पहले
+> मेंडरी तक पहुँच चुकी थी।
+
+## पैनल ७ — मैक्रो, पन्ना — अन्तिम हुक (~१९%)
+
+इरा के हाथों में फ़ाइल का पन्ना: नीचे क़िरमिज़ी पंक्ति। *सी कर बन्द।* उसके बग़ल, उसी क़िरमिज़ी हस्तलेख
+में, एक और पंक्ति — बाद में जोड़ी गई, किसी और साल में, स्याही ज़रा ताज़ा: *बुनाई खुलेगी। धागा खिंचेगा।
+लड़की आएगी।*
+
+> **कैप्शन (कोई बोलता नहीं):**
+> प्रमुख की काग़ज़ी कार्रवाई ने उसका पहले से लिखा था। इससे पहले कि वह सी जाए। इससे पहले कि वह छिपाई
+> जाए। सिलाई, बक्सा, काटने वाला, स्वीकारोक्ति — इन सब से पहले।
 >
-> **शीर्षक (smaller):**
-> The principal knew she would come to the Mendery. The principal wrote it in crimson. In her
-> mother's file. Fifteen years ago.
+> **कैप्शन (छोटा):**
+> प्रमुख को पता था कि वह मेंडरी आएगी। प्रमुख ने यह क़िरमिज़ी में लिखा। उसकी माँ की फ़ाइल में।
+> पन्द्रह साल पहले।
 >
-> **शीर्षक (last line):**
+> **कैप्शन (अन्तिम पंक्ति):**
 > *लड़की आएगी।*
 >
-> **END OF CHAPTER FIVE.**
+> **अध्याय पाँच समाप्त।**
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The Mendery archive | Location — *The Archive* |
-| The file finds itself | Power — *Thread Memory* |
-| "Sewn shut." | Lore — *The Mother's File* |
-| "लड़की आएगी।" | Lore — *The Principal's Prediction* |
-| Crimson in the Mendery | Lore — *The Paperwork Reaches* |
+| मेंडरी का अभिलेखागार | स्थान — *अभिलेखागार* |
+| फ़ाइल ख़ुद ढूँढ़ी जाती है | पावर — *धागे की स्मृति* |
+| "सी कर बन्द।" | लोर — *माँ की फ़ाइल* |
+| "लड़की आएगी।" | लोर — *प्रमुख की भविष्यवाणी* |
+| मेंडरी में क़िरमिज़ी | लोर — *काग़ज़ी कार्रवाई की पहुँच* |
