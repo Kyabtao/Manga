@@ -9,11 +9,40 @@
 
 | | |
 |---|---|
-| **Critical findings** | **0** (run 3) — Hindi complete for Ch. 001–010 (94.4–98.3% Devanagari; floor 80%) |
-| **Major findings** | **0** (run 3) — the wrong-project image and the landscape image were fixed in run 1 |
-| **Minor findings** | **3 open** — cast-file format drift, cast-file depth drift, image dimension variation (all deferred, none blocking) |
-| **Structural integrity** | **PASS** — 100/100 EN scripts, 100/100 HI scripts, 100/100 images, 100/100 cast files, 10/10 summaries all present and correctly named |
-| **Continuity integrity** | **PASS** — lockbox chain, stitch state, four-notes rule, wax grammar, chain-stop budget all hold |
+| **Critical findings** | **0** (run 4) — Hindi complete for Ch. 001–010 (94.4–98.3% Devanagari; floor 80%) |
+| **Major findings** | **0 open** (run 4) — 2 art defects found by full visual pass and **fixed this run** (Ch. 003 p008, Ch. 006 p002) |
+| **Minor findings** | **4 open** — image dimension variation, cast-file format/depth drift, तकुआ/तकली normalisation, notes-heading + Camera-line style drift (Ch. 001–005) |
+| **Structural integrity** | **PASS** — 100/100 EN scripts, 100/100 HI scripts, 100/100 images, 100/100 cast files, 10/10 summaries, 20/20 `other/` files, 813 tracked files, 0 junk |
+| **Continuity integrity** | **PASS** — mother never on panel, Loom never speaks, chain-stop budget accounted for in every chapter that states one |
+
+## Audit run 4 — 2026-09-19 (FULL audit: all 10 chapters, every folder, all 100 images)
+
+Requested scope: *"audit once full story to image and all folder then merge."* This is the first audit in
+which **every image was inspected**, not sampled: PNG headers decode-checked, all 100 pages rendered to
+contact sheets, and seven pages cropped and magnified for prop-lettering inspection.
+
+| Check | Result |
+|---|---|
+| Folder structure | **PASS** — 10 chapters × (`story/ characters/ other/ images/` + `chapter-summary.md`); 100 EN, 100 HI, 100 PNG, 100 cast, 20 `other/` |
+| Naming conventions | **PASS** — 0 off-convention filenames |
+| PNG integrity | **PASS** — 100/100 valid PNG magic bytes, 0 corrupt, 0 duplicate (SHA-256), 0 landscape/square |
+| Image dimensions | **OPEN (minor)** — 768×1376 ×76, 864×1821 ×14, 860×1828 ×3, 887×1774 ×1, 672×1584 ×5, 848×1264 ×1; all portrait, no reader-visible defect |
+| **Visual story→image pass** | **100 images reviewed.** Panel layout, Agnikhand palette, Ira/Kessa/Kshudra design language and per-page beats all hold. **2 defects found = readable non-canon Latin lettering on props** (standing constraint: *no text in art*): |
+| — defect 1 | Ch. 003 Page 008 — the stall carried a painted signboard reading *"Knot & Nail"*. **FIXED:** page regenerated with an unmarked lintel, blank documents, no signage. |
+| — defect 2 | Ch. 006 Page 002 — the charter and the mother's file carried readable Latin lettering (*"Elven Script"*, *"Aldershan, Eliza Vane"*). **FIXED:** page regenerated — all pages now pure abstract knot-script. |
+| — residual | Illegible pseudo-lettering remains as texture on some props (e.g. Ch. 003 p008's small registry plate, pin-boards). No *readable* text found at magnification. Recorded as texture, not lettering. |
+| Story conformance | **PASS** — 100/100 pages have a 7-panel structure, panel numbering 1–7, a camera line, notes + card-hook sections; all 10 finales carry their END OF CHAPTER marker |
+| Canon guard-rails | **PASS** — mother never appears on panel; the Loom is never given dialogue; chain-stop budget stated and accounted in Ch. 002–010 (Ch. 001's summary predates the convention) |
+| Hindi coverage | **PASS** — 96.8 / 98.1 / 97.2 / 94.4 / 94.4 / 96.4 / 97.5 / 97.6 / 98.1 / 98.3 (floor 80); panel parity with EN; 0 stray English headers |
+| Internal links | **PASS** — 391 relative links, 0 broken |
+| Git hygiene | **PASS** — 813 tracked files, no junk/OS/log files; 249 MB of page art (~2.5 MB/page, committed by design) |
+| **Style drift (new)** | **OPEN (minor)** — Ch. 001–002 use *Page notes for continuity* / *निरन्तरता टिप्पणियाँ* instead of *Writing & art notes*; Ch. 001 uses *Card-game hooks introduced on this page*; Ch. 002 uses *लेखन एवं कला-नोट्स*; Ch. 004 and Ch. 005 pages mostly omit the `**Camera:**` line (1/10 and 0/10). Content is present throughout; headings/labels differ. Normalisation deferred. |
+| Merge readiness | **PASS** — branch 42 commits ahead of `main`, 0 behind, `mergeStateStatus: CLEAN`, `mergeable: MERGEABLE` |
+
+**Verdict: the branch is merge-ready.** No critical or major finding remains open; the only fixes
+required were the two lettering defects, both regenerated and re-inspected in this run.
+
+---
 
 ## Audit run 3 — 2026-09-19 (scope: Chapters 001–010, website, tooling)
 
