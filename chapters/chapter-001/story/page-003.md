@@ -153,7 +153,7 @@ mismatched eyes do not drop. Kessa is very, very still.
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - **The box stays locked.** Kessa explains the *what* of a stitch, never the *who*. The Panel 2 memory
   must contain no face, no uniform, no insignia and no Mendery cuff. If the artist draws an identifying
@@ -178,7 +178,7 @@ mismatched eyes do not drop. Kessa is very, very still.
 - Kessa covering Ira's palm with her own hand is the second kindness she has shown her (the first was
   refusing the needles, Page 002 Panel 5). She still hasn't said a kind word. Keep it that way.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|

@@ -123,7 +123,7 @@ loupe still over one eye, so one eye is huge and one is small: she is literally 
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - **The thesis lands here.** "No debt isn't a defect, it's a price" is the line the whole series will
   keep paying interest on. Do not dilute it with extra dialogue.
@@ -135,7 +135,7 @@ loupe still over one eye, so one eye is huge and one is small: she is literally 
   temperature, not altitude, this page.
 - **Do not** answer "who sewed you." Kessa will not say this page either. It stays a locked box.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|

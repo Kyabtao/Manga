@@ -23,7 +23,7 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Chapter in progress** | **None — Ch. 001–010 all COMPLETE** (script + Hindi + cast + world + art) · **Ch. 011 not started** |
 | **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · Ch. 009: Hindi 10/10, cast 10, glossary + locations · Ch. 010: Hindi 10/10, cast 10, glossary + locations |
 | **NEXT page to build** | **Ch. 011 Page 001** — create the chapter skeleton (four subfolders + `.gitkeep`) first, then plan the page from the Next-page brief below |
-| **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) — **MERGED into `main` 2026-09-19** (Ch. 003–010). New work opens a fresh PR from this branch's successor. |
+| **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) — **OPEN** (targets `main`; Ch. 003–010). Merge pending. |
 
 ### Next-page brief (Chapter 011 · Page 001)
 **The chapter folder does not exist yet.** Before writing, create `chapters/chapter-011/` with the four

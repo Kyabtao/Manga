@@ -13,7 +13,7 @@
 ---
 
 ## PANEL 1 — Wide, the back door (~14%)
-Night, the Mendery's back door: Ira stands before it, key in hand. The door is basalt, old,
+**Camera:** Night, the Mendery's back door: Ira stands before it, key in hand. The door is basalt, old,
 unmarked. No lock visible — the keyhole is hidden in the stone. Ira's palm glows faintly in
 the dark.
 
@@ -21,13 +21,13 @@ the dark.
 > The back door. The key. The mark. The girl.
 
 ## PANEL 2 — Medium, the key in the lock (~13%)
-Ira's hand: the key finds the hidden keyhole. The lock turns — Kshudra-made, the same craft
+**Camera:** Ira's hand: the key finds the hidden keyhole. The lock turns — Kshudra-made, the same craft
 as Kessa's lockbox. The door opens inward, silent.
 
 > **SFX:** *tk* (lock turning)
 
 ## PANEL 3 — Close, the interior (~14%)
-The Mendery's interior: dark, narrow, walls lined with shelves — not shelves of thread, but
+**Camera:** The Mendery's interior: dark, narrow, walls lined with shelves — not shelves of thread, but
 shelves of *records*. Files. Ledgers. The Mendery's debt-carrier archive. Dust and ash on every
 surface. No one has been here in years.
 
@@ -35,7 +35,7 @@ surface. No one has been here in years.
 > Every thread ever braided. Every file the Council never wanted to read.
 
 ## PANEL 4 — Macro, the file (~13%)
-Ira's hand on the shelves: she finds it — not by searching, but by *feeling*. The braided
+**Camera:** Ira's hand on the shelves: she finds it — not by searching, but by *feeling*. The braided
 thread in her mark reaches toward one file, the way it reached toward the chain and the key.
 The file is labelled in grey ink: *SUTAR, M. — Braid-carrier, projection type, Mendery bound.*
 
@@ -43,7 +43,7 @@ The file is labelled in grey ink: *SUTAR, M. — Braid-carrier, projection type,
 > The braid remembers where it came from.
 
 ## PANEL 5 — Medium, the file opens (~14%)
-Ira opens the file. Inside: one page, grey ink, official columns. Name. Kind. Thread. Debt.
+**Camera:** Ira opens the file. Inside: one page, grey ink, official columns. Name. Kind. Thread. Debt.
 And at the foot, in crimson — the same crimson as the principal's paperwork — one line:
 *Braid-carrier. Projection type. Sewn shut.*
 
@@ -52,7 +52,7 @@ And at the foot, in crimson — the same crimson as the principal's paperwork �
 > file.
 
 ## PANEL 6 — Wide, the archive (~13%)
-Ira in the archive, file in hand, mark glowing faintly. The shelves stretch into the dark.
+**Camera:** Ira in the archive, file in hand, mark glowing faintly. The shelves stretch into the dark.
 Hundreds of files. Hundreds of debt-carriers. Her mother's file is one of many — but the
 crimson line is unique.
 
@@ -60,7 +60,7 @@ crimson line is unique.
 > Mendery before Ira was born.
 
 ## PANEL 7 — Macro, the page — FINAL HOOK (~19%)
-The file's page, in Ira's hands: the crimson line at the foot. *Sewn shut.* Beside it, in
+**Camera:** The file's page, in Ira's hands: the crimson line at the foot. *Sewn shut.* Beside it, in
 the same crimson hand, one more line — added later, in a different year, the ink slightly
 fresher: *The braid will open. The thread will pull. The girl will come.*
 
@@ -79,7 +79,14 @@ fresher: *The braid will open. The thread will pull. The girl will come.*
 
 ---
 
+
+## Writing & art notes
+
+- **Chapter close:** the girl with no thread drew one, and it is braided. The finale answers Chapter 001 Page 001 in the same image language.
+- **Seven objects in the lockbox and the Mendery key on the counter** — the errand for the next chapter is already on the page.
+
 ## Card-game hooks
+
 | Beat | Card |
 |---|---|
 | The Mendery archive | Location — *The Archive* |

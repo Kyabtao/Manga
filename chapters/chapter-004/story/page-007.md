@@ -10,27 +10,27 @@
 ---
 
 ## PANEL 1 — Wide, the dock at night (~14%)
-Night, dock three: Bhan asleep, sleeve up. The pattern and continuation on his arm are now a
+**Camera:** Night, dock three: Bhan asleep, sleeve up. The pattern and continuation on his arm are now a
 complex stitch-grammar — a lesson plan visible in skin. The cutter approaches.
 
 > **CAPTION:** Night fifty-six. The lesson is almost complete.
 
 ## PANEL 2 — Medium, the cutter works (~13%)
-The cutter's hands: tonight they do not open the arm. They *close* it — permanently. The nightly
+**Camera:** The cutter's hands: tonight they do not open the arm. They *close* it — permanently. The nightly
 opening stops. The cutter seals the seam with a final stitch, ash-grey, identical to Ira's
 mending thread.
 
 > **SFX:** *tsss*
 
 ## PANEL 3 — Close, the final stitch (~14%)
-The final stitch: the cutter ties off the seam with a whorl-knot — the same signature as the
+**Camera:** The final stitch: the cutter ties off the seam with a whorl-knot — the same signature as the
 cut-end, the sixty-first knot, every piece in the box. The lesson is finished. The arm is
 sealed.
 
 > **CAPTION:** The cutter finishes. The arm is sealed. The lesson is complete.
 
 ## PANEL 4 — Macro, the cutter's pause (~13%)
-The cutter's hands, still on Bhan's arm: a pause. The cutter traces the sealed seam one last
+**Camera:** The cutter's hands, still on Bhan's arm: a pause. The cutter traces the sealed seam one last
 time — the appraiser's gesture, the thumb on the edge. Then the cutter reaches into their coat
 and produces one more piece of thread — the seventh — and places it on Bhan's chest, over his
 heart.
@@ -38,13 +38,13 @@ heart.
 > **CAPTION:** The seventh thread. Left on the heart. Not a lesson. A *payment*.
 
 ## PANEL 5 — Medium, the departure (~13%)
-The cutter stands, turns toward the basin's centre — toward the Knot & Nail. The hood faces the
+**Camera:** The cutter stands, turns toward the basin's centre — toward the Knot & Nail. The hood faces the
 stall-row one last time. Then the cutter walks toward the Council Stair, not away from it.
 
 > **CAPTION:** The cutter walks toward the stair. The lessons are over.
 
 ## PANEL 6 — Wide, morning at the stall (~14%)
-Morning: Ira arrives at the dock to find Bhan awake, arm sealed, the seventh thread on his chest.
+**Camera:** Morning: Ira arrives at the dock to find Bhan awake, arm sealed, the seventh thread on his chest.
 He holds it out to her.
 
 > **BHAN (dialogue, quiet):** They finished. Last night. They sealed it and left this.
@@ -54,7 +54,7 @@ He holds it out to her.
 > **BHAN (dialogue):** Payment, I think.
 
 ## PANEL 7 — Macro, the seventh thread — HOOK (~19%)
-The seventh thread in Ira's hand: same colour, same gauge, same whorl-knot at one end. But at
+**Camera:** The seventh thread in Ira's hand: same colour, same gauge, same whorl-knot at one end. But at
 the other end, a new mark: a tiny loop, the size of a child's first knot — the kind a Kshudra
 child ties when they learn to thread. The first knot. The beginning.
 
@@ -66,7 +66,14 @@ child ties when they learn to thread. The first knot. The beginning.
 
 ---
 
+
+## Writing & art notes
+
+- **The final stitch is a closing, not a wound.** The cutter finishes what the school left open, and the arm is sealed permanently — no blood, no cruelty in the drawing.
+- **Payment on the heart** and the child's first knot: the cutter pays in the school's own currency, which is the quietest bombshell on the page.
+
 ## Card-game hooks
+
 | Beat | Card |
 |---|---|
 | The cutter finishes | Event — *Lesson Complete* |

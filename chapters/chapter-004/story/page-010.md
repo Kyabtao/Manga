@@ -10,14 +10,14 @@
 ---
 
 ## PANEL 1 — Wide, the morning after (~14%)
-Morning, Knot & Nail: Kessa opens the stall. The lockbox is on the counter, heavy with seven
+**Camera:** Morning, Knot & Nail: Kessa opens the stall. The lockbox is on the counter, heavy with seven
 objects. Ira arrives with her kit, palm open, mark visible. The market works. Ash falls.
 
 > **CAPTION (none spoken):**
 > The morning after the mark was seen. The basin does not know. The Loom does.
 
 ## PANEL 2 — Medium, the mend (~13%)
-Ira mends at the counter — a dock worker with a torn mark. Her first mend with the Sutra-mark
+**Camera:** Ira mends at the counter — a dock worker with a torn mark. Her first mend with the Sutra-mark
 visible. The mark is dormant but its presence changes the mend: the needle moves differently,
 the thread responds differently. The mark is not pulling — it is *listening*.
 
@@ -26,14 +26,14 @@ the thread responds differently. The mark is not pulling — it is *listening*.
 > has something to hear.
 
 ## PANEL 3 — Close, the new thread (~14%)
-Ira's mending thread: it is different now. The thread she uses for mending has always been
+**Camera:** Ira's mending thread: it is different now. The thread she uses for mending has always been
 ash-grey, ordinary. Today it carries a faint braid — the mark's dormant braid, bleeding into
 her work. The mend is stronger. The thread is no longer single-strand.
 
 > **CAPTION:** The mark is dormant. But the braid is awake.
 
 ## PANEL 4 — Medium, Kessa sees (~13%)
-Kessa's loupe on Ira's mending thread: the braid is visible under magnification. Two strands
+**Camera:** Kessa's loupe on Ira's mending thread: the braid is visible under magnification. Two strands
 twisted — Ira's own thread and the sewer's, braided together. The dormant mark is leaking its
 braid into Ira's work.
 
@@ -42,7 +42,7 @@ braid into Ira's work.
 > **IRA (dialogue):** I know.
 
 ## PANEL 5 — Wide, the basin (~14%)
-The basin: the Knot & Nail works, the market adjusts, the stall-row trusts the lock. Rekhak walks
+**Camera:** The basin: the Knot & Nail works, the market adjusts, the stall-row trusts the lock. Rekhak walks
 his rounds, chain running, oath-link dark. He passes the stall and his chain hums — the four
 notes, wrong key, same shape. Ira hears it. The stitch is gone; the mark is listening.
 
@@ -50,7 +50,7 @@ notes, wrong key, same shape. Ira hears it. The stitch is gone; the mark is list
 > not.
 
 ## PANEL 6 — Close, Ira's palm (~13%)
-Ira's palm, mending: the dormant mark catches the lamplight. For one frame — one panel — the
+**Camera:** Ira's palm, mending: the dormant mark catches the lamplight. For one frame — one panel — the
 mark flickers. Not open. Not pulling. Just *flickering*, the way a candle gutter before it
 decides whether to stay lit.
 
@@ -59,7 +59,7 @@ decides whether to stay lit.
 > **CAPTION:** The mark flickers. Once. The girl does not feel it. The Loom does.
 
 ## PANEL 7 — Wide, the lockbox — FINAL HOOK (~19%)
-The lockbox on the counter, Kessa's hand on the lid. Inside, seven objects: the entire history
+**Camera:** The lockbox on the counter, Kessa's hand on the lid. Inside, seven objects: the entire history
 of the thread that sewed Ira's palm. Outside, the basin works. Above, the Loom turns. On the
 Council Stair, unseen, a seventh piece of thread lies at the threshold — the supply line has
 reached the terraces again.
@@ -77,7 +77,14 @@ reached the terraces again.
 
 ---
 
+
+## Writing & art notes
+
+- **Chapter close:** the braid leaks into Ira's mending thread and the mark flickers — the first sign the thread is not neutral.
+- **Seven objects in the lockbox** must be countable on panel. The box is the arc's ledger and the reader should be able to verify it.
+
 ## Card-game hooks
+
 | Beat | Card |
 |---|---|
 | The dormant mark listens | Power — *The Listening Mark* |

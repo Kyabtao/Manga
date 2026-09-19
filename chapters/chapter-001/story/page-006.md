@@ -143,7 +143,7 @@ Patra, not him — she has learned this page where the truth lives.
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - **Ira negotiates like a mender.** "Nothing gets sewn till I've seen the tear" is her professional
   idiom turned into foreign policy. Every term she sets is a tool she already owns: Kessa's knot-count,
@@ -166,7 +166,7 @@ Patra, not him — she has learned this page where the truth lives.
 - Ira addresses the hour as hers to schedule ("Dawn. The Knot & Nail.") on Page 007, not here; this page
   ends before she accepts aloud. The acceptance is her descent in Panel 1 of Page 007.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|

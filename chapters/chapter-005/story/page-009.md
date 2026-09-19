@@ -10,14 +10,14 @@
 ---
 
 ## PANEL 1 — Wide, the evening stall (~14%)
-Evening, Knot & Nail: the last mends of the day. Ira closes her kit. The lockbox is on the
+**Camera:** Evening, Knot & Nail: the last mends of the day. Ira closes her kit. The lockbox is on the
 counter, closed. Kessa's loupe is up. The key is in Ira's belt.
 
 > **CAPTION (none spoken):**
 > The last day at the Knot & Nail. For now.
 
 ## PANEL 2 — Medium, the farewell (~13%)
-Kessa's hands: she reaches across the counter and sets something on Ira's palm — a knot of
+**Camera:** Kessa's hands: she reaches across the counter and sets something on Ira's palm — a knot of
 tally-thread. Not a memory; a *protection*. Kshudra knot-work: the thread that cannot be cut.
 
 > **KESSA (dialogue, dry):**
@@ -27,20 +27,20 @@ tally-thread. Not a memory; a *protection*. Kshudra knot-work: the thread that c
 > Come back. The box will wait.
 
 ## PANEL 3 — Close, the knot (~14%)
-The knot in Ira's hand: small, dense, Kshudra-made. The same knot-work that protects Kessa's
+**Camera:** The knot in Ira's hand: small, dense, Kshudra-made. The same knot-work that protects Kessa's
 stall, her lockbox, her memories. A piece of the Knot & Nail, given.
 
 > **CAPTION:** Kessa's knot-work: the thread that cannot be cut. A piece of the stall given to
 > the girl who is leaving it.
 
 ## PANEL 4 — Medium, the basin (~13%)
-The basin: Ira walks the row for the last time. The stall-owners watch. Guthli nods. Pira nods.
+**Camera:** The basin: Ira walks the row for the last time. The stall-owners watch. Guthli nods. Pira nods.
 The basin does not say goodbye. It moves its furniture.
 
 > **CAPTION:** The basin does not say goodbye. It nods.
 
 ## PANEL 5 — Wide, the Council Stair (~14%)
-The Council Stair: Ira stands at the foot, looking up. Not climbing — passing. The Mendery is
+**Camera:** The Council Stair: Ira stands at the foot, looking up. Not climbing — passing. The Mendery is
 not up-terrace. It is at the crater's base, in the ash-slums where her mother lived. The key
 is in her belt. The mark is on her palm.
 
@@ -48,7 +48,7 @@ is in her belt. The mark is on her palm.
 > mother was bound.
 
 ## PANEL 6 — Close, the mark (~13%)
-Ira's palm: the braided thread catches the Spindle's light. The mark is open. The thread is held.
+**Camera:** Ira's palm: the braided thread catches the Spindle's light. The mark is open. The thread is held.
 The braid balances. The girl who was sewn shut is walking toward the place that bound the sewer.
 
 > **CAPTION (Ira's voice, small):**
@@ -56,7 +56,7 @@ The braid balances. The girl who was sewn shut is walking toward the place that 
 > been under the counter since before I could speak.
 
 ## PANEL 7 — Wide, the ash-slums — HOOK (~19%)
-The ash-slums at the crater's base: the deepest part of the basin, where the ash drifts are
+**Camera:** The ash-slums at the crater's base: the deepest part of the basin, where the ash drifts are
 waist-deep and the buildings are made of basalt scraps. The Mendery is visible: a low, broad
 building with no windows and one door. The back door — the door the key opens — is at the
 building's rear, hidden from the street.
@@ -70,7 +70,14 @@ building's rear, hidden from the street.
 
 ---
 
+
+## Writing & art notes
+
+- **Kessa's knot is protection, not a leash**, and the farewell line is *"Come back,"* not *"Don't go."*
+- **The Mendery stands at the end of the page** as the destination. Keep the final panel wide and cold; the next page opens on its back door.
+
 ## Card-game hooks
+
 | Beat | Card |
 |---|---|
 | Kessa's protection knot | Relic — *Knot That Cannot Be Cut* |

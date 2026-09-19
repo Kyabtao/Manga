@@ -12,7 +12,7 @@
 ---
 
 ## PANEL 1 — Wide, dawn, the Knot & Nail (~14%)
-Dawn: the Knot & Nail before the first bell. Kessa is not behind the counter — she is standing
+**Camera:** Dawn: the Knot & Nail before the first bell. Kessa is not behind the counter — she is standing
 in front of it, in the market row, loupe up, looking at the sky. The Loom turns above, as it
 always does. But the Spindle — the pillar of light in the caldera's centre — is brighter than
 usual.
@@ -21,7 +21,7 @@ usual.
 > Dawn, day sixty. The Spindle is brighter. Not by much. By enough that the basin notices.
 
 ## PANEL 2 — Medium, the market notices (~13%)
-The basin market: stall-owners pausing, looking up. Guthli's pot steams and the steam bends
+**Camera:** The basin market: stall-owners pausing, looking up. Guthli's pot steams and the steam bends
 toward the Spindle — the same gesture as the Council Stair warning, but toward the light, not
 the stair. Pira stands at the pot, arms full, eyes up.
 
@@ -30,7 +30,7 @@ the stair. Pira stands at the pot, arms full, eyes up.
 > **PIRA (dialogue, lower):** It hasn't been this bright since the silent second.
 
 ## PANEL 3 — Close, Ira at the counter (~14%)
-The Knot & Nail's counter: Ira sits, palm open, mark visible. The mark is not dormant this
+**Camera:** The Knot & Nail's counter: Ira sits, palm open, mark visible. The mark is not dormant this
 morning — it is *warm*. Not glowing. Not pulling. Warm, the way a stone warms in the sun. The
 Spindle's light is reaching it.
 
@@ -38,7 +38,7 @@ Spindle's light is reaching it.
 > My palm is warm. Not from the mend. From the light.
 
 ## PANEL 4 — Macro, the mark responds (~13%)
-The mark extreme close: the dormant pattern is *moving*. The two braided strands — Ira's own
+**Camera:** The mark extreme close: the dormant pattern is *moving*. The two braided strands — Ira's own
 and the sewer's — are uncoiling slowly, the way a spring releases. The mark is not opening
 yet. It is *preparing*.
 
@@ -47,14 +47,14 @@ yet. It is *preparing*.
 > **CAPTION:** The braid uncoils. Two strands. Fifteen years of sleep. The Spindle calls.
 
 ## PANEL 5 — Medium, Kessa's hands (~14%)
-Kessa's hands: she returns to the counter, sees the mark's warmth, and does the only thing she
+**Camera:** Kessa's hands: she returns to the counter, sees the mark's warmth, and does the only thing she
 can — she opens the lockbox and sets the seven objects on the counter around Ira's palm. The
 cut-end, the census, the posting order, the threads. The box's history surrounds the mark.
 
 > **KESSA (dialogue, quiet):** If it opens, it opens here. With everything it came from.
 
 ## PANEL 6 — Wide, the Spindle brightens (~13%)
-The Spindle: brighter still. The basin is watching now — not afraid, not yet, but attentive.
+**Camera:** The Spindle: brighter still. The basin is watching now — not afraid, not yet, but attentive.
 The last time the Spindle changed was the silent second. This is the second change.
 
 > **CAPTION (none spoken):**
@@ -62,7 +62,7 @@ The last time the Spindle changed was the silent second. This is the second chan
 > The basin watches. The basin remembers.
 
 ## PANEL 7 — Macro, the mark opens — HOOK (~19%)
-Ira's palm: the mark opens. Not violently, not dramatically — a bloom, a release, a fifteen-year
+**Camera:** Ira's palm: the mark opens. Not violently, not dramatically — a bloom, a release, a fifteen-year
 exhale. The braid unfurls. Thread emerges — not one strand, *two*, braided: ash-grey and
 shadowless, Ira's thread and the sewer's, together. The thread rises from her palm like smoke
 from an ember, and it is the first thread Ira Sutar has ever produced.
@@ -81,7 +81,14 @@ from an ember, and it is the first thread Ira Sutar has ever produced.
 
 ---
 
+
+## Writing & art notes
+
+- **Page 1 ends on the hook panel:** the mark opens and Ira draws thread for the first time in fifteen years, and it is braided from the first frame.
+- **The Spindle brightens twice** — the second brightness in four centuries. The basin notices before any named character does.
+
 ## Card-game hooks
+
 | Beat | Card |
 |---|---|
 | The Spindle brightens | Event — *Second Brightening* |

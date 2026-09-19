@@ -166,7 +166,7 @@ through closed fingers. Ira's mismatched eyes do not blink. Somewhere under the 
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - **Ira's first words to authority are contractual.** No gasp, no plea, no awe: *is this an arrest*,
   *invitations come with a price*, *one question, free of charge*. She negotiates because negotiating is
@@ -190,7 +190,7 @@ through closed fingers. Ira's mismatched eyes do not blink. Somewhere under the 
 - **The third bell is tomorrow.** Page 005 opens on the climb; do not insert a night scene between them.
 - The sewer stays a locked box. Nobody on this page knows it, says it, or guesses it.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|

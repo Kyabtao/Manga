@@ -10,14 +10,14 @@
 ---
 
 ## PANEL 1 — Wide, the evening stall (~14%)
-Evening: the Inspector has gone. The Knot & Nail is quiet. Ira sits at the counter, palm open.
+**Camera:** Evening: the Inspector has gone. The Knot & Nail is quiet. Ira sits at the counter, palm open.
 Kessa's loupe is down, her hands are still.
 
 > **CAPTION (Ira's voice, small):**
 > The Inspector said "Mendery." He said it like he'd said it before.
 
 ## PANEL 2 — Medium, the Mendery (~13%)
-Kessa's hands: she opens the lockbox and draws out the posting order — the grey+crimson letter.
+**Camera:** Kessa's hands: she opens the lockbox and draws out the posting order — the grey+crimson letter.
 She points to a line in the grey columns: the census transfer's official reason. The reason says:
 *mark anomaly, Mendery file reference.*
 
@@ -25,7 +25,7 @@ She points to a line in the grey columns: the census transfer's official reason.
 > because of a Mendery record.
 
 ## PANEL 3 — Close, the connection (~14%)
-Ira's face: the Mendery. Where debt-carriers are bound. Where her mother was bound. The lockbox
+**Camera:** Ira's face: the Mendery. Where debt-carriers are bound. Where her mother was bound. The lockbox
 holds the evidence of a thread-school that includes Ira's palm — and the Mendery holds the
 records of the woman who sewed it.
 
@@ -35,19 +35,19 @@ records of the woman who sewed it.
 > **KESSA (dialogue):** The thread-school and the Mendery are connected.
 
 ## PANEL 4 — Medium, Kessa's tally-thread (~13%)
-Kessa ties a new knot: the Mendery connection is filed. Her tally-thread is heavy now — a knot
+**Camera:** Kessa ties a new knot: the Mendery connection is filed. Her tally-thread is heavy now — a knot
 for every revelation this chapter. The thread is the heaviest it has ever been.
 
 > **CAPTION:** The tally-thread grows. Each knot a fact. Each fact a weight.
 
 ## PANEL 5 — Wide, the basin night (~14%)
-Night: the Knot & Nail's shutters are up. The basin sleeps. The Spindle's light is still
+**Camera:** Night: the Knot & Nail's shutters are up. The basin sleeps. The Spindle's light is still
 brighter than usual — the second brightening holds. The Loom turns.
 
 > **CAPTION:** The Spindle holds its brightness. The basin sleeps. The Loom turns.
 
 ## PANEL 6 — Close, Ira's palm (~13%)
-Ira on her roof, palm open to the sky. The braided thread catches the Spindle's light — not
+**Camera:** Ira on her roof, palm open to the sky. The braided thread catches the Spindle's light — not
 glowing, not pulling, just *present*. The mark is open. The thread is held. The braid balances.
 
 > **CAPTION (Ira's voice, small):**
@@ -55,7 +55,7 @@ glowing, not pulling, just *present*. The mark is open. The thread is held. The 
 > the history. The Reckoner saw what I am. And the Mendery holds the name.
 
 ## PANEL 7 — Macro, the lockbox — HOOK (~19%)
-The lockbox on the counter, Kessa's hand on the lid. Seven objects inside. Outside, the basin
+**Camera:** The lockbox on the counter, Kessa's hand on the lid. Seven objects inside. Outside, the basin
 sleeps. Above, the Loom turns. On Ira's roof, the mark glows faintly — not dormant, not pulling,
 just *present*. The thread that was hidden is awake. The girl who was sewn shut is open.
 
@@ -68,7 +68,14 @@ just *present*. The thread that was hidden is awake. The girl who was sewn shut 
 
 ---
 
+
+## Writing & art notes
+
+- **The Mendery file reference is the chapter's turn:** the thread-school and the archive are connected in the Office's own paperwork.
+- **Kessa's tally-thread takes a new knot.** It is the only record that cannot be filed, and Ira must not say so on the page.
+
 ## Card-game hooks
+
 | Beat | Card |
 |---|---|
 | The Mendery file reference | Lore — *The Mendery File* |

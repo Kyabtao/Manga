@@ -149,7 +149,7 @@ blinks. The sixty-first minute of the page is this one.
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - **The descent rhymes the ascent.** Page 005 Panel 1: no ash, raised hand, wrong sky. Page 007 Panel 1:
   ash resumes, hand lets it pile, sky becomes a shop window. Ira's body is the Sector map; keep drawing
@@ -175,7 +175,7 @@ blinks. The sixty-first minute of the page is this one.
   body. Small rule, keep it.
 - Sewer locked, buyer unnamed, principal unseen. Kessa says *sealing*, not *who*.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|

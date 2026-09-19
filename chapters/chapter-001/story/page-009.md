@@ -145,7 +145,7 @@ already left through the door; Patra is still in the room. Dawn light, first of 
 
 ---
 
-## Page notes for continuity
+## Writing & art notes
 
 - **Rekhak's lie is on-panel and marked.** "Nothing more" + the chain stopping = the reader's third data
   point on the tell (stop #1 fear, #2 awe, #3 lie). He is falsifying the audit to keep the fold out of
@@ -172,7 +172,7 @@ already left through the door; Patra is still in the room. Dawn light, first of 
 - Sewer locked, buyer unnamed, principal unseen. Nobody says the word *fold* aloud on this page; the
   vision stays unspoken between the three who saw it.
 
-## Card-game hooks introduced on this page
+## Card-game hooks
 
 | Thing | Future card |
 |---|---|
