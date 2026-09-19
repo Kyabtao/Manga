@@ -20,23 +20,26 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Chapters 001–006 in progress** — Arc I complete, Arc II started |
-| **Pages completed** | Ch. 001–005: **complete** (50 pages) · Ch. 006: **001**–**009** (page 010 image pending) |
-| **NEXT page to build** | **Chapter 006 · Page 010 image** + **Chapter 007 · Page 001** |
+| **Chapter in progress** | **Chapters 001–006 COMPLETE** — Arc I done, Arc II open |
+| **Pages completed** | Ch. 001: **001**–**010** · Ch. 002: **001**–**010** · Ch. 003: **001**–**010** · Ch. 004: **001**–**010** · Ch. 005: **001**–**010** · Ch. 006: **001**–**010** (60 pages) |
+| **NEXT page to build** | **Chapter 007 · Page 001** (Arc II continues) |
 | **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) (targets `main`) |
 
-### Next-page brief (Chapter 003 · Page 002)
-The posting order's consequence: Kessa is now the custodian of the blink census — the pot-row's list
-with the crimson cross-out, the one the Grey Clerk bought, the one the principal's paperwork counted
-Ira among then corrected. The lockbox now holds two impossible things (the cut-end and the census) and
-Kessa was given the second by two institutions who agree on her stall and not on each other. The
-morning's second scene: Rekhak arrives at the stall as Reckoner-of-record — first basin-panel
-appearance this chapter, chain running, oath-link visible, collar high. He does not come for Ira;
-he comes to *file* — the census transfer is procedure, and he is the basin's nearest official. Kessa
-receives him the way she receives all up-terrace men: with her loupe down and her hands visible.
-The tension: the man who shielded Ira and the woman who raised her now share a filing cabinet, and
-the document inside it has Ira's name crossed out in crimson. Four notes still silent; sewer still
-unnamed; chain-stop budget unspent.
+### Next-page brief (Chapter 007 · Page 001)
+Chapter 006 closed on the counter: the principal's letter, grey wax and crimson wax touching on one
+fold, **still unopened**, and Kessa's loupe down beside it. Chapter 007 opens the letter. Before it is
+opened, the page must hold the cost of a night of not opening it: Ira does not sleep at the stall, she
+sleeps on the roof under the Loom with the letter held flat on the stitch — and the braid answers the
+seals before any hand breaks them. The principal wrote to Ira directly, which no Council principal has
+done to a humankin in the Council's records; the letter is therefore evidence before it is a message,
+and the Inspector's audit warrant (Ch. 006, page 008 — the standoff Kessa bought with a coin on the
+seal) is still live. Kessa's position: open it in front of a witness or not at all. Nandi's position
+(offstage, via the archive's own habit): the Mendery keeps copies of every letter it delivers, so the
+principal knows what the letter says regardless. Ira's position: *"Nothing gets sewn till I've seen the
+tear."* The page ends on the first line of the letter and nothing else — the reader reads it with her.
+Continuity: chain echo now fading (Ch. 006, page 007), eight objects in the lockbox plus the charter,
+four notes now matching **correctly** through the thread's memory, mother three days gone, chain-stop
+budget still unspent.
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
@@ -182,6 +185,11 @@ unnamed; chain-stop budget unspent.
 
 - **Ch. 005 · Pages 001–010** — The Spindle brightens for the second time. Ira's mark opens: braided thread emerges — ash-grey and shadowless, given not borrowed. The blank strand has no Sector, no Kind, no debt. Rekhak Sight-reads the mark ("Older than the current Loom-turn"). Ira mends debtlessly with the braided thread. The Office files the first grey-ink record of her thread. An Inspector recognizes: "Like the Mendery records." The posting order references a Mendery file. Kessa gives Ira a key to the Mendery's back door — her mother's key. Ira enters the archive: hundreds of files. Her mother's file carries crimson: "Sewn shut." And a second line, added later: "The braid will open. The thread will pull. The girl will come." The principal predicted her. **END OF CHAPTER FIVE.**
 
+**CHAPTER 006 — THE MOTHER'S FILE (माँ की फ़ाइल)**
+
+- **Ch. 006 · Pages 001–005** — Ira returns to the Mendery archive with her mother's key. Her mother's file: **Manavkin, braided, projection type, zero debt, bound twenty years, never released** — reason given: *unlicensed*. The back wall holds Kshudra files older than the Council's own records. Ira finds the charter of **The School of the Braided Thread**, founded by **Sutar (M.)** — her mother. Rule three: *the teacher's strand is sewn into the student before the student's first speech.* **Nandi**, the archive's old Kshudra keeper, closes the chapter's first half with the three-part revelation: **the sewer is her mother. The cutter is her mother. The supply line is her mother.** She bound herself, voluntarily, in a binding chair, for twenty years. She left three days ago, to find the principal.
+- **Ch. 006 · Pages 006–010** — Ira returns to the basin and works: she pawns the charter to Kessa (lockbox to **eight objects**), mends Bhan at the stall counter with the braid showing whorl-grain in the seam, and hears the four notes **correctly** through the thread's memory for the first time — through the strand, not through the air. The Inspector returns with an **audit warrant**; the standoff at the counter is settled coin-on-seal, and he leaves — but not before reading the charter: *"Files were supposed to be destroyed."* That night a letter lies at the foot of the Council Stair: folded once, **grey wax on one flap, crimson on the other, touching.** Ira carries it to the stall and sets it beside the closed lockbox. Kessa's loupe goes down. **The letter is not opened.** **END OF CHAPTER SIX.**
+
 # 🗂️ STRUCTURE
 
 ```
@@ -201,7 +209,8 @@ chapters/
                 cast-page-001..010.md, *-ref.png
     other/     locations.md, glossary.md
     images/    page-001..010.png
-  chapter-002/            skeleton ready (story/ characters/ other/ images/ + .gitkeep)
+  chapter-002 .. chapter-006/  COMPLETE — same layout, 10 pages each
+  chapter-007/            next — skeleton created before writing starts
 
 website/                  generated reading site (committed) — build.py + assets/ are the sources
 index.html                root redirect into website/
