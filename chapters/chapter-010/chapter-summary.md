@@ -1,6 +1,6 @@
 # Chapter 010 — *Room Nine* / *कमरा नौ* — IN PROGRESS
 
-**Status:** IN PROGRESS — pages 001–008 scripted (EN); Hindi, cast files, images to follow in-step.
+**Status:** IN PROGRESS — **all 10 pages scripted (EN)**; art 9/10 (`page-007.png` pending); Hindi, cast files, glossary/locations to follow.
 **Arc:** II — The Mendery · **Sector:** Agnikhand — the Council Stair, the Reckoning Office, the Ash-sLums
 **Open PR for this work:** Kyabtao/Manga#3
 **Chain-stop budget:** none — spent in Chapter 009 (Rekhak, held stop). No stop in Chapter 010.
@@ -58,6 +58,13 @@ on Kessa's tally-thread, which is still the only record of any of it that cannot
   **second school** — teach, tell, let each person decide. Nima bargains: *don't write me.* Hook: a
   thumbprint claim promises to produce the founder at fourth bell, and a second crimson sheet makes the
   producing party her **party of record.**
+- **Ch. 010 · Pages 009–010** — the second school's first public lesson in the hatch alley (three hands
+  braided with consent; one pupil leaves at the price; Jadi teaches counting). Fourth bell: a forged
+  crimson strand on an unasked old woman's palm, Nandi reads *not the founder*, and the schedule's
+  condition forces Ira to say the same words aloud on the record. The claimant sells **the door** —
+  the hatch, the chute, the nights and half the ninth terrace's hands — and the Office accepts him as
+  **party of record** and posts a grey lamp in the alley. On the step at dusk: the lifted knot returned,
+  and beside it **a second knot in an untrained hand.** **END OF CHAPTER TEN.**
 
 ## Open threads (carried in)
 
