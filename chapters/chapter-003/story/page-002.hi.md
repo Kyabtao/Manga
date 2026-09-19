@@ -1,160 +1,160 @@
-# THREADBORN — Chapter 03 — Page 002
+# सुत्रजात (THREADBORN) — अध्याय ०३ — पृष्ठ ००२
 
-**अध्याय शीर्षक:** *The Hand That Opens* / *वह हाथ जो खोलता है*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (counter, mid-morning)
-**पृष्ठ प्रकार:** Procedure arrives — 7 panels, hook at the bottom
+**अध्याय शीर्षक:** *वह हाथ जो खोलता है*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (काउंटर, सुबह का मध्य)
+**पृष्ठ प्रकार:** प्रक्रिया आ पहुँचती है — ७ पैनल, अन्त में हुक
 
-> पिछले पृष्ठ से: Page 001: the reversal ("the cutter taught your stitch"), the posting order
-> (grey+crimson, two owners, blink census transferred to the Knot & Nail), the lockbox open in
-> daylight, the cut-end on the counter. From Chapter 002: Rekhak posted as Reckoner-of-record
-> (Page 010), oath-link in his chain (Page 006), the folded letter (Page 010).
+> English source: [`page-002.md`](page-002.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the stall (~14%)
-
-**कैमरा:** Mid-morning, Knot & Nail: the posting order lies open on the counter between Kessa and
-Ira. The lockbox is closed, back in its usual place. Three market faces linger at the stall's edge
-without entering — the basin knows something arrived at the Knot & Nail this morning and nobody can
-name it yet.
-
-**चित्र:** The stall at rest after the revelation. Ira's kit is closed. Kessa's loupe is up. The
-posting order between them is the only object on the counter. Ash falls. The three market watchers
-are silhouettes at frame edge, not named.
-
-> **शीर्षक (Ira's voice, small):**
-> We read the letter twice. Then Kessa folded it and said nothing for the length of a kettle.
+> पृष्ठ ००१ से आगे आते सूत्र: उलटाव ("काटने वाले ने तुम्हारी सिलाई सिखाई"), स्थानांतरण-आदेश
+> (धूसर+क़िरमिज़ी, दो मालिक, टकटकी-गणना गाँठ और कील को हस्तांतरित), ताला-बक्सा दिन के उजाले में खुला,
+> कट-सिरा काउंटर पर। अध्याय ००२ से: रेखक अभिलेख-रेखक के रूप में तैनात (पृष्ठ ०१०), उसकी ज़ंजीर में
+> शपथ-कड़ी (पृष्ठ ००६), मुड़ा हुआ ख़त (पृष्ठ ०१०)।
 
 ---
 
-## चित्र-खाना 2 — Medium, the arrival (~13%)
+## पैनल १ — व्यापक, ठेला (~१४%)
 
-**कैमरा:** The Council Stair's base, visible from the stall-row: a tall thin figure descending,
-collar high, chain in hand. **Rekhak Vahni**, Reckoner-of-record, basin market — the demotion
-walking down in ash-grey coat. The counting-chain runs through his fingers. The oath-link is visible:
-one dark link, still among the brass.
+**कैमरा:** सुबह का मध्य, गाँठ और कील: स्थानांतरण-आदेश केसा और इरा के बीच काउंटर पर खुला पड़ा है।
+ताला-बक्सा बन्द है, वापस अपनी आम जगह पर। बाज़ार के तीन चेहरे ठेले के किनारे पर बिना भीतर आए मँडराते हैं
+— गर्त जानता है कि आज सुबह गाँठ और कील पर कुछ आया है और कोई उसका नाम नहीं बता सकता।
 
-**चित्र:** Rekhak descends with procedure's posture — not hunting, not threatening, *filing*. He
-carries a slate under one arm. His debt-marks climb his neck to the jaw. The oath-link catches the
-light differently from the rest of the chain.
+**दृश्य:** उद्घाटन के बाद ठेला विश्राम में। इरा की थैली बन्द। केसा का लूप ऊपर। दोनों के बीच पड़ा
+स्थानांतरण-आदेश काउंटर की अकेली चीज़ है। राख गिरती है। बाज़ार के तीन दर्शक फ़्रेम के किनारे पर
+छायाचित्र हैं, नामित नहीं।
 
-> **शीर्षक (none spoken):**
-> प्रक्रिया की दो गतियाँ हैं: या तो दाखिल करती है, या इंतज़ार करती है। Today it walks.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> हमने ख़त दो बार पढ़ा। फिर केसा ने उसे मोड़ा और एक केतली भर देर तक कुछ नहीं कहा।
 
 ---
 
-## चित्र-खाना 3 — Medium two-shot, the counter (~14%)
+## पैनल २ — मध्यम, आगमन (~१३%)
 
-**कैमरा:** From behind Rekhak's shoulder, looking at Kessa behind the counter. Ira stands to
-Kessa's left, slightly behind — witness position, the same stance as Page 001. The posting order
-lies between them.
+**कैमरा:** परिषद-सीढ़ी का आधार, ठेला-कतार से दिखता हुआ: एक लम्बी दुबली आकृति उतरती हुई, कॉलर ऊँचा,
+हाथ में ज़ंजीर। **रेखक वह्नि**, अभिलेख-रेखक, गर्त-बाज़ार — पदावनति राख-धूसर कोट में उतरती हुई।
+गिनती-ज़ंजीर उसकी उँगलियों से गुज़रती है। शपथ-कड़ी दिखती है: पीतल के बीच एक काली कड़ी, स्थिर।
 
-**चित्र:** Kessa's loupe is **up**: she is not appraising, she is receiving. Her hands are flat on
-the counter — visible, empty, the posture of a woman who keeps no weapons and no secrets that fit
-in a pocket. Rekhak sets the slate on the counter's edge. The chain runs.
+**दृश्य:** रेखक प्रक्रिया के भंगिमा में उतरता है — शिकार नहीं, धमकी नहीं, *दाख़िल* करना। एक बग़ल में
+पट्ट दबाए हुए। उसके ऋण-निशान गर्दन से जबड़े तक चढ़े हैं। शपथ-कड़ी रोशनी को बाक़ी ज़ंजीर से अलग
+तरह पकड़ती है।
 
-> **रेखक (संवाद, formal):**
-> गणना को अभिलेख के संरक्षक की आवश्यकता है। The posting names this stall.
+> **कैप्शन (कोई बोलता नहीं):**
+> प्रक्रिया की दो गतियाँ हैं: या तो दाख़िल करती है, या इंतज़ार करती है। आज वह चलती है।
+
+---
+
+## पैनल ३ — मध्यम दो-पात्र शॉट, काउंटर (~१४%)
+
+**कैमरा:** रेखक के कंधे के पीछे से, काउंटर के पीछे केसा की ओर देखते हुए। इरा केसा के बाईं ओर खड़ी है,
+ज़रा पीछे — गवाह की जगह, वही खड़ा जो पृष्ठ ००१ पर था। स्थानांतरण-आदेश उनके बीच पड़ा है।
+
+**दृश्य:** केसा का लूप **ऊपर** है: वह परख नहीं रही, वह ग्रहण कर रही है। उसके हाथ काउंटर पर सपाट हैं —
+दिखते हुए, ख़ाली, उस औरत की भंगिमा जो न हथियार रखती है न ऐसे रहस्य जो जेब में समा जाएँ। रेखक पट्ट
+काउंटर के किनारे रखता है। ज़ंजीर चलती है।
+
+> **रेखक (संवाद, औपचारिक):**
+> गणना को अभिलेख-संरक्षक चाहिए। स्थानांतरण इस ठेले का नाम लेता है।
 >
-> **केसा (संवाद, dry):**
-> The posting was not delivered to me. It was left on my counter.
+> **केसा (संवाद, सूखा):**
+> स्थानांतरण मुझे दिया नहीं गया। यह मेरे काउंटर पर छोड़ दिया गया।
 
 ---
 
-## चित्र-खाना 4 — Close, the slate (~13%)
+## पैनल ४ — क्लोज़, पट्ट (~१३%)
 
-**कैमरा:** Macro on the slate Rekhak has brought: grey Council columns, three signature lines —
-one already stamped (the Council's grey), one left blank (the custodian's), one faintly touched in
-crimson at the foot (the principal's, already there before the slate arrived). The filing is
-procedural: a form acknowledging receipt of the census.
+**कैमरा:** रेखक जो पट्ट लाया है, उस पर मैक्रो: धूसर परिषद-स्तम्भ, तीन हस्ताक्षर-रेखाएँ — एक पहले से
+मुहरबन्द (परिषद की धूसर), एक ख़ाली छोड़ी हुई (संरक्षक की), एक तल में क़िरमिज़ी में हल्की-सी छुई हुई
+(प्रमुख की, पट्ट के आने से पहले से मौजूद)। दाख़िला प्रक्रियात्मक है: गणना की प्राप्ति स्वीकार करने वाला
+एक फ़ॉर्म।
 
-**चित्र:** The slate's columns are clean, the handwriting official. The crimson line is dry,
-pre-filed, the same hand-feel as every other crimson mark the principal has left. The blank line
-waits for Kessa's mark.
+**दृश्य:** पट्ट के स्तम्भ साफ़ हैं, हस्तलिपि सरकारी। क़िरमिज़ी रेखा सूखी है, पूर्व-दाख़िल, वही हाथ-स्पर्श
+जो प्रमुख के हर क़िरमिज़ी निशान का है। ख़ाली रेखा केसा के निशान की प्रतीक्षा करती है।
 
-> **शीर्षक (none spoken):**
-> Three signatures. Two already written. The third was left blank for the woman whose lockbox now
-> holds two institutions' most dangerous paperwork.
+> **कैप्शन (कोई बोलता नहीं):**
+> तीन हस्ताक्षर। दो पहले ही लिखे हुए। तीसरा उस औरत के लिए ख़ाली छोड़ा गया जिसके ताला-बक्से में अब दो
+> संस्थाओं के सबसे ख़तरनाक कागज़ात हैं।
 
 ---
 
-## चित्र-खाना 5 — Medium, the refusal (~14%)
+## पैनल ५ — मध्यम, इनकार (~१४%)
 
-**कैमरा:** Kessa's hands on the counter, not touching the slate. One hand turns the posting order
-face-down — her refusal grammar, the same as Ira's sewn-shut payment line from Ch. 002 Page 010,
-but Kessa refuses differently: she does not sew, she *reverses*. The slate stays unsigned.
+**कैमरा:** केसा के हाथ काउंटर पर, पट्ट को छुए बिना। एक हाथ स्थानांतरण-आदेश को उलटा कर देता है — उसका
+इनकार-व्याकरण, वही जो अध्याय ००२ पृष्ठ ०१० की इरा की सीई-बन्द भुगतान-रेखा थी, पर केसा अलग ढंग से
+इनकार करती है: वह सीती नहीं, वह *पलटती* है। पट्ट बिना हस्ताक्षर का रहता है।
 
-**चित्र:** Kessa does not look at Rekhak. She looks at the blank line the way she looks at a tear
-she has already appraised and chosen not to mend.
+**दृश्य:** केसा रेखक की ओर नहीं देखती। वह ख़ाली रेखा को वैसे देखती है जैसे किसी ऐसे फटन को देखती है जिसे
+उसने परख लिया हो और सीने का फ़ैसला न किया हो।
 
-> **केसा (संवाद, flat):**
+> **केसा (संवाद, सपाट):**
 > मैं बक्से में जो है वो रखती हूँ। मैं उसके होने के कारण पर दस्तख़त नहीं करती।
 >
-> **रेखक (संवाद, measured):**
-> The signature acknowledges custody, not content.
+> **रेखक (संवाद, संयत):**
+> हस्ताक्षर अभिरक्षण स्वीकार करता है, विषय-वस्तु नहीं।
 >
-> **KESSA (dialogue):**
-> तो बक्सा कुछ स्वीकार नहीं करता और हम सब दाखिल हैं।
+> **केसा (संवाद):**
+> तो बक्सा कुछ स्वीकार नहीं करता और हम सब दाख़िल हैं।
 
 ---
 
-## चित्र-खाना 6 — Close, the oath-link (~13%)
+## पैनल ६ — क्लोज़, शपथ-कड़ी (~१३%)
 
-**कैमरा:** On Rekhak's hand holding the chain, the oath-link in frame — one dark link among the
-brass, still, readable. His thumb rests beside it, not on it. Ira's eyes, in soft focus at frame
-edge, are on the link.
+**कैमरा:** रेखक के हाथ पर जो ज़ंजीर पकड़े है, फ़्रेम में शपथ-कड़ी — पीतल के बीच एक काली कड़ी, स्थिर,
+पढ़ने योग्य। उसका अंगूठा उसके बगल में टिका है, उस पर नहीं। इरा की आँखें, फ़्रेम के किनारे पर कोमल
+फ़ोकस में, उस कड़ी पर हैं।
 
-**चित्र:** The oath-link is the smallest object on the page and the heaviest. Ira sees it. She does
-not reach for it. The chain runs everywhere else; that one link stays perfectly still.
+**दृश्य:** शपथ-कड़ी इस पृष्ठ की सबसे छोटी चीज़ है और सबसे भारी। इरा उसे देखती है। वह उसके लिए हाथ नहीं
+बढ़ाती। ज़ंजीर बाक़ी हर जगह चलती है; वह एक कड़ी पूरी तरह स्थिर रहती है।
 
-> **शीर्षक (Ira's voice, small):**
-> उसकी ज़ंजीर की एक कड़ी नहीं हिलती। I know what it holds. I'm not ready to read it.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> उसकी ज़ंजीर की एक कड़ी नहीं हिलती। मैं जानती हूँ उसमें क्या है। मैं उसे पढ़ने के लिए तैयार नहीं हूँ।
 
 ---
 
-## चित्र-खाना 7 — Medium, the departure — HOOK (~19%)
+## पैनल ७ — मध्यम, प्रस्थान — हुक (~१९%)
 
-**कैमरा:** Rekhak at the stall's threshold, coat turning, chain running. He does not look back.
-The unsigned slate stays on the counter behind him. Kessa's hand is already on the lockbox lid.
+**कैमरा:** रेखक ठेले के दरवाज़े पर, कोट मुड़ता हुआ, ज़ंजीर चलती हुई। वह पीछे नहीं देखता। बिना हस्ताक्षर
+का पट्ट उसके पीछे काउंटर पर रह जाता है। केसा का हाथ पहले से ताला-बक्से के ढक्कन पर है।
 
-**चित्र:** The stall lets him leave without a word. The posting order stays face-down. Kessa's hand
-on the lockbox is the last frame: she is putting the letter inside with the cut-end and the census.
-Three objects in the box now. The filing cabinet grows.
+**दृश्य:** ठेला उसे बिना एक शब्द के जाने देता है। स्थानांतरण-आदेश उलटा पड़ा रहता है। ताला-बक्से पर केसा
+का हाथ आख़िरी फ़्रेम है: वह ख़त को कट-सिरे और गणना के साथ भीतर रख रही है। बक्से में अब तीन चीज़ें।
+फ़ाइल-कैबिनेट बढ़ता है।
 
-> **रेखक (संवाद, leaving, quiet):**
-> कार्यालय पट्ट को बिना दस्तख़त के फिर से दाखिल करेगा। Procedure has a drawer for that.
+> **रेखक (संवाद, जाते हुए, धीमा):**
+> कार्यालय पट्ट को बिना दस्तख़त के फिर से दाख़िल करेगा। प्रक्रिया में उसके लिए एक दराज़ है।
 >
-> **केसा (संवाद, to the box):**
+> **केसा (संवाद, बक्से से):**
 > तो उन्हें बड़े दराज़ की ज़रूरत होगी।
 >
-> **शीर्षक (none spoken):**
-> The census is in the box. The cutter's thread is in the box. The posting order is in the box.
-> Kessa's lockbox now holds the three most dangerous objects in the basin, and the one woman who
-> can open it has signed for none of them.
+> **कैप्शन (कोई बोलता नहीं):**
+> गणना बक्से में है। काटने वाले का धागा बक्से में है। स्थानांतरण-आदेश बक्से में है। केसा के ताला-बक्से
+> में अब गर्त की तीन सबसे ख़तरनाक चीज़ें हैं, और जो अकेली औरत उसे खोल सकती है, उसने उनमें से किसी के
+> लिए दस्तख़त नहीं किए।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **Rekhak arrives as procedure, not as threat.** He is filing, not hunting. His posture is
-  paperwork — the slate, the chain, the formal register. This is his first basin-panel appearance
-  this chapter.
-- **The oath-link is visible but unread this page.** Ira sees it; she is not ready. This is a
-  planted seed for Page 007.
-- **Kessa refuses to sign** — her refusal is not Ira's sewn-paper grammar; it is the older Kshudra
-  grammar of *reversal* (turning the document face-down). Keep the refusal visual, not verbal.
-- **The lockbox grows** — cut-end, census, posting order. Each addition is shown as Kessa's hand on
-  the lid. The box is the chapter's accumulating icon.
-- **Chain budget: unspent.** No chain-stop this page. The oath-link is visible but not read.
-- **Four notes: silent.** Sewer unnamed. Loom never speaks.
+- **रेखक प्रक्रिया के रूप में आता है, ख़तरे के रूप में नहीं।** वह दाख़िल कर रहा है, शिकार नहीं कर रहा।
+  उसकी भंगिमा कागज़ी काम है — पट्ट, ज़ंजीर, औपचारिक लहजा। इस अध्याय में उसका पहला गर्त-पैनल प्रकटन
+  यही है।
+- **शपथ-कड़ी दिखती है पर इस पृष्ठ पर पढ़ी नहीं जाती।** इरा उसे देखती है; वह तैयार नहीं है। यह पृष्ठ ००७
+  के लिए बोया गया बीज है।
+- **केसा दस्तख़त करने से इनकार करती है** — उसका इनकार इरा का सीया-कागज़ व्याकरण नहीं है; यह
+  *उलटने* का पुराना क्षुद्र व्याकरण है (कागज़ को उलटा कर देना)। इनकार को दृश्य रखें, मौखिक नहीं।
+- **ताला-बक्सा बढ़ता है** — कट-सिरा, गणना, स्थानांतरण-आदेश। हर जोड़ ढक्कन पर केसा के हाथ के रूप में
+  दिखाया जाता है। बक्सा इस अध्याय का जमा होता प्रतीक है।
+- **ज़ंजीर बजट: अख़र्च।** इस पृष्ठ पर कोई ज़ंजीर-रोक नहीं। शपथ-कड़ी दिखती है पर पढ़ी नहीं जाती।
+- **चार स्वर: चुप।** सीवर अनाम। सूत्र-यन्त्र कभी नहीं बोलता।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The unsigned slate | Procedure card — *Custodian Refused* |
-| "The box acknowledges nothing" | Event card — *Kshudra Refusal* |
-| The oath-link, still and dark | Relic card — *The Oath Link* (readable, unread) |
-| Three objects in the lockbox | Location card — *Kessa's Lockbox* (upgraded: three items) |
-| Procedure re-files unsigned | Event card — *The Drawer for That* |
+| बिना हस्ताक्षर का पट्ट | प्रक्रिया कार्ड — *संरक्षक ने इनकार किया* |
+| "बक्सा कुछ स्वीकार नहीं करता" | इवेंट कार्ड — *क्षुद्र इनकार* |
+| शपथ-कड़ी, स्थिर और काली | रिलिक कार्ड — *शपथ-कड़ी* (पढ़ने योग्य, अपठित) |
+| ताला-बक्से में तीन चीज़ें | स्थान कार्ड — *केसा का ताला-बक्सा* (उन्नत: तीन वस्तुएँ) |
+| प्रक्रिया बिना हस्ताक्षर फिर दाख़िल करती है | इवेंट कार्ड — *उसके लिए दराज़* |

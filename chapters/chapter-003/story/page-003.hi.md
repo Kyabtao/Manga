@@ -1,155 +1,155 @@
-# THREADBORN — Chapter 03 — Page 003
+# सुत्रजात (THREADBORN) — अध्याय ०३ — पृष्ठ ००३
 
-**अध्याय शीर्षक:** *The Hand That Opens* / *वह हाथ जो खोलता है*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the dock-gate approach
-**पृष्ठ प्रकार:** Investigation begins — 7 panels, hook at the bottom
+**अध्याय शीर्षक:** *वह हाथ जो खोलता है*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गोदी-द्वार का मार्ग
+**पृष्ठ प्रकार:** जाँच आरम्भ — ७ पैनल, अन्त में हुक
 
-> पिछले पृष्ठ से: Page 001: the reversal, Ira's palm as diploma. Page 002: the lockbox now holds
-> three objects, Kessa's refusal to sign. From Chapter 002: Bhan's itch-less mend (Page 002), the
-> turn-backs as unpick-grammar (Page 009), the dock-gate inspection desk (Page 008).
+> English source: [`page-003.md`](page-003.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the basin morning (~14%)
-
-**कैमरा:** Morning, the basin market working normally — pots steaming, stalls open, the list-post
-bare since the census was bought. Ira walks the row with the kit on her back, heading toward the
-docks. The Knot & Nail is behind her, shutters up.
-
-**चित्र:** Ira moving through the basin with purpose — not mending today, investigating. The
-charcoal rubbing of Bhan's turn-backs is folded in her belt. The market ignores her, which is
-normal.
-
-> **शीर्षक (Ira's voice, small):**
-> काटने वाले ने मेरी सिलाई सिखाई। मेरी सिलाई ने किसी को नहीं सिखाया। That means the person opening Bhan every
-> night is not learning from me. They are *practising* on him.
+> पृष्ठ ००१ से आगे आते सूत्र: उलटाव, इरा की हथेली डिप्लोमा के रूप में। पृष्ठ ००२: ताला-बक्से में अब
+> तीन चीज़ें, केसा का दस्तख़त करने से इनकार। अध्याय ००२ से: भान की बिना-खुजली वाली सिलाई (पृष्ठ ००२),
+> उधेड़-व्याकरण के रूप में मोड़-सिरे (पृष्ठ ००९), गोदी-द्वार निरीक्षण-डेस्क (पृष्ठ ००८)।
 
 ---
 
-## चित्र-खाना 2 — Medium, the dock-gate (~13%)
+## पैनल १ — व्यापक, गर्त की सुबह (~१४%)
 
-**कैमरा:** The dock-gate inspection desk — the standing desk under the shielded lamp where every
-night-shift arm is logged. A new chit-boy sits where the old one did; the slate's columns are
-bell-tallied. The waiting line (*Sutar, I.*) is gone — filed with the census.
+**कैमरा:** सुबह, गर्त-बाज़ार सामान्य रूप से चलता हुआ — हाँड़ियाँ भाप छोड़ती हुई, ठेले खुले, सूची-स्तम्भ
+ख़ाली क्योंकि गणना ख़रीद ली गई थी। इरा थैली पीठ पर लिए कतार में चलती है, गोदियों की ओर। उसके पीछे
+गाँठ और कील है, शटर चढ़े हुए।
 
-**चित्र:** Ira approaches the desk. The chit-boy looks up, recognizes her from Page 008 of Chapter 2,
-and does not flinch — dock workers are used to menders.
+**दृश्य:** इरा उद्देश्य के साथ गर्त से गुज़रती हुई — आज सिलाई नहीं, जाँच। भान के मोड़-सिरों की
+कोयला-रगड़ उसकी कमरबन्द में मुड़ी है। बाज़ार उसे अनदेखा करता है, जो सामान्य है।
 
-> **इरा (संवाद, flat):**
-> Bhan. Left forearm. What shift?
+> **कैप्शन (इरा का स्वर, धीमा):**
+> काटने वाले ने मेरी सिलाई सिखाई। मेरी सिलाई ने किसी को नहीं सिखाया। मतलब जो हर रात भान को खोलता है,
+> वह मुझसे नहीं सीख रहा। वह उस पर *अभ्यास* कर रहा है।
+
+---
+
+## पैनल २ — मध्यम, गोदी-द्वार (~१३%)
+
+**कैमरा:** गोदी-द्वार निरीक्षण-डेस्क — ढके हुए लालटेन के नीचे खड़ा डेस्क, जहाँ हर रात-पाली की बाँह दर्ज
+होती है। एक नया चिट-लड़का वहीं बैठा है जहाँ पुराना बैठता था; पट्ट के स्तम्भ घंटी-गिने हुए हैं। इंतज़ार की
+कतार (*सुतार, इ.*) गायब है — गणना के साथ दाख़िल हो चुकी।
+
+**दृश्य:** इरा डेस्क के पास आती है। चिट-लड़का ऊपर देखता है, उसे अध्याय ००२ के पृष्ठ ००८ से पहचानता है,
+और पीछे नहीं हटता — गोदी-मज़दूर सिलाईकर्ताओं के आदी हैं।
+
+> **इरा (संवाद, सपाट):**
+> भान। बायीं बाँह। कौन सी पाली?
 >
-> **CHIT-BOY (संवाद, flipping pages):**
-> Night. Same as always. Dock three, grain-lift.
+> **चिट-लड़का (संवाद, पन्ने पलटते हुए):**
+> रात की। हमेशा की तरह। गोदी तीन, अनाज-उत्थापन।
 
 ---
 
-## चित्र-खाना 3 — Close, Bhan at the dock (~14%)
+## पैनल ३ — क्लोज़, गोदी पर भान (~१४%)
 
-**कैमरा:** Dock three: **Bhan**, broad, patient, rolling up his left sleeve. His forearm shows the
-faintest trace of a mend — Ira's mend from Chapter 2, the whorl-grain visible in the seam. But
-beside it, a fresh line: the nightly cut, reopened and re-sealed since she last mended him.
+**Camera:** गोदी तीन: **भान**, चौड़ा, धैर्यवान, अपनी बायीं आस्तीन चढ़ाता हुआ। उसकी बाँह पर सिलाई का
+सबसे हल्का निशान दिखता है — अध्याय ००२ की इरा की सिलाई, सीवन में दिखता चक्र-दाना। पर उसके बगल में एक
+ताज़ी रेखा: रात की कटाई, जो इरा की आख़िरी सिलाई के बाद से फिर खुली और फिर बन्द हुई।
 
-**चित्र:** Bhan's forearm tells the whole story: the old mend (Ira's, with whorl-grain), the fresh
-reopening (the cutter's, nightly), and the thin line of scar tissue building between them. Bhan is
-not angry. He is tired.
+**दृश्य:** भान की बाँह पूरी कहानी कहती है: पुरानी सिलाई (इरा की, चक्र-दाने के साथ), ताज़ा पुनःखुलना
+(काटने वाले का, हर रात), और उनके बीच बनता निशान-ऊतक की पतली रेखा। भान क्रुद्ध नहीं है। वह थका है।
 
-> **भान (संवाद, patient):**
-> It opens every night. It closes by morning. I stopped bandaging it on day four.
+> **भान (संवाद, धैर्यवान):**
+> यह हर रात खुलती है। सुबह तक बन्द हो जाती है। चौथे दिन मैंने इसे पट्टी बाँधना छोड़ दिया।
 >
-> **BHAN (dialogue):**
-> Whoever does it is gentle. It doesn't hurt. It just... isn't mine.
+> **भान (संवाद):**
+> जो भी करता है, कोमल है। दर्द नहीं होता। बस... यह मेरी नहीं है।
 
 ---
 
-## चित्र-खाना 4 — Macro, the fresh cut (~13%)
+## पैनल ४ — मैक्रो, ताज़ी कटाई (~१३%)
 
-**कैमरा:** Extreme close on Bhan's fresh reopening: the same turn-back at each end, the same
-angle of exit, the same hand-school — identical to the rubbing Ira carries. But the fresh cut
-has a new quality: the thread used to re-seal it is **visible** for the first time. Faint, grey,
-almost ash-coloured.
+**कैमरा:** भान के ताज़े पुनःखुलने पर बहुत पास से: दोनों सिरों पर वही मोड़-सिरा, वही निकास-कोण, वही
+हाथ-विद्या — इरा जो रगड़ लिए फिरती है, उससे बिल्कुल एक जैसी। पर ताज़ी कटाई में एक नया गुण है: जो धागा
+उसे फिर बन्द करने के लिए इस्तेमाल हुआ, वह पहली बार **दिखता** है। हल्का, धूसर, लगभग राख-रंग।
 
-**चित्र:** The re-sealing thread is the star: ash-grey, thin, precise. It matches nothing Bhan
-could produce. It matches nothing in the dock inventory. It matches, exactly, the colour of Ira's
-own mending thread.
+**दृश्य:** पुनः-बन्द करने वाला धागा सितारा है: राख-धूसर, पतला, सटीक। यह भान जो कुछ भी बना सकता है, उससे
+मेल नहीं खाता। यह गोदी की किसी भी वस्तु से मेल नहीं खाता। यह ठीक-ठीक इरा के अपने सिलाई-धागे के रंग से
+मेल खाता है।
 
-> **शीर्षक (Ira's voice, smallest):**
-> Ash-grey thread. My colour. My gauge. Not my hand.
+> **कैप्शन (इरा का स्वर, सबसे धीमा):**
+> राख-धूसर धागा। मेरा रंग। मेरा माप। मेरा हाथ नहीं।
 
 ---
 
-## चित्र-खाना 5 — Medium two-shot, the question (~14%)
+## पैनल ५ — मध्यम दो-पात्र शॉट, सवाल (~१४%)
 
-**कैमरा:** Ira and Bhan on the dock's edge, grain-lifts idle behind them. Ira's hand hovers over
-his forearm — she wants to mend it and she stops herself. Mending it again would close the evidence.
+**कैमरा:** इरा और भान गोदी के किनारे, उनके पीछे अनाज-उत्थापक ख़ाली। इरा का हाथ उसकी बाँह के ऊपर
+मँडराता है — वह उसे सीना चाहती है और वह ख़ुद को रोक लेती है। इसे दोबारा सीना सबूत को बन्द कर देगा।
 
-**चित्र:** Ira's hand withdraws. Bhan watches her the way dock workers watch tides: patient, knowing
-the water will come back.
+**दृश्य:** इरा का हाथ पीछे हट जाता है। भान उसे वैसे देखता है जैसे गोदी-मज़दूर ज्वार को देखते हैं:
+धैर्य से, यह जानते हुए कि पानी लौटकर आएगा।
 
-> **इरा (संवाद, quiet):**
-> I could close this again. But then I can't see what they're doing.
+> **इरा (संवाद, धीमा):**
+> मैं इसे फिर बन्द कर सकती हूँ। पर तब मैं देख नहीं पाऊँगी कि वे क्या कर रहे हैं।
 >
-> **BHAN (dialogue):**
-> Leave it open?
+> **भान (संवाद):**
+> खुला छोड़ दूँ?
 >
-> **IRA (dialogue):**
-> Leave it *readable*. Whoever comes tonight — I need them to finish the stitch. Don't wash the
-> arm. Don't bandage it. Let them work.
+> **इरा (संवाद):**
+> *पढ़ने योग्य* छोड़ दो। जो भी आज रात आए — मुझे चाहिए कि वह सिलाई पूरी करे। बाँह मत धोना। पट्टी मत
+> बाँधना। उसे काम करने दो।
 
 ---
 
-## चित्र-खाना 6 — Medium, the agreement (~13%)
+## पैनल ६ — मध्यम, सहमति (~१३%)
 
-**कैमरा:** Bhan nods — slow, patient, the consent of a man who has already been opened forty times
-and can survive one more. Ira folds a tiny charcoal mark at the mend's edge — a mender's signal,
-invisible to anyone but another mender: *this seam was read before it was closed.*
+**कैमरा:** भान सिर हिलाता है — धीरे, धैर्य से, उस आदमी की सहमति जो पहले ही चालीस बार खोला जा चुका है और
+एक बार और झेल सकता है। इरा सिलाई के किनारे एक नन्हा कोयला-निशान मोड़ती है — सिलाईकर्ता का संकेत,
+जो सिलाईकर्ता के अलावा किसी को नहीं दिखता: *यह सीवन बन्द होने से पहले पढ़ा गया था।*
 
-**चित्र:** The charcoal mark is the smallest gesture on the page. It changes everything: the next
-time the cutter opens Bhan, they will see it, and they will know someone is watching.
+**दृश्य:** कोयला-निशान इस पृष्ठ का सबसे छोटा इशारा है। यह सब कुछ बदल देता है: अगली बार जब काटने वाला
+भान को खोलेगा, वह इसे देखेगा, और जान जाएगा कि कोई देख रहा है।
 
-> **शीर्षक (Ira's voice, small):**
-> I left a mark only a mender can read. If the cutter reads it, they'll know I'm here. If they
-> don't read it, they're not a mender at all.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> मैंने ऐसा निशान छोड़ा जो सिर्फ़ एक सिलाईकर्ता पढ़ सकता है। अगर काटने वाला इसे पढ़ता है, उसे पता चल
+> जाएगा कि मैं यहाँ हूँ। अगर वह इसे नहीं पढ़ता, तो वह सिलाईकर्ता है ही नहीं।
 
 ---
 
-## चित्र-खाना 7 — Wide, the dock at distance — HOOK (~19%)
+## पैनल ७ — व्यापक, दूरी से गोदी — हुक (~१९%)
 
-**कैमरा:** Ira walking back from the dock, basin market ahead. Behind her, Bhan rolls his sleeve
-down. The dock-gate lamp flickers. On the inspection desk, the chit-boy's slate shows a new line
-at the bottom, written in no hand he saw: *Sutar, I. — dock three — read.*
+**कैमरा:** इरा गोदी से वापस चलती हुई, आगे गर्त-बाज़ार। उसके पीछे भान अपनी आस्तीन नीचे करता है। गोदी-द्वार
+की लालटेन टिमटिमाती है। निरीक्षण-डेस्क पर, चिट-लड़के का पट्ट तल में एक नई रेखा दिखाता है, किसी ऐसे हाथ
+में लिखी जो उसने देखा नहीं: *सुतार, इ. — गोदी तीन — पढ़ा गया।*
 
-**चित्र:** The new line on the slate is the hook: someone — or some *thing* — has already logged
-Ira's visit. The principal's paperwork moves faster than she does.
+**दृश्य:** पट्ट पर नई रेखा हुक है: किसी ने — या कोई *चीज़* — इरा की यात्रा पहले ही दर्ज कर ली है।
+प्रमुख का कागज़ी काम उससे तेज़ चलता है।
 
-> **शीर्षक (none spoken):**
-> She left a mark for the cutter. The cutter's employer left a mark for her. The basin's two
-> handwriting systems are learning each other's alphabet.
+> **कैप्शन (कोई बोलता नहीं):**
+> उसने काटने वाले के लिए निशान छोड़ा। काटने वाले के मालिक ने उसके लिए निशान छोड़ा। गर्त की दो हस्तलिपि
+> प्रणालियाँ एक-दूसरे की वर्णमाला सीख रही हैं।
 >
-> **शीर्षक (smaller):**
-> Dock three. Read.
+> **कैप्शन (छोटा):**
+> गोदी तीन। पढ़ा गया।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **Bhan is patient, not angry.** His menace register is endurance: forty nightly openings, each
-  painless, each leaving him slightly less himself. Draw him tired but unbroken.
-- **The ash-grey re-sealing thread** is the chapter's first visual echo of Ira's own thread. Do not
-  name the match aloud; let the caption and the art carry it. The reader should feel the
-  wrongness before understanding it.
-- **The charcoal mark** is Ira's investigative tool: a mender's breadcrumb, readable only by
-  someone who knows stitch-grammar. This is her first proactive move — she is no longer reacting.
-- **The slate's new line** (*Sutar, I. — dock three — read*) is the principal's paperwork again:
-  procedure that arrives before the person does. Keep the crimson off-panel; the line is in
-  chit-boy's grey ink, but the handwriting is not his.
-- **Chain budget: unspent.** Rekhak off-panel. Four notes silent. Sewer unnamed.
+- **भान धैर्यवान है, क्रुद्ध नहीं।** उसका भय-स्वरूप सहनशीलता है: चालीस रात्रि-उद्घाटन, हर एक बिना दर्द,
+  हर एक उसे ज़रा-ज़रा कम करता हुआ। उसे थका हुआ बनाएँ पर टूटा हुआ नहीं।
+- **राख-धूसर पुनः-सीलने वाला धागा** इस अध्याय में इरा के अपने धागे की पहली दृश्य प्रतिध्वनि है। मेल को
+  ज़ोर से नाम न दें; कैप्शन और कला इसे उठाएँ। पाठक को समझने से पहले ग़लतीपन महसूस होनी चाहिए।
+- **कोयला-निशान** इरा का जाँच-उपकरण है: सिलाईकर्ता की रोटी-के-टुकड़े की रेखा, जो केवल सिलाई-व्याकरण
+  जानने वाला पढ़ सकता है। यह उसका पहला सक्रिय क़दम है — अब वह प्रतिक्रिया नहीं दे रही।
+- **पट्ट की नई रेखा** (*सुतार, इ. — गोदी तीन — पढ़ा गया*) फिर प्रमुख का कागज़ी काम है: ऐसी प्रक्रिया जो
+  व्यक्ति से पहले पहुँचती है। क़िरमिज़ी को पैनल से बाहर रखें; रेखा चिट-लड़के की धूसर स्याही में है, पर
+  हस्तलिपि उसकी नहीं है।
+- **ज़ंजीर बजट: अख़र्च।** रेखक पैनल से बाहर। चार स्वर चुप। सीवर अनाम।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| "Leave it readable." | Event card — *Open Evidence* |
-| The charcoal mender's mark | Relic card — *Breadcrumb* |
-| The ash-grey re-sealing thread | Lore card — *The Same Colour* |
-| The slate's pre-logged line | Event card — *Procedure Ahead of Person* |
+| "इसे पढ़ने योग्य छोड़ दो।" | इवेंट कार्ड — *खुला सबूत* |
+| सिलाईकर्ता का कोयला-निशान | रिलिक कार्ड — *रोटी-के-टुकड़े की रेखा* |
+| राख-धूसर पुनः-सीलने वाला धागा | लोर कार्ड — *वही रंग* |
+| पट्ट की पूर्व-दर्ज रेखा | इवेंट कार्ड — *व्यक्ति से आगे प्रक्रिया* |
