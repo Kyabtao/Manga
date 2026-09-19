@@ -1,187 +1,183 @@
-# THREADBORN — Chapter 07 — Page 004
+# सुत्रजात (THREADBORN) — अध्याय ०७ — पृष्ठ ००४
 
-**अध्याय शीर्षक:** *The Crimson Line* / *क़िरमिज़ी पंक्ति*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Knot & Nail, Ashfall Basin
-**पृष्ठ प्रकार:** Reveal page — 7 panels
+**अध्याय शीर्षक:** *क़िरमिज़ी पंक्ति*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (भोर)
+**पृष्ठ प्रकार:** तह — ७ पैनल, अन्त में हुक
 
-> Beats: Page 003 — the licence is an inventory, not a licence; the third register is a private
-> hand's book; silence loses the school in one Unspooling and signing sends a writ after the
-> mother. Kessa noticed the fold is too stiff.
->
-> **This page:** the fold. The title of the chapter pays off.
+> English source: [`page-004.md`](page-004.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Close, four hands flattening paper (~13%)
-
-**कैमरा:** The counter, top-down. The letter is being opened **flat** — Kessa holding the left
-edge, Ira the right, pressing the crease the way you press a seam before you sew it. The paper
-fights. It has been folded a long time, or folded hard.
-
-**चित्र:** Two people doing to a document what they would do to cloth. The whole series in one
-gesture: they read paper like a mender reads a tear.
-
-> **शीर्षक (Ira's voice):**
-> You press a crease flat and the paper tells you what it's been through. Fresh folds go soft.
-> Old folds go white and split. This one went *tight* — like it had been creased, and then
-> creased again *over something.*
+> **यह पृष्ठ:** तह। अध्याय का शीर्षक यहाँ वसूल होता है।
 
 ---
 
-## चित्र-खाना 2 — Macro, the crease opens (~14%)
+## पैनल १ — क्लोज़, चार हाथ काग़ज़ सपाट करते हुए (~१३%)
 
-**कैमरा:** Extreme macro. The fold's valley, opening. Inside the valley, running the whole length
-of the crease, faint and thin and unmistakable: a **crimson line of handwriting**, written *into
-the fold itself* so that whoever folds the letter shut again makes it disappear.
+**कैमरा:** काउंटर, ऊपर से। ख़त **सपाट** खोला जा रहा है — केसा बायाँ किनारा थामे, इरा दायाँ, तह को
+ऐसे दबाते हुए जैसे सीने से पहले सीवन दबाते हैं। काग़ज़ लड़ता है। यह बहुत समय से मुड़ा है, या बहुत कसकर
+मुड़ा है।
 
-**चित्र:** The page's whole payload, in one panel. The line is only legible when the letter is
-opened perfectly flat — and perfectly flat is something you only do if you're looking for a seam.
+**दृश्य:** दो लोग एक दस्तावेज़ के साथ वही कर रहे हैं जो वे कपड़े के साथ करते। पूरी शृंखला एक ही हाव-भाव
+में: वे काग़ज़ ऐसे पढ़ते हैं जैसे सिलाई करने वाला फटन पढ़ता है।
+
+> **कैप्शन (इरा का स्वर):**
+> तुम एक तह को सपाट दबाते हो और काग़ज़ तुम्हें बता देता है कि वह किस दौर से गुज़रा है। ताज़ी तहें नरम
+> पड़ जाती हैं। पुरानी तहें सफ़ेद होकर चटक जाती हैं। यह वाली *कस* गई — जैसे इसे मोड़ा गया हो, और फिर
+> *किसी चीज़ के ऊपर* दोबारा मोड़ा गया हो।
+
+---
+
+## पैनल २ — मैक्रो, तह खुलती है (~१४%)
+
+**कैमरा:** अत्यधिक मैक्रो। तह की घाटी, खुलती हुई। घाटी के भीतर, तह की पूरी लम्बाई पर, मद्धम और पतली
+और अचूक: हस्तलेख की **क़िरमिज़ी पंक्ति**, *तह के भीतर ही* लिखी गई, ताकि जो भी ख़त दोबारा बन्द करे,
+वह उसे ग़ायब कर दे।
+
+**दृश्य:** इस पृष्ठ का पूरा भार, एक पैनल में। पंक्ति तभी पढ़ी जा सकती है जब ख़त पूरी तरह सपाट खोला
+जाए — और पूरी तरह सपाट वही करता है जो सीवन ढूँढ़ रहा हो।
 
 > **ध्वनि:** *—*
 
-> **शीर्षक (none spoken):**
-> Written in the crease.
+> **कैप्शन (कोई बोलता नहीं):**
+> तह में लिखा हुआ।
 >
-> **CAPTION:**
-> Fold the letter shut and it is gone. Open it to read, but not to press, and it is still gone.
-> Only a person who flattens the paper all the way down — the way you flatten cloth before you
-> cut it — would ever see the line at all.
+> **कैप्शन:**
+> ख़त को बन्द करके मोड़ दो और यह ग़ायब। पढ़ने के लिए खोलो, पर दबाने के लिए नहीं, और यह अब भी ग़ायब।
+> सिर्फ़ वही व्यक्ति जो काग़ज़ को आख़िर तक सपाट कर दे — जैसे काटने से पहले कपड़ा सपाट करते हैं —
+> इस पंक्ति को कभी देख पाएगा।
 
 ---
 
-## चित्र-खाना 3 — Close, the line readable (~14%)
+## पैनल ३ — क्लोज़, पंक्ति पढ़ी जा सकती है (~१४%)
 
-**कैमरा:** The crease, now flattened hard, the crimson line readable end to end in the school's
-script — the same hand-ish script Ira's own needle notes are written in.
+**कैमरा:** तह, अब कसकर सपाट की हुई, क़िरमिज़ी पंक्ति शुरू से आख़िर तक पढ़ी जा सकती है, विद्यालय की
+लिपि में — वही हस्त जैसी लिपि जिसमें इरा के अपने सुई-नोट लिखे हैं।
 
-> *The founder will not appear. Do not sign.*
-> *— a hand of the school*
+> *संस्थापक सामने नहीं आएगा। हस्ताक्षर मत करना।*
+> *— विद्यालय का एक हाथ*
 
-**चित्र:** Eleven words. In crimson. Hidden where only a mender would look.
+**दृश्य:** ग्यारह शब्द। क़िरमिज़ी में। वहाँ छिपाए हुए जहाँ सिर्फ़ सिलाई करने वाला देखेगा।
 
-> **शीर्षक (Ira's voice, very quiet):**
-> *The founder will not appear. Do not sign.*
+> **कैप्शन (इरा का स्वर, बहुत धीमा):**
+> *संस्थापक सामने नहीं आएगा। हस्ताक्षर मत करना।*
 >
-> **CAPTION:**
-> *— a hand of the school.*
+> **कैप्शन:**
+> *— विद्यालय का एक हाथ।*
 
 ---
 
-## चित्र-खाना 4 — Medium, Kessa works it out (~14%)
+## पैनल ४ — मध्यम, केसा इसे सुलझाती है (~१४%)
 
-**कैमरा:** Kessa, loupe down and in, has gone straight past the words to the material. She is
-rubbing the crimson line with the side of her thumbnail. It does not behave like ink. It behaves
-like wax.
+**कैमरा:** केसा, लूप नीचे और आँख में, शब्दों के पार सीधे सामग्री तक पहुँच चुकी है। वह क़िरमिज़ी पंक्ति
+को अपने अँगूठे के किनारे से रगड़ रही है। यह स्याही जैसा बर्ताव नहीं करती। यह मोम जैसा बर्ताव करती है।
 
-**चित्र:** The appraiser reading the substance. She is not having a feeling; she is doing her job,
-which is how this book shows her having a feeling.
+**दृश्य:** परखन-हार पदार्थ पढ़ रही है। उसे कोई भाव नहीं आ रहा; वह अपना काम कर रही है, और इसी तरह यह
+किताब उसे भाव महसूस करते हुए दिखाती है।
 
-> **KESSA:**
-> That isn't pen.
+> **केसा:**
+> यह क़लम नहीं है।
 >
-> **KESSA:**
-> Iron-gall sits *in* the fibre. This sits *on* it, in a raised bead, and it's gone cloudy at the
-> heavy strokes the way poured wax goes cloudy when it cools fast.
+> **केसा:**
+> लोहे-ग़ाला रेशे के *भीतर* बैठती है। यह उसके *ऊपर* बैठी है, एक उभरी हुई बूँद में, और भारी खिंचावों पर
+> धुँधली पड़ गई है, वैसे जैसे डाली हुई मोम तेज़ी से ठंडी होकर धुँधली पड़ जाती है।
 >
-> **KESSA:**
-> Somebody wrote this with a stylus, child. In **sealing wax.**
+> **केसा:**
+> किसी ने यह स्टाइलस से लिखा है, बच्ची। **मुहर की मोम** में।
 
 ---
 
-## चित्र-खाना 5 — Close, Kessa's hand and the lifted seal (~14%)
+## पैनल ५ — क्लोज़, केसा का हाथ और उठाई हुई मोहर (~१४%)
 
-**कैमरा:** Kessa's used thumbnail comes up into frame, and beside it, on the counter, the crimson
-seal she lifted on Page 001 — whole, soft, slightly cloudy, its centre **hollowed**. Not stamped.
-*Scooped.*
+**कैमरा:** केसा का घिसा अँगूठा फ़्रेम में आता है, और उसके बग़ल, काउंटर पर, वह क़िरमिज़ी मोहर जो उसने
+पृष्ठ ००१ पर उठाई थी — साबुत, नरम, ज़रा धुँधली, उसका बीच **पोला किया हुआ**। मुहर नहीं लगी। *निकाली
+गई।*
 
-**चित्र:** The two objects side by side: the lifted seal with its scoop taken out, and the line of
-crimson in the crease. Same red. Same cloudiness. Same batch.
+**दृश्य:** दो चीज़ें साथ-साथ: उठाई हुई मोहर, जिसमें से एक बूँद निकाली गई है, और तह में पड़ी क़िरमिज़ी
+पंक्ति। वही लाल। वही धुँधलापन। वही खेप।
 
-> **शीर्षक (Ira's voice):**
-> She lifts the seal off the counter and holds it next to the page.
+> **कैप्शन (इरा का स्वर):**
+> वह मोहर को काउंटर से उठाती है और पन्ने के बग़ल थाम लेती है।
 >
-> **CAPTION:**
-> Same red. Same cloud. And a bite taken out of the middle of it, like somebody had dug a
-> thumbnail in and taken what they needed.
+> **कैप्शन:**
+> वही लाल। वही धुँधलापन। और उसके बीच से एक बूँद कटी हुई, जैसे किसी ने अँगूठा खोदकर जो चाहिए था, निकाल
+> लिया हो।
 
 ---
 
-## चित्र-खाना 6 — Large, the reconstruction (~15%)
+## पैनल ६ — बड़ा, पुनर्निर्माण (~१५%)
 
-**कैमरा:** Insert panel, drawn as Ira's reasoning — a small three-stage strip inside the panel:
-(1) the crimson seal whole and stamped; (2) a thumbnail gouging a bead of wax out of the seal's
-centre and a stylus drawing eleven words into the open crease; (3) the remaining crimson pressed
-flat with a thumb and left to cool, still cloudy, already broken.
+**कैमरा:** इनसेट पैनल, इरा के तर्क की तरह खींचा हुआ — पैनल के भीतर एक छोटी तीन-चरणीय पट्टी:
+(१) क़िरमिज़ी मोहर साबुत, मुहर लगी हुई; (२) एक अँगूठा मोहर के बीच से मोम की बूँद खोद रहा है और एक
+स्टाइलस खुली तह में ग्यारह शब्द लिख रहा है; (३) बाक़ी क़िरमिज़ी अँगूठे से सपाट दबाई गई और ठंडी होने
+छोड़ दी गई, अब भी धुँधली, पहले ही टूटी हुई।
 
-**चित्र:** The reconstruction. No magic, no Sight. A mender's method: you can tell a seam by
-whether it has been sewn twice, and you can tell a seal by whether it has been poured twice.
+**दृश्य:** पुनर्निर्माण। न जादू, न दृष्टि। सिलाई करने वाले का तरीक़ा: तुम सीवन इससे पहचानते हो कि वह
+दो बार सीया गया है या नहीं, और मोहर इससे कि वह दो बार डाली गई है या नहीं।
 
-> **शीर्षक (Ira's voice):**
-> So: he seals the letter. It goes out with the crimson whole.
+> **कैप्शन (इरा का स्वर):**
+> तो: वह ख़त पर मुहर लगाता है। वह क़िरमिज़ी साबुत लिए निकलती है।
 >
-> **CAPTION:**
-> Somewhere between his desk and the bottom of the Council Stair, somebody broke that seal,
-> dug a bead of wax out of it, wrote eleven words in the fold with a stylus, and pressed the
-> rest of the crimson flat with a thumb.
+> **कैप्शन:**
+> उसकी मेज़ और परिषद-सीढ़ी के तल के बीच कहीं, किसी ने वह मोहर तोड़ी, उसमें से मोम की एक बूँद निकाली,
+> तह में स्टाइलस से ग्यारह शब्द लिखे, और बाक़ी क़िरमिज़ी अँगूठे से सपाट दबा दी।
 >
-> **CAPTION:**
-> And then left the letter in the dark at the foot of the stair, addressed to me, for me to
-> find on a morning when I'd be alone.
+> **कैप्शन:**
+> और फिर ख़त को सीढ़ी के तल पर अँधेरे में छोड़ दिया, मेरे नाम, मेरे लिए — ताकि मुझे वह ऐसी सुबह मिले
+> जब मैं अकेली होऊँ।
 
 ---
 
-## चित्र-खाना 7 — Macro, Ira's thumb comes away red — CLOSING HOOK (~16%)
+## पैनल ७ — मैक्रो, इरा का अँगूठा लाल उठता है — अन्तिम हुक (~१६%)
 
-**कैमरा:** Ira's thumb, pressed flat along the crease, following the line the way you follow a
-seam. She lifts it. The pad of her thumb is **red**.
+**कैमरा:** इरा का अँगूठा, तह के साथ सपाट दबा हुआ, पंक्ति पर ऐसे चलता हुआ जैसे कोई सीवन पर चलता है।
+वह उसे उठाती है। उसके अँगूठे की पोर **लाल** है।
 
-**चित्र:** The girl's hand, red-marked, holding the answer to Page 001's question. She is not
-afraid. She is, for the first time in this chapter, entirely certain of something.
+**दृश्य:** लड़की का हाथ, लाल निशान लिए, पृष्ठ ००१ के सवाल का जवाब थामे हुए। वह डरी हुई नहीं है। वह
+इस अध्याय में पहली बार किसी बात पर पूरी तरह निश्चित है।
 
-> **शीर्षक (Ira's voice):**
-> Somebody went through the principal's seal to warn me.
+> **कैप्शन (इरा का स्वर):**
+> कोई प्रमुख की मोहर तोड़कर मुझे चेतावनी देने गया।
 >
-> **CAPTION:**
-> Somebody who writes the school's script, and reads a mender's fold, and knows that a letter
-> needs its crease pressed before anyone will find what's inside it.
+> **कैप्शन:**
+> कोई ऐसा, जो विद्यालय की लिपि लिखता है, और सिलाई करने वाले की तह पढ़ता है, और जानता है कि किसी ख़त
+> को मिलने के लिए उसकी तह दबानी पड़ती है।
 >
-> **शीर्षक (last line):**
-> There is exactly one person alive who taught all three of those things, and I know where her
-> file sleeps and what it says on the front of it, and I have spent three days being told she
-> is *missing.*
+> **कैप्शन (अन्तिम पंक्ति):**
+> ज़िन्दा लोगों में ठीक एक व्यक्ति है जिसने ये तीनों चीज़ें सिखाईं, और मैं जानती हूँ कि उसकी फ़ाइल कहाँ
+> सोती है और उसके सामने क्या लिखा है, और मुझे तीन दिन से यह सुनाया जा रहा है कि वह *लापता* है।
 >
-> **शीर्षक (smaller):**
-> She isn't missing. She touched this paper after he wrote it.
+> **कैप्शन (छोटा):**
+> वह लापता नहीं है। उसने इस काग़ज़ को उसके लिखने के बाद छुआ था।
 >
-> **शीर्षक (smallest):**
-> She's *working.*
+> **कैप्शन (सबसे छोटा):**
+> वह *काम कर रही है।*
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The chapter title pays here.** *The Crimson Line* is, in the end, a physical line — wax drawn
-  into a fold, visible only to someone who flattens paper like cloth.
-- **The clue is mundane and verifiable.** No Sight, no thread, no magic. This is the series'
-  method: the arcane world is read by craft. Kessa's loupe and Ira's thumb do the work.
-- **This is the mother's first language-act in the entire series.** Six chapters of a silent
-  woman who hums four off-key notes, and her opening line is written, hidden, and unsigned.
-  End the reveal on the *method*, and let the *identity* land on Pages 005–006. Do not have Ira
-  say the word *mother* out loud on this page — she has worked it out and hasn't said it yet.
-- **Wax-in-the-crease is canon from here.** Related glossary entry: *crease-writ* — a line drawn in
-  sealing wax inside a fold, invisible unless the sheet is opened flat. Method of the school.
-- **The timing is the punch:** the letter was sealed by the principal, opened by someone else, and
-  left *for Ira specifically on a morning when she would be alone.* That means the writer knew the
-  delivery schedule — which means the writer is inside the delivery chain. The supply line, still
-  running.
+- **अध्याय का शीर्षक यहाँ वसूल होता है।** *क़िरमिज़ी पंक्ति* आख़िरकार एक भौतिक पंक्ति है — मोम से तह में
+  खींची गई, सिर्फ़ उसे दिखती है जो काग़ज़ को कपड़े की तरह सपाट करता है।
+- **सुराग़ साधारण और परखने योग्य है।** न दृष्टि, न धागा, न जादू। यही इस शृंखला का तरीक़ा है: अलौकिक
+  दुनिया को कारीगरी से पढ़ा जाता है। केसा का लूप और इरा का अँगूठा काम करते हैं।
+- **यह पूरी शृंखला में माँ का पहला भाषा-कर्म है।** छह अध्याय की एक चुप स्त्री जो चार बेसुरे स्वर
+  गुनगुनाती है, और उसकी पहली पंक्ति लिखी हुई है, छिपाई हुई है, और उस पर कोई नाम नहीं है। पर्दा
+  *तरीक़े* पर उठाएँ, और *पहचान* पृष्ठ ००५–००६ पर आने दें। इस पृष्ठ पर इरा से *माँ* शब्द मुँह से न
+  निकलवाएँ — उसने यह सुलझा लिया है और अभी कहा नहीं है।
+- **तह में मोम यहाँ से क़ानून है।** सम्बन्धित शब्दावली प्रविष्टि: *तह-लिखत* — तह के भीतर मुहर की मोम से
+  खींची गई पंक्ति, जो पन्ना सपाट खोले बिना नहीं दिखती। विद्यालय का तरीक़ा।
+- **समय ही चोट है:** ख़त पर प्रमुख ने मुहर लगाई, किसी और ने उसे खोला, और उसे *ख़ास तौर पर इरा के लिए
+  ऐसी सुबह छोड़ा जब वह अकेली होगी।* मतलब लिखने वाला पहुँच-समय जानता था — मतलब लिखने वाला पहुँच की
+  शृंखला के भीतर है। आपूर्ति-मार्ग, अब भी चलता हुआ।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| Opening the sheet flat | Skill — *Press The Crease* |
-| "The founder will not appear. Do not sign." | Relic — *The Crease-Writ* |
-| Written in sealing wax | Lore — *A Stylus In Crimson* |
-| The hollowed seal | Item — *The Scooped Seal* |
-| "She's *working.*" | Event — *Not Missing* |
+| पन्ना सपाट खोलना | कौशल — *तह दबाओ* |
+| "संस्थापक सामने नहीं आएगा। हस्ताक्षर मत करना।" | रिलिक — *तह-लिखत* |
+| मुहर की मोम में लिखा | लोर — *क़िरमिज़ी में एक स्टाइलस* |
+| पोली की हुई मोहर | आइटम — *खोदी गई मोहर* |
+| "वह *काम कर रही है।*" | इवेंट — *लापता नहीं* |

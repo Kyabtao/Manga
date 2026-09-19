@@ -1,191 +1,185 @@
-# THREADBORN — Chapter 07 — Page 005
+# सुत्रजात (THREADBORN) — अध्याय ०७ — पृष्ठ ००५
 
-**अध्याय शीर्षक:** *The Crimson Line* / *क़िरमिज़ी पंक्ति*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Knot & Nail, Ashfall Basin
-**पृष्ठ प्रकार:** Reveal page — 7 panels
+**अध्याय शीर्षक:** *क़िरमिज़ी पंक्ति*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (भोर के बाद)
+**पृष्ठ प्रकार:** जीवित धागा — ७ पैनल, अन्त में हुक
 
-> Beats: Page 004 — the crimson line is crease-writ, drawn in a bead of wax dug out of the
-> letter's own seal. Somebody read the principal's letter, warned Ira inside the fold, and
-> re-pressed the crimson with a thumb. Ira has worked out who. She has not said it.
->
-> **This page:** the thread confirms it. And then the thread does something it has never done.
+> English source: [`page-005.md`](page-005.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Medium, Ira alone with the sheet (~13%)
-
-**कैमरा:** Ira has walked out of the stall. She is at the back of the stall, under the awning,
-facing away from Kessa, holding the letter flat in both hands in front of her chest — not reading
-it, *holding* it. The market noise continues behind the panel edge.
-
-**चित्र:** The girl leaving the counter to answer a question in the only room she trusts, which is
-her own hand.
-
-> **शीर्षक (Ira's voice):**
-> Kessa doesn't follow. She never follows. She keeps the stall and I keep the sky and the back of
-> the awning is not the sky, but it'll do for a minute.
+> **यह पृष्ठ:** धागा इसे पक्का करता है। और फिर धागा वह करता है जो उसने कभी नहीं किया।
 
 ---
 
-## चित्र-खाना 2 — Close, palm to page (~14%)
+## पैनल १ — मध्यम, पन्ने के साथ अकेली इरा (~१३%)
 
-**कैमरा:** Close: Ira turns the letter over and lays the crease-writ line flat across her open
-left palm — directly across the stitch. Her right hand comes down on top, pressing page to palm.
+**कैमरा:** इरा ठेले से बाहर निकल आई है। वह ठेले के पीछे है, शामियाने के नीचे, केसा से मुँह मोड़े
+हुए, ख़त दोनों हाथों से सपाट अपनी छाती के सामने थामे — पढ़ती नहीं, *थामे* हुए। पैनल के किनारे के पीछे
+बाज़ार का शोर चलता रहता है।
 
-**चित्र:** The line laid on the stitch. Two sewn-shut things meeting. The panel should be quiet:
-no motion lines, no glow yet.
+**दृश्य:** लड़की काउंटर छोड़कर उस अकेले कमरे में सवाल का जवाब देने जा रही है जिस पर उसे भरोसा है,
+और वह उसकी अपनी हथेली है।
 
-> **शीर्षक (Ira's voice):**
-> There's one way to ask a thread a question. You put the question on your skin and you wait.
+> **कैप्शन (इरा का स्वर):**
+> केसा पीछे नहीं आती। वह कभी पीछे नहीं आती। वह ठेला रखती है और मैं आकाश, और शामियाने का पिछला हिस्सा
+> आकाश नहीं है, पर एक मिनट के लिए चलेगा।
 
 ---
 
-## चित्र-खाना 3 — Macro, the strand moves (~14%)
+## पैनल २ — क्लोज़, हथेली पर पन्ना (~१४%)
 
-**कैमरा:** Macro. Under her fingers, at the edge of the stitch, the **blank strand** comes loose
-from the palm — the mother's thread, the teacher's strand, ash-grey and shadowless. It rises, and
-it goes not to the grey wax and not to the letter's grey ink. It goes to the crimson, threads
-itself along the eleven words, and **lies down inside them**.
+**कैमरा:** क्लोज़: इरा ख़त को पलटती है और तह-लिखत वाली पंक्ति अपनी खुली बाईं हथेली पर सपाट रख देती
+है — ठीक सिलाई के आर-पार। उसका दाहिना हाथ ऊपर से आकर पन्ने को हथेली पर दबा देता है।
 
-**चित्र:** A thread taking its place inside a line of writing. Two strands of the same woman:
-one sewn into a daughter's hand, one drawn in wax into a fold.
+**दृश्य:** पंक्ति सिलाई पर रखी हुई। दो सी कर बन्द की गई चीज़ें मिलती हुईं। पैनल शान्त रहे: न गति-रेखाएँ,
+न अभी कोई चमक।
+
+> **कैप्शन (इरा का स्वर):**
+> धागे से सवाल पूछने का एक ही तरीक़ा है। तुम सवाल अपनी त्वचा पर रखते हो और प्रतीक्षा करते हो।
+
+---
+
+## पैनल ३ — मैक्रो, तंतु हिलता है (~१४%)
+
+**कैमरा:** मैक्रो। उसकी उँगलियों के नीचे, सिलाई के किनारे, **ख़ाली तंतु** हथेली से ढीला पड़ जाता है —
+माँ का धागा, गुरु का तंतु, राख-धूसर और छायाहीन। वह ऊपर उठता है, और वह धूसर मोम की ओर नहीं जाता और न
+ख़त की धूसर स्याही की ओर। वह क़िरमिज़ी की ओर जाता है, अपने आप को उन ग्यारह शब्दों के साथ पिरोता है, और
+**उनके भीतर लेट जाता है**।
+
+**दृश्य:** एक धागा लिखी हुई पंक्ति के भीतर अपनी जगह लेता हुआ। एक ही स्त्री के दो तंतु: एक बेटी की
+हथेली में सीया हुआ, एक मोम में एक तह में खींचा हुआ।
 
 > **ध्वनि:** *—*
 
-> **शीर्षक (none spoken):**
-> It doesn't reach. It doesn't hunt. It *settles* — the way a thread settles into a seam that
-> was cut for it.
+> **कैप्शन (कोई बोलता नहीं):**
+> वह पहुँचता नहीं। वह शिकार नहीं करता। वह *बैठ जाता है* — जैसे धागा ऐसे सीवन में बैठता है जो उसी के
+> लिए काटा गया हो।
 >
-> **CAPTION:**
-> Same gauge. Same twist. Same hand at the spindle.
+> **कैप्शन:**
+> वही माप। वही ऐंठन। तकुए पर वही हाथ।
 
 ---
 
-## चित्र-खाना 4 — Large, the mark opens (~15%)
+## पैनल ४ — बड़ा, चिह्न खुलता है (~१५%)
 
-**कैमरा:** The palm, opened. The stitch comes undone from the **inside** — thread lifting out
-loop by loop without tearing (the Ch. 004 method, reused). Underneath, the Sutra-mark: projection
-type, dormant, **braided** — two strands wound around each other, and in this panel, for the first
-time, the two strands are the same colour as the crease-writ.
+**कैमरा:** हथेली, खुली हुई। सिलाई **भीतर से** खुल जाती है — धागा फंदा दर फंदा उठता हुआ, बिना फटे
+(अध्याय ००४ का तरीक़ा, दोबारा इस्तेमाल)। उसके नीचे सूत्र-चिह्न: प्रक्षेपण-प्रकार, सुप्त, **बुना हुआ** —
+दो तंतु एक-दूसरे पर लिपटे, और इस पैनल में, पहली बार, दोनों तंतु उसी रंग के हैं जिस रंग की तह-लिखत है।
 
-**चित्र:** The mark answering. Not glowing — **matching**. The reveal is likeness, not power.
+**दृश्य:** चिह्न जवाब दे रहा है। चमकता नहीं — **मेल खाता है**। पर्दा साम्य है, शक्ति नहीं।
 
-> **शीर्षक (Ira's voice):**
-> The braid's two strands have always looked like the same grey to me. They aren't.
+> **कैप्शन (इरा का स्वर):**
+> बुनाई के दोनों तंतु मुझे हमेशा एक ही धूसर लगे हैं। वे नहीं हैं।
 >
-> **CAPTION:**
-> One of them is crimson under the grey. It's been crimson under the grey since I was four years
-> old and I have looked at this hand every single day since and never once seen it.
+> **कैप्शन:**
+> उनमें से एक धूसर के नीचे क़िरमिज़ी है। वह धूसर के नीचे क़िरमिज़ी तब से है जब मैं चार साल की थी,
+> और मैंने तब से हर रोज़ इस हाथ को देखा है और एक बार भी यह नहीं देखा।
 >
-> **CAPTION:**
-> You can't see it in daylight. You can only see it next to something else she touched.
+> **कैप्शन:**
+> दिन के उजाले में यह दिखता नहीं। यह सिर्फ़ तब दिखता है जब उसके बग़ल वह कुछ हो जिसे उसने छुआ था।
 
 ---
 
-## चित्र-खाना 5 — Close, the four notes (~14%)
+## पैनल ५ — क्लोज़, चार स्वर (~१४%)
 
-**कैमरा:** Ira's ear, close, in profile — but the panel is drawn so the sound comes from the palm,
-not the air. Editorial art note: **no sound waves from the market; the notes are drawn as thin
-crimson threads moving up from her hand.**
+**कैमरा:** इरा का कान, पास से, पार्श्व में — पर पैनल ऐसे खींचा गया है कि स्वर हथेली से आता है, हवा से
+नहीं। सम्पादकीय चित्र-नोट: **बाज़ार से कोई ध्वनि-तरंग नहीं; स्वर उसके हाथ से ऊपर उठते पतले क़िरमिज़ी
+धागों की तरह खींचे गए हैं।**
 
-> **SFX (through the thread, not the air):**
-> *hn — hn — hn — hn*
+> **ध्वनि (धागे से, हवा से नहीं):**
+> *ह्न — ह्न — ह्न — ह्न*
 >
-> Four notes. Off-key. In the correct order. Exactly as they were on Ch. 006 Page 007.
+> चार स्वर। बेसुरे। सही क्रम में। बिलकुल वैसे जैसे अध्याय ००६ पृष्ठ ००७ पर थे।
 
-**चित्र:** The four notes arriving through the thread. The sound drawn as thread because that is
-where it lives now.
+**दृश्य:** चार स्वर धागे के ज़रिए आते हुए। स्वर धागे की तरह खींचा गया है क्योंकि अब वह वहीं रहता है।
 
-> **शीर्षक (Ira's voice, very small):**
-> Four notes. Off by the same amount they have always been off by.
+> **कैप्शन (इरा का स्वर, बहुत धीमा):**
+> चार स्वर। उतने ही बेसुरे जितने वे हमेशा रहे हैं।
 >
-> **CAPTION:**
-> Her hum.
+> **कैप्शन:**
+> उसका गुनगुनाना।
 >
-> **CAPTION:**
-> It's the same four notes the chain has been echoing at me for six chapters, and this time they
-> aren't coming off the chain and they aren't coming out of the air. They're coming up the strand
-> into the middle of my hand like somebody tuning a string from the other end.
+> **कैप्शन:**
+> यही चार स्वर हैं जो ज़ंजीर छह अध्याय से मेरे पीछे प्रतिध्वनित करती आई है, और इस बार वे न ज़ंजीर से
+> आ रहे हैं और न हवा से। वे तंतु से ऊपर, मेरी हथेली के बीचोंबीच आ रहे हैं, जैसे कोई दूसरे सिरे से तार
+> सुर में बैठा रहा हो।
 
 ---
 
-## चित्र-खाना 6 — Extreme close, something else (~14%)
+## पैनल ६ — अत्यधिक क्लोज़, कुछ और (~१४%)
 
-**कैमरा:** The palm again, macro. The four notes have stopped. In their place — thin, dry, exact,
-twice, with the small uneven pause between them that a person makes when they turn a needle
-around: **a needle going through cloth.** Not a memory. Not an echo. *Present tense.*
+**कैमरा:** फिर हथेली, मैक्रो। चार स्वर रुक गए हैं। उनकी जगह — पतला, सूखा, सटीक, दो बार, उनके बीच वह
+छोटा असमान ठहराव जो कोई तब करता है जब वह सुई को पलटता है: **कपड़े में से गुज़रती हुई सुई।** कोई स्मृति
+नहीं। कोई प्रतिध्वनि नहीं। *वर्तमान काल।*
 
-**चित्र:** The single most important panel of the chapter. A sound with no visual source, in a
-series where the mother has never spoken.
+**दृश्य:** इस अध्याय का सबसे महत्वपूर्ण पैनल। ऐसा स्वर जिसका कोई दृश्य-स्रोत नहीं, ऐसी शृंखला में जहाँ
+माँ ने कभी बोला नहीं।
 
 > **ध्वनि:**
-> *tsk ... tsk*
+> *त्सक ... त्सक*
 
-> **शीर्षक (Ira's voice, unsteady for the first time):**
-> Then it stops.
+> **कैप्शन (इरा का स्वर, पहली बार डगमगाता हुआ):**
+> फिर वह रुक जाता है।
 >
-> **CAPTION:**
-> And then I hear it.
+> **कैप्शन:**
+> और फिर मैं उसे सुनती हूँ।
 >
-> **CAPTION:**
-> Two stitches. Dry thread. A needle going through worked cloth, and turning, and going through
-> again. Somebody's hand is heavy on the needle and there's a small drag on the second pull,
-> like the cloth is doubled.
+> **कैप्शन:**
+> दो सिलाइयाँ। सूखा धागा। सुई बने हुए कपड़े में से गुज़र रही है, और मुड़ रही है, और दोबारा गुज़र रही
+> है। किसी का हाथ सुई पर भारी है और दूसरे खिंचाव पर ज़रा-सी रगड़ है, जैसे कपड़ा दोहरा हो।
 
 ---
 
-## चित्र-खाना 7 — Close, Ira standing very still — CLOSING HOOK (~16%)
+## पैनल ७ — क्लोज़, इरा बिलकुल स्थिर खड़ी — अन्तिम हुक (~१६%)
 
-**कैमरा:** Ira, back of the awning, hands still palm-up, letter on the palm. She is not looking
-at it. She is looking **up and out**, past the awning edge, over the pot-row, at the whole city.
+**कैमरा:** इरा, शामियाने के पीछे, हाथ अब भी हथेली-ऊपर, हथेली पर ख़त। वह उसे नहीं देख रही। वह
+**ऊपर और बाहर** देख रही है, शामियाने के किनारे के पार, हाँड़ी-कतार के ऊपर, पूरे शहर की ओर।
 
-**चित्र:** The girl with her hand open and the city in front of her, listening to something a
-street away or a mile away and having no way to tell which.
+**दृश्य:** लड़की, हाथ खुला, सामने पूरा शहर, ऐसा सुनती हुई जो एक गली दूर है या एक मील दूर, और यह बता
+पाना उसके पास नहीं है कि कौन सा।
 
-> **शीर्षक (Ira's voice):**
-> Memory sounds like a room you've left.
+> **कैप्शन (इरा का स्वर):**
+> स्मृति ऐसी सुनाई देती है जैसे कोई कमरा जिसे तुम छोड़ आए हो।
 >
-> **CAPTION:**
-> This doesn't sound like a room I've left. It sounds like a room somebody is *in.*
+> **कैप्शन:**
+> यह ऐसा नहीं सुनाई देता जैसे मैं कोई कमरा छोड़ आई हूँ। यह ऐसा सुनाई देता है जैसे कोई किसी कमरे के
+> *भीतर* हो।
 >
-> **शीर्षक (last line):**
-> She's sewing. Right now, somewhere in Agnikhand, with a needle, the way she has been sewing
-> for forty years — and the strand she sewed into my hand when I was four years old is picking
-> up the work.
+> **कैप्शन (अन्तिम पंक्ति):**
+> वह सी रही है। अभी, अग्निखण्ड में कहीं, सुई से, जैसे वह चालीस साल से सीती आई है — और वह तंतु जो
+> उसने मेरी हथेली में सीया था जब मैं चार साल की थी, वही काम उठा रहा है।
 >
-> **शीर्षक (smaller):**
-> Three days gone. A crease-writ in a fold. Four notes. Two stitches.
+> **कैप्शन (छोटा):**
+> तीन दिन गए। एक तह में एक तह-लिखत। चार स्वर। दो सिलाइयाँ।
 >
-> **शीर्षक (smallest):**
-> And the only thread in the world that runs from me to her, running the wrong way.
+> **कैप्शन (सबसे छोटा):**
+> और दुनिया का अकेला धागा जो मुझसे उस तक जाता है, उल्टी दिशा में चल रहा है।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The confirmation is material, not magical.** The braid doesn't tell her a name. It shows her
-  a *match*: same gauge, same twist, same hand at the spindle — and a colour in the palm strand
-  she has never been able to see in daylight.
-- **The two-strand braid's second colour is now locked canon.** The braid is Ira's grey and the
-  mother's crimson-under-grey. Do not render the second strand crimson outside the presence of
-  the mother's material (wax, thread, cloth) — the constraint is what makes it land.
-- **Four notes: correct order, correct off-pitch, drawn as thread.** Chapter 006 p007 established
-  hearing them correctly through the thread's *memory*. The escalation here is *present tense* —
-  it is a live channel now, not an archive. Keep the sound tight and small. This series has never
-  played the notes as a fanfare; do not start.
-- **The needle is the hook, not the voice.** The mother still does not speak. On the page where
-  she finally, verifiably *is*, she communicates by working. The Loom never speaks; the mother
-  does not either — she sews.
-- **Do not let Kessa hear any of it.** Kessa's scene is Page 006: Ira comes back to the counter
-  and tells her, and Kessa's response is practical, immediate and slightly devastating.
+- **पुष्टि भौतिक है, जादुई नहीं।** बुनाई उसे कोई नाम नहीं बताती। वह उसे एक *मेल* दिखाती है: वही माप,
+  वही ऐंठन, तकुए पर वही हाथ — और हथेली के तंतु में एक रंग जो वह दिन के उजाले में कभी नहीं देख पाई।
+- **दो-तंतु बुनाई का दूसरा रंग अब पक्का क़ानून है।** बुनाई है इरा का धूसर और माँ का धूसर-के-नीचे-क़िरमिज़ी।
+  माँ की सामग्री (मोम, धागा, कपड़ा) की मौजूदगी के बाहर दूसरे तंतु को क़िरमिज़ी न रेंडर करें — यही
+  बंधन उसे असरदार बनाता है।
+- **चार स्वर: सही क्रम, सही बेसुरापन, धागे की तरह खींचे हुए।** अध्याय ००६ पृष्ठ ००७ ने उन्हें धागे की
+  *स्मृति* से ठीक सुनना स्थापित किया था। यहाँ बढ़त है *वर्तमान काल* — अब यह जीवित चैनल है, पुरालेख
+  नहीं। स्वर तंग और छोटा रखें। इस शृंखला ने स्वरों को कभी तुरही की तरह नहीं बजाया; शुरू न करें।
+- **हुक सुई है, आवाज़ नहीं।** माँ अब भी नहीं बोलती। जिस पृष्ठ पर वह आख़िरकार, प्रमाण के साथ *मौजूद*
+  है, वह वहाँ काम करके बताती है। सूत्र-यन्त्र कभी नहीं बोलता; माँ भी नहीं बोलती — वह सीती है।
+- **केसा को इसमें से कुछ सुनने न दें।** केसा का दृश्य पृष्ठ ००६ है: इरा काउंटर पर लौटती है और उसे
+  बताती है, और केसा का जवाब व्यावहारिक, तत्काल और ज़रा-सा तबाह करने वाला है।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| Laying the line on the stitch | Action — *Ask The Thread* |
-| The strand settles into the writing | Power — *Same Hand At The Spindle* |
-| The crimson under the grey | Lore — *The Second Colour* |
-| Four notes through the strand | Event — *Her Hum* |
-| Two stitches, present tense | Event — *The Needle Is Live* |
+| सिलाई पर पंक्ति रखना | क्रिया — *धागे से पूछो* |
+| तंतु लिखाई में बैठ जाता है | पावर — *तकुए पर वही हाथ* |
+| धूसर के नीचे क़िरमिज़ी | लोर — *दूसरा रंग* |
+| तंतु से चार स्वर | इवेंट — *उसका गुनगुनाना* |
+| दो सिलाइयाँ, वर्तमान काल | इवेंट — *सुई जीवित है* |
