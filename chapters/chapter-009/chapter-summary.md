@@ -1,6 +1,6 @@
 # Chapter 009 — *The Reading* / *पाठ* — IN PROGRESS
 
-**Status:** IN PROGRESS — pages 001–006 scripted (EN); Hindi, cast files, images to follow in-step.
+**Status:** IN PROGRESS — **all 10 pages scripted (EN)**; Hindi, cast files, images to follow in-step.
 **Chain-stop budget: SPENT on page 006** (Rekhak, held stop — deposit writes into his own ledger).
 **Arc:** II — The Mendery · **Sector:** Agnikhand — the Ash-sLums, the Mendery, the Reckoning Office
 **Open PR for this work:** Kyabtao/Manga#3
@@ -44,6 +44,16 @@ copy of the crease-writs, and the mother is four nights down a list of forty-one
   its reader with a sentence it drafted knowing it was false; Rekhak swears it on a held stop; the
   deposit writes the true sentence into his own ledger in his own hand. Cliff: the keeper must
   **identify the hand** the instrument read, on the record, within three days.
+- **Ch. 009 · Page 007** — the blank, and the school's answer to it: kind, school-year and **Jadi's
+  first knot** entered in the register with no name in the box. The Inspector calls it a *translation.*
+- **Ch. 009 · Page 008** — the queue: thirty-one hands declared voluntarily in their own language;
+  Nandi to be heard in two days; the principal's requisition for the **Book of the Hand.**
+- **Ch. 009 · Page 009** — the knots come out of the Book and go back to their owners; the mother's
+  note under the last knot (*Do not enrol me. — S.M.*); the cut Book goes up the stair with a keeper's
+  attestation; one **unnamed knot** is left on the register's last line.
+- **Ch. 009 · Page 010** — the Office's answer is a department, not a raid: a copyist, a bigger book,
+  and four words in crimson on the reserved line — ***PRODUCE THE HAND. REWARD RESERVED.*** Jadi
+  volunteers to walk up the Council Stair. **END OF CHAPTER NINE.**
 
 ## Open threads (carried in)
 
