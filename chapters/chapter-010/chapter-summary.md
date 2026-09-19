@@ -1,6 +1,6 @@
 # Chapter 010 — *Room Nine* / *कमरा नौ* — IN PROGRESS
 
-**Status:** IN PROGRESS — pages 001–003 scripted (EN); Hindi, cast files, images to follow in-step.
+**Status:** IN PROGRESS — pages 001–008 scripted (EN); Hindi, cast files, images to follow in-step.
 **Arc:** II — The Mendery · **Sector:** Agnikhand — the Council Stair, the Reckoning Office, the Ash-sLums
 **Open PR for this work:** Kyabtao/Manga#3
 **Chain-stop budget:** none — spent in Chapter 009 (Rekhak, held stop). No stop in Chapter 010.
@@ -51,6 +51,13 @@ on Kessa's tally-thread, which is still the only record of any of it that cannot
   train; she accepts on the condition that **the keeper reads every entry out loud with her.** In the
   corridor she gives **Nima** her own page (*ties two threads at once, counts to forty without a slate,
   will teach*). Ira goes home with the register and **fourteen claims** to enter at her counter.
+- **Ch. 010 · Pages 007–008** — the bounty as commerce at the counter: fourteen claims, a palm with seven
+  healed cuts, a sister's braided hand offered for rent money. Ira uses the keeper's discretion twice
+  lawfully (fee moved to the Office; a hand entered at its owner's word so no claimant is paid). Shutters
+  down: **Jadi proposes finishing the basin in the dark and declaring nobody**; Ira refuses and opens the
+  **second school** — teach, tell, let each person decide. Nima bargains: *don't write me.* Hook: a
+  thumbprint claim promises to produce the founder at fourth bell, and a second crimson sheet makes the
+  producing party her **party of record.**
 
 ## Open threads (carried in)
 
