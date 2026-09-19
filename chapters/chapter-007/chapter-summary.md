@@ -81,9 +81,11 @@ the needle.
 7. **Every spine in the Mendery was held shut by the mother's thread.** Forty years, one spool.
    The archive was not merely her cover — the archive was hers. Nandi spent three days extracting
    it, because a thread-owner can be read.
-8. **The Roll of Hands is gone.** The school's pupil register: every pupil by name, kind and the
-   year the teacher's strand was sewn in, kept continuously from founding through the twenty years
-   of binding. Taken by the mother two nights before the audit could reach it.
+8. **The Roll of Hands is gone.** The school's pupil register: kind, the year the teacher's strand
+   was sewn in, and the pupil's first knot, kept continuously from founding through the twenty years
+   of binding. **No names were ever written in it** — a name is a handle and a handle can be read off
+   a page. Taken by the mother two nights before the audit could reach it. *(Ch. 008 reveals the roll
+   had no names; the store of names was kept by Jadi in her head. Ch. 007 p008 was corrected to match.)*
 9. **One name on the roll is not in the Council's registers.** The school taught one hand that went
    up the terrace and never came back down. Nandi has never written it out and will not speak it.
 10. **The twenty years was rent.** The mother stayed bound because a bound woman in one room is not

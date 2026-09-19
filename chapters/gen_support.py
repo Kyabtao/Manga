@@ -15,6 +15,7 @@ CHARS = {
     "guthli": "Guthli — गुठली",
     "pira": "Pira — पीरा",
     "nandi": "Nandi — नंदी",
+    "jadi": "Jadi — जड़ी",
 }
 
 # Hindi translations for common dialogue/captions
@@ -96,6 +97,33 @@ HINDI = {
     "He can have the books.": "किताबें वह रख सकता है।",
     "I keep the reading.": "पढ़ना मैं रखती हूँ।",
     "Then I close the stitch.": "फिर मैं सिलाई बंद करती हूँ।",
+    # Ch008
+    "Good morning.": "सुप्रभात।",
+    "The records stay. The room stays open, and I'll be in it every second bell.": "अभिलेख रहेंगे। कमरा खुला रहेगा, और मैं हर दूसरी घंटी में यहाँ रहूँगा।",
+    "You know what you just did.": "तुम्हें पता है तुमने अभी क्या किया।",
+    "I put the archive under his hand instead of yours.": "मैंने अभिलेख तुम्हारे बजाय उसके हाथ में रखा।",
+    "Girl.": "बच्ची।",
+    "What do I call you?": "तुम्हें क्या कहूँ?",
+    "Jadi.": "जड़ी।",
+    "You shut it.": "तुमने इसे बंद कर दिया।",
+    "Two nights ago.": "दो रात पहले।",
+    "I know what you are. I asked what you *are.*": "मुझे पता है तुम क्या हो। मैंने पूछा तुम *क्या* हो।",
+    "You're the teacher.": "तुम शिक्षक हो।",
+    "Pull it out.": "इसे निकाल दो।",
+    "It doesn't come back. Hand's fine. Fingers are fine.": "यह वापस नहीं आता। हाथ ठीक है। उँगलियाँ ठीक हैं।",
+    "Why did she take it? The Roll. It's been the question since she left and you're the first person": "उसने इसे क्यों लिया? सूची। यह उसके जाने के बाद से सवाल रहा है और तुम पहली इंसान हो",
+    "who can answer it.": "जो जवाब दे सकती है।",
+    "Because I told her to.": "क्योंकि मैंने उसे कहा था।",
+    "What?": "क्या?",
+    "No.": "नहीं।",
+    "Say the three rules.": "तीन नियम कहो।",
+    "Rule two.": "नियम दो।",
+    "Rule three.": "नियम तीन।",
+    "You'll need thread.": "तुम्हें धागा चाहिए होगा।",
+    "I've got thread.": "मेरे पास धागा है।",
+    "I can finish it.": "मैं इसे पूरा कर सकती हूँ।",
+    "When is the lesson.": "अगला पाठ कब है।",
+    "It doesn't feel different.": "यह अलग महसूस नहीं होता।",
 }
 
 def make_hindi(src_path):
@@ -184,6 +212,8 @@ def make_cast(ch, pg, script_text):
             lines.append("Full sheet (Ch. 001): [`../../chapter-001/characters/patra.md`](../../chapter-001/characters/patra.md)")
         elif char_id == "nandi":
             lines.append("Full sheet (Ch. 006): [`../../chapter-006/characters/nandi.md`](../../chapter-006/characters/nandi.md)")
+        elif char_id == "jadi":
+            lines.append("Full sheet (Ch. 008): [`jadi.md`](jadi.md)")
         lines.append("")
     
     return "\n".join(lines)
@@ -230,6 +260,14 @@ def make_glossary(ch):
             ("Tally-thread", "गिनती-डोर", "Kessa's knotted cord ledger — the only record in Agnikhand that keeps no ink."),
             ("Supply chute", "आपूर्ति-नाली", "The Mendery's mortar drop: the road the mother's thread came up for forty years."),
         ],
+        "chapter-008": [
+            ("Book of the Hand", "हाथ की पुस्तक", "The school's method book. Knot diagrams for pupils who could not read; ends in forty years of first knots, one page per pupil, no names."),
+            ("The hatch", "खिड़की-द्वार", "A forearm-sized hatch cut low in the Mendery's back door. The school's only address for forty years."),
+            ("The Dating", "तिथि-करण", "The Office's nine-month practice of running a compliance chain across a palm and writing the enrollment year on a slate."),
+            ("Unthreaded", "धागा-हीन", "A hand that has been dated: uninjured, and no longer knows what a needle is for. Forty-one measured; six unthreaded."),
+            ("Unreadable", "अपठनीय", "A chain's return for a braided palm: both years at once. The Office has no procedure for it."),
+            ("Pre-filing", "पूर्व-दाखिल", "The principal's method: entering a record before the event it describes. The entry predates the letter by eleven days."),
+        ],
     }
     
     items = terms.get(ch, [])
@@ -272,6 +310,12 @@ def make_locations(ch):
             ("THE BACK WALL", "पिछली दीवार", "The oldest Kshudra files in Agnikhand, knot-script labels, hand-cut boards — and one shelf standing empty."),
             ("THE SUPPLY CHUTE", "आपूर्ति-नाली", "A mortar drop in the Mendery's back stair. Forty years of thread came up through it; one letter goes down."),
         ],
+        "chapter-008": [
+            ("THE MENDERY (SEQUESTERED)", "मेंडरी (अधिकृत)", "The Office inside, a clerk on a crate with a slate by the stair, the disbound archive declared third-register property and left open."),
+            ("THE BACK WALL", "पिछली दीवार", "The gap where the Roll stood, and beside it the Book of the Hand, standing there for forty years unread."),
+            ("THE HATCH ALLEY", "खिड़की-गली", "The wet alley behind the Mendery. The hatch at knee height, its shutter worn shiny by forty years of forearms."),
+            ("THE RECKONING OFFICE (WALL)", "लेखा-कार्यालय (दीवार)", "A hook, a compliance chain, a slate. One word written and underlined twice."),
+        ],
     }
     
     items = locs.get(ch, [])
@@ -283,7 +327,7 @@ def make_locations(ch):
     return "\n".join(out)
 
 def main():
-    for ch in ["chapter-003", "chapter-004", "chapter-005", "chapter-006", "chapter-007"]:
+    for ch in ["chapter-003", "chapter-004", "chapter-005", "chapter-006", "chapter-007", "chapter-008"]:
         chdir = os.path.join(ROOT, "chapters", ch)
         story_dir = os.path.join(chdir, "story")
         chars_dir = os.path.join(chdir, "characters")

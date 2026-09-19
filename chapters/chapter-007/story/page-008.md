@@ -82,9 +82,13 @@ Agnikhand it belongs to.
 > *The Roll of Hands.*
 >
 > **NANDI:**
-> Every hand the school ever taught, in the order it was taught. Name, kind, the year the strand
-> went in. Started when she founded it, kept up through the binding, kept up *after* the binding —
-> she had students long after the Council shut her, girl, that is the entire point of the sewer.
+> Every hand the school ever taught, in the order it was taught. Kind, the year the strand went
+> in, and the knot they tied first. No names — never one, not in forty years. A name is a handle,
+> and a handle can be read off a page.
+>
+> **NANDI:**
+> Started when she founded it, kept up through the binding, kept up *after* the binding — she had
+> students long after the Council shut her, girl, that is the entire point of the sewer.
 >
 > **NANDI:**
 > Forty years of pupils on one set of quires. And it was standing on this shelf at the second
