@@ -1,196 +1,191 @@
-# THREADBORN — Chapter 07 — Page 006
+# सुत्रजात (THREADBORN) — अध्याय ०७ — पृष्ठ ००६
 
-**अध्याय शीर्षक:** *The Crimson Line* / *क़िरमिज़ी पंक्ति*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Knot & Nail, Ashfall Basin
-**पृष्ठ प्रकार:** Regular — 7 panels
+**अध्याय शीर्षक:** *क़िरमिज़ी पंक्ति*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (सुबह)
+**पृष्ठ प्रकार:** जिल्दबन्दी — ७ पैनल, अन्त में हुक
 
-> Beats: Page 005 — the strand settled into the crease-writ. The braid showed crimson under the
-> grey. Four notes, correct, through the thread. Then two stitches of live needlework, present
-> tense. The mother is working, right now, somewhere in Agnikhand.
->
-> **This page:** Kessa does the one thing Ira has never been able to do — she reads a person by
-> her stitches.
+> English source: [`page-006.md`](page-006.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> **यह पृष्ठ:** केसा वह करती है जो इरा कभी नहीं कर पाई — वह किसी व्यक्ति को उसकी सिलाइयों से पढ़ लेती
+> है।
 
 ---
 
-## चित्र-खाना 1 — Medium, Ira back at the counter (~13%)
+## पैनल १ — मध्यम, इरा काउंटर पर लौटी (~१३%)
 
-**कैमरा:** Ira returns round the awning and sets the letter on the counter without a word. Kessa
-does not ask what happened out there. She looks at Ira's thumb — red — and at her palm, where the
-stitch has visibly loosened, thread lifted, not yet re-sewn.
+**कैमरा:** इरा शामियाने का चक्कर काटकर लौटती है और बिना एक शब्द कहे ख़त काउंटर पर रख देती है। केसा
+नहीं पूछती कि बाहर क्या हुआ। वह इरा के अँगूठे को देखती है — लाल — और उसकी हथेली को, जहाँ सिलाई साफ़
+दिखने लायक ढीली पड़ गई है, धागा उठा हुआ, अभी दोबारा सीया नहीं गया।
 
-**चित्र:** Two women at a counter and one piece of evidence, which is Ira's hand.
+**दृश्य:** काउंटर पर दो स्त्रियाँ और एक सबूत, और वह सबूत इरा का हाथ है।
 
-> **KESSA:**
-> तुमने इसे हाथ पर रखकर खोला।
+> **केसा:**
+> तुमने इसे अपना हाथ उस पर रखकर खोला।
 >
-> **KESSA:**
+> **केसा:**
 > ...अच्छा। यहाँ आओ।
 
 ---
 
-## चित्र-खाना 2 — Close, Kessa takes the hand (~14%)
+## पैनल २ — क्लोज़, केसा हाथ लेती है (~१४%)
 
-**कैमरा:** Kessa takes Ira's left hand in both of hers, turns it palm-up, and reads it the way she
-read it on Ch. 001 Page 002 — appraiser's grip, thumb across the palm, but this time she is
-reading *work*, not debt.
+**कैमरा:** केसा इरा का बायाँ हाथ अपने दोनों हाथों में लेती है, उसे हथेली-ऊपर पलटती है, और उसे वैसे
+पढ़ती है जैसे अध्याय ००१ पृष्ठ ००२ पर पढ़ा था — परखन-हार की पकड़, अँगूठा हथेली पर, पर इस बार वह ऋण
+नहीं, *काम* पढ़ रही है।
 
-**चित्र:** The appraiser's hands, the mender's palm, and a loose stitch. The series' central
-gesture, page 002 of chapter 001 and page 006 of chapter 007, two hundred pages of story held
-between them.
+**दृश्य:** परखन-हार के हाथ, सिलाई करने वाले की हथेली, और एक ढीली पड़ी सिलाई। शृंखला का केन्द्रीय
+हाव-भाव, अध्याय ००१ का पृष्ठ ००२ और अध्याय ००७ का पृष्ठ ००६, और उनके बीच दो सौ पृष्ठ की कहानी।
 
-> **शीर्षक (Ira's voice):**
-> She reads the stitch first. Then she reads the *seam* — the new line of lifted thread where the
-> strand came out to lie down in the writing.
+> **कैप्शन (इरा का स्वर):**
+> वह पहले सिलाई पढ़ती है। फिर वह *सीवन* पढ़ती है — उठे हुए धागे की वह नई लकीर जहाँ से तंतु निकलकर
+> लिखाई में जा लेटा था।
 >
-> **CAPTION:**
-> Her thumb goes still on it. That's the tell. Kessa's thumb only stops for real numbers.
+> **कैप्शन:**
+> उसका अँगूठा उस पर जाकर स्थिर हो जाता है। यही पहचान है। केसा का अँगूठा सिर्फ़ असली अंकों पर रुकता है।
 
 ---
 
-## चित्र-खाना 3 — Close, Kessa asks the right question (~14%)
+## पैनल ३ — क्लोज़, केसा सही सवाल पूछती है (~१४%)
 
-**कैमरा:** Kessa, looking at Ira's palm and not at her face. She asks the question the whole
-chapter has been circling.
+**कैमरा:** केसा, इरा की हथेली को देखती हुई, उसके चेहरे को नहीं। वह वह सवाल पूछती है जिसके इर्द-गिर्द
+पूरा अध्याय घूम रहा है।
 
-**चित्र:** The appraiser asking for the material fact. Not *who was it*. Not *are you all right*.
+**दृश्य:** परखन-हार भौतिक तथ्य माँग रही है। *कौन था* नहीं। *तुम ठीक हो* नहीं।
 
-> **KESSA:**
-> When it was down in the wax — what did you hear?
+> **केसा:**
+> जब वह मोम के नीचे था — तुमने क्या सुना?
 >
-> **IRA:**
-> Four notes. Her hum. Right order, wrong pitch, same as the thread's memory in the archive.
+> **इरा:**
+> चार स्वर। उसका गुनगुनाना। सही क्रम, ग़लत सुर, वैसे ही जैसे अभिलेखागार में धागे की स्मृति में थे।
 >
-> **IRA:**
-> And then something else. Two stitches. Dry thread, worked cloth, and a drag on the second
-> pull — like the needle was going through two layers and not one.
+> **इरा:**
+> और फिर कुछ और। दो सिलाइयाँ। सूखा धागा, बना हुआ कपड़ा, और दूसरे खिंचाव पर एक रगड़ — जैसे सुई
+> एक नहीं, दो परतों में से गुज़र रही हो।
 >
-> **KESSA:**
+> **केसा:**
 > ...
 >
-> **KESSA:**
-> दूसरा हिस्सा फिर से कहो।
+> **केसा:**
+> दूसरा हिस्सा दोबारा कहो।
 
 ---
 
-## चित्र-खाना 4 — Large, Kessa reads the stitches (~15%)
+## पैनल ४ — बड़ा, केसा सिलाइयाँ पढ़ती है (~१५%)
 
-**कैमरा:** Kessa's own hands come up into the panel and she *shows* Ira what she means — needle
-mimed, no needle in hand, the gesture of turning a needle through doubled cloth.
+**कैमरा:** केसा के अपने हाथ पैनल में आ जाते हैं और वह इरा को *दिखाती* है कि उसका मतलब क्या है — सुई
+का नक़ल, हाथ में सुई नहीं, दोहरे कपड़े में से सुई पलटने का हाव-भाव।
 
-**चित्र:** The woman who has never been able to teach Ira threadwork, teaching Ira the one thing
-she does know: how to identify a trade from the sound of it.
+**दृश्य:** वह स्त्री जो इरा को कभी धागे का काम नहीं सिखा पाई, इरा को वह एक चीज़ सिखा रही है जो वह
+जानती है: किसी काम को उसकी आवाज़ से पहचानना।
 
-> **KESSA:**
-> Two layers, uneven drag, and the turn is slow. Menders don't sew doubled cloth. You don't mend
-> two layers at once, you open them and mend them one at a time — that's the whole craft.
+> **केसा:**
+> दो परतें, असमान रगड़, और पलटना धीमा। सिलाई करने वाले दोहरा कपड़ा नहीं सीते। तुम एक साथ दो परतें
+> नहीं सीते, तुम उन्हें खोलते हो और एक-एक करके सीते हो — पूरा हुनर यही है।
 >
-> **KESSA:**
-> Doubled cloth with a heavy needle and a slow turn isn't mending, child. That's **binding.**
+> **केसा:**
+> दोहरा कपड़ा, भारी सुई और धीमा पलटना — यह सिलाई नहीं है, बच्ची। यह **जिल्दबन्दी** है।
 >
-> **KESSA:**
-> Quires. Signatures. Hand-bound books — the thread has to go through the fold of every single
-> sheet or the block falls apart, and the needle turns *inside* the fold where you can't see it,
-> so the hand goes slow.
+> **केसा:**
+> दस्ते। हस्त-बद्ध किताबें — धागे को हर एक पन्ने की तह में से गुज़रना पड़ता है वरना पूरा गट्ठर
+> बिखर जाता है, और सुई तह के *भीतर* पलटती है जहाँ तुम्हें कुछ दिखता नहीं, इसलिए हाथ धीमा चलता है।
 
 ---
 
-## चित्र-खाना 5 — Close, Kessa lands it (~14%)
+## पैनल ५ — क्लोज़, केसा नतीजे पर पहुँचती है (~१४%)
 
-**कैमरा:** Kessa, loupe up, eyes narrow. She has done the geography and it has not taken her long,
-because there is only one place that answers.
+**कैमरा:** केसा, लूप ऊपर, आँखें सिकुड़ी हुई। उसने पूरा नक़्शा बना लिया है और उसमें ज़्यादा समय नहीं
+लगा, क्योंकि जवाब देने वाली जगह एक ही है।
 
-**चित्र:** The basin narrowing to one address.
+**दृश्य:** पूरा गर्त एक पते पर सिमटता हुआ।
 
-> **KESSA:**
-> Hand-binding. Doubled folds. In this basin.
+> **केसा:**
+> हाथ से जिल्दबन्दी। दोहरी तहें। इसी गर्त में।
 >
-> **KESSA:**
-> The Office uses a sew-through machine and a glue block — you can hear it from the stair, it
-> sounds like a market closing. Nobody in the Ashfall does quires by hand. Nobody.
+> **केसा:**
+> कार्यालय सीने की मशीन और गोंद का गट्ठर इस्तेमाल करता है — सीढ़ी से सुनाई देता है, ऐसा लगता है
+> जैसे बाज़ार बन्द हो रहा हो। भस्म-गर्त में कोई हाथ से दस्ते नहीं सीता। कोई नहीं।
 >
-> **KESSA:**
-> Except the place that has been doing it by hand since before the Council kept records at all.
+> **केसा:**
+> सिवाय उस जगह के जो परिषद के अभिलेख शुरू होने से भी पहले से हाथ से सीती आई है।
 
-> **शीर्षक (Ira's voice):**
+> **कैप्शन (इरा का स्वर):**
 > मेंडरी।
 >
-> **CAPTION:**
-> The back wall. The files older than the Council's own records. And Nandi's hands, which have
-> been keeping them since before I was born.
+> **कैप्शन:**
+> पिछली दीवार। परिषद के अपने अभिलेखों से भी पुरानी फ़ाइलें। और नन्दी के हाथ, जो उन्हें मेरे पैदा
+> होने से पहले से सँभाले हुए हैं।
 
 ---
 
-## चित्र-खाना 6 — Medium, the box (~13%)
+## पैनल ६ — मध्यम, बक्सा (~१३%)
 
-**कैमरा:** The counter. Kessa's hand on the lockbox lid — not opening it, just resting, the Ch. 006
-Page 009 gesture. Behind her, the stall, shutters half down. The letter lies open on the counter.
+**कैमरा:** काउंटर। ताला-बक्से के ढक्कन पर केसा का हाथ — खोलते हुए नहीं, बस टिका हुआ, अध्याय ००६ पृष्ठ
+००९ का हाव-भाव। उसके पीछे ठेला, शटर आधे गिरे। ख़त काउंटर पर खुला पड़ा है।
 
-**चित्र:** The woman who counts deciding what to spend.
+**दृश्य:** गिनती करने वाली स्त्री तय कर रही है कि क्या ख़र्च करना है।
 
-> **IRA:**
-> मुझे वापस अंदर जाना है।
+> **इरा:**
+> मुझे दोबारा भीतर जाना है।
 >
-> **KESSA:**
-> You have a key, child. You've had a key since the posting order. That's not the part I'm
-> worried about.
-
-> **KESSA:**
-> The Inspector has an audit warrant with the charter written on it. He has had it since the day
-> you brought the school's name out of that cellar. And the last thing out of his mouth was
-> *files were supposed to be destroyed.*
+> **केसा:**
+> तुम्हारे पास चाबी है, बच्ची। हस्तांतरण-आदेश के दिन से तुम्हारे पास चाबी है। मुझे उसकी चिन्ता नहीं है।
+>
+> **केसा:**
+> निरीक्षक के पास एक लेखा-अधिपत्र है जिस पर अधिकार-पत्र का नाम लिखा है। जिस दिन तुम उस तहख़ाने से
+> विद्यालय का नाम बाहर लाई, उसी दिन से उसके पास है। और उसके मुँह से आख़िरी बात यही निकली थी कि
+> *फ़ाइलें नष्ट की जानी थीं।*
 
 ---
 
-## चित्र-खाना 7 — Close, Ira packs the kit — CLOSING HOOK (~17%)
+## पैनल ७ — क्लोज़, इरा थैली बाँधती है — अन्तिम हुक (~१७%)
 
-**कैमरा:** Ira's hands, close, packing: the needle-roll, the shears, the thread-cake, the blank
-strand coiled under the wrist-wrap. On top of it all she places the principal's letter — folded,
-but not shut.
+**कैमरा:** इरा के हाथ, पास से, थैली भरते हुए: सुई-पोटली, कैंची, धागे की टिकिया, और कलाई-पट्टी के नीचे
+लिपटा ख़ाली तंतु। सबके ऊपर वह प्रमुख का ख़त रखती है — मुड़ा हुआ, पर बन्द नहीं।
 
-**चित्र:** A girl packing to go into the place where her mother is working, with the thing her
-mother's captor wrote, carried like a tool.
+**दृश्य:** एक लड़की उस जगह में जाने के लिए थैली भर रही है जहाँ उसकी माँ काम कर रही है, और साथ लिए
+हुए वह चीज़ जो उसकी माँ के पकड़ने वाले ने लिखी, औज़ार की तरह।
 
-> **शीर्षक (Ira's voice):**
-> She's binding quires two streets away, in the one building in Agnikhand that the Council has
-> been trying to burn down quietly for forty years. And she's doing it *badly enough to hear*,
-> with a needle she doesn't hurry, in a room where the walls are paper.
+> **कैप्शन (इरा का स्वर):**
+> वह दो गलियाँ दूर दस्ते जिल्दबन्द कर रही है, अग्निखण्ड की उस अकेली इमारत में जिसे परिषद चालीस साल से
+> चुपचाप जलाने की कोशिश कर रही है। और वह यह *इतनी बुरी तरह कर रही है कि सुनाई दे* — ऐसी सुई से जिसमें
+> वह जल्दी नहीं करती, ऐसे कमरे में जिसकी दीवारें काग़ज़ हैं।
 >
-> **शीर्षक (last line):**
-> She isn't hiding from me.
+> **कैप्शन (अन्तिम पंक्ति):**
+> वह मुझसे छिप नहीं रही।
 >
-> **शीर्षक (smaller):**
-> She's leaving the work where I'll find it on the third morning, the way she left Bhan's arm,
-> and the four notes, and the crease. The school only has one way to say anything, and it is
-> never with a mouth.
+> **कैप्शन (छोटा):**
+> वह काम वहीं छोड़ रही है जहाँ मुझे वह तीसरी सुबह मिल जाए, जैसे उसने भान की बाँह छोड़ी थी, और चार
+> स्वर, और तह। विद्यालय के पास कुछ कहने का एक ही तरीक़ा है, और वह कभी मुँह से नहीं होता।
 >
-> **शीर्षक (smallest):**
-> So I'm going to answer her. And I'm going to do it the same way.
+> **कैप्शन (सबसे छोटा):**
+> तो मैं उसे जवाब देने जा रही हूँ। और वह भी उसी तरीक़े से।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **Kessa's competence is the engine of this page.** She cannot hold a needle. She has never once
-  done threadwork. And she is the one who identifies the trade from the sound, because appraising
-  is knowing what things are by how they wear. This is her page; keep Ira quiet through the middle
-  of it.
-- **"Binding" must land as a discovery, not a detour.** Have Kessa's hands do the mime. The reader
-  should be able to work out *the Mendery* one beat before Ira says it.
-- **The stitch on Ira's palm is now visibly loosened** — lifted thread, not yet re-sewn. This is a
-  running visual state for Chapter 007. Chapter 008 must account for whether she re-sews it.
-- **The letter is carried folded but *not shut*** — a deliberate physical detail. A closed fold
-  hides the crease-writ again; she is keeping the conversation open on her palm. Pay it on Page 010.
-- **The Inspector's warrant stays offstage** — mentioned, not shown. His escalation is Chapter
-  008's opening problem, not this chapter's.
+- **इस पृष्ठ का इंजन केसा की दक्षता है।** वह सुई नहीं थाम सकती। उसने एक बार भी धागे का काम नहीं किया।
+  और वही है जो आवाज़ से काम पहचान लेती है, क्योंकि परखना ही यह जानना है कि चीज़ें घिसने से क्या होती
+  हैं। यह उसका पृष्ठ है; बीच में इरा को चुप रखें।
+- **"जिल्दबन्दी" एक खोज की तरह उतरनी चाहिए, किसी भटकाव की तरह नहीं।** केसा के हाथ नक़ल करें। पाठक को
+  इरा के कहने से एक धड़क पहले *मेंडरी* तक पहुँच जाना चाहिए।
+- **इरा की हथेली पर सिलाई अब साफ़ दिखने लायक ढीली है** — धागा उठा हुआ, अभी दोबारा सीया नहीं गया। यह
+  अध्याय ००७ के लिए एक चलती हुई दृश्य-अवस्था है। अध्याय ००८ को हिसाब देना पड़ेगा कि वह इसे दोबारा
+  सीती है या नहीं।
+- **ख़त मुड़ा हुआ पर *बन्द नहीं*** ढोया जा रहा है — यह जानबूझकर रखा हुआ भौतिक ब्यौरा है। बन्द तह
+  तह-लिखत को दोबारा छिपा देती है; वह बातचीत अपनी हथेली पर खुली रख रही है। पृष्ठ ०१० पर इसका फल दें।
+- **निरीक्षक का अधिपत्र परदे के पीछे ही रहता है** — ज़िक्र है, दिखाया नहीं। उसकी बढ़त अध्याय ००८ की
+  शुरुआती समस्या है, इस अध्याय की नहीं।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| Kessa reads the seam, not the debt | Lore — *The Appraiser's Second Reading* |
-| Two layers, uneven drag, slow turn | Rule — *Reading A Trade By Ear* |
-| "That's binding." | Skill — *Bind The Quire* |
-| The Mendery's hand work | Location — *The Back Wall* |
-| Packing the kit with the letter on top | Event — *The Third Morning* |
+| केसा ऋण नहीं, सीवन पढ़ती है | लोर — *परखन-हार का दूसरा पाठ* |
+| दो परतें, असमान रगड़, धीमा पलटना | नियम — *काम को कान से पढ़ना* |
+| "यह जिल्दबन्दी है।" | कौशल — *दस्ता बाँधो* |
+| मेंडरी का हाथ का काम | स्थान — *पिछली दीवार* |
+| थैली में सबसे ऊपर ख़त | इवेंट — *तीसरी सुबह* |

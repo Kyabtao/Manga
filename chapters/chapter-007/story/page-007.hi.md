@@ -1,188 +1,180 @@
-# THREADBORN — Chapter 07 — Page 007
+# सुत्रजात (THREADBORN) — अध्याय ०७ — पृष्ठ ००७
 
-**अध्याय शीर्षक:** *The Crimson Line* / *क़िरमिज़ी पंक्ति*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Mendery, the archive
-**पृष्ठ प्रकार:** Regular — 7 panels
+**अध्याय शीर्षक:** *क़िरमिज़ी पंक्ति*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — मेंडरी, तहख़ाने का अभिलेखागार (तीसरी सुबह, भोर से पहले)
+**पृष्ठ प्रकार:** खुला तहख़ाना — ७ पैनल, अन्त में हुक
 
-> Beats: Page 006 — Kessa read the needlework: doubled folds, heavy needle, slow turn. That is
-> binding, not mending. Somewhere two streets away, a woman is hand-binding quires. The only hand
-> binder in the basin is the Mendery.
->
-> **This page:** the archive on the third morning. What three days of work looks like from the
-> inside.
+> English source: [`page-007.md`](page-007.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, down the back stairs (~14%)
-
-**कैमरा:** The Mendery's back door, pre-dawn. Ira's mother's key in the Kshudra lock — the same
-lock craft as every lock in this story. The door opens inward. The stairs go down.
-
-**चित्र:** The door she has now used twice. The key is not a relic anymore; it is a habit.
-
-> **शीर्षक (Ira's voice):**
-> Same key. Same stair. Third morning.
->
-> **CAPTION:**
-> The last two times I came down here I was looking for a file with my mother's name on it.
-> This time I'm looking for the woman who *wrote* it.
+> **यह पृष्ठ:** तीसरी सुबह का अभिलेखागार। तीन दिन का काम भीतर से कैसा दिखता है।
 
 ---
 
-## चित्र-खाना 2 — Large, the archive transformed (~15%)
+## पैनल १ — व्यापक, पिछली सीढ़ी से नीचे (~१४%)
 
-**कैमरा:** The archive floor, wide. It is unrecognisable. Quires are **out** — dozens of them,
-stacked in the aisles, spines apart, sheets fanned on every level surface. The long reading table
-is covered. There are four lamps lit. Somebody has been working through the night, and not
-carefully, and not hiding it.
+**कैमरा:** मेंडरी का पिछला दरवाज़ा, भोर से पहले। क्षुद्र के ताले में इरा की माँ की चाबी — वही ताला
+कारीगरी जो इस कहानी के हर ताले की है। दरवाज़ा भीतर की ओर खुलता है। सीढ़ियाँ नीचे जाती हैं।
 
-**चित्र:** A cellar full of open books. The archive turned inside out. This should read at a
-glance as *work in progress by someone with no time and no need to tidy up.*
+**दृश्य:** वह दरवाज़ा जिसे वह अब दो बार इस्तेमाल कर चुकी है। चाबी अब कोई अवशेष नहीं है; वह एक आदत है।
 
-> **शीर्षक (Ira's voice):**
-> Every file in the Mendery has been taken apart.
+> **कैप्शन (इरा का स्वर):**
+> वही चाबी। वही सीढ़ी। तीसरी सुबह।
 >
-> **CAPTION:**
-> Not thrown, not burned, not looted. *Disbound.* Spines cut at the stitching, sheets laid flat in
-> order, quires stacked the way you stack them when you're going to sew them back into new boards
-> and you want to know exactly what's in each one before you do.
+> **कैप्शन:**
+> पिछली दो बार जब मैं यहाँ नीचे आई थी, मैं ऐसी फ़ाइल ढूँढ़ रही थी जिस पर मेरी माँ का नाम लिखा हो।
+> इस बार मैं उस स्त्री को ढूँढ़ रही हूँ जिसने वह *लिखी* थी।
 
 ---
 
-## चित्र-खाना 3 — Medium, Nandi in the middle of it (~14%)
+## पैनल २ — बड़ा, बदला हुआ अभिलेखागार (~१५%)
 
-**कैमरा:** **Nandi** — old Kshudra, cat-eye catching a lamp, sitting on a stool in the middle of
-the floor with a quire open on her knees and a needle in her hand. Not working. Waiting. She has
-been waiting in a lit room for three days and it shows.
+**कैमरा:** अभिलेखागार का फ़र्श, व्यापक। यह पहचाना नहीं जाता। दस्ते **बाहर** हैं — दर्जनों, गलियारों में
+ढेर लगे, मेरुदंड अलग, पन्ने हर सपाट सतह पर पंखे की तरह फैले। लम्बी पढ़ने की मेज़ भरी हुई। चार लालटेनें
+जल रही हैं। कोई रात भर काम करता रहा है, और सावधानी से नहीं, और इसे छिपाते हुए भी नहीं।
 
-**चित्र:** The keeper of the archive, in the middle of the wreckage, holding a needle she has no
-business holding.
+**दृश्य:** खुली किताबों से भरा तहख़ाना। अभिलेखागार उल्टा कर दिया गया। एक नज़र में यह पढ़ा जाना चाहिए कि
+*किसी ऐसे का अधूरा काम जिसके पास न समय है न सँभालने की ज़रूरत।*
 
-> **NANDI:**
-> तुम्हें देर लगी।
+> **कैप्शन (इरा का स्वर):**
+> मेंडरी की हर फ़ाइल खोल दी गई है।
 >
-> **IRA:**
-> मुझे नहीं पता था कि मुझे बुलाया गया है।
->
-> **NANDI:**
-> तुम्हें बुलाया नहीं गया। तुम्हारा *समय तय* था।
+> **कैप्शन:**
+> फेंकी नहीं, जलाई नहीं, लूटी नहीं। *जिल्द खोली हुई।* सिलाई पर से मेरुदंड कटे, पन्ने क्रम में सपाट
+> रखे, दस्ते वैसे ढेर किए हुए जैसे तुम उन्हें तब ढेर करते हो जब तुम उन्हें नए पत्तों में दोबारा सीने
+> वाले हो और उससे पहले यह जानना चाहते हो कि हर एक में क्या है।
 
 ---
 
-## चित्र-खाना 4 — Close, Nandi's hands (~14%)
+## पैनल ३ — मध्यम, बीच में नन्दी (~१४%)
 
-**कैमरा:** Nandi's hands, close: needle, thread, and a quire — and the thread is wrong for the
-work. It is too fine, too even, and it has the flat shadowless look of the archive's oldest stock.
-She has not been binding. She has been *rethreading*. Every quire on the floor is open at the
-spine, and the old thread has been pulled out and left in a single long pile beside her stool.
+**कैमरा:** **नन्दी** — पुरानी क्षुद्र, बिल्ली-आँख में एक लालटेन पकड़ती हुई, फ़र्श के बीच एक स्टूल पर
+बैठी, घुटनों पर एक दस्ता खुला और हाथ में सुई। काम करते हुए नहीं। प्रतीक्षा करते हुए। वह तीन दिन से एक
+जगमगाते कमरे में प्रतीक्षा कर रही है और यह दिखता है।
 
-**चित्र:** A pile of extracted thread, forty years long. The physical evidence of the crime and
-the answer to what the crime actually was.
+**दृश्य:** अभिलेखागार की रखवाली करने वाली, तबाही के बीच में, ऐसी सुई थामे हुए जिसे थामना उसका काम
+नहीं है।
 
-> **शीर्षक (Ira's voice):**
-> She isn't binding anything.
+> **नन्दी:**
+> तुमने देर लगा दी।
 >
-> **CAPTION:**
-> She's *unbinding.* Every quire in the Mendery, spine opened, and the old thread drawn out and
-> dropped in a pile next to her like a woman gutting fish.
+> **इरा:**
+> मुझे पता नहीं था कि मुझे बुलाया गया है।
 >
-> **CAPTION:**
-> And every length in that pile is the same colour, the same gauge, the same twist as the strand
-> in my hand.
+> **नन्दी:**
+> तुम्हें बुलाया नहीं गया था। तुम्हारा *समय तय था।*
 
 ---
 
-## चित्र-खाना 5 — Medium, Nandi explains (~14%)
+## पैनल ४ — क्लोज़, नन्दी के हाथ (~१४%)
 
-**कैमरा:** Nandi puts the needle down — deliberately, the way a person stops pretending. She
-looks at Ira properly for the first time in the page.
+**कैमरा:** नन्दी के हाथ, पास से: सुई, धागा, और एक दस्ता — और धागा इस काम के लिए ग़लत है। वह बहुत
+महीन है, बहुत एक-सा, और उसमें अभिलेखागार की सबसे पुरानी खेप वाली वह सपाट छायाहीन बनावट है। वह
+जिल्दबन्दी नहीं कर रही। वह *धागा निकाल* रही है। फ़र्श पर हर दस्ते का मेरुदंड खुला है, और पुराना धागा
+खींचकर उसके स्टूल के बग़ल एक लम्बे ढेर में छोड़ दिया गया है।
 
-**चित्र:** The old woman putting down the prop. She was not binding; she was keeping her hands
-busy so that Ira would have to be the one to ask.
+**दृश्य:** निकाले हुए धागे का ढेर, चालीस साल लम्बा। अपराध का भौतिक सबूत, और इस बात का जवाब कि वह
+अपराध असल में था क्या।
 
-> **NANDI:**
-> The Mendery's files were sewn with her thread. All of them. Forty years, every quire in this
-> cellar, the same spool — because she was the only one who ever *gave* thread away, and the
-> Council stopped supplying us before your mother was bound.
+> **कैप्शन (इरा का स्वर):**
+> वह कुछ जिल्दबन्द नहीं कर रही।
 >
-> **NANDI:**
-> So long as the thread was in the spine, this archive was hers. Every file, every name in it —
-> tied shut by her hand.
+> **कैप्शन:**
+> वह *जिल्द खोल* रही है। मेंडरी का हर दस्ता, मेरुदंड खुला, और पुराना धागा खींचकर उसके बग़ल ढेर कर
+> दिया गया है, जैसे कोई मछली की अँतड़ियाँ निकाल रहा हो।
 >
-> **NANDI:**
-> She came back at the second bell two nights ago and she spent the whole night taking herself
-> out of every single one of them.
+> **कैप्शन:**
+> और उस ढेर की हर लम्बाई वही रंग, वही माप, वही ऐंठन है जो मेरे हाथ के तंतु की है।
 
 ---
 
-## चित्र-खाना 6 — Close, Ira (~13%)
+## पैनल ५ — मध्यम, नन्दी समझाती है (~१४%)
 
-**कैमरा:** Ira, still, in the middle of the floor. She has not sat down. She is looking at the
-pile of thread.
+**कैमरा:** नन्दी सुई रख देती है — जानबूझकर, जैसे कोई नाटक करना बन्द करता है। वह पृष्ठ में पहली बार इरा
+को ठीक से देखती है।
 
-**चित्र:** The daughter looking at forty years of her mother's work, undone in one night, by the
-woman who made it.
+**दृश्य:** बूढ़ी स्त्री सहारा रख देती है। वह जिल्दबन्द नहीं कर रही थी; वह अपने हाथ व्यस्त रखे हुए थी
+ताकि पूछने वाली इरा ही बने।
 
-> **शीर्षक (Ira's voice):**
-> Two nights ago. While I was standing on the stair finding a two-pour seal under a thumb.
+> **नन्दी:**
+> मेंडरी की फ़ाइलें उसके धागे से सीई गई थीं। सब। चालीस साल, इस तहख़ाने का हर दस्ता, वही एक रील —
+> क्योंकि वही अकेली थी जिसने कभी धागा *दिया* था, और तुम्हारी माँ के बंधने से पहले ही परिषद ने हमें
+> देना बन्द कर दिया था।
 >
-> **CAPTION:**
-> She wrote the crease-writ, she walked two streets, she let herself into her own archive with a
-> key she's had since before I was born, and she spent the night pulling her own thread out of
-> forty years of other people's lives.
+> **नन्दी:**
+> जब तक धागा मेरुदंड में था, यह अभिलेखागार उसका था। हर फ़ाइल, उसमें लिखा हर नाम — उसके हाथ से बाँधा
+> हुआ।
+>
+> **नन्दी:**
+> वह दो रात पहले दूसरी घंटी पर लौटी और उसने पूरी रात इनमें से हर एक में से ख़ुद को निकालने में लगाई।
 
 ---
 
-## चित्र-खाना 7 — Close, the question — CLOSING HOOK (~16%)
+## पैनल ६ — क्लोज़, इरा (~१३%)
 
-**कैमरा:** Ira and Nandi, two-shot at the stool. Ira asks the only question that matters. Nandi
-has been dreading it and does not pretend otherwise.
+**कैमरा:** इरा, स्थिर, फ़र्श के बीच। वह बैठी नहीं है। वह धागे के ढेर को देख रही है।
 
-**चित्र:** The question. And a woman who has kept an archive for decades deciding, in real time,
-what an archive is for.
+**दृश्य:** बेटी अपनी माँ के चालीस साल के काम को देख रही है, जिसे उसने एक रात में ख़ुद, अपने हाथों से
+खोल दिया।
 
-> **IRA:**
-> She didn't do all that to hide. If she wanted to hide she'd have burned the room.
+> **कैप्शन (इरा का स्वर):**
+> दो रात पहले। जब मैं सीढ़ी पर खड़ी अँगूठे के नीचे दो-डाल वाली मोहर ढूँढ़ रही थी।
 >
-> **IRA:**
-> So — what did she *take*?
+> **कैप्शन:**
+> उसने तह-लिखत लिखी, दो गलियाँ चली, उस चाबी से अपने ही अभिलेखागार में घुसी जो उसके पास मेरे पैदा होने
+> से भी पहले से है, और उसने पूरी रात दूसरों की चालीस साल की ज़िन्दगी से अपना धागा खींचते हुए बिताई।
+
+---
+
+## पैनल ७ — क्लोज़, सवाल — अन्तिम हुक (~१६%)
+
+**कैमरा:** इरा और नन्दी, स्टूल पर दो-पात्र शॉट। इरा वही अकेला सवाल पूछती है जो मायने रखता है। नन्दी
+इससे डर रही थी और इसका नाटक नहीं करती।
+
+**दृश्य:** सवाल। और एक स्त्री जिसने दशकों तक अभिलेखागार सँभाला है, वह अपनी आँखों के सामने तय कर रही
+है कि अभिलेखागार होता किसलिए है।
+
+> **इरा:**
+> यह सब उसने छिपने के लिए नहीं किया। अगर उसे छिपना होता, तो वह कमरा जला देती।
 >
-> **NANDI:**
+> **इरा:**
+> तो — उसने *लिया* क्या?
+>
+> **नन्दी:**
 > ...
 >
-> **NANDI:**
-> Nothing that was on the front shelves, girl.
+> **नन्दी:**
+> सामने के ताख़ों से कुछ नहीं, लड़की।
 >
-> **NANDI (last line):**
-> Come to the back wall. I'll show you where the oldest file in this cellar was standing when
-> I locked up on the second night.
+> **नन्दी (अन्तिम पंक्ति):**
+> पिछली दीवार पर आओ। मैं तुम्हें दिखाऊँगी कि दूसरी रात जब मैं ताला लगाने गई, तब इस तहख़ाने की सबसे
+> पुरानी फ़ाइल कहाँ खड़ी थी।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The archive's state is the chapter's best single image.** Dozens of disbound quires, a lit
-  room, and a woman sitting in the middle of it with her hands still. Spend the layout budget on
-  Panel 2.
-- **Nandi's needle is wrong for the work on purpose.** She has been extracting, not binding. This
-  should be legible on close inspection but should not be explained until Panel 4 — let the reader
-  get suspicious first.
-- **The thread in the spines is the mother's.** This is the mechanical link that makes the whole
-  chapter cohere: the supply line did not go *through* the archive, the supply line **was** the
-  archive. Forty years of the Mendery's files were held shut by Sutar, M. Canon from here.
-- **The word "scheduled" is Nandi's sharpest line in the series so far.** She means it literally —
-  the mother's work has a timetable and Ira is on it. Nandi has known for two nights and has been
-  sitting in a lit cellar waiting to be asked.
-- **Do not show the gap yet.** Panel 7 exists only to point the camera at the back wall. Page 008
-  opens on it.
+- **अभिलेखागार की हालत इस अध्याय की सबसे अच्छी अकेली छवि है।** दर्जनों जिल्द-खुले दस्ते, एक जगमगाता
+  कमरा, और उसके बीच में हाथ स्थिर किए बैठी एक स्त्री। लेआउट का बजट पैनल २ पर लगाएँ।
+- **नन्दी की सुई जानबूझकर इस काम के लिए ग़लत है।** वह निकाल रही है, जिल्दबन्द नहीं कर रही। यह पास से
+  देखने पर पढ़ा जाना चाहिए पर पैनल ४ तक समझाया न जाए — पाठक को पहले शक़ होने दें।
+- **मेरुदंडों का धागा माँ का है।** यही वह यान्त्रिक कड़ी है जो पूरे अध्याय को बाँधती है: आपूर्ति-मार्ग
+  अभिलेखागार से होकर *गुज़रता* नहीं था, आपूर्ति-मार्ग **ही** अभिलेखागार था। मेंडरी की चालीस साल की
+  फ़ाइलें सुतार, म. के हाथ से बन्द रखी गई थीं। यहाँ से क़ानून।
+- **"समय तय था" नन्दी की अब तक की सबसे तेज़ पंक्ति है।** वह इसे शाब्दिक अर्थ में कहती है — माँ के काम
+  का एक समय-पत्रक है और इरा उसमें है। नन्दी दो रात से जानती है और एक जगमगाते तहख़ाने में बैठी पूछे
+  जाने की प्रतीक्षा कर रही है।
+- **अंतराल अभी मत दिखाएँ।** पैनल ७ सिर्फ़ इसलिए है कि कैमरा पिछली दीवार की ओर घुम जाए। पृष्ठ ००८
+  उसी पर खुलता है।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The disbound archive | Location — *The Open Cellar* |
-| Forty years of the mother's thread | Lore — *Every Spine Was Hers* |
-| The pile of extracted thread | Item — *The Gutted Quires* |
-| "तुम्हें बुलाया नहीं गया। तुम्हारा *समय तय* था।" | Lore — *The Timetable* |
-| "Come to the back wall." | Event — *The Empty Standing Place* |
+| जिल्द-खुला अभिलेखागार | स्थान — *खुला तहख़ाना* |
+| माँ का चालीस साल का धागा | लोर — *हर मेरुदंड उसका था* |
+| निकाले धागे का ढेर | आइटम — *अँतड़ियाँ निकाले दस्ते* |
+| "तुम्हें बुलाया नहीं गया था। तुम्हारा *समय तय था।*" | लोर — *समय-पत्रक* |
+| "पिछली दीवार पर आओ।" | इवेंट — *ख़ाली खड़ी जगह* |
