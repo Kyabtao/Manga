@@ -326,6 +326,54 @@ def make_locations(ch):
         out.append("")
     return "\n".join(out)
 
+
+def hindi_coverage(path):
+    """Return % Devanagari of a .hi.md file (0 if empty/missing)."""
+    if not os.path.exists(path):
+        return 0.0
+    with open(path, encoding="utf-8") as f:
+        text = f.read()
+    dev = len(re.findall(r"[\u0900-\u097F]", text))
+    lat = len(re.findall(r"[A-Za-z]", text))
+    return (100.0 * dev / (dev + lat)) if (dev + lat) else 0.0
+
+
+HINDI_MIN_PCT = 80.0  # a .hi.md below this is a machine stub, not a translation
+
+
+def audit_hindi(chapters):
+    """Report Hindi coverage. Never silently ship a stub as a translation."""
+    print("\nHindi coverage audit")
+    print("  %-12s %8s  %s" % ("chapter", "coverage", "verdict"))
+    failures = []
+    for ch in chapters:
+        story = os.path.join(ROOT, "chapters", ch, "story")
+        files = [f for f in sorted(glob.glob(os.path.join(story, "page-*.hi.md")))]
+        if not files:
+            continue
+        dev = lat = 0
+        for f in files:
+            with open(f, encoding="utf-8") as fh:
+                t = fh.read()
+            dev += len(re.findall(r"[\u0900-\u097F]", t))
+            lat += len(re.findall(r"[A-Za-z]", t))
+        pct = (100.0 * dev / (dev + lat)) if (dev + lat) else 0.0
+        ok = pct >= HINDI_MIN_PCT
+        if not ok:
+            failures.append((ch, pct))
+        print("  %-12s %7.1f%%  %s" % (ch, pct, "ok" if ok else "STUB - needs real translation"))
+
+    if failures:
+        print("\n  WARNING: %d chapter(s) below the %.0f%% translation floor:" % (len(failures), HINDI_MIN_PCT))
+        for ch, pct in failures:
+            print("    %s (%.1f%%)" % (ch, pct))
+        print("  These .hi.md files are generated stubs (English prose with translated headers).")
+        print("  Hand-translate them; do NOT re-run this script over them.")
+    else:
+        print("\n  All chapters at or above the translation floor.")
+    return failures
+
+
 def main():
     for ch in ["chapter-003", "chapter-004", "chapter-005", "chapter-006", "chapter-007", "chapter-008"]:
         chdir = os.path.join(ROOT, "chapters", ch)
@@ -375,7 +423,10 @@ def main():
                 f.write(make_locations(ch))
             print("  wrote", os.path.relpath(loc_path, ROOT))
     
-    print("done.")
+    audit_hindi(["chapter-001", "chapter-002", "chapter-003", "chapter-004",
+                 "chapter-005", "chapter-006", "chapter-007", "chapter-008"])
+
+    print("\ndone.")
 
 if __name__ == "__main__":
     main()
