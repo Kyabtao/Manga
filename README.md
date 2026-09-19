@@ -20,29 +20,39 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Chapters 001–007 COMPLETE** — Arc I done, Arc II open |
-| **Pages completed** | Ch. 001–007: **all complete** (70 pages, 70 images) |
-| **NEXT page to build** | **Chapter 008 · Page 001** (Arc II — the audit lands) |
+| **Chapter in progress** | **Chapters 001–008 COMPLETE** — Arc I done, Arc II in progress |
+| **Pages completed** | Ch. 001–008: **all complete** (80 pages, 80 images) |
+| **NEXT page to build** | **Chapter 009 · Page 001** — the chain-stop budget is now OVERDUE and must be spent |
 | **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) (targets `main`) |
 
-### Next-page brief (Chapter 008 · Page 001)
-Chapter 007 ended with a letter going down the Mendery's supply chute and a girl sewing her own
-stitch shut on the step. Chapter 008 opens on the **audit** — the Inspector's warrant (Ch. 006
-Page 008, live ever since the charter was read) finally executes, and it lands on a cellar that no
-longer has anything in it. Every quire is disbound, every spine unthreaded, and the back wall has
-one shelf standing empty where the Roll of Hands used to be. The Inspector's problem is no longer
-Ira: it is that the Mendery's records have been *opened*, which means the archive is now evidence,
-which means **Nandi** — its keeper of forty years — is the person the Office can actually take.
-Ira's problem is the mirror of it: her stitch is closed, the strand is sewn down, and for the
-first time since Chapter 005 the mark gives her nothing. She has spent seven chapters learning to
-read the thread and has just made herself unreadable to protect the one person who could read her.
-The page's turn: a stranger walks into the Knot & Nail with a **braided mark on the palm** — a
-first knot, Kshudra-made, forty years old — and asks for the school. The Roll of Hands is out of
-the archive and every pupil her mother ever taught is now findable by the woman who took it.
-Continuity: clause four's timer runs one Unspooling from the letter's delivery; the principal still
-holds a letter he cannot read; chain-stop budget **unspent for a third chapter** — spend it here or
-hand it to Chapter 009, do not let it drift past the Arc II turn; Kessa's tally-thread holds the
-only copy of both crease-writs; the Loom never speaks; the mother never appears on panel.
+### Next-page brief (Chapter 009 · Page 001)
+**The chain-stop budget is overdue.** It has been held unspent across Chapters 006, 007 and 008.
+Chapter 009 opens its budget and must spend it — no further deferral.
+
+Chapter 008 ended on a slate: a compliance chain read a braided palm, returned both years at once,
+and a clerk wrote one word — **unreadable** — and underlined it twice. *There is no procedure for
+that, which means by morning there will be one.* That is Chapter 009's opening problem. The Office
+does not retaliate; it *codifies.* A new instrument will exist by the first bell, and it will be
+aimed not at Ira but at the thing she cannot protect: **Jadi's hand is the proof of concept and
+the only braided palm the Office can put on a slate.**
+
+The page's shape: the new procedure arrives at the stall as paperwork, not force — a grey clerk
+with a slate and a second, worse word. Ira has three days of breathing room at most and three
+problems stacked behind each other: Nandi is in custody and has not been charged; clause four's
+timer on the licence is still running; and the mother is four nights down a list of forty-one.
+Kessa's counter-position: *he can have the books, I keep the reading* — the tally-thread is the
+only copy of the crease-writs, and it makes her, not Ira, the piece on the board the Office has
+not noticed yet.
+
+The **chain-stop lands here**, and it should cost Rekhak rather than Ira: he is the basin's only
+chain-reader and the only person who can explain what a braid does to a compliance instrument —
+which means the Office will require him to swear to it. A held-stop oath on that subject is a
+deposit waiting to happen, and he has one lie already on his ledger.
+
+Continuity: Ira's stitch is **open** with a live channel; Jadi wears the school's first braid;
+the Mendery has a clerk on a crate every second bell; the Roll of Hands and Jadi's roster of
+forty-one are both with the mother; Loom never speaks; mother never on panel; the principal's
+answered letter is still unread by him.
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -199,6 +209,11 @@ only copy of both crease-writs; the Loom never speaks; the mother never appears 
 - **Ch. 007 · Pages 001–005** — The night of not opening it. Ira lies under the Loom with the letter on the stitch, and the strand climbs past the grey to the crimson. Dawn: two hands on one fold — Ira takes grey, Kessa takes crimson. The grey **snaps** clean; the crimson **lifts**, soft and cloudy, **already broken and pressed back down.** The letter's body: a **Letter of Provisional Licence** naming *Ira Sutar, of the School of the Braided Thread*, four clauses — one stall, one basin, one name; threads at each second bell; the mark on the Council kind-roll; and **clause four: produce its founder before the seal.** Rekhak reads the register it came from and tells them the worst of it: the **third register** is a crimson-bound private hand's book; entries in it **license nothing — they inventory.** Sign and a writ goes after her mother. Stay silent and in one Unspooling the school reverts to him. Kessa notices the fold is too stiff. Pressed flat, the crease holds eleven words drawn in **sealing wax** where only a mender would look: *"The founder will not appear. Do not sign. — a hand of the school."* Somebody broke the principal's seal, dug a bead out of it with a thumbnail, wrote in the fold, and left the letter for Ira on a morning she'd be alone.
 - **Ch. 007 · Pages 006–010** — Laid across the stitch, the strand settles into the writing and the braid opens: **crimson under the grey**, invisible in daylight for fifteen years. Four notes, correct — and then two dry stitches of **live** needlework. Kessa reads the sound — doubled folds, heavy needle, slow turn — that is **binding**, and the only hand-binder in the basin is the Mendery. Ira returns to a disbound archive: every quire opened, every spine unthreaded, forty years of her mother's thread in a pile on the floor. **Every file in the Mendery was held shut by Sutar, M.** On the back wall, one file's width of clean dust: the **Roll of Hands** is gone — the school's pupil register, forty years deep, kind and year and **no names** (a name is a handle and a handle can be read off a page). Nandi says why: *"Her freedom was the rent on that shelf."* And she delivers what she was left to hold: *"Tell her I did not write her name in the roll. Tell her I sewed her instead."* / *"Tell her not to sign anything that asks her to exist."* Ira answers in the fold — a second bead of wax, three lines in the same crease (*"The founder's hand has not signed. The stall is open."*), the fold closed so both messages vanish, then sewn shut with the blank strand and a **child's first knot.** Three seals on one letter: grey, crimson, braid. Kessa takes the only copy that cannot be audited — into her tally-thread. The letter goes down the supply chute. And on the step, Ira **closes her own stitch**, so the channel cannot be followed. **END OF CHAPTER SEVEN.**
 
+**CHAPTER 008 — THE FIRST PUPIL (पहला शिष्य)**
+
+- **Ch. 008 · Pages 001–005** — The Office comes down: two clerks, a slate, a lamp, and the Inspector with his hands behind his back. They find the archive taken apart, which makes the **room** evidence rather than the records. Ira saves it by declaring the Mendery **third-register property** — the principal's, not the Council's — which works, and which hands the Inspector a standing reason to return every second bell. They take **Nandi** instead, and she walks out on her own feet with one instruction: *the shelf — the empty one. Look at what's still standing next to it.* Beside the gap is the **Book of the Hand**: the school's method book, forty years of knot diagrams drawn for pupils who could not read, ending in one page per pupil — a **first knot stitched down, no names.** The mother took the names and left the knots, because a knot cannot be looked up. The last page is less than a year old.
+- **Ch. 008 · Pages 006–010** — The school walks in the door. **Jadi** — Kshudra, seventy-odd, **first pupil of the School of the Braided Thread** — holds up a palm whose root seam has opened and calls Ira *the teacher.* She has come to have the thread **pulled out.** Her account rebuilds the missing twenty years: after the binding, the school ran as a **hatch** cut low in the Mendery's back door, one forearm at a time, in the dark, two taps to end. Jadi kept the roster in her head; the Roll held kind, year and knot and never a name. And for nine months the Office has been **dating** pupils — a chain across the palm, a number on a slate, no arrest, no violence, and four days later the hand stops knowing what a needle is for. Forty-one measured; six unable to mend. The Roll was **copied years ago.** Ira refuses to cut, and finds the answer on the school's first page: **rule three enrolls, rules one and two finish** — a single thread is a single date, a braid carries two years and a reader gets neither. *The school doesn't teach mending. The school makes people the Office cannot count.* Her mother was taken two months after enrolling Jadi — the root was never finished. Ira opens her own closed stitch and works at the hatch, laying a second strand into Jadi's palm, and **amends rule three: the teacher's strand goes in first, and then the teacher tells you what she did.** Up-terrace, a compliance chain reads a braid for the first time and returns both years at once. A clerk writes one word on a slate and underlines it twice: **unreadable.** **END OF CHAPTER EIGHT.**
+
 # 🗂️ STRUCTURE
 
 ```
@@ -218,8 +233,8 @@ chapters/
                 cast-page-001..010.md, *-ref.png
     other/     locations.md, glossary.md
     images/    page-001..010.png
-  chapter-002 .. chapter-007/  COMPLETE — same layout, 10 pages each
-  chapter-008/            next — skeleton created before writing starts
+  chapter-002 .. chapter-008/  COMPLETE — same layout, 10 pages each
+  chapter-009/            next — skeleton created before writing starts
 
 website/                  generated reading site (committed) — build.py + assets/ are the sources
 index.html                root redirect into website/
