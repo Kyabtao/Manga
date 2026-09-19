@@ -20,9 +20,9 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 009 Hindi pass under way (3 of 10)** · Ch. 010 script + art complete · **Hindi: Ch. 001–008 COMPLETE** |
-| **Pages completed** | Ch. 001–008: **all complete** (80 pages, 80 images) · Ch. 009: **script + art complete**, Hindi 3/10 · Ch. 010: **script + art complete (10/10)** |
-| **NEXT page to build** | **Ch. 009 Hindi, pages 004–010**, then Ch. 010 Hindi (10 files) + cast files for both chapters |
+| **Chapter in progress** | **Ch. 009 Hindi pass under way (6 of 10)** · Ch. 010 script + art complete · **Hindi: Ch. 001–008 COMPLETE** |
+| **Pages completed** | Ch. 001–008: **all complete** (80 pages, 80 images) · Ch. 009: **script + art complete**, Hindi 6/10 · Ch. 010: **script + art complete (10/10)** |
+| **NEXT page to build** | **Ch. 009 Hindi, pages 007–010**, then Ch. 010 Hindi (10 files) + cast files for both chapters |
 | **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) (targets `main`) |
 
 ### Next-page brief (Chapter 009 · Page 001)
