@@ -63,6 +63,39 @@ HINDI = {
     "You heard her.": "तुमने उसे सुना।",
     "The charter stays.": "चार्टर यहीं रहता है।",
     "Mend. The rest will follow.": "सिलाई करो। बाकी पीछे आएगा।",
+    # Ch007
+    "A letter sealed in two waxes is a letter with two owners. Open it with one hand and you're": "दो मोम से सील किया ख़त दो मालिकों वाला ख़त है। एक हाथ से खोलो और तुम",
+    "the only person who saw what it said — which means you're the only person anyone can blame.": "अकेली हो जो जानती हो उसमें क्या लिखा है — यानी अकेली तुम ही हो जिस पर कोई इल्ज़ाम लगा सके।",
+    "So. Two hands. You take grey. I take crimson.": "तो। दो हाथ। तुम धूसर लो। मैं क़िरमिज़ी लूँगी।",
+    "...Child.": "...बच्ची।",
+    "This one's already open.": "यह पहले ही खुल चुका है।",
+    "Is that entered?": "क्या यह दर्ज है?",
+    "It came down your stair at some point in the last three nights and it was not entered,": "यह पिछली तीन रातों में कभी तुम्हारी सीढ़ी से नीचे आया और दर्ज नहीं हुआ,",
+    "Reckoner. Nobody entered it. It was just *left*.": "रेखक। किसी ने दर्ज नहीं किया। यह बस *छोड़* दिया गया।",
+    "Third register.": "तीसरा रजिस्टर।",
+    "Say that again to yourself, mender. *Third register.*": "इसे फिर से अपने आप से कहो, सिलाईकर्ता। *तीसरा रजिस्टर।*",
+    "Entries in the third register license nothing. They *inventory*.": "तीसरे रजिस्टर की प्रविष्टियाँ कुछ लाइसेंस नहीं करतीं। वे *सूचीबद्ध* करती हैं।",
+    "Inventoried.": "सूचीबद्ध।",
+    "You opened it with your hand on it.": "तुमने इसे हाथ पर रखकर खोला।",
+    "...Right. Come here.": "...अच्छा। यहाँ आओ।",
+    "Say the second part again.": "दूसरा हिस्सा फिर से कहो।",
+    "The Mendery.": "मेंडरी।",
+    "I have to go back in.": "मुझे वापस अंदर जाना है।",
+    "You took your time.": "तुम्हें देर लगी।",
+    "I didn't know I was invited.": "मुझे नहीं पता था कि मुझे बुलाया गया है।",
+    "You were not invited. You were *scheduled.*": "तुम्हें बुलाया नहीं गया। तुम्हारा *समय तय* था।",
+    "*The Roll of Hands.*": "*हाथों की सूची।*",
+    "Whose?": "किसका?",
+    "...Ask your mother. She is the only one on that roll who is allowed to say it.": "...अपनी माँ से पूछो। उस सूची में वह अकेली है जिसे इसे कहने की अनुमति है।",
+    "Twenty years. Why did she stay bound for twenty years? She could have walked out of that chair": "बीस साल। वह बीस साल बँधी क्यों रही? वह उस कुर्सी से कभी भी",
+    "the day the Council stopped watching.": "उठ सकती थी जिस दिन परिषद ने देखना बंद किया।",
+    "That was the first part. There was a second.": "यह पहला हिस्सा था। दूसरा भी था।",
+    "I'm not signing it. I'm not burning it either — burn it and in one Unspooling the school is his": "मैं इस पर दस्तख़त नहीं कर रही। जलाऊँगी भी नहीं — जलाओ और एक अनस्पूलिंग में विद्या उसकी",
+    "by default, and she's in a cellar in Agnikhand with a book in her apron and nowhere to stand.": "हो जाएगी, और वह अग्निखंड की एक तहख़ाने में एप्रन में किताब लिए खड़ी होगी, बिना किसी जगह।",
+    "Two ways out and neither one is out. Fine. Then I'm not taking either door.": "निकलने के दो रास्ते और कोई भी रास्ता नहीं। ठीक है। तो मैं कोई दरवाज़ा नहीं लूँगी।",
+    "He can have the books.": "किताबें वह रख सकता है।",
+    "I keep the reading.": "पढ़ना मैं रखती हूँ।",
+    "Then I close the stitch.": "फिर मैं सिलाई बंद करती हूँ।",
 }
 
 def make_hindi(src_path):
@@ -77,8 +110,11 @@ def make_hindi(src_path):
     text = text.replace("**Arc:** I — The Unspooling", "**खंड:** I — अनुकुलन")
     text = text.replace("**Sector:**", "**क्षेत्र:**")
     
-    # Translate dialogue/caption lines
-    for eng, hindi in HINDI.items():
+    # Translate dialogue/caption lines.
+    # Longest-first: a short key like "Third register." is a substring of a longer
+    # key like "Say that again to yourself, mender. *Third register.*", so short
+    # keys must not be applied before long ones or they break the longer match.
+    for eng, hindi in sorted(HINDI.items(), key=lambda kv: -len(kv[0])):
         text = text.replace(eng, hindi)
     
     # Replace common terms
@@ -116,14 +152,25 @@ def make_cast(ch, pg, script_text):
     lines.append("Everyone on the page.\n")
     lines.append("---\n")
     
-    # Find characters mentioned
+    # Find characters mentioned.
+    # Match on the full English name AND on the first name token, so that pages
+    # which say "IRA:" or "Kessa" (rather than the full name) still list them.
+    # Word boundaries stop "Ira" matching inside "Kshudra"-style words.
+    def mentioned(eng_name):
+        eng_name = eng_name.split(" — ")[0]
+        if re.search(r"\b%s\b" % re.escape(eng_name), script_text, re.IGNORECASE):
+            return True
+        first = eng_name.split()[0]
+        return re.search(r"\b%s\b" % re.escape(first), script_text, re.IGNORECASE) is not None
+
     found_chars = []
     for char_id, char_name in CHARS.items():
-        if char_name.split(" — ")[0].lower() in script_text.lower() or char_name.split(" — ")[1] in script_text:
+        if mentioned(char_name) or char_name.split(" — ")[1] in script_text:
             found_chars.append((char_id, char_name))
-    
-    if not found_chars:
-        found_chars.append(("ira-sutar", CHARS["ira-sutar"]))
+
+    # Ira is the POV character; she is on every page whether or not she is named.
+    if not any(c[0] == "ira-sutar" for c in found_chars):
+        found_chars.insert(0, ("ira-sutar", CHARS["ira-sutar"]))
     
     for char_id, char_name in found_chars:
         lines.append("## %s" % char_name)
@@ -133,6 +180,10 @@ def make_cast(ch, pg, script_text):
             lines.append("Full sheet (Ch. 001): [`../../chapter-001/characters/kessa.md`](../../chapter-001/characters/kessa.md)")
         elif char_id == "rekhak-vahni":
             lines.append("Full sheet (Ch. 001): [`../../chapter-001/characters/rekhak-vahni.md`](../../chapter-001/characters/rekhak-vahni.md)")
+        elif char_id == "patra":
+            lines.append("Full sheet (Ch. 001): [`../../chapter-001/characters/patra.md`](../../chapter-001/characters/patra.md)")
+        elif char_id == "nandi":
+            lines.append("Full sheet (Ch. 006): [`../../chapter-006/characters/nandi.md`](../../chapter-006/characters/nandi.md)")
         lines.append("")
     
     return "\n".join(lines)
@@ -168,6 +219,16 @@ def make_glossary(ch):
             ("Teacher's strand", "शिक्षक-तंतु", "The blank strand: the mother's thread, sewn into the student before speech."),
             ("Self-binding", "स्व-बंधन", "The mother bound herself voluntarily to keep the school alive."),
             ("Audit warrant", "लेखा-परवाना", "The Office's highest instrument: permits lockbox inspection."),
+        ],
+        "chapter-007": [
+            ("Third register", "तीसरा रजिस्टर", "A crimson-bound private hand's book the Council keeps on a shelf. Entries inventory; they do not license."),
+            ("Letter of provisional licence", "तदर्थ लाइसेंस-पत्र", "The principal's four-clause instrument. Clause four summons the founder."),
+            ("Crease-writ", "मोड़-लेख", "A line drawn in sealing wax inside a fold — invisible unless the sheet is pressed perfectly flat. School method."),
+            ("Two-pour seal", "दुहरा-सील", "A wax seal poured twice: broken, a bead removed, and the remainder pressed flat with a thumb."),
+            ("Roll of Hands", "हाथों की सूची", "The school's pupil register: forty years of names, kinds, and the year each strand went in. Stolen by the mother."),
+            ("Binding", "जिल्दसाज़ी", "Hand-sewing quires through the fold. Identified by sound: doubled cloth, heavy needle, slow turn."),
+            ("Tally-thread", "गिनती-डोर", "Kessa's knotted cord ledger — the only record in Agnikhand that keeps no ink."),
+            ("Supply chute", "आपूर्ति-नाली", "The Mendery's mortar drop: the road the mother's thread came up for forty years."),
         ],
     }
     
@@ -205,6 +266,12 @@ def make_locations(ch):
             ("THE MENDERY ARCHIVE", "मेंडरी अभिलेख", "Tall shelves of files. Council files in front, Kshudra files at the back. The mother's workshop behind the last door."),
             ("THE BINDING CHAIR", "बंधन-कुर्सी", "Modified with thread-holes in armrests. The mother bound herself voluntarily for twenty years."),
         ],
+        "chapter-007": [
+            ("THE KNOT & NAIL (NIGHT)", "गाँठ और कील (रात)", "Shuttered, one lamp, counter cleared. The letter is opened and answered here."),
+            ("THE ARCHIVE FLOOR (DISBOUND)", "अभिलेख-तल (खुला)", "Every quire taken apart, spines cut at the stitching, sheets fanned and stacked. Four lamps lit. Three days of work."),
+            ("THE BACK WALL", "पिछली दीवार", "The oldest Kshudra files in Agnikhand, knot-script labels, hand-cut boards — and one shelf standing empty."),
+            ("THE SUPPLY CHUTE", "आपूर्ति-नाली", "A mortar drop in the Mendery's back stair. Forty years of thread came up through it; one letter goes down."),
+        ],
     }
     
     items = locs.get(ch, [])
@@ -216,7 +283,7 @@ def make_locations(ch):
     return "\n".join(out)
 
 def main():
-    for ch in ["chapter-003", "chapter-004", "chapter-005", "chapter-006"]:
+    for ch in ["chapter-003", "chapter-004", "chapter-005", "chapter-006", "chapter-007"]:
         chdir = os.path.join(ROOT, "chapters", ch)
         story_dir = os.path.join(chdir, "story")
         chars_dir = os.path.join(chdir, "characters")
