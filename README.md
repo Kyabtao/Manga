@@ -22,8 +22,8 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **None — Ch. 001–010 all COMPLETE** (script + Hindi + cast + world + art) · **Ch. 011 not started** |
 | **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · Ch. 009: Hindi 10/10, cast 10, glossary + locations · Ch. 010: Hindi 10/10, cast 10, glossary + locations |
-| **NEXT page to build** | **Ch. 011 Page 001** — create the chapter skeleton (four subfolders + `.gitkeep`) first, then plan the page from the Next-page brief below |
-| **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) — **OPEN** (targets `main`; Ch. 003–010). Merge pending. |
+| **NEXT page to build** | **Ch. 011 Page 001** — create the chapter skeleton first, then plan the page from the Next-page brief below. **Before that:** Ch. 001–005 art regeneration (AUDIT.md run 5 — earlier off-style pass, readable lettering on props) is the single largest outstanding item. |
+| **Open PR** | None. [PR #3](https://github.com/Kyabtao/Manga/pull/3) (Ch. 003–010) was **MERGED into `main` on 2026-09-19** as `b195528`, after the full audit in `AUDIT.md` run 5. New work continues on `arena/01a0b63a-manga` and opens a fresh PR from it. |
 
 ### Next-page brief (Chapter 011 · Page 001)
 **The chapter folder does not exist yet.** Before writing, create `chapters/chapter-011/` with the four
