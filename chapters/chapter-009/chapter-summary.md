@@ -1,6 +1,6 @@
 # Chapter 009 — *The Reading* / *पाठ* — IN PROGRESS
 
-**Status:** IN PROGRESS — **all 10 pages scripted (EN)**; Hindi, cast files, images to follow in-step.
+**Status:** IN PROGRESS — Hindi pass under way (pages 001–003 hand-translated, 97.8–98.1% Devanagari); cast files, glossary/locations pending; script + art complete — **all 10 pages scripted (EN)**; Hindi, cast files, images to follow in-step.
 **Chain-stop budget: SPENT on page 006** (Rekhak, held stop — deposit writes into his own ledger).
 **Arc:** II — The Mendery · **Sector:** Agnikhand — the Ash-sLums, the Mendery, the Reckoning Office
 **Open PR for this work:** Kyabtao/Manga#3
