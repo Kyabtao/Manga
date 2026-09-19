@@ -1,66 +1,88 @@
-# THREADBORN — Chapter 04 — Page 003
+# सुत्रजात (THREADBORN) — अध्याय ०४ — पृष्ठ ००३
 
-**अध्याय शीर्षक:** *The Weight of Thread* / *धागे का बोझ*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the dock (night)
-**पृष्ठ प्रकार:** The cutter appears — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *धागे का बोझ*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गोदी (रात)
+**पृष्ठ प्रकार:** काटने वाला प्रकट होता है — ७ पैनल, अन्त में हुक
 
-> Beats: Page 002 — the lesson plan, the stitch learning its own name.
+> English source: [`page-003.md`](page-003.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००२ — पाठ-योजना, सिलाई अपना नाम सीखती हुई।
 
 ---
 
-## चित्र-खाना 1 — Wide, the dock at night (~14%)
-Night, dock three: Bhan asleep at the grain-lift, sleeve rolled up. The pattern on his arm is
-visible: Ira's palm-stitch reproduced in ash-grey thread. The dock lamp flickers.
+## पैनल १ — व्यापक, रात में गोदी (~१४%)
 
-> **CAPTION:** Night fifty-five. The arm waits.
+रात, गोदी तीन: भान अनाज-उत्थापक पर सोया हुआ, आस्तीन चढ़ी। उसकी बाँह पर नमूना दिखता है: इरा की
+हथेली-सिलाई, राख-धूसर धागे में दोहराई हुई। गोदी की लालटेन टिमटिमाती है।
 
-## चित्र-खाना 2 — Medium, the cutter arrives (~13%)
-The hooded figure at the dock's edge. Same height, same gloves, same unhurried movement. But
-tonight the cutter pauses at the arm — the charcoal mark is still there, sewn in. The cutter
-reads it again.
+> **कैप्शन:** पचपनवीं रात। बाँह इंतज़ार करती है।
 
-> **ध्वनि:** *tsss* (thread through skin)
+---
 
-## चित्र-खाना 3 — Close, the cutter's hands (~14%)
-The cutter's gloved hands on Bhan's forearm: the nightly opening begins. But tonight, mid-stitch,
-the cutter stops. Their gloved finger traces the pattern they sewd yesterday — the copy of Ira's
-palm-stitch. The cutter is *checking their own work*.
+## पैनल २ — मध्यम, काटने वाला आता है (~१३%)
 
-> **CAPTION:** The cutter appraises. The way Kessa appraises. The same gesture: thumb on the edge,
-> loupe-eye on the seam.
+गोदी के किनारे टोपी वाली आकृति। वही क़द, वही दस्ताने, वही बिना जल्दबाज़ी वाली चाल। पर आज रात काटने
+वाला बाँह पर रुकता है — कोयला-निशान अब भी वहाँ है, सीया हुआ। काटने वाला उसे फिर पढ़ता है।
 
-## चित्र-खाना 4 — Macro, the new stitch (~13%)
-The cutter adds something new: a second line of stitch-grammar, parallel to the first. Not a copy
-of Ira's stitch — a *continuation*. As if the cutter is writing the next sentence in a language
-Ira's palm started.
+> **ध्वनि:** *त्स्स्स* (त्वचा से गुज़रता धागा)
 
-> **शीर्षक (Ira's voice, later):** They didn't just copy my stitch. They continued it.
+---
 
-## चित्र-खाना 5 — Medium, the cutter's stillness (~13%)
-The cutter pauses, hands on Bhan's arm, and looks toward the Knot & Nail — not at the stall,
-but at the basin's list-post. The same gesture as Ch. 003 Page 005. The cutter knows where
-things are filed.
+## पैनल ३ — क्लोज़, काटने वाले के हाथ (~१४%)
 
-> **CAPTION:** The cutter looks at the filing. Always at the filing.
+भान की बाँह पर काटने वाले के दस्ताने वाले हाथ: रात्रि-उद्घाटन शुरू होता है। पर आज रात, सिलाई के बीच,
+काटने वाला रुक जाता है। उसकी दस्ताने वाली उँगली कल सीए गए नमूने को छूती है — इरा की हथेली-सिलाई की
+नक़ल। काटने वाला *अपना ही काम परख रहा है*।
 
-## चित्र-खाना 6 — Wide, the departure (~13%)
-The cutter stands, rolls Bhan's sleeve down, walks into the pre-dawn. The arm is closed. The
-pattern is extended. The charcoal mark is still sewn in.
+> **कैप्शन:** काटने वाला परखता है। वैसे ही जैसे केसा परखती है। वही इशारा: किनारे पर अंगूठा, सीवन पर
+> लूप-आँख।
 
-> **CAPTION:** Night fifty-five. The lesson continues.
+---
 
-## चित्र-खाना 7 — Macro, the arm at dawn — HOOK (~19%)
-Dawn: Bhan wakes, looks at his arm, rolls up his sleeve. The new stitch-line is there, parallel
-to the first. He touches it. It does not itch.
+## पैनल ४ — मैक्रो, नई सिलाई (~१३%)
 
-> **भान (संवाद, quiet):** यह खुजलाता नहीं।
+काटने वाला कुछ नया जोड़ता है: सिलाई-व्याकरण की दूसरी पंक्ति, पहली के समानान्तर। इरा की सिलाई की नक़ल
+नहीं — एक *निरन्तरता*। जैसे काटने वाला उस भाषा में अगला वाक्य लिख रहा हो जो इरा की हथेली ने शुरू की थी।
+
+> **कैप्शन (इरा का स्वर, बाद में):** उन्होंने मेरी सिलाई की नक़ल ही नहीं की। उन्होंने उसे आगे बढ़ाया।
+
+---
+
+## पैनल ५ — मध्यम, काटने वाले की स्थिरता (~१३%)
+
+काटने वाला रुकता है, हाथ भान की बाँह पर, और गाँठ और कील की ओर देखता है — ठेले की ओर नहीं, बल्कि गर्त
+के सूची-स्तम्भ की ओर। वही इशारा जो अध्याय ००३ पृष्ठ ००५ का था। काटने वाला जानता है कि चीज़ें कहाँ
+दाख़िल होती हैं।
+
+> **कैप्शन:** काटने वाला दाख़िले की ओर देखता है। हमेशा दाख़िले की ओर।
+
+---
+
+## पैनल ६ — व्यापक, प्रस्थान (~१३%)
+
+काटने वाला खड़ा होता है, भान की आस्तीन नीचे करता है, भोर-पूर्व में चला जाता है। बाँह बन्द है। नमूना
+बढ़ा हुआ है। कोयला-निशान अब भी सीया हुआ है।
+
+> **कैप्शन:** पचपनवीं रात। पाठ जारी है।
+
+---
+
+## पैनल ७ — मैक्रो, भोर में बाँह — हुक (~१९%)
+
+भोर: भान जागता है, अपनी बाँह देखता है, आस्तीन चढ़ाता है। नई सिलाई-पंक्ति वहाँ है, पहली के समानान्तर।
+वह उसे छूता है। उसमें खुजली नहीं होती।
+
+> **भान (संवाद, धीमा):** यह खुजलाता नहीं।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The cutter checks their own work | Event — *Appraiser's Gesture* |
-| The continuation stitch | Lore — *The Second Sentence* |
-| "यह खुजलाता नहीं।" | Event — *No Itch, Again* |
+| काटने वाला अपना ही काम परखता है | इवेंट — *परखन-हार का इशारा* |
+| निरन्तरता-सिलाई | लोर — *दूसरा वाक्य* |
+| "यह खुजलाता नहीं।" | इवेंट — *फिर खुजली नहीं* |

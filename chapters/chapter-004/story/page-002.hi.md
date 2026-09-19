@@ -1,65 +1,88 @@
-# THREADBORN — Chapter 04 — Page 002
+# सुत्रजात (THREADBORN) — अध्याय ०४ — पृष्ठ ००२
 
-**अध्याय शीर्षक:** *The Weight of Thread* / *धागे का बोझ*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (afternoon)
-**पृष्ठ प्रकार:** The demonstration's weight — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *धागे का बोझ*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (दोपहर बाद)
+**पृष्ठ प्रकार:** प्रदर्शन का बोझ — ७ पैनल, अन्त में हुक
 
-> Beats: Page 001 — the pattern on Bhan's arm, the Grey Clerk's visit, the coin on the slate.
+> English source: [`page-002.md`](page-002.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: पृष्ठ ००१ — भान की बाँह पर नमूना, धूसर लिपिक की यात्रा, पट्ट पर सिक्का।
 
 ---
 
-## चित्र-खाना 1 — Wide, the stall (~14%)
-Ira returns from the dock, the rubbing of the new pattern in her belt. Kessa appraises the rubbing
-beside the cut-end. The pattern matches Ira's palm-stitch exactly.
+## पैनल १ — व्यापक, ठेला (~१४%)
 
-> **KESSA:** They're not practising. They're *teaching*.
+इरा गोदी से लौटती है, नए नमूने की रगड़ उसकी कमरबन्द में। केसा रगड़ को कट-सिरे के बगल में परखती है।
+नमूना इरा की हथेली-सिलाई से बिल्कुल मेल खाता है।
 
-## चित्र-खाना 2 — Medium, the lesson (~13%)
-Kessa's loupe on the rubbing: the stitch-grammar is identical to the cut-end's school, but the
-execution is fresher — the cutter used the same hand-school with younger thread.
+> **केसा:** वे अभ्यास नहीं कर रहे। वे *सिखा* रहे हैं।
 
-> **KESSA:** Forty years between the box thread and this. Same school. New thread.
+---
 
-## चित्र-खाना 3 — Close, the question (~14%)
-Ira's face: she understands now. The cutter is not random. The cutter is showing her *how her palm
-was sewn*. The nightly openings on Bhan are a lesson plan.
+## पैनल २ — मध्यम, पाठ (~१३%)
 
-> **IRA:** They want me to see the stitch from the outside.
+रगड़ पर केसा का लूप: सिलाई-व्याकरण कट-सिरे की विद्या से बिल्कुल एक जैसा है, पर निष्पादन ज़्यादा ताज़ा
+है — काटने वाले ने वही हाथ-विद्या नए धागे के साथ इस्तेमाल की।
 
-## चित्र-खाना 4 — Medium, Kessa's hands (~13%)
-Kessa ties a new knot in the tally-thread: the lesson is filed. Her hands are steady but her
-knuckles are white — the first time the series shows Kessa's hands under stress.
+> **केसा:** बक्से के धागे और इसके बीच चालीस साल। वही विद्या। नया धागा।
 
-> **CAPTION:** Kessa's hands have appraised every debt in this basin. They have never been afraid
-> of a thread before.
+---
 
-## चित्र-खाना 5 — Wide, the basin evening (~13%)
-Evening: the Knot & Nail stays open. The basin's filing queue has grown — six people now wait,
-each carrying papers they want in the lockbox. Kessa turns them all down. The coin on the grey
-slate stays on the counter.
+## पैनल ३ — क्लोज़, सवाल (~१४%)
 
-> **CAPTION:** The basin's fear has an address. Kessa refuses it daily.
+इरा का चेहरा: वह अब समझ गई है। काटने वाला बेतरतीब नहीं है। काटने वाला उसे दिखा रहा है कि *उसकी हथेली
+कैसे सीई गई थी*। भान पर रात-रात के उद्घाटन एक पाठ-योजना हैं।
 
-## चित्र-खाना 6 — Medium, Rekhak on the row (~13%)
-Rekhak walks his rounds, chain running, oath-link visible. He passes the stall and does not stop.
-But his chain hums — the wrong-notes melody, Page 006's echo — and this time Ira hears it clearly.
-The four notes, wrong key, same shape.
+> **इरा:** वे चाहते हैं कि मैं सिलाई को बाहर से देखूँ।
 
-> **शीर्षक (Ira):** The four notes again. Wrong. The same shape. Always when he passes.
+---
 
-## चित्र-खाना 7 — Macro, the stitch trembles — HOOK (~19%)
-Ira's palm, under the counter's lamplight: the stitch trembles again — third time this chapter.
-Not opening. Adjusting. The thread is responding to the proximity of the evidence: the pattern,
-the rubbing, the box. The stitch knows the lesson is being taught.
+## पैनल ४ — मध्यम, केसा के हाथ (~१३%)
 
-> **CAPTION:** The stitch that has held for fifteen years is learning its own name.
+केसा गिनती-डोर में एक नई गाँठ बाँधती है: पाठ दाख़िल हो गया। उसके हाथ स्थिर हैं पर उसकी पोरें सफ़ेद हैं —
+शृंखला में पहली बार केसा के हाथ दबाव में दिखते हैं।
+
+> **कैप्शन:** केसा के हाथों ने इस गर्त के हर ऋण को परखा है। वे पहले कभी किसी धागे से नहीं डरे।
+
+---
+
+## पैनल ५ — व्यापक, गर्त की शाम (~१३%)
+
+शाम: गाँठ और कील खुली रहती है। गर्त की दाख़िला-कतार बढ़ गई है — अब छह लोग प्रतीक्षा में हैं, हर एक
+ऐसे कागज़ लिए हुए जो वे ताला-बक्से में चाहते हैं। केसा सबको मना कर देती है। धूसर पट्ट पर पड़ा सिक्का
+काउंटर पर बना रहता है।
+
+> **कैप्शन:** गर्त के डर का एक पता है। केसा रोज़ उसे ठुकराती है।
+
+---
+
+## पैनल ६ — मध्यम, कतार में रेखक (~१३%)
+
+रेखक अपने फेरे पर चलता है, ज़ंजीर चलती हुई, शपथ-कड़ी दिखती हुई। वह ठेले के पास से गुज़रता है और रुकता
+नहीं। पर उसकी ज़ंजीर गुनगुनाती है — वह ग़लत-स्वरों वाली धुन, पृष्ठ ००६ की प्रतिध्वनि — और इस बार इरा
+उसे साफ़ सुनती है। चार स्वर, ग़लत सुर, वही आकार।
+
+> **कैप्शन (इरा):** फिर वही चार स्वर। ग़लत। वही आकार। हमेशा जब वह गुज़रता है।
+
+---
+
+## पैनल ७ — मैक्रो, सिलाई काँपती है — हुक (~१९%)
+
+इरा की हथेली, काउंटर की लालटेन के नीचे: सिलाई फिर काँपती है — इस अध्याय में तीसरी बार। खुलती नहीं।
+समायोजित होती है। धागा सबूत की निकटता पर जवाब दे रहा है: नमूना, रगड़, बक्सा। सिलाई जानती है कि पाठ
+पढ़ाया जा रहा है।
+
+> **कैप्शन:** वह सिलाई जो पन्द्रह साल से टिकी है, अपना नाम सीख रही है।
 
 ---
 
 ## कार्ड-गेम हुक
-| Beat | Card |
+
+| बीट | कार्ड |
 |---|---|
-| The lesson plan | Lore card — *The Cutter's Curriculum* |
-| Kessa's knuckles | Event card — *First Fear in Her Hands* |
-| The stitch learns its name | Power card — *Thread Awareness* |
+| पाठ-योजना | लोर कार्ड — *काटने वाले का पाठ्यक्रम* |
+| केसा की पोरें | इवेंट कार्ड — *उसके हाथों में पहला डर* |
+| सिलाई अपना नाम सीखती है | पावर कार्ड — *धागे की चेतना* |

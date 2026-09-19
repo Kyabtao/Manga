@@ -1,135 +1,143 @@
-# THREADBORN — Chapter 04 — Page 001
+# सुत्रजात (THREADBORN) — अध्याय ०४ — पृष्ठ ००१
 
-**अध्याय शीर्षक:** *The Weight of Thread* / *धागे का बोझ*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (morning, day after Ch. 003)
-**पृष्ठ प्रकार:** Chapter opening — 7 panels, hook at the bottom
+**अध्याय शीर्षक:** *धागे का बोझ*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (सुबह, अध्याय ००३ के अगले दिन)
+**पृष्ठ प्रकार:** अध्याय-प्रारम्भ — ७ पैनल, अन्त में हुक
 
-> पिछले पृष्ठ से: Chapter 003: the chain-stop confession, the five threads (supply line),
-> the lockbox shared between Kessa and Ira, the stitch's movement, the four notes matched
-> wrongly. The fifth thread was found at the Council Stair's foot.
+> English source: [`page-001.md`](page-001.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the morning after (~14%)
-
-**कैमरा:** Morning, basin market: the Knot & Nail opens. Kessa behind the counter, loupe up.
-The lockbox is under the counter — its new normal position. A Grey Clerk stands at the stall's
-threshold, slate in hand, waiting to be received.
-
-**चित्र:** The first Council visit since the posting order. The Grey Clerk is different from
-Chapter 2's — older, more careful. The market watches from one row back.
-
-> **शीर्षक (none spoken):**
-> The morning after the thread reached the stair, the Council sent a clerk. Not to take. To ask.
+> अध्याय ००३ से आगे आते सूत्र: ज़ंजीर-रोक स्वीकारोक्ति, पाँच धागे (आपूर्ति-मार्ग), केसा और इरा के बीच
+> साझा ताला-बक्सा, सिलाई की हरकत, ग़लत मेल खाते चार स्वर। पाँचवाँ धागा परिषद-सीढ़ी के तल पर मिला था।
 
 ---
 
-## चित्र-खाना 2 — Medium, the request (~13%)
+## पैनल १ — व्यापक, अगली सुबह (~१४%)
 
-**कैमरा:** The Grey Clerk at the counter, slate offered. The slate carries one line, grey ink:
-a request to *inspect* the lockbox. Not seize — inspect. Procedure has learned Kessa's grammar.
+**कैमरा:** सुबह, गर्त-बाज़ार: गाँठ और कील खुलती है। केसा काउंटर के पीछे, लूप ऊपर। ताला-बक्सा काउंटर के
+नीचे — उसकी नई सामान्य जगह। एक धूसर लिपिक ठेले के दरवाज़े पर खड़ा है, हाथ में पट्ट, ग्रहण किए जाने की
+प्रतीक्षा में।
 
-**चित्र:** Kessa reads the slate without touching it. Her loupe is up. Her hands are in her
-coats.
+**दृश्य:** स्थानांतरण-आदेश के बाद पहली परिषद-यात्रा। धूसर लिपिक अध्याय ००२ वाले से अलग है — उम्र में
+बड़ा, ज़्यादा सतर्क। बाज़ार एक कतार पीछे से देख रहा है।
 
-> **धूसर लिपिक (संवाद, formal):**
-> The Office requests inspection of the custodial lockbox. Three items registered by transfer.
+> **कैप्शन (कोई बोलता नहीं):**
+> जिस सुबह धागा सीढ़ी तक पहुँचा, उसके अगले दिन परिषद ने एक लिपिक भेजा। लेने के लिए नहीं। पूछने के लिए।
+
+---
+
+## पैनल २ — मध्यम, अनुरोध (~१३%)
+
+**कैमरा:** काउंटर पर धूसर लिपिक, पट्ट बढ़ाया हुआ। पट्ट पर एक पंक्ति, धूसर स्याही में: ताला-बक्से के
+*निरीक्षण* का अनुरोध। ज़ब्त करने का नहीं — निरीक्षण का। प्रक्रिया ने केसा का व्याकरण सीख लिया है।
+
+**दृश्य:** केसा पट्ट को बिना छुए पढ़ती है। उसका लूप ऊपर है। उसके हाथ कोटों में हैं।
+
+> **धूसर लिपिक (संवाद, औपचारिक):**
+> कार्यालय अभिरक्षा-ताला-बक्से के निरीक्षण का अनुरोध करता है। हस्तांतरण द्वारा तीन वस्तुएँ पंजीकृत।
 >
-> **केसा (संवाद, dry):**
-> Three items were transferred. Four are stored. The fourth was a gift.
+> **केसा (संवाद, सूखा):**
+> तीन वस्तुएँ हस्तांतरित हुईं। चार संग्रहित हैं। चौथी एक तोहफ़ा थी।
 >
-> **GREY CLERK (dialogue):**
-> The Office acknowledges four.
+> **धूसर लिपिक (संवाद):**
+> कार्यालय चार स्वीकार करता है।
 
 ---
 
-## चित्र-खाना 3 — Close, the refusal (~13%)
+## पैनल ३ — क्लोज़, इनकार (~१३%)
 
-**कैमरा:** Kessa's hands: she turns the slate face-down on the counter — her grammar from
-Ch. 003 Page 002. Then she does something new: she sets a coin on top of it. A Kshudra
-pawn-coin, the kind used when a debt is acknowledged but not yet priced.
+**कैमरा:** केसा के हाथ: वह पट्ट को काउंटर पर उलटा कर देती है — उसका व्याकरण, अध्याय ००३ पृष्ठ ००२ का।
+फिर वह एक नई चीज़ करती है: वह उसके ऊपर एक सिक्का रख देती है। एक क्षुद्र गिरवी-सिक्का, वह क़िस्म जो
+तब इस्तेमाल होती है जब ऋण स्वीकार किया जाए पर उसका दाम अभी तय न हुआ हो।
 
-**चित्र:** The coin on the slate: Kessa's counter-offer. Not refusal — *pricing*. She will
-allow inspection when the Office names its price for the census transfer.
+**दृश्य:** पट्ट पर सिक्का: केसा का जवाबी प्रस्ताव। इनकार नहीं — *दाम तय करना*। वह निरीक्षण की अनुमति तब
+देगी जब कार्यालय गणना-हस्तांतरण का दाम बताए।
 
-> **KESSA (dialogue):**
-> When the Office prices the transfer, I'll price the inspection.
-
----
-
-## चित्र-खाना 4 — Medium, the basin watches (~14%)
-
-**कैमरा:** The Grey Clerk leaves. The market exhales. Two stall-owners move another inch closer
-to the Knot & Nail — the trust measurement continues. Ira arrives with her kit, seeing the
-departing clerk.
-
-**चित्र:** The basin's geometry: the Knot & Nail as the centre, the stalls orbiting closer.
-
-> **इरा (संवाद, arriving):**
-> What did they want?
->
-> **KESSA (dialogue):**
-> To look in the box.
->
-> **IRA (dialogue):**
-> What did you say?
->
-> **KESSA (dialogue):**
-> I said name a price first. They never do.
+> **केसा (संवाद):**
+> जब कार्यालय हस्तांतरण का दाम तय करेगा, मैं निरीक्षण का दाम तय करूँगी।
 
 ---
 
-## चित्र-खाना 5 — Wide, the dock approach (~13%)
+## पैनल ४ — मध्यम, गर्त देखता है (~१४%)
 
-**कैमरा:** Ira at the dock-gate, mid-morning. The chit-boy's slate shows her name: *Sutar, I.
-— dock three — read.* The pre-logged line from Ch. 003 Page 003, still there.
+**कैमरा:** धूसर लिपिक चला जाता है। बाज़ार साँस छोड़ता है। दो ठेला-मालिक गाँठ और कील की ओर एक इंच और
+क़रीब खिसकते हैं — भरोसे का मापन जारी है। इरा अपनी थैली लिए पहुँचती है, जाते हुए लिपिक को देखती हुई।
 
-**चित्र:** The slate with her name, the dock-gate lamp, the grain-lifts behind.
+**दृश्य:** गर्त की ज्यामिति: गाँठ और कील केन्द्र में, ठेले उसके इर्द-गिर्द और क़रीब आते हुए।
 
-> **शीर्षक (Ira's voice, small):**
-> The slate still has my name on it. Written before I arrived. The principal's paperwork is always
-> early.
-
----
-
-## चित्र-खाना 6 — Close, Bhan's arm (~13%)
-
-**कैमरा:** Bhan's forearm: the nightly opening is there, as expected. But tonight's addition
-is different — the cutter has left a new mark. Not thread this time: a *pattern*, sewn into the
-mend's edge in ash-grey thread. A pattern that matches the stitch on Ira's palm.
-
-**चित्र:** The pattern on Bhan's arm is the first direct echo of Ira's palm-stitch. The cutter
-is not just practising on Bhan — they are *demonstrating*.
-
-> **शीर्षक (Ira's voice, smallest):**
-> They sewed my stitch into his arm. Not a copy. The same stitch. The same pattern. As if to say:
-> *this is what was done to you, and this is how.*
-
----
-
-## चित्र-खाना 7 — Macro, the pattern — HOOK (~19%)
-
-**कैमरा:** Extreme close on the pattern in Bhan's arm: the stitch-grammar of Ira's palm,
-reproduced exactly, in thread that matches the cut-end in Kessa's box. The cutter has shown
-their hand: they know the stitch, they have the thread, and they want Ira to see it.
-
-**चित्र:** The pattern is a mirror — Bhan's arm shows what Ira's palm looks like from the
-outside. The stitch, seen for the first time as an object rather than a mystery.
-
-> **शीर्षक (none spoken):**
-> The cutter demonstrated. The arm is the message. The stitch is the proof. And the girl who
-> carries the original now sees it reproduced in a stranger's skin.
+> **इरा (संवाद, पहुँचते हुए):**
+> वे क्या चाहते थे?
 >
-> **शीर्षक (smaller):**
-> The hand that opens has shown itself. And it is not finished.
+> **केसा (संवाद):**
+> बक्से में झाँकना।
+>
+> **इरा (संवाद):**
+> तुमने क्या कहा?
+>
+> **केसा (संवाद):**
+> मैंने कहा, पहले दाम बताओ। वे कभी नहीं बताते।
+
+---
+
+## पैनल ५ — व्यापक, गोदी का मार्ग (~१३%)
+
+**कैमरा:** गोदी-द्वार पर इरा, सुबह का मध्य। चिट-लड़के का पट्ट उसका नाम दिखाता है: *सुतार, इ. — गोदी
+तीन — पढ़ा गया।* अध्याय ००३ पृष्ठ ००३ की वह पूर्व-दर्ज रेखा, अब भी वहीं।
+
+**दृश्य:** उसके नाम वाला पट्ट, गोदी-द्वार की लालटेन, पीछे अनाज-उत्थापक।
+
+> **कैप्शन (इरा का स्वर, धीमा):**
+> पट्ट पर अब भी मेरा नाम है। मेरे पहुँचने से पहले लिखा हुआ। प्रमुख का कागज़ी काम हमेशा जल्दी होता है।
+
+---
+
+## पैनल ६ — क्लोज़, भान की बाँह (~१३%)
+
+**कैमरा:** भान की बाँह: रात्रि-उद्घाटन वहाँ है, जैसा अपेक्षित था। पर आज रात का जोड़ अलग है — काटने वाले
+ने एक नया निशान छोड़ा है। इस बार धागा नहीं: एक *नमूना*, राख-धूसर धागे में सिलाई के किनारे सीया हुआ। ऐसा
+नमूना जो इरा की हथेली की सिलाई से मेल खाता है।
+
+**दृश्य:** भान की बाँह पर नमूना इरा की हथेली-सिलाई की पहली सीधी प्रतिध्वनि है। काटने वाला भान पर सिर्फ़
+अभ्यास नहीं कर रहा — वह *प्रदर्शन* कर रहा है।
+
+> **कैप्शन (इरा का स्वर, सबसे धीमा):**
+> उन्होंने मेरी सिलाई उसकी बाँह में सी दी। नक़ल नहीं। वही सिलाई। वही नमूना। जैसे कह रहे हों:
+> *तुम्हारे साथ यह किया गया था, और इस तरह।*
+
+---
+
+## पैनल ७ — मैक्रो, नमूना — हुक (~१९%)
+
+**कैमरा:** भान की बाँह के नमूने पर बहुत पास से: इरा की हथेली का सिलाई-व्याकरण, ठीक-ठीक दोहराया हुआ,
+ऐसे धागे में जो केसा के बक्से के कट-सिरे से मेल खाता है। काटने वाले ने अपना हाथ दिखा दिया है: वे सिलाई
+जानते हैं, धागा उनके पास है, और वे चाहते हैं कि इरा इसे देखे।
+
+**दृश्य:** नमूना एक दर्पण है — भान की बाँह दिखाती है कि इरा की हथेली बाहर से कैसी दिखती है। सिलाई,
+पहली बार रहस्य के बजाय एक वस्तु के रूप में देखी हुई।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> काटने वाले ने प्रदर्शन किया। बाँह ही संदेश है। सिलाई ही सबूत है। और जो लड़की मूल अपने पास रखती है,
+> वह अब उसे एक अजनबी की त्वचा में दोहराया हुआ देखती है।
+>
+> **कैप्शन (छोटा):**
+> जिस हाथ ने खोला, उसने ख़ुद को दिखा दिया है। और वह अभी पूरा नहीं हुआ।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The Grey Clerk visit** is procedure, not threat. The Office is learning Kessa's grammar:
-  request, don't demand. The coin on the slate is her counter-offer.
-- **The pattern on Bhan's arm** is the chapter's opening escalation: the cutter has moved
-  from practice to demonstration. The stitch is reproduced exactly.
-- **Chain budget: ONE for Chapter 004.** Not to be spent early.
+- **धूसर लिपिक की यात्रा** प्रक्रिया है, ख़तरा नहीं। कार्यालय केसा का व्याकरण सीख रहा है: माँगो, ज़बरदस्ती
+  न करो। पट्ट पर सिक्का उसका जवाबी प्रस्ताव है।
+- **भान की बाँह पर नमूना** इस अध्याय की शुरुआती वृद्धि है: काटने वाला अभ्यास से प्रदर्शन की ओर बढ़
+  चुका है। सिलाई ठीक-ठीक दोहराई गई है।
+- **अध्याय ००४ के लिए ज़ंजीर बजट: एक।** जल्दी ख़र्च नहीं होगी।
+
+## कार्ड-गेम हुक
+
+| बीट | कार्ड |
+|---|---|
+| पट्ट पर रखा सिक्का | इवेंट कार्ड — *दाम तय करो* |
+| भान की बाँह पर नमूना | लोर कार्ड — *प्रदर्शन* |
+| दर्पण के रूप में सिलाई | पावर कार्ड — *बाहर से देखी हथेली* |
