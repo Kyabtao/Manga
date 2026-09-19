@@ -1,139 +1,130 @@
-# THREADBORN — Chapter 06 — Page 009
+# सुत्रजात (THREADBORN) — अध्याय ०६ — पृष्ठ ००९
 
-**अध्याय शीर्षक:** *The Mother's File* / *माँ की फ़ाइल*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail
-**पृष्ठ प्रकार:** The decision — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *माँ की फ़ाइल*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (शाम)
+**पृष्ठ प्रकार:** फ़ैसला — ७ पैनल, अन्त में हुक
 
-> Beats: Page 008 — the Inspector with warrant, the charter recognized, "they weren't destroyed."
-
----
-
-## चित्र-खाना 1 — Wide, the stall after (~14%)
-
-**कैमरा:** The Knot & Nail, evening: the Inspector has gone, taking the warrant but not the
-charter. Ira's compromise held. The lockbox is closed, eight objects inside.
-
-**चित्र:** The stall after the standoff. Kessa's loupe is up. Ira sits at the counter. The box
-is under the counter.
-
-> **शीर्षक (none spoken):**
-> The Inspector took the warrant. The charter stayed. The box holds.
+> English source: [`page-009.md`](page-009.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
 ---
 
-## चित्र-खाना 2 — Medium, the decision (~13%)
+## पैनल १ — व्यापक, बाद का ठेला (~१४%)
 
-**कैमरा:** Ira's face: the decision she has been building toward since Chapter 1. Not *who
-sewed me* — answered. Not *what is the school* — answered. The new question: *what do I do
-with the braid.*
+**कैमरा:** गाँठ और कील, शाम: निरीक्षक जा चुका है, अधिपत्र साथ ले गया पर अधिकार-पत्र नहीं। इरा का
+समझौता टिक गया। ताला-बक्सा बन्द, भीतर आठ चीज़ें।
 
-**चित्र:** Ira's palm open, mark visible, braided thread contained. The question is in her eyes.
+**दृश्य:** गतिरोध के बाद का ठेला। केसा का लूप ऊपर। इरा काउंटर पर बैठी है। बक्सा काउंटर के नीचे।
 
-> **इरा (संवाद, flat):**
-> The school is named. The mother is gone. The principal has her. The Office wants the
-> charter. The braid is awake.
+> **कैप्शन (कोई बोलता नहीं):**
+> निरीक्षक अधिपत्र ले गया। अधिकार-पत्र रह गया। बक्सा टिका हुआ है।
+
+---
+
+## पैनल २ — मध्यम, फ़ैसला (~१३%)
+
+**कैमरा:** इरा का चेहरा: वह फ़ैसला जिसकी ओर वह अध्याय ०१ से बढ़ रही थी। *मुझे किसने सीया* नहीं —
+उत्तर मिल गया। *विद्यालय क्या है* नहीं — उत्तर मिल गया। नया सवाल: *मैं इस बुनाई का क्या करूँ।*
+
+**दृश्य:** इरा की हथेली खुली, चिह्न दिखता हुआ, बुना धागा अवरुद्ध। सवाल उसकी आँखों में है।
+
+> **इरा (संवाद, सपाट):**
+> विद्यालय का नाम मिल गया। माँ जा चुकी है। प्रमुख के पास वह है। कार्यालय को अधिकार-पत्र चाहिए।
+> बुनाई जागी हुई है।
 >
-> **IRA (dialogue):**
-> What do I do with it?
+> **इरा (संवाद):**
+> मैं इसका क्या करूँ?
 
 ---
 
-## चित्र-खाना 3 — Close, Kessa's answer (~14%)
+## पैनल ३ — क्लोज़, केसा का जवाब (~१४%)
 
-**कैमरा:** Kessa's hands: she reaches across the counter and sets her hand on Ira's palm —
-covering the mark, the same gesture as Ch. 004 p005. The first time Kessa has touched Ira's
-palm.
+**कैमरा:** केसा के हाथ: वह काउंटर के पार हाथ बढ़ाकर इरा की हथेली पर अपना हाथ रख देती है — चिह्न को
+ढँकते हुए, वही हाव-भाव जो अध्याय ००४ पृष्ठ ००५ में था। पहली बार केसा ने इरा की हथेली छुई है।
 
-**चित्र:** Kessa's scarred hand on Ira's palm. The mark is covered. The thread is held. The
-appraiser's hand on the mender's hand.
+**दृश्य:** इरा की हथेली पर केसा का निशानों भरा हाथ। चिह्न ढँका हुआ। धागा थामा हुआ। सिलाई करने वाले के
+हाथ पर परखन-हार का हाथ।
 
-> **केसा (संवाद, quiet):**
-> You mend. That's what the braid is for. That's what the school taught. That's what your
-> mother built.
+> **केसा (संवाद, धीमा):**
+> तुम सिलाई करती हो। बुनाई इसी के लिए है। यही विद्यालय ने सिखाया। यही तुम्हारी माँ ने बनाया।
 >
-> **KESSA (dialogue):**
-> सिलाई करो। बाकी पीछे आएगा।
+> **केसा (संवाद):**
+> सिलाई करो। बाक़ी पीछे-पीछे आएगा।
 
 ---
 
-## चित्र-खाना 4 — Wide, the basin evening (~13%)
+## पैनल ४ — व्यापक, गर्त की शाम (~१३%)
 
-**कैमरा:** Evening: the Knot & Nail's shutters are up. The basin quietens. Ira sits at the
-counter, palm open, mark visible. The lockbox is under the counter. Kessa is behind it.
+**कैमरा:** शाम: गाँठ और कील के शटर चढ़े हैं। गर्त शान्त पड़ता है। इरा काउंटर पर बैठी है, हथेली खुली,
+चिह्न दिखता हुआ। ताला-बक्सा काउंटर के नीचे। केसा उसके पीछे है।
 
-**चित्र:** The stall at rest. The box is full. The girl is ready.
+**दृश्य:** आराम में पड़ा ठेला। बक्सा भरा हुआ। लड़की तैयार।
 
-> **शीर्षक (none spoken):**
-> The box is full. The school is named. The mother is missing. And the girl who was sewn shut
-> has decided what to do with the thread she was given.
-
----
-
-## चित्र-खाना 5 — Medium, the mend (~14%)
-
-**कैमरा:** Ira mends — a dock worker with a torn mark, the routine work. The braided thread
-moves through the needle. The mark is open. The mend is debtless. The whorl-grain appears in
-the seam.
-
-**चित्र:** The mend as it has always been: needle, thread, skin. But now the thread is braided,
-the mark is open, and the mender knows her own name.
-
-> **ध्वनि:** *tchk* (needle through skin)
+> **कैप्शन (कोई बोलता नहीं):**
+> बक्सा भरा हुआ है। विद्यालय का नाम मिल गया है। माँ लापता है। और जो लड़की सी कर बन्द की गई थी, उसने
+> तय कर लिया है कि जो धागा उसे दिया गया, उसका क्या करना है।
 
 ---
 
-## चित्र-खाना 6 — Close, the stitch (~13%)
+## पैनल ५ — मध्यम, सिलाई (~१४%)
 
-**कैमरा:** The mend: the braided thread in the seam. The whorl-grain — the same uncanny whorl
-as the cut-end, the sixty-first knot, every piece in the box. The mother's signature, in the
-daughter's work.
+**कैमरा:** इरा सीती है — एक गोदी-मज़दूर, फटे निशान के साथ, रोज़ का काम। बुना धागा सुई से गुज़रता है।
+चिह्न खुला है। सिलाई ऋणहीन है। सीवन में चक्रव्यूह-रेखा उभरती है।
 
-**चित्र:** The whorl-grain in the finished seam. The mother's fingerprint in the daughter's
-mend.
+**दृश्य:** सिलाई जैसी हमेशा रही: सुई, धागा, त्वचा। पर अब धागा बुना हुआ है, चिह्न खुला है, और सिलाई
+करने वाली अपना नाम जानती है।
 
-> **शीर्षक (none spoken):**
-> The whorl-grain. The same signature. The mother's fingerprint in the daughter's work. The
-> school continues.
+> **ध्वनि:** *त्स्स्स* (त्वचा में से सुई)
 
 ---
 
-## चित्र-खाना 7 — Macro, the lockbox — HOOK (~19%)
+## पैनल ६ — क्लोज़, सिलाई (~१३%)
 
-**कैमरा:** Night: the lockbox on the counter, Kessa's hand on the lid. Eight objects inside.
-Outside, the basin sleeps. Above, the Loom turns. On Ira's roof, the mark glows faintly.
-And somewhere in the city, the mother is looking for the principal. The girl is mending. The
-school continues.
+**कैमरा:** सिलाई: सीवन में बुना धागा। चक्रव्यूह-रेखा — वही अलौकिक भँवर जो कट-सिरे पर है, इकसठवीं गाँठ
+पर, बक्से की हर चीज़ पर। माँ का हस्ताक्षर, बेटी के काम में।
 
-**चित्र:** The box, the girl, the night. The same image as every chapter's end. But the box is
-full, the girl is awake, and the school's last student is doing the work the school was built
-for.
+**दृश्य:** तैयार सीवन में चक्रव्यूह-रेखा। बेटी की सिलाई में माँ की अँगूठे-छाप।
 
-> **शीर्षक (none spoken):**
-> Eight objects. One school. One girl. One missing mother. The hand has opened. The file has
-> been read. The charter has been found. And the mender is mending.
+> **कैप्शन (कोई बोलता नहीं):**
+> चक्रव्यूह-रेखा। वही हस्ताक्षर। बेटी के काम में माँ की अँगूठे-छाप। विद्यालय चलता रहता है।
+
+---
+
+## पैनल ७ — मैक्रो, ताला-बक्सा — हुक (~१९%)
+
+**कैमरा:** रात: काउंटर पर ताला-बक्सा, ढक्कन पर केसा का हाथ। भीतर आठ चीज़ें। बाहर गर्त सोता है। ऊपर
+सूत्र-यन्त्र घूमता है। इरा की छत पर चिह्न मद्धम चमकता है। और शहर में कहीं, माँ प्रमुख को ढूँढ़ रही है।
+लड़की सिलाई कर रही है। विद्यालय चलता रहता है।
+
+**दृश्य:** बक्सा, लड़की, रात। वही दृश्य जो हर अध्याय के अन्त में रहता है। पर बक्सा भरा हुआ है, लड़की
+जागी हुई है, और विद्यालय का आख़िरी शिष्य वही काम कर रहा है जिसके लिए विद्यालय बना था।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> आठ चीज़ें। एक विद्यालय। एक लड़की। एक लापता माँ। हाथ खुल गया है। फ़ाइल पढ़ ली गई है। अधिकार-पत्र
+> मिल गया है। और सिलाई करने वाली सिलाई कर रही है।
 >
-> **शीर्षक (smaller):**
-> The school of the braided thread continues. In one girl's hands. In one lockbox. In one
-> basin that does not know what it has.
+> **कैप्शन (छोटा):**
+> बुने धागे का विद्यालय चलता रहता है। एक लड़की के हाथों में। एक ताला-बक्से में। उस एक गर्त में जो
+> नहीं जानता कि उसके पास क्या है।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **Kessa's hand on Ira's palm** is the chapter's emotional climax: the first touch between
-> mentor and student. The mark is covered. The thread is held. The appraiser's hand on the
-> mender's hand.
-- **"सिलाई करो। बाकी पीछे आएगा।"** is Kessa's thesis: the school's purpose was mending, and
-> the daughter's purpose is the same.
-- **The whorl-grain in the seam** connects the mother's work to the daughter's: the same
-> signature, twenty years apart. The school continues through the mend.
-- **Chain budget: unspent.** Four notes silent. Loom never speaks.
+- **इरा की हथेली पर केसा का हाथ** इस अध्याय का भावनात्मक चरम है: गुरु और शिष्य के बीच पहला स्पर्श।
+  चिह्न ढँका हुआ। धागा थामा हुआ। सिलाई करने वाले के हाथ पर परखन-हार का हाथ।
+- **"सिलाई करो। बाक़ी पीछे-पीछे आएगा।"** केसा का सार है: विद्यालय का उद्देश्य सिलाई था, और बेटी का
+  उद्देश्य भी वही है।
+- **सीवन में चक्रव्यूह-रेखा** माँ के काम को बेटी के काम से जोड़ती है: वही हस्ताक्षर, बीस साल का फ़ासला।
+  विद्यालय सिलाई के ज़रिए चलता रहता है।
+- **ज़ंजीर-रोक बजट: अभी ख़र्च नहीं।** चार स्वर मौन। सूत्र-यन्त्र कभी नहीं बोलता।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| Kessa's hand on the mark | Event — *The First Touch* |
-| "सिलाई करो। बाकी पीछे आएगा।" | Lore — *The School Continues* |
-| The whorl-grain in the seam | Lore — *The Mother's Fingerprint* |
+| चिह्न पर केसा का हाथ | इवेंट — *पहला स्पर्श* |
+| "सिलाई करो। बाक़ी पीछे-पीछे आएगा।" | लोर — *विद्यालय चलता है* |
+| सीवन में चक्रव्यूह-रेखा | लोर — *माँ की अँगूठे-छाप* |

@@ -1,139 +1,136 @@
-# THREADBORN — Chapter 06 — Page 002
+# सुत्रजात (THREADBORN) — अध्याय ०६ — पृष्ठ ००२
 
-**अध्याय शीर्षक:** *The Mother's File* / *माँ की फ़ाइल*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — The Mendery archive
-**पृष्ठ प्रकार:** The charter — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *माँ की फ़ाइल*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — मेंडरी का अभिलेखागार, पिछली दीवार
+**पृष्ठ प्रकार:** अधिकार-पत्र — ७ पैनल, अन्त में हुक
 
-> Beats: Page 001 — the archive, the mother's file (Manavkin, braided, zero debt, bound 20 years,
-> never released), the back wall's Kshudra files, the thread-school charter.
-
----
-
-## चित्र-खाना 1 — Macro, the charter (~14%)
-
-**कैमरा:** The charter in Ira's hands: old Kshudra knot-script on dark fibre-paper, older than
-anything in the Council's files. The braided mark's thread-light illuminates the script. The
-charter's title translates through the mark: *The School of the Braided Thread*.
-
-**चित्र:** The charter is ancient, the knot-script dense. The mark's light makes the characters
-legible — not to Ira's eyes, but to the thread's memory.
-
-> **शीर्षक (none spoken):**
-> *The School of the Braided Thread.* The hand-school that sewed Ira's palm. The hand-school
-> that the cutter practised on Bhan. The hand-school the cut-end belongs to. Named, at last.
+> English source: [`page-002.md`](page-002.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
 ---
 
-## चित्र-खाना 2 — Medium, the charter's contents (~13%)
+## पैनल १ — मैक्रो, अधिकार-पत्र (~१४%)
 
-**कैमरा:** The charter's first column: the school's founder. A name in knot-script, translated
-by the mark: *Sutar.* The same surname as Ira's mother. The same surname as Ira.
+**कैमरा:** इरा के हाथों में अधिकार-पत्र: गहरे रेशा-काग़ज़ पर पुरानी क्षुद्र गाँठ-लिपि, परिषद की किसी भी
+फ़ाइल से पुरानी। बुने चिह्न का धागा-उजाला लिपि को प्रकाशित करता है। अधिकार-पत्र का शीर्षक चिह्न के
+ज़रिए अनूदित होता है: *बुने धागे का विद्यालय।*
 
-**चित्र:** The name in the charter and the name in the mother's file are the same. Two documents,
-one surname, twenty years apart.
+**दृश्य:** अधिकार-पत्र प्राचीन है, गाँठ-लिपि घनी। चिह्न का उजाला अक्षरों को पढ़ने लायक बना देता है —
+इरा की आँखों के लिए नहीं, धागे की स्मृति के लिए।
 
-> **शीर्षक (Ira's voice, small):**
-> Sutar. My mother's name. The school's founder. The same name.
-
----
-
-## चित्र-खाना 3 — Close, the charter's rules (~14%)
-
-**कैमरा:** The charter's middle section: the school's rules, translated by the mark. Rule one:
-*Thread is braided, never single.* Rule two: *The braid carries two strands — one the student's,
-one the teacher's.* Rule three: *The teacher's strand is sewn into the student before speech.*
-
-**चित्र:** The three rules, illuminated by the thread-light. Rule three is the one that explains
-Ira's palm: the sewer was her *teacher*, not her attacker.
-
-> **शीर्षक (none spoken):**
-> Rule three: the teacher's strand is sewn into the student before speech. The sewer was not
-> an attacker. The sewer was a *teacher*.
+> **कैप्शन (कोई बोलता नहीं):**
+> *बुने धागे का विद्यालय।* वह हस्त-विद्यालय जिसने इरा की हथेली सीई। वह हस्त-विद्यालय जिसका अभ्यास
+> काटने वाले ने भान पर किया। वह हस्त-विद्यालय जिसका कट-सिरा है। आख़िरकार, नाम मिला।
 
 ---
 
-## चित्र-खाना 4 — Medium, the implication (~13%)
+## पैनल २ — मध्यम, अधिकार-पत्र की विषय-वस्तु (~१३%)
 
-**कैमरा:** Ira's face: the implication landing. Her mother founded a thread-school. Her mother's
-thread was braided. Her mother was bound in the Mendery for twenty years. And someone — a
-teacher — sewed the teacher's strand into Ira's palm before she could speak.
+**कैमरा:** अधिकार-पत्र का पहला ख़ाना: विद्यालय का संस्थापक। गाँठ-लिपि में एक नाम, चिह्न द्वारा अनूदित:
+*सुतार।* वही उपनाम जो इरा की माँ का है। वही उपनाम जो इरा का है।
 
-**चित्र:** Ira's mismatched eyes are level. She is doing arithmetic with her life.
+**दृश्य:** अधिकार-पत्र का नाम और माँ की फ़ाइल का नाम एक ही है। दो दस्तावेज़, एक उपनाम, बीस साल का
+फ़ासला।
 
-> **इरा (संवाद, flat):**
-> My mother founded the school. A teacher sewed the braid. The Mendery bound my mother.
-> And the principal predicted me.
-
----
-
-## चित्र-खाना 5 — Wide, the archive (~13%)
-
-**कैमरा:** Ira in the archive, charter in one hand, mother's file in the other. The shelves
-stretch around her. The braided mark glows. She is standing at the centre of twenty years of
-history.
-
-**चित्र:** Two documents, one girl, the archive's silence. The mark is the only light.
-
-> **शीर्षक (none spoken):**
-> The school's charter. The mother's file. The girl who carries both names. The archive holds
-> the answer to every question she has ever asked.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> सुतार। मेरी माँ का नाम। विद्यालय का संस्थापक। वही नाम।
 
 ---
 
-## चित्र-खाना 6 — Medium, the binding reason (~14%)
+## पैनल ३ — क्लोज़, अधिकार-पत्र के नियम (~१४%)
 
-**कैमरा:** Back to the mother's file: the binding reason column, which Ira has not read yet.
-She reads it now. The reason is one word, in grey ink: *unlicensed*. Her mother was bound for
-operating an unlicensed thread-school. The school of the braided thread was illegal.
+**कैमरा:** अधिकार-पत्र का मध्य भाग: विद्यालय के नियम, चिह्न द्वारा अनूदित। नियम एक: *धागा बुना जाता है,
+कभी अकेला नहीं।* नियम दो: *बुनाई दो तंतु उठाती है — एक शिष्य का, एक गुरु का।* नियम तीन: *गुरु का तंतु
+बोलने से पहले शिष्य में सीया जाता है।*
 
-**चित्र:** The word *unlicensed* in grey ink. The same word the Council uses for all unsanctioned
-mending. Her mother was a mender, like Ira. Her school was illegal, like Ira's work.
+**दृश्य:** तीन नियम, धागे के उजाले से प्रकाशित। नियम तीन वह है जो इरा की हथेली समझाता है: सीवर उसका
+*हमलावर* नहीं, उसका *गुरु* था।
 
-> **शीर्षक (none spoken):**
-> Binding reason: unlicensed. The school was illegal. The mending was illegal. The braiding
-> was illegal. And the girl who carries the braid is standing in the archive the illegal
-> school built.
+> **कैप्शन (कोई बोलता नहीं):**
+> नियम तीन: गुरु का तंतु बोलने से पहले शिष्य में सीया जाता है। सीवर हमलावर नहीं था। सीवर एक *गुरु*
+> था।
 
 ---
 
-## चित्र-खाना 7 — Close, the crimson line — HOOK (~19%)
+## पैनल ४ — मध्यम, निहितार्थ (~१३%)
 
-**कैमरा:** The crimson line at the foot of the mother's file: *Sewn shut.* Ira's finger touches
-the crimson ink. The ink is dry, old, the same age as the file. Written twenty years ago — the
-same year the school was shut and the mother was bound. The principal wrote this line when the
-school fell.
+**कैमरा:** इरा का चेहरा: निहितार्थ उतरता हुआ। उसकी माँ ने एक धागा-विद्यालय खोला। उसकी माँ का धागा बुना
+हुआ था। उसकी माँ बीस साल तक मेंडरी में बद्ध रही। और किसी ने — किसी गुरु ने — गुरु का तंतु इरा की
+हथेली में सीया, इससे पहले कि वह बोल सके।
 
-**चित्र:** Ira's finger on the crimson ink. The mark's light touches the ink and the ink
-*responds* — a faint pulse, the same rhythm as the braided thread.
+**दृश्य:** इरा की असमान आँखें स्थिर हैं। वह अपने जीवन का हिसाब लगा रही है।
 
-> **शीर्षक (none spoken):**
-> The crimson line was written when the school fell. Twenty years ago. The principal was there.
+> **इरा (संवाद, सपाट):**
+> मेरी माँ ने विद्यालय खोला। किसी गुरु ने बुनाई सीई। मेंडरी ने मेरी माँ को बाँधा। और प्रमुख ने
+> मेरा पहले से लिखा।
+
+---
+
+## पैनल ५ — व्यापक, अभिलेखागार (~१३%)
+
+**कैमरा:** अभिलेखागार में इरा, एक हाथ में अधिकार-पत्र, दूसरे में माँ की फ़ाइल। ताख़े उसके चारों ओर फैले
+हुए। बुना चिह्न चमकता हुआ। वह बीस साल के इतिहास के ठीक बीच में खड़ी है।
+
+**दृश्य:** दो दस्तावेज़, एक लड़की, अभिलेखागार का मौन। चिह्न ही अकेला उजाला है।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> विद्यालय का अधिकार-पत्र। माँ की फ़ाइल। वह लड़की जो दोनों नाम थामे है। अभिलेखागार के पास उसके हर
+> सवाल का जवाब है।
+
+---
+
+## पैनल ६ — मध्यम, बन्धन का कारण (~१४%)
+
+**कैमरा:** वापस माँ की फ़ाइल पर: बन्धन-कारण का ख़ाना, जो इरा ने अभी नहीं पढ़ा। वह अब पढ़ती है। कारण एक
+शब्द है, धूसर स्याही में: *बे-परवाना।* उसकी माँ को बिना परवाने के धागा-विद्यालय चलाने के लिए बाँधा गया
+था। बुने धागे का विद्यालय ग़ैरक़ानूनी था।
+
+**दृश्य:** धूसर स्याही में शब्द *बे-परवाना।* वही शब्द जो परिषद हर बिना-मंज़ूरी सिलाई के लिए इस्तेमाल
+करती है। उसकी माँ सिलाई करने वाली थी, इरा की तरह। उसका विद्यालय ग़ैरक़ानूनी था, इरा के काम की तरह।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> बन्धन-कारण: बे-परवाना। विद्यालय ग़ैरक़ानूनी था। सिलाई ग़ैरक़ानूनी थी। बुनाई ग़ैरक़ानूनी थी। और
+> जो लड़की यह बुनाई थामे है, वह उसी अभिलेखागार में खड़ी है जिसे ग़ैरक़ानूनी विद्यालय ने बनाया।
+
+---
+
+## पैनल ७ — क्लोज़, क़िरमिज़ी पंक्ति — हुक (~१९%)
+
+**कैमरा:** माँ की फ़ाइल के नीचे क़िरमिज़ी पंक्ति: *सी कर बन्द।* इरा की उँगली क़िरमिज़ी स्याही छूती है।
+स्याही सूखी है, पुरानी, फ़ाइल जितनी ही पुरानी। बीस साल पहले लिखी गई — उसी साल जब विद्यालय बन्द हुआ और
+माँ बाँधी गई। प्रमुख ने यह पंक्ति तब लिखी जब विद्यालय गिरा।
+
+**दृश्य:** क़िरमिज़ी स्याही पर इरा की उँगली। चिह्न का उजाला स्याही को छूता है और स्याही *जवाब* देती है —
+एक मद्धम स्पन्दन, वही लय जो बुने धागे की है।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> क़िरमिज़ी पंक्ति तब लिखी गई जब विद्यालय गिरा। बीस साल पहले। प्रमुख वहाँ मौजूद था।
 >
-> **शीर्षक (smaller):**
-> The principal did not predict the girl. The principal *planned* for her.
+> **कैप्शन (छोटा):**
+> प्रमुख ने लड़की का भविष्य नहीं बताया। प्रमुख ने उसके लिए *योजना बनाई*।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The charter reveals the hand-school's name:** *The School of the Braided Thread.* The same
-  school the cutter practised on Bhan. The same school the cut-end belongs to. Named at last.
-- **The founder is Sutar** — Ira's mother's surname. The school was a family enterprise.
-- **Rule three recontextualizes the sewer:** not an attacker, a *teacher*. The teacher's strand
-  was sewn into the student before speech. This changes the reader's understanding of the entire
-  stitch mystery.
-- **The binding reason is *unlicensed*** — the same word used for Ira's mending. The mother's
-  crime and the daughter's skill are the same.
-- **The crimson line responds to the mark** — the principal's ink recognizes the braid. The
-  principal was not predicting; the principal was *planning*.
-- **Chain budget: unspent.** Four notes silent. Loom never speaks.
+- **अधिकार-पत्र हस्त-विद्यालय का नाम बताता है:** *बुने धागे का विद्यालय।* वही विद्यालय जिसका अभ्यास
+  काटने वाले ने भान पर किया। वही विद्यालय जिसका कट-सिरा है। आख़िरकार नाम मिला।
+- **संस्थापक सुतार है** — इरा की माँ का उपनाम। विद्यालय एक पारिवारिक उपक्रम था।
+- **नियम तीन सीवर को नया अर्थ देता है:** हमलावर नहीं, *गुरु*। गुरु का तंतु बोलने से पहले शिष्य में सीया
+  गया। यह पाठक की पूरी सिलाई-पहेली की समझ बदल देता है।
+- **बन्धन का कारण *बे-परवाना* है** — वही शब्द जो इरा की सिलाई के लिए इस्तेमाल होता है। माँ का अपराध
+  और बेटी का हुनर एक ही हैं।
+- **क़िरमिज़ी पंक्ति चिह्न को जवाब देती है** — प्रमुख की स्याही बुनाई को पहचानती है। प्रमुख भविष्य नहीं
+  बता रहा था; प्रमुख *योजना* बना रहा था।
+- **ज़ंजीर-रोक बजट: अभी ख़र्च नहीं।** चार स्वर मौन। सूत्र-यन्त्र कभी नहीं बोलता।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The School of the Braided Thread | Lore — *The Hand-School Named* |
-| Rule three: teacher's strand before speech | Lore — *The Teacher's Gift* |
-| Binding reason: unlicensed | Event — *The Mother's Crime* |
-| The principal planned for her | Lore — *The Plan* |
+| बुने धागे का विद्यालय | लोर — *हस्त-विद्यालय का नाम* |
+| नियम तीन: बोलने से पहले गुरु का तंतु | लोर — *गुरु की देन* |
+| बन्धन-कारण: बे-परवाना | इवेंट — *माँ का अपराध* |
+| प्रमुख ने उसके लिए योजना बनाई | लोर — *योजना* |

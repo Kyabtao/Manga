@@ -1,139 +1,134 @@
-# THREADBORN — Chapter 06 — Page 007
+# सुत्रजात (THREADBORN) — अध्याय ०६ — पृष्ठ ००७
 
-**अध्याय शीर्षक:** *The Mother's File* / *माँ की फ़ाइल*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail
-**पृष्ठ प्रकार:** The basin reacts — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *माँ की फ़ाइल*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (सुबह → शाम)
+**पृष्ठ प्रकार:** चार स्वर — ७ पैनल, अन्त में हुक
 
-> Beats: Page 006 — the charter in the lockbox (8 objects), the mother is missing, the principal
-> has the mother.
-
----
-
-## चित्र-खाना 1 — Wide, the basin morning (~14%)
-
-**कैमरा:** Morning, Knot & Nail: the stall works normally. Ira mends at the counter, braided
-thread in her needle, mark open. The basin's queue is long — the girl with the debtless mend
-is famous now.
-
-**चित्र:** The Knot & Nail as the basin's centre. The queue stretches past the next stall. Ash
-falls. The Spindle is still bright.
-
-> **शीर्षक (none spoken):**
-> The basin does not know about the archive. It knows about the mend. That is enough.
+> English source: [`page-007.md`](page-007.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
 ---
 
-## चित्र-खाना 2 — Medium, the chain hums (~13%)
+## पैनल १ — व्यापक, गर्त की सुबह (~१४%)
 
-**कैमरा:** Rekhak walks his rounds, chain running, oath-link dark. As he passes the Knot & Nail,
-the chain hums — the four notes, wrong key, same shape. But tonight the hum is different:
-stronger, closer, as if the chain is *reaching* for the mark.
+**कैमरा:** सुबह, गाँठ और कील: ठेला सामान्य रूप से चल रहा है। इरा काउंटर पर सीती है, सुई में बुना धागा,
+चिह्न खुला। गर्त की क़तार लम्बी है — जिस लड़की की सिलाई पर ऋण नहीं लगता, वह अब मशहूर है।
 
-**चित्र:** The chain's hum reaches the stall. Ira's mark responds — the blank strand stirs.
+**दृश्य:** गाँठ और कील गर्त का केन्द्र बनी हुई। क़तार अगले ठेले के पार तक फैली है। राख गिरती है। तकली
+अब भी चमकीली है।
 
-> **शीर्षक (Ira's voice, small):**
-> His chain hummed the four notes again. Stronger tonight. As if the chain knows the file has
-> been read.
-
----
-
-## चित्र-खाना 3 — Close, the mark responds (~14%)
-
-**कैमरा:** Ira's palm: the blank strand — her mother's thread — reaches toward the chain's
-hum. Not toward the chain itself, toward the *echo*. The echo is the four notes. The four notes
-are her mother's sewing melody. The blank strand recognizes its own melody.
-
-**चित्र:** The blank strand and the chain's hum in the same frame. The thread recognizes the
-melody that was in the room when it was sewn.
-
-> **शीर्षक (none spoken):**
-> The blank strand recognizes the melody. The melody was in the room when the braid was sewn.
-> The chain carries the echo. The thread carries the memory.
+> **कैप्शन (कोई बोलता नहीं):**
+> गर्त अभिलेखागार के बारे में नहीं जानता। वह सिलाई के बारे में जानता है। इतना ही बहुत है।
 
 ---
 
-## चित्र-खाना 4 — Medium, the four notes (~13%)
+## पैनल २ — मध्यम, ज़ंजीर गुनगुनाती है (~१३%)
 
-**कैमरा:** Through the braided mark, Ira hears the four notes clearly for the first time — not
-through the chain's echo, but through the thread's memory. The notes are her mother's voice,
-humming while she sewed. Off-key. Always the same four.
+**कैमरा:** रेखक अपने फेरे पर चलता है, ज़ंजीर चलती हुई, शपथ-कड़ी काली। जैसे ही वह गाँठ और कील के पास से
+गुज़रता है, ज़ंजीर गुनगुनाती है — चार स्वर, ग़लत सुर, वही आकार। पर आज रात गुनगुनाहट अलग है: प्रबल,
+क़रीब, जैसे ज़ंजीर चिह्न की ओर *बढ़* रही हो।
 
-**चित्र:** Ira's face, listening to a voice no one else can hear. The thread is playing the
-melody back.
+**दृश्य:** ज़ंजीर की गुनगुनाहट ठेले तक पहुँचती है। इरा का चिह्न जवाब देता है — ख़ाली तंतु हिलता है।
 
-> **शीर्षक (Ira's voice, smallest):**
-> I hear her. Through the thread. Off-key. The same four notes. Her voice. Not the chain's
-> echo. Her voice.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> उसकी ज़ंजीर ने फिर वही चार स्वर गुनगुनाए। आज रात प्रबल। जैसे ज़ंजीर जानती हो कि फ़ाइल पढ़ ली गई है।
 
 ---
 
-## चित्र-खाना 5 — Wide, the basin evening (~14%)
+## पैनल ३ — क्लोज़, चिह्न जवाब देता है (~१४%)
 
-**कैमरा:** Evening: the Knot & Nail's shutters are up. The basin quietens. Kessa sits behind
-the counter, loupe up, lockbox under the counter. Ira sits across from her, palm open, mark
-glowing faintly.
+**कैमरा:** इरा की हथेली: ख़ाली तंतु — उसकी माँ का धागा — ज़ंजीर की गुनगुनाहट की ओर बढ़ता है। ज़ंजीर
+की ओर नहीं, *प्रतिध्वनि* की ओर। प्रतिध्वनि वे चार स्वर हैं। वे चार स्वर उसकी माँ का सिलाई-गीत हैं।
+ख़ाली तंतु अपनी ही धुन को पहचानता है।
 
-**चित्र:** Two women and a box. The same image as always. But the box holds eight objects now,
-and the girl has heard her mother's voice.
+**दृश्य:** एक ही फ़्रेम में ख़ाली तंतु और ज़ंजीर की गुनगुनाहट। धागा उस धुन को पहचानता है जो तब कमरे में
+थी जब उसे सीया गया।
 
-> **केसा (संवाद, dry):**
+> **कैप्शन (कोई बोलता नहीं):**
+> ख़ाली तंतु धुन पहचानता है। जब बुनाई सीई गई, तब वह धुन कमरे में थी। ज़ंजीर प्रतिध्वनि थामे है। धागा
+> स्मृति थामे है।
+
+---
+
+## पैनल ४ — मध्यम, चार स्वर (~१३%)
+
+**कैमरा:** बुने चिह्न के ज़रिए इरा पहली बार चार स्वर साफ़-साफ़ सुनती है — ज़ंजीर की प्रतिध्वनि से नहीं,
+धागे की स्मृति से। स्वर उसकी माँ का स्वर हैं, जो सीते हुए गुनगुनाती थी। सुर से हटा हुआ। हमेशा वही चार।
+
+**दृश्य:** इरा का चेहरा, ऐसा स्वर सुनते हुए जिसे कोई और नहीं सुन सकता। धागा वह धुन वापस बजा रहा है।
+
+> **कैप्शन (इरा का स्वर, सबसे धीमा):**
+> मैं उसे सुनती हूँ। धागे के ज़रिए। सुर से हटा हुआ। वही चार स्वर। उसका स्वर। ज़ंजीर की प्रतिध्वनि
+> नहीं। उसका स्वर।
+
+---
+
+## पैनल ५ — व्यापक, गर्त की शाम (~१४%)
+
+**कैमरा:** शाम: गाँठ और कील के शटर चढ़े हैं। गर्त शान्त पड़ता है। काउंटर के पीछे केसा बैठी है, लूप ऊपर,
+काउंटर के नीचे ताला-बक्सा। इरा उसके आमने-सामने बैठी है, हथेली खुली, चिह्न मद्धम चमकता हुआ।
+
+**दृश्य:** दो स्त्रियाँ और एक बक्सा। वही दृश्य जो हमेशा रहता है। पर बक्से में अब आठ चीज़ें हैं, और
+लड़की ने अपनी माँ का स्वर सुन लिया है।
+
+> **केसा (संवाद, रूखा):**
 > तुमने उसे सुना।
 >
-> **IRA (dialogue):**
-> Through the thread. Her voice.
+> **इरा (संवाद):**
+> धागे के ज़रिए। उसका स्वर।
 
 ---
 
-## चित्र-खाना 6 — Close, Kessa's hands (~13%)
+## पैनल ६ — क्लोज़, केसा के हाथ (~१३%)
 
-**कैमरा:** Kessa's hands: she ties a new knot in the tally-thread. The hearing is filed. Then
-she does something new: she reaches into the lockbox and draws out the charter. She reads it
-again. Her loupe-eye moves across the knot-script.
+**कैमरा:** केसा के हाथ: वह गिनती-डोर में एक नई गाँठ लगाती है। सुनना दर्ज हो गया। फिर वह कुछ नया करती
+है: वह ताला-बक्से में हाथ डालकर अधिकार-पत्र निकालती है। वह उसे दोबारा पढ़ती है। उसकी लूप-आँख
+गाँठ-लिपि पर चलती है।
 
-**चित्र:** Kessa reading the charter, loupe down. The same gesture as reading a debt-mark.
+**दृश्य:** केसा अधिकार-पत्र पढ़ती हुई, लूप नीचे। वही हाव-भाव जो ऋण-चिह्न पढ़ने का है।
 
-> **केसा (संवाद, slow):**
-> The school's charter. The first rule: *thread is braided, never single.*
+> **केसा (संवाद, धीमा):**
+> विद्यालय का अधिकार-पत्र। पहला नियम: *धागा बुना जाता है, कभी अकेला नहीं।*
 >
-> **KESSA (dialogue):**
-> Your mother's school and my lockbox have the same rule: nothing is kept alone.
+> **केसा (संवाद):**
+> तुम्हारी माँ के विद्यालय और मेरे ताला-बक्से का नियम एक ही है: कुछ भी अकेला नहीं रखा जाता।
 
 ---
 
-## चित्र-खाना 7 — Macro, the lockbox — HOOK (~19%)
+## पैनल ७ — मैक्रो, ताला-बक्सा — हुक (~१९%)
 
-**कैमरा:** The lockbox on the counter, open. Eight objects inside: cut-end, census, posting
-order, gift-thread, sixth thread, seventh thread (child's knot), sewer's thread, charter. The
-box is full. The history is complete.
+**कैमरा:** काउंटर पर ताला-बक्सा, खुला। भीतर आठ चीज़ें: कट-सिरा, गिनती, हस्तांतरण-आदेश, देन-धागा,
+छठा धागा, सातवाँ धागा (बच्चे की गाँठ), सीवर का धागा, अधिकार-पत्र। बक्सा भरा हुआ है। इतिहास पूरा है।
 
-**चित्र:** The eight objects in the open box. The chapter's icon, final form.
+**दृश्य:** खुले बक्से में आठ चीज़ें। इस अध्याय का प्रतीक, अपने अन्तिम रूप में।
 
-> **शीर्षक (none spoken):**
-> Eight objects. One family. One school. One box. The lockbox holds the entire history of the
-> braided thread — from the charter's founding to the girl's opening.
+> **कैप्शन (कोई बोलता नहीं):**
+> आठ चीज़ें। एक परिवार। एक विद्यालय। एक बक्सा। ताला-बक्सा बुने धागे का पूरा इतिहास थामे है —
+> अधिकार-पत्र की स्थापना से लड़की के खुलने तक।
 >
-> **शीर्षक (smaller):**
-> The box is full. The history is read. The mother is missing. And the thread that was hidden
-> for fifteen years is now the only thread in the basin that knows its own name.
+> **कैप्शन (छोटा):**
+> बक्सा भरा हुआ है। इतिहास पढ़ लिया गया है। माँ लापता है। और जो धागा पन्द्रह साल छिपा रहा, वह अब गर्त
+> का अकेला ऐसा धागा है जो अपना नाम जानता है।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The four notes heard through the thread** is the chapter's emotional climax: Ira hears her
-> mother's voice for the first time. Not through the chain's echo — through the thread's memory.
-> The melody is the same: off-key, four notes, always the same.
-- **Kessa's reading of the charter** connects the mother's school to Kessa's lockbox: nothing is
-> kept alone. The rule of the school and the rule of the box are the same.
-- **The box is full** — eight objects, the complete history. The icon reaches its final form.
-- **Chain budget: unspent.** Four notes: heard correctly for the first time (through the thread,
-> not the chain). Loom never speaks.
+- **धागे के ज़रिए सुने गए चार स्वर** इस अध्याय का भावनात्मक चरम हैं: इरा पहली बार अपनी माँ का स्वर
+  सुनती है। ज़ंजीर की प्रतिध्वनि से नहीं — धागे की स्मृति से। धुन वही है: सुर से हटी हुई, चार स्वर,
+  हमेशा वही।
+- **अधिकार-पत्र का केसा द्वारा पाठ** माँ के विद्यालय को केसा के ताला-बक्से से जोड़ता है: कुछ भी अकेला
+  नहीं रखा जाता। विद्यालय का नियम और बक्से का नियम एक ही हैं।
+- **बक्सा भरा हुआ है** — आठ चीज़ें, पूरा इतिहास। प्रतीक अपने अन्तिम रूप में पहुँचता है।
+- **ज़ंजीर-रोक बजट: अभी ख़र्च नहीं।** चार स्वर: पहली बार ठीक सुने गए (धागे से, ज़ंजीर से नहीं)।
+  सूत्र-यन्त्र कभी नहीं बोलता।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The thread plays the melody | Power — *Thread Memory* |
-| "Nothing is kept alone." | Lore — *The School's Rule* |
-| Eight objects, the full box | Lore — *The Complete History* |
+| धागा वह धुन बजाता है | पावर — *धागे की स्मृति* |
+| "कुछ भी अकेला नहीं रखा जाता।" | लोर — *विद्यालय का नियम* |
+| आठ चीज़ें, भरा हुआ बक्सा | लोर — *पूरा इतिहास* |

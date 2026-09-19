@@ -1,147 +1,146 @@
-# THREADBORN — Chapter 06 — Page 001
+# सुत्रजात (THREADBORN) — अध्याय ०६ — पृष्ठ ००१
 
-**अध्याय शीर्षक:** *The Mother's File* / *माँ की फ़ाइल*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — The Mendery archive, ash-slums
-**पृष्ठ प्रकार:** Chapter opening — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *माँ की फ़ाइल*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — मेंडरी का अभिलेखागार, राख-बस्तियाँ
+**पृष्ठ प्रकार:** अध्याय-प्रारम्भ — ७ पैनल, अन्त में हुक
 
-> पिछले पृष्ठ से: Chapter 005: Ira entered the Mendery through the back door, found her mother's
-> file (*SUTAR, M. — Braid-carrier, projection type, Mendery bound*), read two crimson lines: "Sewn
-> shut" and "The braid will open. The thread will pull. लड़की आएगी।" The principal predicted
-> her. Kessa's key is in her hand. The braided mark is open on her palm.
+> English source: [`page-001.md`](page-001.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the archive (~14%)
-
-**कैमरा:** The Mendery archive: tall shelves of files stretching into darkness. Dust and ash on
-every surface. Ira stands in the centre of the room, her mother's file open in her hands, the
-braided mark on her palm casting faint light on the pages. The key is in her belt.
-
-**चित्र:** The archive is vast and silent and old. Hundreds of files, each a debt-carrier's
-record. Ira is the only person in the room. The mark's faint glow is the only light besides
-the Spindle's filtered beam from a high window.
-
-> **शीर्षक (Ira's voice, small):**
-> The archive held hundreds of files. My mother's was one of many. But the crimson line was
-> only in hers.
+> अध्याय ००५ से आगे आते सूत्र: इरा पिछले दरवाज़े से मेंडरी में घुसी, अपनी माँ की फ़ाइल ढूँढ़ी
+> (*सुतार, म. — बुनाई-वाहक, प्रक्षेपण-प्रकार, मेंडरी-बद्ध*), दो क़िरमिज़ी पंक्तियाँ पढ़ीं: "सी कर बन्द।"
+> और "बुनाई खुलेगी। धागा खिंचेगा। लड़की आएगी।" प्रमुख ने उसका पहले से लिखा था। केसा की चाबी उसके
+> हाथ में है। बुना चिह्न उसकी हथेली पर खुला है।
 
 ---
 
-## चित्र-खाना 2 — Macro, the file (~13%)
+## पैनल १ — व्यापक, अभिलेखागार (~१४%)
 
-**कैमरा:** The file in Ira's hands: grey ink columns — Name, Kind, Thread, Debt, Binding date,
-Release date. Her mother's name: *Sutar, M.* — the M stands for a name Ira has never heard
-spoken aloud. The Kind column says *Manavkin*. The Thread column says *braided, projection type*.
-The Debt column says *zero*.
+**कैमरा:** मेंडरी का अभिलेखागार: फ़ाइलों के ऊँचे ताख़े अँधेरे में दूर तक फैले हुए। हर सतह पर धूल और राख।
+इरा कक्ष के बीच खड़ी है, हाथों में माँ की फ़ाइल खुली, हथेली पर बुना चिह्न पन्नों पर मद्धम उजाला डालता
+हुआ। चाबी उसकी कमर पर।
 
-**चित्र:** The file is old, the ink faded but legible. The crimson lines at the foot glow faintly.
-The same handwriting as every other crimson mark the principal has left.
+**दृश्य:** अभिलेखागार विशाल, शान्त और पुराना है। सैकड़ों फ़ाइलें, हर एक किसी ऋण-वाहक का अभिलेख। इरा
+कक्ष में अकेली है। ऊँची खिड़की से छनकर आती तकली की किरण के अलावा चिह्न की मद्धम चमक ही अकेला उजाला है।
 
-> **शीर्षक (none spoken):**
-> Name: Sutar, M. Kind: Manavkin. Thread: braided, projection type. Debt: zero.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> अभिलेखागार में सैकड़ों फ़ाइलें थीं। मेरी माँ की उनमें से एक थी। पर क़िरमिज़ी पंक्ति सिर्फ़ उसी में थी।
+
+---
+
+## पैनल २ — मैक्रो, फ़ाइल (~१३%)
+
+**कैमरा:** इरा के हाथों में फ़ाइल: धूसर स्याही के ख़ाने — नाम, जाति, सूत्र, ऋण, बन्धन-तिथि, मुक्ति-तिथि।
+उसकी माँ का नाम: *सुतार, म.* — म वह नाम है जो इरा ने कभी बोलते नहीं सुना। जाति के ख़ाने में लिखा है
+*मानवकिण*। सूत्र के ख़ाने में *बुना हुआ, प्रक्षेपण-प्रकार*। ऋण के ख़ाने में *शून्य*।
+
+**दृश्य:** फ़ाइल पुरानी है, स्याही फीकी पर पढ़ी जा सकने वाली। नीचे की क़िरमिज़ी पंक्तियाँ मद्धम चमकती
+हैं। वही हस्तलेख जो प्रमुख के हर दूसरे क़िरमिज़ी निशान पर है।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> नाम: सुतार, म.। जाति: मानवकिण। सूत्र: बुना हुआ, प्रक्षेपण-प्रकार। ऋण: शून्य।
 >
-> **शीर्षक (smaller):**
-> Zero debt. Like her daughter. Like the thread that was never borrowed.
+> **कैप्शन (छोटा):**
+> शून्य ऋण। अपनी बेटी की तरह। उस धागे की तरह जो कभी उधार नहीं लिया गया।
 
 ---
 
-## चित्र-खाना 3 — Close, the binding date (~14%)
+## पैनल ३ — क्लोज़, बन्धन-तिथि (~१४%)
 
-**कैमरा:** The binding date: twenty years ago — five years before Ira was born. The release
-date column is empty. Her mother was never released.
+**कैमरा:** बन्धन-तिथि: बीस साल पहले — इरा के जन्म से पाँच साल पहले। मुक्ति-तिथि का ख़ाना ख़ाली है।
+उसकी माँ को कभी मुक्त नहीं किया गया।
 
-**चित्र:** The empty release-date column is the heaviest object on the page.
+**दृश्य:** ख़ाली मुक्ति-तिथि का ख़ाना इस पृष्ठ की सबसे भारी चीज़ है।
 
-> **शीर्षक (Ira's voice, smallest):**
-> Twenty years. No release. She was never freed.
-
----
-
-## चित्र-खाना 4 — Medium, the shelves (~13%)
-
-**कैमरा:** Ira looks up from the file at the shelves. Every file is a debt-carrier. Every
-carrier was bound. The Mendery is not a workhouse — it is a prison of debt. And her mother
-was here for five years before Ira was born.
-
-**चित्र:** The shelves are endless. Each file a life. The archive is the Mendery's true
-work: not binding debt-carriers, but recording them.
-
-> **शीर्षक (none spoken):**
-> The Mendery binds debt-carriers. The archive records them. Her mother was one of hundreds.
+> **कैप्शन (इरा का स्वर, सबसे धीमा):**
+> बीस साल। कोई मुक्ति नहीं। उसे कभी आज़ाद नहीं किया गया।
 
 ---
 
-## चित्र-खाना 5 — Medium, the braid (~14%)
+## पैनल ४ — मध्यम, ताख़े (~१३%)
 
-**कैमरा:** Ira's palm: the braided mark glows as she holds the file. The blank strand — the
-sewer's thread — reaches toward the file the way it reached toward the chain and the key.
-The thread recognizes its own history.
+**कैमरा:** इरा फ़ाइल से नज़र उठाकर ताख़ों की ओर देखती है। हर फ़ाइल एक ऋण-वाहक। हर वाहक बाँधा गया
+था। मेंडरी कारख़ाना नहीं है — वह ऋण की जेल है। और उसकी माँ इरा के जन्म से पाँच साल यहाँ थी।
 
-**चित्र:** The thread and the file in the same frame: the braid's blank strand touches the
-page where her mother's name is written.
+**दृश्य:** ताख़े अनन्त हैं। हर फ़ाइल एक जीवन। अभिलेखागार ही मेंडरी का असली काम है: ऋण-वाहकों को
+बाँधना नहीं, उन्हें दर्ज करना।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> मेंडरी ऋण-वाहकों को बाँधती है। अभिलेखागार उन्हें दर्ज करता है। उसकी माँ सैकड़ों में से एक थी।
+
+---
+
+## पैनल ५ — मध्यम, बुनाई (~१४%)
+
+**कैमरा:** इरा की हथेली: फ़ाइल थामे हुए बुना चिह्न चमकता है। ख़ाली तंतु — सीवर का धागा — फ़ाइल की ओर
+बढ़ता है, जैसे वह ज़ंजीर की ओर बढ़ा था और चाबी की ओर। धागा अपना ही इतिहास पहचानता है।
+
+**दृश्य:** धागा और फ़ाइल एक ही फ़्रेम में: बुनाई का ख़ाली तंतु उस पन्ने को छूता है जहाँ उसकी माँ का नाम
+लिखा है।
 
 > **ध्वनि:** *—*
 >
-> **CAPTION:** The thread recognizes the file. The way it recognized the chain. The way it
-> recognized the key. The braid remembers.
+> **कैप्शन:** धागा फ़ाइल को पहचानता है। जैसे उसने ज़ंजीर को पहचाना। जैसे उसने चाबी को पहचाना। बुनाई को
+> याद है।
 
 ---
 
-## चित्र-खाना 6 — Wide, the archive's depth (~13%)
+## पैनल ६ — व्यापक, अभिलेखागार की गहराई (~१३%)
 
-**कैमरा:** Ira walks deeper into the archive, file in hand, mark glowing. The shelves
-narrow. The files are older. At the archive's back wall, a single shelf holds files that
-are different — not grey Council ink, but older script. Kshudra knot-script.
+**कैमरा:** इरा अभिलेखागार में और गहरे चलती है, हाथ में फ़ाइल, चिह्न चमकता हुआ। ताख़े तंग पड़ते जाते हैं।
+फ़ाइलें पुरानी होती जाती हैं। अभिलेखागार की पिछली दीवार पर एक अकेला ताख़ा ऐसी फ़ाइलें रखता है जो अलग
+हैं — परिषद की धूसर स्याही नहीं, पुरानी लिपि। क्षुद्र की गाँठ-लिपि।
 
-**चित्र:** The back wall's files are Kshudra-made, older than the Council's records. The
-archive has layers: Council files in front, Kshudra files at the back.
+**दृश्य:** पिछली दीवार की फ़ाइलें क्षुद्र की बनाई हैं, परिषद के अभिलेखों से पुरानी। अभिलेखागार की
+परतें हैं: आगे परिषद की फ़ाइलें, पीछे क्षुद्र की।
 
-> **शीर्षक (none spoken):**
-> The archive has layers. Council files in front. Kshudra files at the back. The oldest
-> records predate the Council itself.
+> **कैप्शन (कोई बोलता नहीं):**
+> अभिलेखागार की परतें हैं। आगे परिषद की फ़ाइलें। पीछे क्षुद्र की फ़ाइलें। सबसे पुराने अभिलेख परिषद से
+> भी पहले के हैं।
 
 ---
 
-## चित्र-खाना 7 — Macro, the back wall — HOOK (~19%)
+## पैनल ७ — मैक्रो, पिछली दीवार — हुक (~१९%)
 
-**कैमरा:** Ira's hand on the back wall's shelf: the oldest file is labelled in knot-script
-she cannot read. But the braided mark reads it — the blank strand touches the file and the
-knot-script *translates*: one word, visible in the thread's light.
+**कैमरा:** पिछली दीवार के ताख़े पर इरा का हाथ: सबसे पुरानी फ़ाइल पर गाँठ-लिपि में लिखा है जिसे वह पढ़
+नहीं सकती। पर बुना चिह्न उसे पढ़ लेता है — ख़ाली तंतु फ़ाइल को छूता है और गाँठ-लिपि *अनुवादित* हो
+जाती है: एक शब्द, धागे के उजाले में दिखता हुआ।
 
-**चित्र:** The knot-script file, illuminated by the mark's thread-light. The translated word
-is visible — a name, a place, a concept — that changes everything Ira knows about the Mendery.
+**दृश्य:** गाँठ-लिपि वाली फ़ाइल, चिह्न के धागे-उजाले से प्रकाशित। अनूदित शब्द दिखता है — एक नाम, एक
+जगह, एक अवधारणा — जो मेंडरी के बारे में इरा की हर जानकारी बदल देता है।
 
-> **शीर्षक (none spoken):**
-> The mark translates what the girl cannot read. The oldest file in the archive opens for
-> the thread that was braided into a girl's palm twenty years ago.
+> **कैप्शन (कोई बोलता नहीं):**
+> चिह्न वह पढ़ लेता है जो लड़की नहीं पढ़ सकती। अभिलेखागार की सबसे पुरानी फ़ाइल उस धागे के लिए खुलती है
+> जो बीस साल पहले एक लड़की की हथेली में बुना गया था।
 >
-> **शीर्षक (smaller):**
-> The Mendery's oldest record is not a debt-carrier's file. It is a *thread-school's charter*.
-> And the charter's first name is the same as the name in her mother's file.
+> **कैप्शन (छोटा):**
+> मेंडरी का सबसे पुराना अभिलेख किसी ऋण-वाहक की फ़ाइल नहीं है। वह एक *धागा-विद्यालय का अधिकार-पत्र*
+> है। और अधिकार-पत्र का पहला नाम वही नाम है जो उसकी माँ की फ़ाइल में है।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The archive is the Mendery's true work:** not binding, but recording. Every file is a life.
-  The visual should feel like a library, not a prison.
-- **The mother's file** reveals: Manavkin, braided, projection type, zero debt, bound twenty years
-  ago, never released. The empty release-date column is the page's emotional weight.
-- **The back wall's Kshudra files** are the chapter's mystery: the archive has layers older than
-  the Council. The braided mark translates knot-script.
-- **The thread-school charter** is the chapter's hook: the Mendery's oldest record is not a
-  debt-carrier file but a charter for the hand-school that sewed Ira's palm. The name in the
-  charter matches the name in her mother's file.
-- **Chain budget: ONE for Chapter 006.** Not to be spent early.
-- **The Loom never speaks.** Ash falls in the filtered light.
+- **अभिलेखागार ही मेंडरी का असली काम है:** बाँधना नहीं, दर्ज करना। हर फ़ाइल एक जीवन। दृश्य पुस्तकालय
+  जैसा लगना चाहिए, जेल जैसा नहीं।
+- **माँ की फ़ाइल** बताती है: मानवकिण, बुना हुआ, प्रक्षेपण-प्रकार, शून्य ऋण, बीस साल पहले बद्ध, कभी
+  मुक्त नहीं। ख़ाली मुक्ति-तिथि का ख़ाना इस पृष्ठ का भावनात्मक भार है।
+- **पिछली दीवार की क्षुद्र फ़ाइलें** इस अध्याय का रहस्य हैं: अभिलेखागार में परिषद से भी पुरानी परतें
+  हैं। बुना चिह्न गाँठ-लिपि का अनुवाद करता है।
+- **धागा-विद्यालय का अधिकार-पत्र** इस अध्याय का हुक है: मेंडरी का सबसे पुराना अभिलेख किसी ऋण-वाहक की
+  फ़ाइल नहीं, उस हस्त-विद्यालय का अधिकार-पत्र है जिसने इरा की हथेली सीई। अधिकार-पत्र का नाम उसकी माँ की
+  फ़ाइल के नाम से मेल खाता है।
+- **ज़ंजीर-रोक बजट: अध्याय ००६ के लिए एक।** जल्दी ख़र्च नहीं होगी।
+- **सूत्र-यन्त्र कभी नहीं बोलता।** छनी हुई रोशनी में राख गिरती है।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The mother's file | Lore — *Sutar, M.* |
-| Zero debt, like her daughter | Lore — *The Debtless Line* |
-| The archive's layers | Location — *The Kshudra Back Wall* |
-| The thread-school charter | Lore — *The Charter* |
-| The mark translates knot-script | Power — *Thread Literacy* |
+| माँ की फ़ाइल | लोर — *सुतार, म.* |
+| शून्य ऋण, बेटी की तरह | लोर — *ऋणहीन वंश* |
+| अभिलेखागार की परतें | स्थान — *क्षुद्र पिछली दीवार* |
+| धागा-विद्यालय का अधिकार-पत्र | लोर — *अधिकार-पत्र* |
+| चिह्न गाँठ-लिपि अनुवाद करता है | पावर — *धागा-साक्षरता* |

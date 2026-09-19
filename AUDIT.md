@@ -41,7 +41,7 @@ hand-translated and are essentially complete.
 | 003 | 7,694 → 71,266 | 36,109 → 2,043 | 17.6% → **97.2%** | ✅ **FIXED** |
 | 004 | 1,797 → 58,455 | 21,930 → 3,466 | 7.6% → **94.4%** | ✅ **FIXED** |
 | 005 | 2,062 → 21,487 | 21,211 → 1,280 | 8.9% → **94.4%** | ✅ **FIXED** |
-| 006 | 2,789 | 35,216 | 7.3% | **broken** |
+| 006 | 2,789 → 34,161 | 35,216 → 1,290 | 7.3% → **96.4%** | ✅ **FIXED** |
 | 007 | 3,671 | 51,886 | 6.6% | **broken** |
 | 008 | 2,975 | 54,020 | 5.2% | **broken** |
 
@@ -77,8 +77,8 @@ but it is the same generator and should be fixed in the same pass.
 
 ### Recommendation
 
-Chapters 003–008 needed **60 files re-translated**. **Chapters 003, 004 and 005 are now complete** (30 files,
-97.2%, 94.4% and 94.4%). **Chapters 006–008 remain — 30 files.** This is a real translation job, not a script run.
+Chapters 003–008 needed **60 files re-translated**. **Chapters 003–006 are now complete** (40 files,
+97.2%, 94.4%, 94.4% and 96.4%). **Chapters 007–008 remain — 20 files.** This is a real translation job, not a script run.
 
 **Method that worked for Chapter 003** (use it for the rest): read the EN page, write the HI page
 in full — prose, camera, image, captions, dialogue, SFX, notes and card hooks — then re-run
@@ -276,7 +276,7 @@ re-provision resets the local clone against the remote.
 
 | # | Priority | Item | Status |
 |---|---|---|---|
-| 1 | **Critical** | Re-translate Hindi — **Ch.003–005 done** (97.2% / 94.4% / 94.4%); Ch.006–008 remain (30 files) | 🔶 in progress |
+| 1 | **Critical** | Re-translate Hindi — **Ch.003–006 done** (97.2 / 94.4 / 94.4 / 96.4%); Ch.007–008 remain (20 files) | 🔶 in progress |
 | 2 | Major | `chapter-004/images/page-001.png` was the wrong project's art | ✅ fixed |
 | 3 | Major | `chapter-007/images/page-007.png` landscape, not portrait | ✅ fixed |
 | 4 | Minor | Cast-file depth/format drift (Ch. 003–008 vs 001–002) | ⬜ open |

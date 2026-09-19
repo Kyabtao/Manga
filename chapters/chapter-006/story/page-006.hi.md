@@ -1,137 +1,134 @@
-# THREADBORN — Chapter 06 — Page 006
+# सुत्रजात (THREADBORN) — अध्याय ०६ — पृष्ठ ००६
 
-**अध्याय शीर्षक:** *The Mother's File* / *माँ की फ़ाइल*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — The Mendery archive → the Knot & Nail
-**पृष्ठ प्रकार:** The return — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *माँ की फ़ाइल*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — राख-बस्तियाँ → भस्म-गर्त, गाँठ और कील (भोर)
+**पृष्ठ प्रकार:** लौटना — ७ पैनल, अन्त में हुक
 
-> Beats: Page 005 — the workshop, the empty chair, the mother left three days ago to find the
-> principal. The thread is cut.
-
----
-
-## चित्र-खाना 1 — Wide, the archive exit (~14%)
-
-**कैमरा:** Ira leaves the Mendery through the back door, Nandi behind her. Dawn light in the
-ash-slums. The key is in Ira's belt. The braided mark is open. The mother's file and the charter
-are in her hands.
-
-**चित्र:** Ira walks into the dawn. The Mendery's back door closes behind her. The ash-slums
-stretch ahead, the basin beyond.
-
-> **शीर्षक (Ira's voice, small):**
-> The sewer is my mother. The cutter is my mother. The supply line is my mother. And my mother
-> has gone to find the principal.
+> English source: [`page-006.md`](page-006.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
 ---
 
-## चित्र-खाना 2 — Medium, the basin approach (~13%)
+## पैनल १ — व्यापक, मेंडरी से बाहर (~१४%)
 
-**कैमरा:** Ira walks through the basin toward the Knot & Nail. The market is waking. The
-Spindle is still brighter than usual. The basin does not know what she has learned.
+**कैमरा:** इरा पिछले दरवाज़े से मेंडरी से बाहर निकलती है, नन्दी उसके पीछे। राख-बस्तियों में भोर का
+उजाला। चाबी इरा की कमर पर। बुना चिह्न खुला। माँ की फ़ाइल और अधिकार-पत्र उसके हाथों में।
 
-**चित्र:** The basin normal: pots steaming, stalls opening, ash falling. Ira walks through it
-carrying twenty years of history.
+**दृश्य:** इरा भोर में चल पड़ती है। मेंडरी का पिछला दरवाज़ा उसके पीछे बन्द हो जाता है। आगे राख-बस्तियाँ
+फैली हैं, उसके पार गर्त।
 
-> **शीर्षक (none spoken):**
-> The basin does not know. The basin does not need to know. Not yet.
-
----
-
-## चित्र-खाना 3 — Close, the stall (~14%)
-
-**कैमरा:** The Knot & Nail: Kessa behind the counter, loupe up. Ira arrives. Kessa reads her
-face the way she reads debt-marks — instantly, completely.
-
-**चित्र:** Kessa's loupe is up. Her hands are on the counter. She sees Ira and she knows
-something has changed.
-
-> **केसा (संवाद, dry):**
-> तुमने ढूँढ लिया।
+> **कैप्शन (इरा का स्वर, धीमा):**
+> सीवर मेरी माँ है। काटने वाला मेरी माँ है। आपूर्ति-मार्ग मेरी माँ है। और मेरी माँ प्रमुख को ढूँढ़ने
+> गई है।
 
 ---
 
-## चित्र-खाना 4 — Medium, the telling (~13%)
+## पैनल २ — मध्यम, गर्त की ओर (~१३%)
 
-**कैमरा:** Ira sets the mother's file and the charter on the counter. Kessa's loupe goes down.
-She reads the charter first — she can read knot-script, she is Kshudra. The name *Sutar* in
-the charter's founder column.
+**कैमरा:** इरा गर्त से होकर गाँठ और कील की ओर चलती है। बाज़ार जाग रहा है। तकली अब भी आम से ज़्यादा
+चमकीली है। गर्त नहीं जानता कि उसने क्या जान लिया है।
 
-**चित्र:** Kessa reads. Her hands are steady. Her knuckles are white.
+**दृश्य:** गर्त सामान्य: हाँड़ियों से भाप, खुलते ठेले, गिरती राख। इरा बीस साल का इतिहास थामे उसके बीच
+से गुज़रती है।
 
-> **केसा (संवाद, slow):**
-> Your mother founded the school.
+> **कैप्शन (कोई बोलता नहीं):**
+> गर्त नहीं जानता। गर्त को जानने की ज़रूरत भी नहीं। अभी नहीं।
+
+---
+
+## पैनल ३ — क्लोज़, ठेला (~१४%)
+
+**कैमरा:** गाँठ और कील: काउंटर के पीछे केसा, लूप ऊपर। इरा पहुँचती है। केसा उसका चेहरा ऐसे पढ़ती है जैसे
+ऋण-चिह्न पढ़ती है — तुरन्त, पूरा।
+
+**दृश्य:** केसा का लूप ऊपर है। उसके हाथ काउंटर पर हैं। वह इरा को देखती है और जान लेती है कि कुछ
+बदल गया है।
+
+> **केसा (संवाद, रूखा):**
+> तुमने ढूँढ़ लिया।
+
+---
+
+## पैनल ४ — मध्यम, कहना (~१३%)
+
+**कैमरा:** इरा माँ की फ़ाइल और अधिकार-पत्र काउंटर पर रखती है। केसा का लूप नीचे जाता है। वह पहले
+अधिकार-पत्र पढ़ती है — वह गाँठ-लिपि पढ़ सकती है, वह क्षुद्र है। अधिकार-पत्र के संस्थापक-ख़ाने में
+नाम *सुतार*।
+
+**दृश्य:** केसा पढ़ती है। उसके हाथ स्थिर हैं। उसकी पोरें सफ़ेद हैं।
+
+> **केसा (संवाद, धीमा):**
+> तुम्हारी माँ ने विद्यालय खोला।
 >
-> **IRA (dialogue):**
-> My mother is the sewer. My mother is the cutter. My mother ran the supply line from inside
-> the Mendery for twenty years.
+> **इरा (संवाद):**
+> मेरी माँ सीवर है। मेरी माँ काटने वाला है। मेरी माँ ने बीस साल तक मेंडरी के भीतर से आपूर्ति-मार्ग
+> चलाया।
 
 ---
 
-## चित्र-खाना 5 — Wide, Kessa's response (~13%)
+## पैनल ५ — व्यापक, केसा का जवाब (~१३%)
 
-**कैमरा:** Kessa's hands: she closes the charter and sets it face-down on the counter — her
-refusal grammar. Then she opens the lockbox and sets the charter inside. Eight objects now:
-the seven from before plus the charter.
+**कैमरा:** केसा के हाथ: वह अधिकार-पत्र बन्द करती है और उसे काउंटर पर औंधा रख देती है — यही उसका इनकार
+का व्याकरण है। फिर वह ताला-बक्सा खोलती है और अधिकार-पत्र उसके भीतर रख देती है। अब आठ चीज़ें: पहले की
+सात और अधिकार-पत्र।
 
-**चित्र:** The lockbox grows again. Eight objects. The box is the chapter's accumulating icon.
+**दृश्य:** ताला-बक्सा फिर बड़ा हो जाता है। आठ चीज़ें। बक्सा इस अध्याय का जमा होता प्रतीक है।
 
-> **केसा (संवाद, flat):**
-> आठ चीज़ें। सब एक परिवार के बारे में।
-
----
-
-## चित्र-खाना 6 — Close, the question (~14%)
-
-**कैमरा:** Kessa's loupe is up. Her eyes on Ira. The question she has held since Chapter 1:
-the same question Ira asked, the same question she postponed.
-
-**चित्र:** Two women across a counter. The same question, different faces.
-
-> **केसा (संवाद, quiet):**
-> She went to find the principal.
->
-> **IRA (dialogue):**
-> Yes.
->
-> **KESSA (dialogue):**
-> तो प्रमुख जानता है कि तुम यहाँ हो। And the principal has your mother.
+> **केसा (संवाद, सपाट):**
+> आठ चीज़ें। सब एक ही परिवार की।
 
 ---
 
-## चित्र-खाना 7 — Macro, the lockbox — HOOK (~19%)
+## पैनल ६ — क्लोज़, सवाल (~१४%)
 
-**कैमरा:** The lockbox on the counter, Kessa's hand on the lid. Eight objects inside. The
-charter is the newest. The mother's file is beside it. Outside, the basin works. Above, the
-Loom turns. And somewhere in the city, the mother is looking for the principal.
+**कैमरा:** केसा का लूप ऊपर है। उसकी आँखें इरा पर। वह सवाल जो उसने अध्याय ०१ से थामा हुआ है: वही सवाल
+जो इरा ने पूछा था, वही सवाल जिसे उसने टाल दिया था।
 
-**चित्र:** The box is full. The history is complete. The girl is awake. And the mother is
-missing.
+**दृश्य:** काउंटर के आमने-सामने दो स्त्रियाँ। वही सवाल, अलग चेहरे।
 
-> **शीर्षक (none spoken):**
-> Eight objects. One family. Twenty years of thread. The mother has gone to find the principal.
-> The daughter has found the school.
+> **केसा (संवाद, धीमा):**
+> वह प्रमुख को ढूँढ़ने गई।
 >
-> **शीर्षक (smaller):**
-> The hand has opened. The file has been read. The charter has been found. And the woman who
-> sewed a girl's palm shut is no longer in the archive she built.
+> **इरा (संवाद):**
+> हाँ।
+>
+> **केसा (संवाद):**
+> तो प्रमुख जानता है कि तुम यहाँ हो। और प्रमुख के पास तुम्हारी माँ है।
+
+---
+
+## पैनल ७ — मैक्रो, ताला-बक्सा — हुक (~१९%)
+
+**कैमरा:** काउंटर पर ताला-बक्सा, ढक्कन पर केसा का हाथ। भीतर आठ चीज़ें। अधिकार-पत्र सबसे नया है। उसके
+बग़ल माँ की फ़ाइल। बाहर गर्त काम कर रहा है। ऊपर सूत्र-यन्त्र घूमता है। और शहर में कहीं, माँ प्रमुख को
+ढूँढ़ रही है।
+
+**दृश्य:** बक्सा भरा हुआ है। इतिहास पूरा है। लड़की जागी हुई है। और माँ लापता है।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> आठ चीज़ें। एक परिवार। बीस साल का धागा। माँ प्रमुख को ढूँढ़ने गई है। बेटी ने विद्यालय ढूँढ़ लिया है।
+>
+> **कैप्शन (छोटा):**
+> हाथ खुल गया है। फ़ाइल पढ़ ली गई है। अधिकार-पत्र मिल गया है। और जिस स्त्री ने एक लड़की की हथेली सी
+> कर बन्द की थी, वह अब उस अभिलेखागार में नहीं है जिसे उसने बनाया।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The return to the Knot & Nail** is the chapter's emotional pivot: Ira brings the archive's
-> truth to Kessa, and Kessa files it in the lockbox. The box grows to eight objects.
-- **Kessa's refusal grammar** is consistent: she sets the charter face-down before putting it
-> in the box. She refuses to acknowledge the school's existence formally; she stores it
-> physically.
-- **The mother is missing** — the chapter's hook for the next chapter. The principal has the
-> mother, or the mother is looking for the principal. Either way, the supply line has been cut.
-- **Chain budget: unspent.** Four notes silent. Loom never speaks.
+- **गाँठ और कील पर लौटना** इस अध्याय का भावनात्मक मोड़ है: इरा अभिलेखागार का सच केसा के पास लाती है,
+  और केसा उसे ताला-बक्से में दर्ज कर देती है। बक्सा आठ चीज़ों तक बढ़ जाता है।
+- **केसा का इनकार-व्याकरण** एक-सा है: वह अधिकार-पत्र को बक्से में रखने से पहले औंधा करती है। वह विद्यालय
+  के अस्तित्व को औपचारिक रूप से मानने से इनकार करती है; वह उसे भौतिक रूप से सँभाल लेती है।
+- **माँ लापता है** — अगले अध्याय के लिए इस अध्याय का हुक। प्रमुख के पास माँ है, या माँ प्रमुख को ढूँढ़
+  रही है। किसी भी हाल में, आपूर्ति-मार्ग कट चुका है।
+- **ज़ंजीर-रोक बजट: अभी ख़र्च नहीं।** चार स्वर मौन। सूत्र-यन्त्र कभी नहीं बोलता।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| Eight objects in the box | Lore — *The Full Box* |
-| "The principal has your mother." | Event — *The Missing Woman* |
+| बक्से में आठ चीज़ें | लोर — *भरा हुआ बक्सा* |
+| "प्रमुख के पास तुम्हारी माँ है।" | इवेंट — *लापता स्त्री* |

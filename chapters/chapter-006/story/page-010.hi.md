@@ -1,146 +1,139 @@
-# THREADBORN — Chapter 06 — Page 010 — FINALE
+# सुत्रजात (THREADBORN) — अध्याय ०६ — पृष्ठ ०१० — अन्तिम
 
-**अध्याय शीर्षक:** *The Mother's File* / *माँ की फ़ाइल*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail, the Council Stair
-**पृष्ठ प्रकार:** Chapter finale — 7 panels
+**अध्याय शीर्षक:** *माँ की फ़ाइल*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील → परिषद-सीढ़ी (सुबह → भोर)
+**पृष्ठ प्रकार:** अध्याय-अन्त — ७ पैनल
 
-> Beats: Page 009 — "सिलाई करो। बाकी पीछे आएगा।" The whorl-grain in the seam. The school
-> continues. The mother is missing.
->
-> **Chapter 006 budget closed:** chain-stop not spent this chapter (saved for later arc). Four
-> notes heard correctly through the thread (Page 007). Sewer identified as the mother (Page 003).
-> The Loom never speaks.
+> English source: [`page-010.md`](page-010.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the morning (~14%)
-
-**कैमरा:** Morning, Knot & Nail: the stall opens. Ira arrives with the kit. Kessa is behind the
-counter, loupe up. The lockbox is under the counter. Eight objects inside. The basin works. Ash
-falls.
-
-**चित्र:** The Knot & Nail, normalised. The basin's centre. The stall that holds the braided
-thread's entire history.
-
-> **शीर्षक (none spoken):**
-> The morning after the decision. The stall works. The box holds. The girl mends.
+> **अध्याय ००६ का बजट बन्द:** ज़ंजीर-रोक इस अध्याय में ख़र्च नहीं हुई (आगे के आर्क के लिए बची है)।
+> चार स्वर धागे के ज़रिए ठीक सुने गए (पृष्ठ ००७)। सीवर की पहचान माँ के रूप में हुई (पृष्ठ ००३)।
+> सूत्र-यन्त्र कभी नहीं बोलता।
 
 ---
 
-## चित्र-खाना 2 — Medium, the mend (~13%)
+## पैनल १ — व्यापक, सुबह (~१४%)
 
-**कैमरा:** Ira mends at the counter — a dock worker with a torn mark. The braided thread moves
-through the needle. The mark is open. The mend is debtless. The whorl-grain appears. Routine.
+**कैमरा:** सुबह, गाँठ और कील: ठेला खुलता है। इरा थैली लेकर पहुँचती है। काउंटर के पीछे केसा, लूप ऊपर।
+ताला-बक्सा काउंटर के नीचे। भीतर आठ चीज़ें। गर्त काम कर रहा है। राख गिरती है।
 
-**चित्र:** The mend as routine. The school's work, continued.
+**दृश्य:** गाँठ और कील, सामान्य अवस्था में लौटी हुई। गर्त का केन्द्र। वह ठेला जो बुने धागे का पूरा
+इतिहास थामे है।
 
-> **ध्वनि:** *tchk*
-
----
-
-## चित्र-खाना 3 — Close, the chain (~14%)
-
-**कैमरा:** Through the market: Rekhak walks his rounds, chain running, oath-link dark. The
-chain hums — the four notes, wrong key, same shape. But tonight the hum is weaker. The echo
-is fading. The thread has heard the real voice; the chain's echo is no longer needed.
-
-**चित्र:** The chain's hum, weaker. The echo fading. The real voice has been heard through the
-thread.
-
-> **शीर्षक (Ira's voice, small):**
-> The chain hums the four notes. Weaker tonight. The echo is fading. The thread has heard the
-> real voice.
+> **कैप्शन (कोई बोलता नहीं):**
+> फ़ैसले के बाद की सुबह। ठेला काम करता है। बक्सा टिका हुआ है। लड़की सीती है।
 
 ---
 
-## चित्र-खाना 4 — Wide, the Council Stair (~13%)
+## पैनल २ — मध्यम, सिलाई (~१३%)
 
-**कैमरा:** The Council Stair, night: at the foot of the stair, a new object — not thread this
-time. A *letter*. Grey wax and crimson wax, touching. The same two-wax grammar as the posting
-order. But this letter is addressed: *To the girl with the braided mark. From the principal.*
+**कैमरा:** इरा काउंटर पर सीती है — एक गोदी-मज़दूर, फटे निशान के साथ। बुना धागा सुई से गुज़रता है।
+चिह्न खुला है। सिलाई ऋणहीन है। चक्रव्यूह-रेखा उभरती है। रोज़ का काम।
 
-**चित्र:** The letter at the stair's foot. Two waxes touching. Addressed to Ira. From the
-principal. The first direct communication from the principal to the girl.
+**दृश्य:** सिलाई रोज़ की तरह। विद्यालय का काम, जारी।
 
-> **शीर्षक (none spoken):**
-> The principal writes. For the first time, directly. To the girl.
+> **ध्वनि:** *त्स्स्स*
 
 ---
 
-## चित्र-खाना 5 — Close, the letter (~14%)
+## पैनल ३ — क्लोज़, ज़ंजीर (~१४%)
 
-**कैमरा:** The letter on the stair, unopened. Grey wax and crimson wax. The address: *To the
-girl with the braided mark.* No name. The principal knows the mark but not the name — or the
-principal chooses the mark over the name.
+**कैमरा:** बाज़ार के आर-पार: रेखक अपने फेरे पर चलता है, ज़ंजीर चलती हुई, शपथ-कड़ी काली। ज़ंजीर
+गुनगुनाती है — चार स्वर, ग़लत सुर, वही आकार। पर आज रात गुनगुनाहट कमज़ोर है। प्रतिध्वनि फीकी पड़ रही
+है। धागे ने असली स्वर सुन लिया है; ज़ंजीर की प्रतिध्वनि की ज़रूरत अब नहीं रही।
 
-**चित्र:** The letter, unopened. The waxes touching. The address.
+**दृश्य:** ज़ंजीर की गुनगुनाहट, कमज़ोर। प्रतिध्वनि फीकी। असली स्वर धागे के ज़रिए सुन लिया गया है।
 
-> **शीर्षक (none spoken):**
-> Grey wax. Crimson wax. Touching. *To the girl with the braided mark.* The principal knows
-> what she is. The principal has always known.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> ज़ंजीर चार स्वर गुनगुनाती है। आज रात कमज़ोर। प्रतिध्वनि फीकी पड़ रही है। धागे ने असली स्वर सुन
+> लिया है।
 
 ---
 
-## चित्र-खाना 6 — Medium, Ira finds the letter (~13%)
+## पैनल ४ — व्यापक, परिषद-सीढ़ी (~१३%)
 
-**कैमरा:** Ira at the foot of the Council Stair, dawn. She finds the letter. She reads the
-address. She does not open it — not here, not now. She carries it to the Knot & Nail.
+**कैमरा:** परिषद-सीढ़ी, रात: सीढ़ी के तल पर एक नई चीज़ — इस बार धागा नहीं। एक *ख़त*। धूसर मोम और
+क़िरमिज़ी मोम, एक-दूसरे को छूते हुए। वही दो-मोम व्याकरण जो हस्तांतरण-आदेश का है। पर इस ख़त पर पता लिखा
+है: *बुने चिह्न वाली लड़की के नाम। प्रमुख की ओर से।*
 
-**चित्र:** Ira picks up the letter. Her braided mark responds — the blank strand reaches toward
-the crimson wax. The principal's ink recognizes the braid.
+**दृश्य:** सीढ़ी के तल पर ख़त। दो मोम छूते हुए। इरा के नाम। प्रमुख की ओर से। प्रमुख से लड़की तक पहला
+सीधा सन्देश।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> प्रमुख लिखता है। पहली बार, सीधे। लड़की को।
+
+---
+
+## पैनल ५ — क्लोज़, ख़त (~१४%)
+
+**कैमरा:** सीढ़ी पर ख़त, अनखुला। धूसर मोम और क़िरमिज़ी मोम। पता: *बुने चिह्न वाली लड़की के नाम।* कोई
+नाम नहीं। प्रमुख चिह्न जानता है पर नाम नहीं — या प्रमुख नाम के बजाय चिह्न चुनता है।
+
+**दृश्य:** ख़त, अनखुला। मोम छूते हुए। पता।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> धूसर मोम। क़िरमिज़ी मोम। छूते हुए। *बुने चिह्न वाली लड़की के नाम।* प्रमुख जानता है कि वह क्या है।
+> प्रमुख हमेशा से जानता था।
+
+---
+
+## पैनल ६ — मध्यम, इरा को ख़त मिलता है (~१३%)
+
+**कैमरा:** भोर, परिषद-सीढ़ी के तल पर इरा। उसे ख़त मिलता है। वह पता पढ़ती है। वह उसे खोलती नहीं —
+यहाँ नहीं, अभी नहीं। वह उसे गाँठ और कील तक ले जाती है।
+
+**दृश्य:** इरा ख़त उठाती है। उसका बुना चिह्न जवाब देता है — ख़ाली तंतु क़िरमिज़ी मोम की ओर बढ़ता है।
+प्रमुख की स्याही बुनाई को पहचानती है।
 
 > **ध्वनि:** *—*
 >
-> **CAPTION:** The mark responds to the wax. The ink recognizes the braid. The principal and
-> the girl are connected by thread.
+> **कैप्शन:** चिह्न मोम को जवाब देता है। स्याही बुनाई को पहचानती है। प्रमुख और लड़की धागे से जुड़े
+> हुए हैं।
 
 ---
 
-## चित्र-खाना 7 — Macro, the lockbox — FINAL HOOK (~19%)
+## पैनल ७ — मैक्रो, ताला-बक्सा — अन्तिम हुक (~१९%)
 
-**कैमरा:** The Knot & Nail, morning: Ira sets the unopened letter on the counter beside the
-lockbox. Kessa's loupe is down. Her hand is on the box's lid. The letter is the ninth object —
-or it will be, when it is opened.
+**कैमरा:** गाँठ और कील, सुबह: इरा अनखुला ख़त काउंटर पर ताला-बक्से के बग़ल रखती है। केसा का लूप नीचे।
+उसका हाथ बक्से के ढक्कन पर। ख़त नौवीं चीज़ है — या होगा, जब वह खुलेगा।
 
-**चित्र:** The letter and the box, side by side. The ninth object waits. The box is full. The
-letter is unopened. The principal has written to the girl. And the girl has not yet read it.
+**दृश्य:** ख़त और बक्सा, साथ-साथ। नौवीं चीज़ प्रतीक्षा कर रही है। बक्सा भरा हुआ। ख़त अनखुला। प्रमुख
+ने लड़की को लिखा है। और लड़की ने अभी पढ़ा नहीं।
 
-> **शीर्षक (none spoken):**
-> Eight objects in the box. One letter on the counter. The principal writes to the girl.
-> The girl has not yet read.
+> **कैप्शन (कोई बोलता नहीं):**
+> बक्से में आठ चीज़ें। काउंटर पर एक ख़त। प्रमुख लड़की को लिखता है। लड़की ने अभी पढ़ा नहीं।
 >
-> **शीर्षक (smaller):**
-> The box is full. The school is named. The mother is missing. The Inspector has seen the
-> charter. The chain's echo is fading. And the principal — the hand behind every crimson line,
-> every pre-filed slip, every self-initialled cross-out — has written directly to the girl
-> who carries the braided thread.
+> **कैप्शन (छोटा):**
+> बक्सा भरा हुआ है। विद्यालय का नाम मिल गया है। माँ लापता है। निरीक्षक अधिकार-पत्र देख चुका है।
+> ज़ंजीर की प्रतिध्वनि फीकी पड़ रही है। और प्रमुख — हर क़िरमिज़ी पंक्ति के पीछे का हाथ, हर
+> पूर्व-फ़ाइल की गई पर्ची, हर स्वयं-हस्ताक्षरित काटी गई प्रविष्टि — ने सीधे उस लड़की को लिखा है जो
+> बुना धागा थामे है।
 >
-> **शीर्षक (last line):**
-> The letter is unopened. The braid is awake. The hand has opened. And the story has just
-> begun.
+> **कैप्शन (अन्तिम पंक्ति):**
+> ख़त अनखुला है। बुनाई जागी हुई है। हाथ खुल गया है। और कहानी अभी शुरू हुई है।
 >
-> **END OF CHAPTER SIX.**
+> **अध्याय छह समाप्त।**
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The chain's echo is fading** — the thread has heard the real voice; the chain's four-note
-> echo is no longer the primary source. This is the echo's graceful exit.
-- **The principal's letter** is the chapter's closing hook: the first direct communication from
-> the principal to Ira. Grey wax and crimson wax, touching. Addressed to the mark, not the name.
-> Unopened.
-- **The letter is the ninth object** — or will be, when opened. The box's capacity is one
-> short of complete.
-- **Chain budget: unspent this chapter.** Four notes: heard correctly through the thread
-> (Page 007). Sewer: identified as the mother (Page 003). The Loom never speaks.
+- **ज़ंजीर की प्रतिध्वनि फीकी पड़ रही है** — धागे ने असली स्वर सुन लिया है; ज़ंजीर की चार-स्वर प्रतिध्वनि
+  अब मुख्य स्रोत नहीं है। यह प्रतिध्वनि का शालीन विदाई है।
+- **प्रमुख का ख़त** इस अध्याय का अन्तिम हुक है: प्रमुख से इरा तक पहला सीधा सन्देश। धूसर मोम और क़िरमिज़ी
+  मोम, छूते हुए। पता नाम को नहीं, चिह्न को सम्बोधित है। अनखुला।
+- **ख़त नौवीं चीज़ है** — या होगा, जब खुलेगा। बक्से की क्षमता पूरी होने से एक कम है।
+- **ज़ंजीर-रोक बजट: इस अध्याय में ख़र्च नहीं।** चार स्वर: धागे के ज़रिए ठीक सुने गए (पृष्ठ ००७)। सीवर:
+  माँ के रूप में पहचानी गई (पृष्ठ ००३)। सूत्र-यन्त्र कभी नहीं बोलता।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The chain's echo fading | Event — *The Echo Fades* |
-| The principal's letter | Relic — *The Unopened Letter* |
-| "To the girl with the braided mark." | Lore — *The Principal Knows* |
-| The mark responds to the wax | Power — *Ink Recognizes Braid* |
+| ज़ंजीर की प्रतिध्वनि फीकी | इवेंट — *प्रतिध्वनि फीकी पड़ती है* |
+| प्रमुख का ख़त | रिलिक — *अनखुला ख़त* |
+| "बुने चिह्न वाली लड़की के नाम।" | लोर — *प्रमुख जानता है* |
+| चिह्न मोम को जवाब देता है | पावर — *स्याही बुनाई को पहचानती है* |

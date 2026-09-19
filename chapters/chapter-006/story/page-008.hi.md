@@ -1,141 +1,138 @@
-# THREADBORN — Chapter 06 — Page 008
+# सुत्रजात (THREADBORN) — अध्याय ०६ — पृष्ठ ००८
 
-**अध्याय शीर्षक:** *The Mother's File* / *माँ की फ़ाइल*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail + up-terrace
-**पृष्ठ प्रकार:** The Office escalates — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *माँ की फ़ाइल*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (सुबह) → परिषद-सीढ़ी
+**पृष्ठ प्रकार:** अधिपत्र — ७ पैनल, अन्त में हुक
 
-> Beats: Page 007 — the four notes heard through the thread, Kessa reads the charter, eight
-> objects in the lockbox.
-
----
-
-## चित्र-खाना 1 — Wide, the morning (~14%)
-
-**कैमरा:** Morning, Knot & Nail: Ira mends at the counter. The queue is long. Kessa appraises.
-The lockbox is under the counter. Normal.
-
-**चित्र:** The Knot & Nail at work. The basin's centre.
-
-> **शीर्षक (none spoken):**
-> The morning after the mother's voice was heard. The basin works. The stall mends.
+> English source: [`page-008.md`](page-008.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
 ---
 
-## चित्र-खाना 2 — Medium, the Inspector returns (~13%)
+## पैनल १ — व्यापक, सुबह (~१४%)
 
-**कैमरा:** The Council Stair: the Inspector descends again — the same broad figure from Ch. 005
-p005. But today he is not alone. Behind him, two Grey Clerks carry a sealed slate — the Office's
-highest instrument: an *audit warrant*.
+**कैमरा:** सुबह, गाँठ और कील: इरा काउंटर पर सीती है। क़तार लम्बी है। केसा परखती है। ताला-बक्सा काउंटर
+के नीचे। सामान्य।
 
-**चित्र:** The Inspector and two clerks. The sealed slate. The basin's early warning: the pot's
-steam bends toward the stair.
+**दृश्य:** काम में लगी गाँठ और कील। गर्त का केन्द्र।
 
-> **शीर्षक (none spoken):**
-> The Inspector returns. This time with a warrant. The basin's steam bends.
+> **कैप्शन (कोई बोलता नहीं):**
+> माँ का स्वर सुनने के बाद की सुबह। गर्त काम करता है। ठेला सीता है।
 
 ---
 
-## चित्र-खाना 3 — Close, the warrant (~14%)
+## पैनल २ — मध्यम, निरीक्षक लौटता है (~१३%)
 
-**कैमरा:** The Inspector at the Knot & Nail's counter. The sealed slate is set on the wood. The
-warrant's text: the Office requires access to the Mendery archive. The Inspector has traced the
-thread-school's charter to the Mendery. He has traced the Mendery to Kessa's lockbox.
+**कैमरा:** परिषद-सीढ़ी: निरीक्षक फिर उतरता है — वही चौड़ी आकृति जो अध्याय ००५ पृष्ठ ००५ में थी। पर आज
+वह अकेला नहीं है। उसके पीछे दो धूसर लिपिक एक मुहरबन्द पट्ट उठाए हैं — कार्यालय का सबसे ऊँचा औज़ार:
+एक *लेखा-अधिपत्र*।
 
-**चित्र:** The warrant on the counter. Grey ink, official. The Inspector's face is procedural, not
-hostile.
+**दृश्य:** निरीक्षक और दो लिपिक। मुहरबन्द पट्ट। गर्त की शुरुआती चेतावनी: हाँड़ी की भाप सीढ़ी की ओर मुड़
+जाती है।
 
-> **निरीक्षक (संवाद, official):**
-> The Office requires access to the Mendery archive. The charter has been traced to this stall.
+> **कैप्शन (कोई बोलता नहीं):**
+> निरीक्षक लौटता है। इस बार अधिपत्र लेकर। गर्त की भाप मुड़ जाती है।
+
+---
+
+## पैनल ३ — क्लोज़, अधिपत्र (~१४%)
+
+**कैमरा:** गाँठ और कील के काउंटर पर निरीक्षक। मुहरबन्द पट्ट लकड़ी पर रखा जाता है। अधिपत्र का पाठ:
+कार्यालय को मेंडरी के अभिलेखागार तक पहुँच चाहिए। निरीक्षक ने धागा-विद्यालय के अधिकार-पत्र का सुराग़
+मेंडरी तक खींच लिया है। उसने मेंडरी का सुराग़ केसा के ताला-बक्से तक खींच लिया है।
+
+**दृश्य:** काउंटर पर अधिपत्र। धूसर स्याही, सरकारी। निरीक्षक का चेहरा प्रक्रियात्मक है, विरोधी नहीं।
+
+> **निरीक्षक (संवाद, सरकारी):**
+> कार्यालय को मेंडरी के अभिलेखागार तक पहुँच चाहिए। अधिकार-पत्र का सुराग़ इसी ठेले तक निकला है।
 >
-> **INSPECTOR (dialogue):**
-> The warrant permits inspection of all objects in the custodial lockbox.
+> **निरीक्षक (संवाद):**
+> अधिपत्र अभिरक्षण-ताला-बक्से की हर चीज़ के निरीक्षण की अनुमति देता है।
 
 ---
 
-## चित्र-खाना 4 — Medium, Kessa's refusal (~13%)
+## पैनल ४ — मध्यम, केसा का इनकार (~१३%)
 
-**कैमरा:** Kessa's hands: she sets the warrant face-down — her grammar. Then she sets the coin
-on top. The counter-offer. But this time the Inspector does not leave. He waits.
+**कैमरा:** केसा के हाथ: वह अधिपत्र औंधा रख देती है — यही उसका व्याकरण है। फिर वह उसके ऊपर सिक्का रख
+देती है। पलट-पेशकश। पर इस बार निरीक्षक जाता नहीं। वह प्रतीक्षा करता है।
 
-**चित्र:** The coin on the warrant. The Inspector waits. The basin watches.
+**दृश्य:** अधिपत्र पर सिक्का। निरीक्षक प्रतीक्षा करता है। गर्त देखता है।
 
-> **केसा (संवाद, flat):**
-> When the Office prices the charter, I'll price the inspection.
+> **केसा (संवाद, सपाट):**
+> जब कार्यालय अधिकार-पत्र का दाम तय करेगा, मैं निरीक्षण का दाम तय करूँगी।
 >
-> **INSPECTOR (dialogue):**
-> The warrant is the price.
+> **निरीक्षक (संवाद):**
+> अधिपत्र ही दाम है।
 
 ---
 
-## चित्र-खाना 5 — Wide, the standoff (~14%)
+## पैनल ५ — व्यापक, गतिरोध (~१४%)
 
-**कैमरा:** The Knot & Nail: Kessa behind the counter, loupe up. The Inspector across from her,
-warrant on the counter, coin on top. Ira stands to Kessa's left, palm visible, mark open. The
-basin watches from one row back.
+**कैमरा:** गाँठ और कील: काउंटर के पीछे केसा, लूप ऊपर। उसके आमने-सामने निरीक्षक, काउंटर पर अधिपत्र,
+उसके ऊपर सिक्का। इरा केसा के बाईं ओर खड़ी है, हथेली दिखती हुई, चिह्न खुला। गर्त एक कतार पीछे से
+देख रहा है।
 
-**चित्र:** The standoff: the appraiser and the Inspector, the lockbox between them. The basin's
-two guardians.
+**दृश्य:** गतिरोध: परखन-हार और निरीक्षक, बीच में ताला-बक्सा। गर्त के दो रखवाले।
 
-> **शीर्षक (none spoken):**
-> The appraiser and the Inspector. The box between them. The basin behind them. The warrant
-> on the counter.
+> **कैप्शन (कोई बोलता नहीं):**
+> परखन-हार और निरीक्षक। बीच में बक्सा। पीछे गर्त। काउंटर पर अधिपत्र।
 
 ---
 
-## चित्र-खाना 6 — Close, Ira's choice (~13%)
+## पैनल ६ — क्लोज़, इरा का चुनाव (~१३%)
 
-**कैमरा:** Ira's face: she looks at the Inspector, at Kessa, at the lockbox. The warrant
-permits inspection. Kessa refuses to sign. Ira can submit (Ch. 005 p006 grammar) or refuse
-(Kessa's grammar).
+**कैमरा:** इरा का चेहरा: वह निरीक्षक को देखती है, केसा को देखती है, ताला-बक्से को देखती है। अधिपत्र
+निरीक्षण की अनुमति देता है। केसा हस्ताक्षर करने से इनकार करती है। इरा झुक सकती है (अध्याय ००५ पृष्ठ ००६
+का व्याकरण) या इनकार कर सकती है (केसा का व्याकरण)।
 
-**चित्र:** Ira's mismatched eyes. The choice.
+**दृश्य:** इरा की असमान आँखें। चुनाव।
 
-> **इरा (संवाद, flat):**
-> The charter is in the box. The box is in the stall. The stall is in the basin. The basin
-> is in the Sector. The Sector is under the Council.
+> **इरा (संवाद, सपाट):**
+> अधिकार-पत्र बक्से में है। बक्सा ठेले में है। ठेला गर्त में है। गर्त खण्ड में है। खण्ड परिषद के नीचे
+> है।
 >
-> **IRA (dialogue):**
-> You can inspect the box. But the charter stays.
+> **इरा (संवाद):**
+> तुम बक्सा देख सकते हो। पर अधिकार-पत्र रहेगा।
 
 ---
 
-## चित्र-खाना 7 — Macro, the lockbox — HOOK (~19%)
+## पैनल ७ — मैक्रो, ताला-बक्सा — हुक (~१९%)
 
-**कैमरा:** The lockbox on the counter, open. The Inspector's eyes on the eight objects inside.
-His face changes — the same recognition as Ch. 005 p006. He sees the charter. He sees the
-mother's file. He sees the crimson lines.
+**कैमरा:** काउंटर पर ताला-बक्सा, खुला। भीतर की आठ चीज़ों पर निरीक्षक की आँखें। उसका चेहरा बदलता है —
+वही पहचान जो अध्याय ००५ पृष्ठ ००६ में थी। वह अधिकार-पत्र देखता है। वह माँ की फ़ाइल देखता है। वह
+क़िरमिज़ी पंक्तियाँ देखता है।
 
-**चित्र:** The Inspector reads the charter. His face: he has seen this before. The same
-recognition. The same word.
+**दृश्य:** निरीक्षक अधिकार-पत्र पढ़ता है। उसका चेहरा: उसने यह पहले देखा है। वही पहचान। वही शब्द।
 
-> **निरीक्षक (संवाद, quiet):**
-> The School of the Braided Thread.
+> **निरीक्षक (संवाद, धीमा):**
+> बुने धागे का विद्यालय।
 >
-> **INSPECTON (संवाद, quieter):**
-> This school was shut twenty years ago. The files were supposed to be destroyed.
+> **निरीक्षक (संवाद, और धीमा):**
+> यह विद्यालय बीस साल पहले बन्द कराया गया था। फ़ाइलें नष्ट की जानी थीं।
 >
-> **निरीक्षक (संवाद, quietest):**
-> They weren't.
+> **निरीक्षक (संवाद, सबसे धीमा):**
+> वे नष्ट नहीं हुईं।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The Inspector returns with a warrant** — the Office escalates from request to demand. The
-> warrant permits inspection of the lockbox.
-- **Kessa's refusal grammar** is consistent: face-down + coin. But the warrant is the price this
-> time — the Office has priced the inspection itself.
-- **Ira's compromise** is her negotiation grammar: the Inspector can look, but the charter stays.
-> The charter is the school's last record; it cannot leave the box.
-- **The Inspector recognizes the charter** — "The files were supposed to be destroyed." The
-> Council tried to erase the school. The archive kept it alive.
-- **Chain budget: unspent.** Four notes silent. Loom never speaks.
+- **निरीक्षक अधिपत्र लेकर लौटता है** — कार्यालय माँग से तलब तक बढ़ जाता है। अधिपत्र ताला-बक्से के
+  निरीक्षण की अनुमति देता है।
+- **केसा का इनकार-व्याकरण** एक-सा है: औंधा + सिक्का। पर इस बार अधिपत्र ही दाम है — कार्यालय ने
+  निरीक्षण का दाम ख़ुद तय कर दिया है।
+- **इरा का समझौता** उसका सौदेबाज़ी-व्याकरण है: निरीक्षक देख सकता है, पर अधिकार-पत्र रहेगा। अधिकार-पत्र
+  विद्यालय का आख़िरी अभिलेख है; वह बक्से से बाहर नहीं जा सकता।
+- **निरीक्षक अधिकार-पत्र को पहचानता है** — "फ़ाइलें नष्ट की जानी थीं।" परिषद ने विद्यालय मिटाना चाहा
+  था। अभिलेखागार ने उसे ज़िन्दा रखा।
+- **ज़ंजीर-रोक बजट: अभी ख़र्च नहीं।** चार स्वर मौन। सूत्र-यन्त्र कभी नहीं बोलता।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The audit warrant | Procedure — *The Warrant* |
-| "चार्टर यहीं रहता है।" | Event — *Ira's Compromise* |
-| "They weren't destroyed." | Lore — *The Archive Survived* |
+| लेखा-अधिपत्र | प्रक्रिया — *अधिपत्र* |
+| "अधिकार-पत्र रहेगा।" | इवेंट — *इरा का समझौता* |
+| "वे नष्ट नहीं हुईं।" | लोर — *अभिलेखागार बच गया* |

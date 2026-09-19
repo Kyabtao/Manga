@@ -1,135 +1,128 @@
-# THREADBORN — Chapter 06 — Page 005
+# सुत्रजात (THREADBORN) — अध्याय ०६ — पृष्ठ ००५
 
-**अध्याय शीर्षक:** *The Mother's File* / *माँ की फ़ाइल*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — The Mendery archive, the last door
-**पृष्ठ प्रकार:** The last door — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *माँ की फ़ाइल*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — मेंडरी का अभिलेखागार, छिपा दरवाज़ा और कार्यशाला
+**पृष्ठ प्रकार:** कार्यशाला — ७ पैनल, अन्त में हुक
 
-> Beats: Page 004 — Nandi tells the mother's story, the supply spool, the last door opens only
-> with the braid.
-
----
-
-## चित्र-खाना 1 — Wide, the approach (~14%)
-
-**कैमरा:** Ira walks the archive's deepest corridor toward the hidden door. Nandi follows —
-slowly, old, but certain. The shelves end. The corridor narrows. The door is Kshudra-made,
-black basalt, the same craft as Kessa's lockbox.
-
-**चित्र:** The door is the same as every lock in the story. The same hand-school. The same
-woman's work.
-
-> **शीर्षक (none spoken):**
-> The same craft. The same hand. The same school. Every lock in this story was made by the
-> same woman.
+> English source: [`page-005.md`](page-005.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
 ---
 
-## चित्र-खाना 2 — Medium, the braid on the door (~13%)
+## पैनल १ — व्यापक, रास्ता (~१४%)
 
-**कैमरा:** Ira's palm on the door: the braided mark touches the basalt. The blank strand — her
-mother's thread — reaches into the stone. The door does not have a keyhole. It has a
-*thread-hole*: a slot the exact width of a braided thread.
+**कैमरा:** इरा अभिलेखागार के सबसे गहरे गलियारे से छिपे दरवाज़े की ओर चलती है। नन्दी पीछे-पीछे आती है —
+धीरे, बूढ़ी, पर निश्चित। ताख़े ख़त्म हो जाते हैं। गलियारा तंग पड़ता है। दरवाज़ा क्षुद्र का बनाया,
+काला बेसाल्ट, वही कारीगरी जो केसा के ताला-बक्से की है।
 
-**चित्र:** The thread enters the stone. The door responds.
+**दृश्य:** दरवाज़ा कहानी के हर ताले जैसा है। वही हस्त-विद्यालय। उसी स्त्री का काम।
 
-> **ध्वनि:** *—* (thread into stone)
-
----
-
-## चित्र-खाना 3 — Close, the door opens (~14%)
-
-**कैमरा:** The door opens inward, silent, the same grammar as the back door. Inside: a small
-room, not an archive — a *workshop*. A mender's bench, a needle rack, thread spools, and — on
-the bench — a completed stitch-pattern, the same pattern the cutter sewed on Bhan's arm.
-
-**चित्र:** The workshop is the mother's. Twenty years of work. The bench holds the evidence: the
-same stitch-grammar, the same hand-school, the same thread.
-
-> **शीर्षक (none spoken):**
-> The workshop. The mother's. Twenty years of work in one room.
+> **कैप्शन (कोई बोलता नहीं):**
+> वही कारीगरी। वही हाथ। वही विद्यालय। इस कहानी का हर ताला उसी स्त्री ने बनाया था।
 
 ---
 
-## चित्र-खाना 4 — Medium, the room (~13%)
+## पैनल २ — मध्यम, दरवाज़े पर बुनाई (~१३%)
 
-**कैमरा:** Ira enters the workshop. The bench holds: a needle (Kshudra-made, old), thread spools
-(ash-grey, same gauge), and a stack of finished stitch-patterns — the same patterns that appeared
-on Bhan's arm. The cutter's work. The mother's work.
+**कैमरा:** दरवाज़े पर इरा की हथेली: बुना चिह्न बेसाल्ट को छूता है। ख़ाली तंतु — उसकी माँ का धागा —
+पत्थर के भीतर तक पहुँचता है। दरवाज़े में चाबी का छेद नहीं है। उसमें *धागा-छेद* है: बुने धागे की चौड़ाई
+का ठीक-ठीक एक खाँचा।
 
-**चित्र:** Every pattern on Bhan's arm has a matching pattern on the bench. The nightly lessons
-were the mother's work, sent through the back door to the basin.
+**दृश्य:** धागा पत्थर में प्रवेश करता है। दरवाज़ा जवाब देता है।
 
-> **शीर्षक (Ira's voice, small):**
-> Every pattern on Bhan's arm. Every thread on Kessa's counter. Every stitch in the box. Made
-> here. By her.
+> **ध्वनि:** *—* (पत्थर में धागा)
 
 ---
 
-## चित्र-खाना 5 — Wide, the chair (~14%)
+## पैनल ३ — क्लोज़, दरवाज़ा खुलता है (~१४%)
 
-**कैमरा:** At the workshop's back: a chair. Not a mender's chair — a *binding chair*. The kind
-used in the Mendery for debt-carriers. But this chair has been modified: thread-holes in the
-armrests, braided thread still looped through them. The mother bound herself to the chair —
-voluntarily — to keep the thread-school's work alive.
+**कैमरा:** दरवाज़ा भीतर की ओर खुलता है, चुपचाप, वही व्याकरण जो पिछले दरवाज़े का है। भीतर: एक छोटा
+कमरा, अभिलेखागार नहीं — एक *कार्यशाला*। सिलाई का तख़्त, सुई-तख़्ता, धागे की रीलें, और — तख़्त पर — एक
+पूरा सिलाई-नमूना, वही नमूना जो काटने वाले ने भान की बाँह पर सीया था।
 
-**चित्र:** The binding chair with braided thread. The mother's choice: she bound herself to the
-Mendery to keep the school's thread alive. Twenty years, self-bound.
+**दृश्य:** कार्यशाला माँ की है। बीस साल का काम। तख़्त पर सबूत रखे हैं: वही सिलाई-व्याकरण, वही
+हस्त-विद्यालय, वही धागा।
 
-> **शीर्षक (none spoken):**
-> She bound herself. Voluntarily. To keep the thread alive. Twenty years in a chair she
-> chose.
+> **कैप्शन (कोई बोलता नहीं):**
+> कार्यशाला। माँ की। एक कमरे में बीस साल का काम।
 
 ---
 
-## चित्र-खाना 6 — Close, the chair's armrest (~13%)
+## पैनल ४ — मध्यम, कमरा (~१३%)
 
-**कैमरा:** The chair's armrest: thread-holes, worn smooth by twenty years of use. The braided
-thread in the holes is the same as the thread in Ira's palm. The same braid. The same
-hand-school. The same woman.
+**कैमरा:** इरा कार्यशाला में दाख़िल होती है। तख़्त पर रखे हैं: एक सुई (क्षुद्र की बनाई, पुरानी), धागे
+की रीलें (राख-धूसर, वही माप), और तैयार सिलाई-नमूनों का ढेर — वही नमूने जो भान की बाँह पर दिखे थे।
+काटने वाले का काम। माँ का काम।
 
-**चित्र:** The armrest's thread-holes and Ira's palm in the same frame. Mother and daughter,
-connected by thread.
+**दृश्य:** भान की बाँह के हर नमूने का जोड़ीदार नमूना तख़्त पर है। रात के पाठ माँ का काम थे, जो पिछले
+दरवाज़े से गर्त तक भेजे जाते थे।
 
-> **शीर्षक (Ira's voice, smallest):**
-> She sat in this chair for twenty years. Braiding. Sewing. Sending thread to the basin.
-> Protecting the school. Protecting me.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> भान की बाँह पर हर नमूना। केसा के काउंटर पर हर धागा। बक्से में हर सिलाई। यहीं बनी। उसी के हाथों।
 
 ---
 
-## चित्र-खाना 7 — Medium, the chair is empty — HOOK (~19%)
+## पैनल ५ — व्यापक, कुर्सी (~१४%)
 
-**कैमरा:** The chair is empty. The braided thread in the armrests is cut — not frayed, not
-worn, *cut*. Someone severed the thread recently. The mother was here. The mother is no longer
-here.
+**कैमरा:** कार्यशाला के पीछे: एक कुर्सी। सिलाई की कुर्सी नहीं — एक *बन्धन-कुर्सी*। वैसी जैसी मेंडरी
+में ऋण-वाहकों के लिए इस्तेमाल होती है। पर इस कुर्सी में बदलाव किए गए हैं: हत्थों में धागा-छेद, और
+उनमें अब भी बुना धागा पिरोया हुआ। माँ ने ख़ुद को कुर्सी से बाँधा — अपनी मर्ज़ी से — धागा-विद्यालय का
+काम ज़िन्दा रखने के लिए।
 
-**चित्र:** The empty chair with cut thread. The mother has left. The workshop is abandoned —
-not twenty years ago, recently. Days ago. The same timeframe as the cutter's last visit to
-Bhan's dock.
+**दृश्य:** बुने धागे वाली बन्धन-कुर्सी। माँ का चुनाव: उसने विद्यालय का धागा ज़िन्दा रखने के लिए ख़ुद को
+मेंडरी से बाँधा। बीस साल, ख़ुद-बद्ध।
 
-> **NANDI (संवाद, from the door, quiet):**
-> She left three days ago. The night she finished Bhan's lesson. She cut the thread and walked
-> out the back door.
+> **कैप्शन (कोई बोलता नहीं):**
+> उसने ख़ुद को बाँधा। अपनी मर्ज़ी से। धागे को ज़िन्दा रखने के लिए। बीस साल, अपनी चुनी हुई कुर्सी पर।
+
+---
+
+## पैनल ६ — क्लोज़, कुर्सी का हत्था (~१३%)
+
+**कैमरा:** कुर्सी का हत्था: धागा-छेद, बीस साल के इस्तेमाल से घिसकर चिकने। छेदों में पिरोया बुना धागा
+वही है जो इरा की हथेली में है। वही बुनाई। वही हस्त-विद्यालय। वही स्त्री।
+
+**दृश्य:** एक ही फ़्रेम में हत्थे के धागा-छेद और इरा की हथेली। माँ और बेटी, धागे से जुड़ी हुईं।
+
+> **कैप्शन (इरा का स्वर, सबसे धीमा):**
+> वह बीस साल इस कुर्सी पर बैठी रही। बुनती हुई। सीती हुई। गर्त तक धागा भेजती हुई। विद्यालय की रक्षा
+> करती हुई। मेरी रक्षा करती हुई।
+
+---
+
+## पैनल ७ — मध्यम, कुर्सी ख़ाली है — हुक (~१९%)
+
+**कैमरा:** कुर्सी ख़ाली है। हत्थों में पिरोया बुना धागा कटा हुआ है — झबरा नहीं, घिसा नहीं, *कटा*।
+किसी ने धागा हाल ही में काटा है। माँ यहाँ थी। माँ अब यहाँ नहीं है।
+
+**दृश्य:** कटे धागे वाली ख़ाली कुर्सी। माँ चली गई है। कार्यशाला वीरान है — बीस साल पहले नहीं, हाल ही
+में। कुछ दिन पहले। वही समय-अन्तराल जो काटने वाले की भान की गोदी पर आख़िरी यात्रा का है।
+
+> **नन्दी (संवाद, द्वार से, धीमा):**
+> वह तीन दिन पहले गई। जिस रात उसने भान का पाठ पूरा किया। उसने धागा काटा और पिछले दरवाज़े से बाहर
+> निकल गई।
 >
-> **NANDI (dialogue):**
-> She said: *the girl will come. Tell her I went to find the principal.*
+> **नन्दी (संवाद):**
+> उसने कहा था: *लड़की आएगी। उससे कहना कि मैं प्रमुख को ढूँढ़ने गई हूँ।*
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The workshop is the mother's:** twenty years of work, one room, the same stitch-grammar as
-  every piece of evidence in the lockbox. The cutter, the sewer, the supply line — all her.
-- **The binding chair** is the chapter's emotional weight: the mother bound herself voluntarily.
-  The Mendery did not imprison her; she imprisoned herself to keep the thread alive.
-- **The chair is empty and the thread is cut:** the mother left three days ago. She went to find
-  the principal. The timing matches the cutter's last visit to Bhan.
-- **Chain budget: unspent.** Four notes silent. Loom never speaks.
+- **कार्यशाला माँ की है:** बीस साल का काम, एक कमरा, वही सिलाई-व्याकरण जो ताला-बक्से के हर सबूत का है।
+  काटने वाला, सीवर, आपूर्ति-मार्ग — सब वही।
+- **बन्धन-कुर्सी** इस अध्याय का भावनात्मक भार है: माँ ने ख़ुद को अपनी मर्ज़ी से बाँधा। मेंडरी ने उसे
+  क़ैद नहीं किया; धागे को ज़िन्दा रखने के लिए उसने ख़ुद को क़ैद किया।
+- **कुर्सी ख़ाली है और धागा कटा हुआ है:** माँ तीन दिन पहले गई। वह प्रमुख को ढूँढ़ने गई। समय भान की आख़िरी
+  यात्रा से मेल खाता है।
+- **ज़ंजीर-रोक बजट: अभी ख़र्च नहीं।** चार स्वर मौन। सूत्र-यन्त्र कभी नहीं बोलता।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The mother's workshop | Location — *The Workshop* |
-| The binding chair | Lore — *The Self-Bound Woman* |
-| "She went to find the principal." | Event — *The Mother Leaves* |
+| माँ की कार्यशाला | स्थान — *कार्यशाला* |
+| बन्धन-कुर्सी | लोर — *ख़ुद-बद्ध स्त्री* |
+| "वह प्रमुख को ढूँढ़ने गई है।" | इवेंट — *माँ का प्रस्थान* |

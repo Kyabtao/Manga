@@ -1,133 +1,131 @@
-# THREADBORN — Chapter 06 — Page 004
+# सुत्रजात (THREADBORN) — अध्याय ०६ — पृष्ठ ००४
 
-**अध्याय शीर्षक:** *The Mother's File* / *माँ की फ़ाइल*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — The Mendery archive
-**पृष्ठ प्रकार:** The mother's history — 7 panels, hook at bottom
+**अध्याय शीर्षक:** *माँ की फ़ाइल*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — मेंडरी का अभिलेखागार, बीच का तख़्त
+**पृष्ठ प्रकार:** माँ की कहानी — ७ पैनल, अन्त में हुक
 
-> Beats: Page 003 — Nandi reveals: the sewer is Ira's mother. The cutter is Ira's mother. The
-> supply line runs from inside the archive. Twenty years.
-
----
-
-## चित्र-खाना 1 — Wide, the archive bench (~14%)
-
-**कैमरा:** Nandi leads Ira to a bench at the archive's centre — the place where her mother
-worked. A worn surface, thread-scarred, with twenty years of stitch-grammar marks in the wood.
-
-**चित्र:** The bench is the school's last classroom. Every mark in the wood is a lesson. Nandi
-sits on one side; Ira sits on the other. The charter and the mother's file are between them.
-
-> **शीर्षक (none spoken):**
-> Twenty years of lessons. In the wood. In the files. In the thread.
+> English source: [`page-004.md`](page-004.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
 ---
 
-## चित्र-खाना 2 — Medium, the mother's story (~13%)
+## पैनल १ — व्यापक, अभिलेखागार का तख़्त (~१४%)
 
-**कैमरा:** Nandi's hands on the charter: she tells the story the way Kessa appraises — dry,
-factual, without sentiment.
+**कैमरा:** नन्दी इरा को अभिलेखागार के बीच में एक तख़्त तक ले जाती है — वह जगह जहाँ उसकी माँ काम करती
+थी। घिसी हुई सतह, धागों के निशानों से भरी, लकड़ी में बीस साल के सिलाई-व्याकरण के निशान।
 
-**चित्र:** Nandi's gnarled hands trace the charter's knot-script.
+**दृश्य:** तख़्त विद्यालय की आख़िरी कक्षा है। लकड़ी का हर निशान एक पाठ। नन्दी एक तरफ़ बैठती है; इरा
+दूसरी तरफ़। बीच में अधिकार-पत्र और माँ की फ़ाइल।
 
-> **NANDI (dialogue):**
-> Your mother founded the school fifteen years before you were born. She taught the braided
-> thread to anyone who could hold a needle. Kshudra, Manav, Manavkin — she didn't choose by
-> Kind. She chose by hand.
+> **कैप्शन (कोई बोलता नहीं):**
+> बीस साल के पाठ। लकड़ी में। फ़ाइलों में। धागे में।
 
 ---
 
-## चित्र-खाना 3 — Close, the fall (~14%)
+## पैनल २ — मध्यम, माँ की कहानी (~१३%)
 
-**कैमरा:** Nandi's face: the memory of the fall.
+**कैमरा:** अधिकार-पत्र पर नन्दी के हाथ: वह कहानी वैसे सुनाती है जैसे केसा परखती है — रूखे ढंग से,
+तथ्यों में, बिना भावुकता।
 
-**चित्र:** Nandi's cat-eye catches the light.
+**दृश्य:** नन्दी के गाँठों भरे हाथ अधिकार-पत्र की गाँठ-लिपि पर फिरते हैं।
 
-> **NANDI (dialogue):**
-> The Council shut the school. Called it unlicensed. Called the braided thread illegal. Your
-> mother was bound. Five years later, you were born.
+> **नन्दी (संवाद):**
+> तुम्हारी माँ ने तुम्हारे जन्म से पन्द्रह साल पहले विद्यालय खोला। उसने बुना धागा हर उस व्यक्ति को
+> सिखाया जो सुई थाम सके। क्षुद्र, मानव, मानवकिण — वह जाति देखकर नहीं चुनती थी। वह हाथ देखकर चुनती थी।
+
+---
+
+## पैनल ३ — क्लोज़, पतन (~१४%)
+
+**कैमरा:** नन्दी का चेहरा: पतन की स्मृति।
+
+**दृश्य:** नन्दी की बिल्ली-आँख उजाला पकड़ती है।
+
+> **नन्दी (संवाद):**
+> परिषद ने विद्यालय बन्द करा दिया। उसे बे-परवाना कहा। बुने धागे को ग़ैरक़ानूनी कहा। तुम्हारी माँ
+> बाँधी गई। पाँच साल बाद, तुम पैदा हुईं।
 >
-> **NANDI (dialogue):**
-> She sewed you shut the day you were born. The teacher's strand into the student. Before
-> speech. Before the Council could register you.
+> **नन्दी (संवाद):**
+> उसने तुम्हें जन्म के दिन ही सी कर बन्द किया। गुरु का तंतु, शिष्य में। बोलने से पहले। इससे पहले कि
+> परिषद तुम्हें पंजीयत कर सके।
 
 ---
 
-## चित्र-खाना 4 — Medium, the protection (~13%)
+## पैनल ४ — मध्यम, रक्षा (~१३%)
 
-**कैमरा:** Ira's palm: the braided mark, open. The blank strand — her mother's thread. The
-stitch that held the mark shut for fifteen years was her mother's work, her mother's protection.
+**कैमरा:** इरा की हथेली: बुना चिह्न, खुला। ख़ाली तंतु — उसकी माँ का धागा। जिस सिलाई ने चिह्न को पन्द्रह
+साल बन्द रखा, वह उसकी माँ का काम थी, उसकी माँ की रक्षा।
 
-**चित्र:** The mark and the blank strand in the same frame. The strand that was sewn in before
-speech. The strand that was the teacher's gift.
+**दृश्य:** एक ही फ़्रेम में चिह्न और ख़ाली तंतु। वह तंतु जो बोलने से पहले सीया गया। वह तंतु जो गुरु की
+देन था।
 
-> **शीर्षक (Ira's voice, small):**
-> She sewed me shut to hide me. To keep the thread alive. To protect the school's last
-> student.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> उसने मुझे छिपाने के लिए सी कर बन्द किया। धागे को ज़िन्दा रखने के लिए। विद्यालय के आख़िरी शिष्य की
+> रक्षा के लिए।
 
 ---
 
-## चित्र-खाना 5 — Wide, the supply line explained (~14%)
+## पैनल ५ — व्यापक, आपूर्ति-मार्ग की व्याख्या (~१४%)
 
-**कैमरा:** Nandi reaches under the bench and produces a spool of thread — ash-grey, same gauge,
-same colour as every piece in Kessa's lockbox. The supply line's source.
+**कैमरा:** नन्दी तख़्त के नीचे हाथ डालकर धागे की एक रील निकालती है — राख-धूसर, वही माप, वही रंग जो
+केसा के ताला-बक्से की हर चीज़ का है। आपूर्ति-मार्ग का स्रोत।
 
-**चित्र:** The spool is old, well-used, the thread continuous. Twenty years of supply from one
-spool. The same thread that was in the box, on the counter, in Bhan's arm, and in Ira's palm.
+**दृश्य:** रील पुरानी है, ख़ूब इस्तेमाल हुई, धागा निरन्तर। एक ही रील से बीस साल की आपूर्ति। वही धागा
+जो बक्से में था, काउंटर पर, भान की बाँह में, और इरा की हथेली में।
 
-> **NANDI (dialogue):**
-> She runs the thread from here. Through the archive's back door. To the basin. To the dock.
-> To the girl.
+> **नन्दी (संवाद):**
+> वह यहीं से धागा चलाती है। अभिलेखागार के पिछले दरवाज़े से। गर्त तक। गोदी तक। लड़की तक।
 >
-> **NANDI (dialogue):**
-> Every piece you found — the box, the counter, the arm — was her.
+> **नन्दी (संवाद):**
+> तुमने जो-जो टुकड़ा ढूँढ़ा — बक्सा, काउंटर, बाँह — सब वही थी।
 
 ---
 
-## चित्र-खाना 6 — Close, the question (~13%)
+## पैनल ६ — क्लोज़, सवाल (~१३%)
 
-**कैमरा:** Ira's face: the question she has held since Chapter 1. Not *who sewed me* — she
-knows now. The new question.
+**कैमरा:** इरा का चेहरा: वह सवाल जो वह अध्याय ०१ से थामे हुए है। *मुझे किसने सीया* नहीं — वह अब जानती
+है। नया सवाल।
 
-**चित्र:** Ira's mismatched eyes, level. The question.
+**दृश्य:** इरा की असमान आँखें, स्थिर। सवाल।
 
-> **इरा (संवाद, flat):**
+> **इरा (संवाद, सपाट):**
 > वह कहाँ है?
 
 ---
 
-## चित्र-खाना 7 — Medium, Nandi's answer — HOOK (~19%)
+## पैनल ७ — मध्यम, नन्दी का जवाब — हुक (~१९%)
 
-**कैमरा:** Nandi's hands: she sets the spool on the bench and points to the archive's deepest
-corner — a door Ira has not seen, hidden behind the oldest shelves. The door is Kshudra-made,
-the same craft as the back door and the lockbox.
+**कैमरा:** नन्दी के हाथ: वह रील तख़्त पर रखती है और अभिलेखागार के सबसे गहरे कोने की ओर इशारा करती है
+— एक दरवाज़ा जो इरा ने नहीं देखा, सबसे पुराने ताख़ों के पीछे छिपा हुआ। दरवाज़ा क्षुद्र का बनाया है,
+वही कारीगरी जो पिछले दरवाज़े और ताला-बक्से की है।
 
-**चित्र:** The door at the archive's deepest point. The same Kshudra craft as every lock in the
-story. The same hand-school. The same woman.
+**दृश्य:** अभिलेखागार के सबसे गहरे बिन्दु पर वह दरवाज़ा। वही क्षुद्र कारीगरी जो कहानी के हर ताले की
+है। वही हस्त-विद्यालय। वही स्त्री।
 
-> **NANDI (संवाद, quiet):**
-> She's here. She's always been here. Behind the last door. The one the key doesn't open.
+> **नन्दी (संवाद, धीमा):**
+> वह यहीं है। वह हमेशा यहीं रही है। आख़िरी दरवाज़े के पीछे। वह जो चाबी से नहीं खुलता।
 >
-> **NANDI (dialogue):**
-> The key opens the back door. The braid opens the last door. Your mother designed it that
-> way.
+> **नन्दी (संवाद):**
+> चाबी पिछला दरवाज़ा खोलती है। बुनाई आख़िरी दरवाज़ा खोलती है। तुम्हारी माँ ने इसे ऐसे ही बनाया था।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The mother's story** is told by Nandi, not shown in flashback. Keep the telling dry, factual,
-  the way Kessa tells stories. The emotion is in the objects: the bench, the spool, the door.
-- **The supply line's source** is one spool, twenty years old, kept under the bench. The same
-  thread that ran through every piece of evidence.
-- **The last door** is the chapter's hook: the mother is inside the Mendery, behind a door that
-  only the braided mark can open. The key opens the back door; the braid opens the last door.
-- **Chain budget: unspent.** Four notes silent. Loom never speaks.
+- **माँ की कहानी** नन्दी सुनाती है, फ़्लैशबैक में नहीं दिखाई जाती। सुनाना रूखा, तथ्यात्मक रहे, जैसे
+  केसा कहानियाँ सुनाती है। भाव चीज़ों में है: तख़्त, रील, दरवाज़ा।
+- **आपूर्ति-मार्ग का स्रोत** एक रील है, बीस साल पुरानी, तख़्त के नीचे रखी हुई। वही धागा जो हर सबूत से
+  होकर गुज़रा।
+- **आख़िरी दरवाज़ा** इस अध्याय का हुक है: माँ मेंडरी के भीतर है, ऐसे दरवाज़े के पीछे जिसे केवल बुना चिह्न
+  खोल सकता है। चाबी पिछला दरवाज़ा खोलती है; बुनाई आख़िरी दरवाज़ा खोलती है।
+- **ज़ंजीर-रोक बजट: अभी ख़र्च नहीं।** चार स्वर मौन। सूत्र-यन्त्र कभी नहीं बोलता।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The supply spool | Relic — *Twenty-Year Spool* |
-| The last door | Location — *The Last Door* |
-| "The braid opens the last door." | Lore — *The Mother's Design* |
+| आपूर्ति की रील | रिलिक — *बीस साल की रील* |
+| आख़िरी दरवाज़ा | स्थान — *आख़िरी दरवाज़ा* |
+| "बुनाई आख़िरी दरवाज़ा खोलती है।" | लोर — *माँ की रचना* |
