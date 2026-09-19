@@ -1,7 +1,7 @@
 # Chapter 008 — *The First Pupil* / *पहला शिष्य* — CLOSE-OUT
 
-**Status:** IN PROGRESS — 10 pages (001–010) scripted (EN + Hindi), cast files + glossary +
-locations grown in-step. Images pending.
+**Status:** COMPLETE — 10 pages (001–010) scripted (EN + Hindi, both above the 80% floor), cast
+files + glossary + locations in-step, 10 images. Hindi hand-translated and shipped on commit `8ad8e27`.
 **Arc:** II — The Mendery · **Sector:** Agnikhand · **Open PR for this work:** Kyabtao/Manga#3
 **Chain-stop budget:** ONE — **NOT SPENT, and now OVERDUE.** Held unspent for three chapters
 (006, 007, 008). **Chapter 009 opens its budget and must spend it.**
