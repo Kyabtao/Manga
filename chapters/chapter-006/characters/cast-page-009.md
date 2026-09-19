@@ -1,0 +1,9 @@
+# Chapter 006 — Page 009 Cast
+
+
+Everyone on the page.
+
+---
+
+## Kessa — केसा
+Full sheet (Ch. 001): [`../../chapter-001/characters/kessa.md`](../../chapter-001/characters/kessa.md)

@@ -20,9 +20,9 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Chapters 001–005 COMPLETE** — Arc I — The Unspooling |
-| **Pages completed** | Ch. 001: **001**–**010** · Ch. 002: **001**–**010** · Ch. 003: **001**–**010** · Ch. 004: **001**–**010** · Ch. 005: **001**–**010** |
-| **NEXT page to build** | **Chapter 006 · Page 001** (Arc II setup — Ira enters the Mendery) |
+| **Chapter in progress** | **Chapters 001–006 in progress** — Arc I complete, Arc II started |
+| **Pages completed** | Ch. 001–005: **complete** (50 pages) · Ch. 006: **001**–**009** (page 010 image pending) |
+| **NEXT page to build** | **Chapter 006 · Page 010 image** + **Chapter 007 · Page 001** |
 | **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) (targets `main`) |
 
 ### Next-page brief (Chapter 003 · Page 002)

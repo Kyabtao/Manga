@@ -14,6 +14,7 @@ CHARS = {
     "lekh": "Lekh — लेख",
     "guthli": "Guthli — गुठली",
     "pira": "Pira — पीरा",
+    "nandi": "Nandi — नंदी",
 }
 
 # Hindi translations for common dialogue/captions
@@ -52,6 +53,16 @@ HINDI = {
     "My mother was in the Mendery.": "मेरी माँ मेंडरी में थी।",
     "Come back. The box will wait.": "वापस आना। बक्सा इंतज़ार करेगा।",
     "The girl will come.": "लड़की आएगी।",
+    # Ch006
+    "Your mother sewed you shut, child. To protect you.": "तुम्हारी माँ ने तुम्हें बंद किया, बच्ची। तुम्हारी रक्षा के लिए।",
+    "She is the sewer. She is the cutter.": "वह सीवर है। वह काटने वाली है।",
+    "Where is she?": "वह कहाँ है?",
+    "You found it.": "तुमने ढूँढ लिया।",
+    "Eight objects. All about one family.": "आठ चीज़ें। सब एक परिवार के बारे में।",
+    "Then the principal knows you're here.": "तो प्रमुख जानता है कि तुम यहाँ हो।",
+    "You heard her.": "तुमने उसे सुना।",
+    "The charter stays.": "चार्टर यहीं रहता है।",
+    "Mend. The rest will follow.": "सिलाई करो। बाकी पीछे आएगा।",
 }
 
 def make_hindi(src_path):
@@ -152,6 +163,12 @@ def make_glossary(ch):
             ("Mendery", "मेंडरी", "The workhouse where debt-carriers are bound. Ira's mother was bound there."),
             ("The back-door key", "पिछवाड़े की चाबी", "Kshudra-made key to the Mendery's back door, given by Ira's mother."),
         ],
+        "chapter-006": [
+            ("School of the Braided Thread", "बुने धागे की विद्या", "Hand-school founded by Ira's mother. Charter in the Mendery archive."),
+            ("Teacher's strand", "शिक्षक-तंतु", "The blank strand: the mother's thread, sewn into the student before speech."),
+            ("Self-binding", "स्व-बंधन", "The mother bound herself voluntarily to keep the school alive."),
+            ("Audit warrant", "लेखा-परवाना", "The Office's highest instrument: permits lockbox inspection."),
+        ],
     }
     
     items = terms.get(ch, [])
@@ -184,6 +201,10 @@ def make_locations(ch):
             ("THE ASH-SLUMS", "राख-बस्ती", "The crater's base, deepest part of the basin. The Mendery is here."),
             ("THE MENDERY", "मेंडरी", "Low, broad, no windows, one door. The back door opens with Kessa's key. The archive inside."),
         ],
+        "chapter-006": [
+            ("THE MENDERY ARCHIVE", "मेंडरी अभिलेख", "Tall shelves of files. Council files in front, Kshudra files at the back. The mother's workshop behind the last door."),
+            ("THE BINDING CHAIR", "बंधन-कुर्सी", "Modified with thread-holes in armrests. The mother bound herself voluntarily for twenty years."),
+        ],
     }
     
     items = locs.get(ch, [])
@@ -195,7 +216,7 @@ def make_locations(ch):
     return "\n".join(out)
 
 def main():
-    for ch in ["chapter-003", "chapter-004", "chapter-005"]:
+    for ch in ["chapter-003", "chapter-004", "chapter-005", "chapter-006"]:
         chdir = os.path.join(ROOT, "chapters", ch)
         story_dir = os.path.join(chdir, "story")
         chars_dir = os.path.join(chdir, "characters")

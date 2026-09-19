@@ -1,0 +1,139 @@
+# THREADBORN — Chapter 06 — Page 007
+
+**अध्याय शीर्षक:** *The Mother's File* / *माँ की फ़ाइल*
+**Arc:** II — The Mendery
+**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail
+**पृष्ठ प्रकार:** The basin reacts — 7 panels, hook at bottom
+
+> Beats: Page 006 — the charter in the lockbox (8 objects), the mother is missing, the principal
+> has the mother.
+
+---
+
+## चित्र-खाना 1 — Wide, the basin morning (~14%)
+
+**कैमरा:** Morning, Knot & Nail: the stall works normally. Ira mends at the counter, braided
+thread in her needle, mark open. The basin's queue is long — the girl with the debtless mend
+is famous now.
+
+**चित्र:** The Knot & Nail as the basin's centre. The queue stretches past the next stall. Ash
+falls. The Spindle is still bright.
+
+> **शीर्षक (none spoken):**
+> The basin does not know about the archive. It knows about the mend. That is enough.
+
+---
+
+## चित्र-खाना 2 — Medium, the chain hums (~13%)
+
+**कैमरा:** Rekhak walks his rounds, chain running, oath-link dark. As he passes the Knot & Nail,
+the chain hums — the four notes, wrong key, same shape. But tonight the hum is different:
+stronger, closer, as if the chain is *reaching* for the mark.
+
+**चित्र:** The chain's hum reaches the stall. Ira's mark responds — the blank strand stirs.
+
+> **शीर्षक (Ira's voice, small):**
+> His chain hummed the four notes again. Stronger tonight. As if the chain knows the file has
+> been read.
+
+---
+
+## चित्र-खाना 3 — Close, the mark responds (~14%)
+
+**कैमरा:** Ira's palm: the blank strand — her mother's thread — reaches toward the chain's
+hum. Not toward the chain itself, toward the *echo*. The echo is the four notes. The four notes
+are her mother's sewing melody. The blank strand recognizes its own melody.
+
+**चित्र:** The blank strand and the chain's hum in the same frame. The thread recognizes the
+melody that was in the room when it was sewn.
+
+> **शीर्षक (none spoken):**
+> The blank strand recognizes the melody. The melody was in the room when the braid was sewn.
+> The chain carries the echo. The thread carries the memory.
+
+---
+
+## चित्र-खाना 4 — Medium, the four notes (~13%)
+
+**कैमरा:** Through the braided mark, Ira hears the four notes clearly for the first time — not
+through the chain's echo, but through the thread's memory. The notes are her mother's voice,
+humming while she sewed. Off-key. Always the same four.
+
+**चित्र:** Ira's face, listening to a voice no one else can hear. The thread is playing the
+melody back.
+
+> **शीर्षक (Ira's voice, smallest):**
+> I hear her. Through the thread. Off-key. The same four notes. Her voice. Not the chain's
+> echo. Her voice.
+
+---
+
+## चित्र-खाना 5 — Wide, the basin evening (~14%)
+
+**कैमरा:** Evening: the Knot & Nail's shutters are up. The basin quietens. Kessa sits behind
+the counter, loupe up, lockbox under the counter. Ira sits across from her, palm open, mark
+glowing faintly.
+
+**चित्र:** Two women and a box. The same image as always. But the box holds eight objects now,
+and the girl has heard her mother's voice.
+
+> **केसा (संवाद, dry):**
+> तुमने उसे सुना।
+>
+> **IRA (dialogue):**
+> Through the thread. Her voice.
+
+---
+
+## चित्र-खाना 6 — Close, Kessa's hands (~13%)
+
+**कैमरा:** Kessa's hands: she ties a new knot in the tally-thread. The hearing is filed. Then
+she does something new: she reaches into the lockbox and draws out the charter. She reads it
+again. Her loupe-eye moves across the knot-script.
+
+**चित्र:** Kessa reading the charter, loupe down. The same gesture as reading a debt-mark.
+
+> **केसा (संवाद, slow):**
+> The school's charter. The first rule: *thread is braided, never single.*
+>
+> **KESSA (dialogue):**
+> Your mother's school and my lockbox have the same rule: nothing is kept alone.
+
+---
+
+## चित्र-खाना 7 — Macro, the lockbox — HOOK (~19%)
+
+**कैमरा:** The lockbox on the counter, open. Eight objects inside: cut-end, census, posting
+order, gift-thread, sixth thread, seventh thread (child's knot), sewer's thread, charter. The
+box is full. The history is complete.
+
+**चित्र:** The eight objects in the open box. The chapter's icon, final form.
+
+> **शीर्षक (none spoken):**
+> Eight objects. One family. One school. One box. The lockbox holds the entire history of the
+> braided thread — from the charter's founding to the girl's opening.
+>
+> **शीर्षक (smaller):**
+> The box is full. The history is read. The mother is missing. And the thread that was hidden
+> for fifteen years is now the only thread in the basin that knows its own name.
+
+---
+
+## लेखन और चित्र नोट्स
+
+- **The four notes heard through the thread** is the chapter's emotional climax: Ira hears her
+> mother's voice for the first time. Not through the chain's echo — through the thread's memory.
+> The melody is the same: off-key, four notes, always the same.
+- **Kessa's reading of the charter** connects the mother's school to Kessa's lockbox: nothing is
+> kept alone. The rule of the school and the rule of the box are the same.
+- **The box is full** — eight objects, the complete history. The icon reaches its final form.
+- **Chain budget: unspent.** Four notes: heard correctly for the first time (through the thread,
+> not the chain). Loom never speaks.
+
+## कार्ड-गेम हुक
+
+| Beat | Card |
+|---|---|
+| The thread plays the melody | Power — *Thread Memory* |
+| "Nothing is kept alone." | Lore — *The School's Rule* |
+| Eight objects, the full box | Lore — *The Complete History* |
