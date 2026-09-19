@@ -20,26 +20,30 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Chapters 001–006 COMPLETE** — Arc I done, Arc II open |
-| **Pages completed** | Ch. 001: **001**–**010** · Ch. 002: **001**–**010** · Ch. 003: **001**–**010** · Ch. 004: **001**–**010** · Ch. 005: **001**–**010** · Ch. 006: **001**–**010** (60 pages) |
-| **NEXT page to build** | **Chapter 007 · Page 001** (Arc II continues) |
+| **Chapter in progress** | **Chapters 001–007 COMPLETE** — Arc I done, Arc II open |
+| **Pages completed** | Ch. 001–007: **all complete** (70 pages, 70 images) |
+| **NEXT page to build** | **Chapter 008 · Page 001** (Arc II — the audit lands) |
 | **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) (targets `main`) |
 
-### Next-page brief (Chapter 007 · Page 001)
-Chapter 006 closed on the counter: the principal's letter, grey wax and crimson wax touching on one
-fold, **still unopened**, and Kessa's loupe down beside it. Chapter 007 opens the letter. Before it is
-opened, the page must hold the cost of a night of not opening it: Ira does not sleep at the stall, she
-sleeps on the roof under the Loom with the letter held flat on the stitch — and the braid answers the
-seals before any hand breaks them. The principal wrote to Ira directly, which no Council principal has
-done to a humankin in the Council's records; the letter is therefore evidence before it is a message,
-and the Inspector's audit warrant (Ch. 006, page 008 — the standoff Kessa bought with a coin on the
-seal) is still live. Kessa's position: open it in front of a witness or not at all. Nandi's position
-(offstage, via the archive's own habit): the Mendery keeps copies of every letter it delivers, so the
-principal knows what the letter says regardless. Ira's position: *"Nothing gets sewn till I've seen the
-tear."* The page ends on the first line of the letter and nothing else — the reader reads it with her.
-Continuity: chain echo now fading (Ch. 006, page 007), eight objects in the lockbox plus the charter,
-four notes now matching **correctly** through the thread's memory, mother three days gone, chain-stop
-budget still unspent.
+### Next-page brief (Chapter 008 · Page 001)
+Chapter 007 ended with a letter going down the Mendery's supply chute and a girl sewing her own
+stitch shut on the step. Chapter 008 opens on the **audit** — the Inspector's warrant (Ch. 006
+Page 008, live ever since the charter was read) finally executes, and it lands on a cellar that no
+longer has anything in it. Every quire is disbound, every spine unthreaded, and the back wall has
+one shelf standing empty where the Roll of Hands used to be. The Inspector's problem is no longer
+Ira: it is that the Mendery's records have been *opened*, which means the archive is now evidence,
+which means **Nandi** — its keeper of forty years — is the person the Office can actually take.
+Ira's problem is the mirror of it: her stitch is closed, the strand is sewn down, and for the
+first time since Chapter 005 the mark gives her nothing. She has spent seven chapters learning to
+read the thread and has just made herself unreadable to protect the one person who could read her.
+The page's turn: a stranger walks into the Knot & Nail with a **braided mark on the palm** — a
+first knot, Kshudra-made, forty years old — and asks for the school. The Roll of Hands is out of
+the archive and every pupil her mother ever taught is now findable by the woman who took it.
+Continuity: clause four's timer runs one Unspooling from the letter's delivery; the principal still
+holds a letter he cannot read; chain-stop budget **unspent for a third chapter** — spend it here or
+hand it to Chapter 009, do not let it drift past the Arc II turn; Kessa's tally-thread holds the
+only copy of both crease-writs; the Loom never speaks; the mother never appears on panel.
+
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
 
@@ -190,6 +194,11 @@ budget still unspent.
 - **Ch. 006 · Pages 001–005** — Ira returns to the Mendery archive with her mother's key. Her mother's file: **Manavkin, braided, projection type, zero debt, bound twenty years, never released** — reason given: *unlicensed*. The back wall holds Kshudra files older than the Council's own records. Ira finds the charter of **The School of the Braided Thread**, founded by **Sutar (M.)** — her mother. Rule three: *the teacher's strand is sewn into the student before the student's first speech.* **Nandi**, the archive's old Kshudra keeper, closes the chapter's first half with the three-part revelation: **the sewer is her mother. The cutter is her mother. The supply line is her mother.** She bound herself, voluntarily, in a binding chair, for twenty years. She left three days ago, to find the principal.
 - **Ch. 006 · Pages 006–010** — Ira returns to the basin and works: she pawns the charter to Kessa (lockbox to **eight objects**), mends Bhan at the stall counter with the braid showing whorl-grain in the seam, and hears the four notes **correctly** through the thread's memory for the first time — through the strand, not through the air. The Inspector returns with an **audit warrant**; the standoff at the counter is settled coin-on-seal, and he leaves — but not before reading the charter: *"Files were supposed to be destroyed."* That night a letter lies at the foot of the Council Stair: folded once, **grey wax on one flap, crimson on the other, touching.** Ira carries it to the stall and sets it beside the closed lockbox. Kessa's loupe goes down. **The letter is not opened.** **END OF CHAPTER SIX.**
 
+**CHAPTER 007 — THE CRIMSON LINE (क़िरमिज़ी पंक्ति)**
+
+- **Ch. 007 · Pages 001–005** — The night of not opening it. Ira lies under the Loom with the letter on the stitch, and the strand climbs past the grey to the crimson. Dawn: two hands on one fold — Ira takes grey, Kessa takes crimson. The grey **snaps** clean; the crimson **lifts**, soft and cloudy, **already broken and pressed back down.** The letter's body: a **Letter of Provisional Licence** naming *Ira Sutar, of the School of the Braided Thread*, four clauses — one stall, one basin, one name; threads at each second bell; the mark on the Council kind-roll; and **clause four: produce its founder before the seal.** Rekhak reads the register it came from and tells them the worst of it: the **third register** is a crimson-bound private hand's book; entries in it **license nothing — they inventory.** Sign and a writ goes after her mother. Stay silent and in one Unspooling the school reverts to him. Kessa notices the fold is too stiff. Pressed flat, the crease holds eleven words drawn in **sealing wax** where only a mender would look: *"The founder will not appear. Do not sign. — a hand of the school."* Somebody broke the principal's seal, dug a bead out of it with a thumbnail, wrote in the fold, and left the letter for Ira on a morning she'd be alone.
+- **Ch. 007 · Pages 006–010** — Laid across the stitch, the strand settles into the writing and the braid opens: **crimson under the grey**, invisible in daylight for fifteen years. Four notes, correct — and then two dry stitches of **live** needlework. Kessa reads the sound — doubled folds, heavy needle, slow turn — that is **binding**, and the only hand-binder in the basin is the Mendery. Ira returns to a disbound archive: every quire opened, every spine unthreaded, forty years of her mother's thread in a pile on the floor. **Every file in the Mendery was held shut by Sutar, M.** On the back wall, one file's width of clean dust: the **Roll of Hands** is gone — the school's pupil register, forty years deep. Nandi says why: *"Her freedom was the rent on that shelf."* And she delivers what she was left to hold: *"Tell her I did not write her name in the roll. Tell her I sewed her instead."* / *"Tell her not to sign anything that asks her to exist."* Ira answers in the fold — a second bead of wax, three lines in the same crease (*"The founder's hand has not signed. The stall is open."*), the fold closed so both messages vanish, then sewn shut with the blank strand and a **child's first knot.** Three seals on one letter: grey, crimson, braid. Kessa takes the only copy that cannot be audited — into her tally-thread. The letter goes down the supply chute. And on the step, Ira **closes her own stitch**, so the channel cannot be followed. **END OF CHAPTER SEVEN.**
+
 # 🗂️ STRUCTURE
 
 ```
@@ -209,8 +218,8 @@ chapters/
                 cast-page-001..010.md, *-ref.png
     other/     locations.md, glossary.md
     images/    page-001..010.png
-  chapter-002 .. chapter-006/  COMPLETE — same layout, 10 pages each
-  chapter-007/            next — skeleton created before writing starts
+  chapter-002 .. chapter-007/  COMPLETE — same layout, 10 pages each
+  chapter-008/            next — skeleton created before writing starts
 
 website/                  generated reading site (committed) — build.py + assets/ are the sources
 index.html                root redirect into website/
