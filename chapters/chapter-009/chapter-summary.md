@@ -1,6 +1,7 @@
 # Chapter 009 — *The Reading* / *पाठ* — IN PROGRESS
 
-**Status:** IN PROGRESS — pages 001–003 scripted (EN); Hindi, cast files, images to follow in-step.
+**Status:** IN PROGRESS — pages 001–006 scripted (EN); Hindi, cast files, images to follow in-step.
+**Chain-stop budget: SPENT on page 006** (Rekhak, held stop — deposit writes into his own ledger).
 **Arc:** II — The Mendery · **Sector:** Agnikhand — the Ash-sLums, the Mendery, the Reckoning Office
 **Open PR for this work:** Kyabtao/Manga#3
 **Chain-stop budget:** ONE — **OPENED HERE. Spent on Page 006 (Rekhak, held stop).** Held unspent
@@ -39,6 +40,10 @@ copy of the crease-writs, and the mother is four nights down a list of forty-one
 ## Synopsis — page by page (as written)
 
 - **Ch. 009 · Pages 001–003** — the ordinance, the register, and the summons.
+- **Ch. 009 · Pages 004–006** — the certification, the objection, and the held stop. The Office buys
+  its reader with a sentence it drafted knowing it was false; Rekhak swears it on a held stop; the
+  deposit writes the true sentence into his own ledger in his own hand. Cliff: the keeper must
+  **identify the hand** the instrument read, on the record, within three days.
 
 ## Open threads (carried in)
 
