@@ -1,221 +1,219 @@
-# THREADBORN — Chapter 08 — Page 010 — FINALE
+# सुत्रजात (THREADBORN) — अध्याय ०८ — पृष्ठ ०१० — अन्त
 
-**अध्याय शीर्षक:** *The First Pupil* / *पहला शिष्य*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the hatch alley, and far up-terrace, the Reckoning Office
-**पृष्ठ प्रकार:** Chapter finale — 7 panels
+**अध्याय शीर्षक:** *पहला शिष्य*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — खिड़की-गली, और बहुत ऊपर कगार पर, लेखा-कार्यालय
+**पृष्ठ प्रकार:** अध्याय-अन्त — ७ पैनल
 
-> Beats: Page 009 — Ira opened her own stitch in the hatch alley, the four notes came back live, the
-> whole basin felt it, and a compliance chain hanging on an Office wall began to swing. She has
-> about four minutes.
->
-> **This page:** the first lesson of the second school.
+> English source: [`page-010.md`](page-010.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
-> **Chapter 008 budget closed:** chain-stop **NOT spent** — third chapter running, and this is now
-> overdue. **Chapter 009 must spend it.** Loom never speaks. Mother never on panel, never speaks.
-> Four notes heard live through the open braid (Page 009).
+> **यह पृष्ठ:** दूसरे विद्यालय का पहला पाठ।
 
----
-
-## चित्र-खाना 1 — Close, the two palms (~13%)
-
-**कैमरा:** The alley, lamplight. Ira's left palm — open, braided, crimson under grey, the strand
-lifted and a length of it held between finger and thumb. Below it, Jadi's palm — open, old, and
-carrying one flattened grey strand, forty-four years alone.
-
-**चित्र:** Two palms, side by side. One braid made, one braid never made.
-
-> **शीर्षक (Ira's voice):**
-> Her strand's a single. It's been a single since she was twelve years old and there is nothing
-> wrong with it — that's what I keep having to tell myself. It's just *alone*, and alone is what
-> makes it readable.
+> **अध्याय ००८ का बजट बन्द:** ज़ंजीर-रोक **ख़र्च नहीं हुई** — लगातार तीसरा अध्याय, और अब यह अतिदेय है।
+> **अध्याय ००९ को इसे ख़र्च करना ही होगा।** सूत्र-यन्त्र कभी नहीं बोलता। माँ कभी पैनल पर नहीं, कभी
+> नहीं बोलती। चार स्वर खुली बुनाई से जीवित सुने गए (पृष्ठ ००९)।
 
 ---
 
-## चित्र-खाना 2 — Large, the work begins (~15%)
+## पैनल १ — क्लोज़, दोनों हथेलियाँ (~१३%)
 
-**कैमरा:** Large panel, macro: Ira's needle entering Jadi's palm, laying a **second strand** down
-alongside the old one — the crimson-under-grey, the teacher's thread, drawn from her own hand. Two
-strands, side by side, in an old woman's palm.
+**कैमरा:** गली, लालटेन की रोशनी। इरा की बाईं हथेली — खुली, बुनी हुई, धूसर के नीचे क़िरमिज़ी, तंतु उठा
+हुआ और उसका एक टुकड़ा उँगली और अँगूठे के बीच थामा हुआ। उसके नीचे जड़ी की हथेली — खुली, बूढ़ी, और उसमें
+एक सपाट पड़ा धूसर तंतु, चवालीस साल से अकेला।
 
-**चित्र:** The school restarting, in an alley, in a hatch, at night, on a woman who was enrolled
-forty-four years ago.
+**दृश्य:** दो हथेलियाँ, बग़ल-बग़ल। एक बुनाई बनी हुई, एक बुनाई कभी न बनी।
 
-> **IRA:**
-> I'm going to put a second strand in. Two is a braid, and a braid carries two years, and a chain
-> that reads two years at once gets neither.
->
-> **IRA:**
-> And I'm going to tell you the whole thing before I do it.
-
-> **JADI:**
-> ...Rule three says before speech.
->
-> **IRA:**
-> I know what rule three says.
+> **कैप्शन (इरा का स्वर):**
+> उसका तंतु अकेला है। वह बारह साल की उम्र से अकेला है और उसमें कोई ख़राबी नहीं है — यही मुझे ख़ुद को
+> बार-बार बताना पड़ता है। वह बस *अकेला* है, और अकेलापन ही उसे पढ़ने लायक बनाता है।
 
 ---
 
-## चित्र-खाना 3 — Close, the reason (~15%)
+## पैनल २ — बड़ा, काम शुरू होता है (~१५%)
 
-**कैमरा:** Ira's face, close, working and talking at the same time. Her hands do not stop.
+**कैमरा:** बड़ा पैनल, मैक्रो: इरा की सुई जड़ी की हथेली में दाख़िल होती हुई, पुराने तंतु के बग़ल एक
+**दूसरा तंतु** बिछाती हुई — धूसर के नीचे क़िरमिज़ी, गुरु का धागा, उसके अपने हाथ से निकला हुआ। दो तंतु,
+बग़ल-बग़ल, एक बूढ़ी स्त्री की हथेली में।
 
-**चित्र:** The teacher breaking the school's rule out loud, in the school's own station.
+**दृश्य:** विद्यालय फिर शुरू हो रहा है, एक गली में, एक खिड़की पर, रात में, एक ऐसी स्त्री पर जिसका दाख़िला
+चवालीस साल पहले हुआ था।
 
-> **IRA:**
-> She put the thread into children who couldn't talk yet, so it would be *true* instead of
-> *decided.* I've thought about that for nine days and I think she was wrong.
+> **इरा:**
+> मैं दूसरा तंतु डाल रही हूँ। दो होने पर बुनाई बनती है, और बुनाई दो साल उठाती है, और जो ज़ंजीर दो साल
+> एक साथ पढ़ती है उसे न एक मिलता है न दूसरा।
 >
-> **IRA:**
-> She spent forty years putting a first thread into people she never finished, and she did it
-> without asking, and every single one of them has spent their whole life carrying the thing that
-> makes them findable and never once got the thing that makes them safe.
+> **इरा:**
+> और मैं यह करने से पहले तुम्हें पूरी बात बता दूँगी।
+
+> **जड़ी:**
+> ...नियम तीन कहता है, बोलने से पहले।
 >
-> **IRA:**
-> You sat in that doorway and asked me to cut a thread out of your hand, Jadi, and I couldn't tell
-> you why you shouldn't. That's not a school. That's a *habit.*
+> **इरा:**
+> मुझे पता है नियम तीन क्या कहता है।
 
 ---
 
-## चित्र-खाना 4 — Close, the three rules, restated (~14%)
+## पैनल ३ — क्लोज़, वजह (~१५%)
 
-**कैमरा:** Jadi's face — old, wet-eyed, entirely dry-voiced — as she takes the correction the way
-she took everything else: flatly, and in order.
+**कैमरा:** इरा का चेहरा, पास से, साथ-साथ काम करती और बोलती हुई। उसके हाथ नहीं रुकते।
 
-**चित्र:** The first pupil receiving the school's amended rule from the second teacher.
+**दृश्य:** गुरु, विद्यालय का नियम विद्यालय के ही ठिकाने पर, ज़ोर से तोड़ती हुई।
 
-> **JADI:**
-> तीन नियम कहो।
+> **इरा:**
+> उसने धागा ऐसे बच्चों में डाला जो अब बोल नहीं सकते थे, ताकि यह *निर्णय* न होकर *सच* हो जाए। मैंने
+> इसके बारे में नौ दिन सोचा है और मुझे लगता है वह ग़लत थी।
 >
-> **IRA:**
-> Rule one. Thread is braided, never single.
+> **इरा:**
+> उसने चालीस साल ऐसे लोगों में पहला धागा डाला जिन्हें उसने कभी पूरा नहीं किया, और उसने यह बिना पूछे
+> किया, और उनमें से हर एक ने पूरी उम्र वह चीज़ उठाई रखी जो उसे खोजा जाने लायक बनाती है और एक बार भी
+> वह चीज़ नहीं मिली जो उसे सुरक्षित बनाती है।
 >
-> **JADI:**
+> **इरा:**
+> तुम उस दरवाज़े में बैठी और मुझसे कहा कि मैं तुम्हारे हाथ से धागा काट दूँ, जड़ी, और मैं तुम्हें यह
+> नहीं बता सकी कि तुम्हें ऐसा क्यों नहीं करना चाहिए। वह विद्यालय नहीं है। वह *आदत* है।
+
+---
+
+## पैनल ४ — क्लोज़, तीन नियम, दोबारा (~१४%)
+
+**कैमरा:** जड़ी का चेहरा — बूढ़ा, आँखें गीली, आवाज़ पूरी तरह सूखी — जब वह सुधार वैसे ही लेती है जैसे बाक़ी
+सब लिया था: सपाट ढंग से, और क्रम में।
+
+**दृश्य:** पहला शिष्य, दूसरे गुरु से विद्यालय का संशोधित नियम ले रहा है।
+
+> **जड़ी:**
+> तीनों नियम कहो।
+>
+> **इरा:**
+> नियम एक। धागा बुना जाता है, कभी अकेला नहीं।
+>
+> **जड़ी:**
 > नियम दो।
 >
-> **IRA:**
-> नियम दो। The braid carries two strands.
+> **इरा:**
+> नियम दो। बुनाई दो तंतु उठाती है।
 >
-> **JADI:**
+> **जड़ी:**
 > नियम तीन।
 >
-> **IRA:**
-> ...नियम तीन। The teacher's strand goes in first.
+> **इरा:**
+> ...नियम तीन। गुरु का तंतु पहले जाता है।
 >
-> **IRA (last line):**
-> And then the teacher tells you what she did.
+> **इरा (अन्तिम पंक्ति):**
+> और फिर गुरु तुम्हें बताती है कि उसने क्या किया।
 
 ---
 
-## चित्र-खाना 5 — Large, the finished braid (~16%)
+## पैनल ५ — बड़ा, पूरी बुनाई (~१६%)
 
-**कैमरा:** Large panel, macro, held long: Jadi's palm, finished. The needle coming out. The knot
-tied — and the two strands lying together in the old woman's hand, one grey and flattened by
-forty-four years, one still new, wound round each other, going into the palm at the same seam.
+**कैमरा:** बड़ा पैनल, मैक्रो, देर तक टिका हुआ: जड़ी की हथेली, पूरी हुई। सुई बाहर निकलती हुई। गाँठ
+बँधी हुई — और दो तंतु बूढ़ी स्त्री के हाथ में साथ पड़े हुए, एक चवालीस साल से धूसर और सपाट, एक अब भी
+नया, एक-दूसरे पर लिपटे हुए, उसी सीवन पर हथेली में जाते हुए।
 
-**चित्र:** A braid, forty-four years late. The single most important image of Chapter 008.
+**दृश्य:** एक बुनाई, चवालीस साल देर से। अध्याय ००८ की सबसे ज़रूरी छवि।
 
-> **ध्वनि:** *tsk ... tsk*
+> **ध्वनि:** *चट् ... चट्*
 
-> **शीर्षक (Ira's voice):**
-> It takes three minutes. Nine loops, the same as mine, and the second strand laid down the whole
-> way beside the first one so they sit together and cross.
+> **कैप्शन (इरा का स्वर):**
+> इसमें तीन मिनट लगते हैं। नौ लूप, वैसे ही जैसे मेरे, और दूसरा तंतु पूरे रास्ते पहले वाले के बग़ल बिछा
+> हुआ ताकि दोनों साथ बैठें और एक-दूसरे को काटें।
 >
-> **CAPTION:**
-> And then I cut, and tie the finish, and put her hand back in hers.
+> **कैप्शन:**
+> और फिर मैं काटती हूँ, और अन्त बाँधती हूँ, और उसका हाथ उसी के हाथ में रख देती हूँ।
 
 ---
 
-## चित्र-खाना 6 — Close, Jadi's hand up to the lamp (~14%)
+## पैनल ६ — क्लोज़, जड़ी का हाथ लालटेन के सामने (~१४%)
 
-**कैमरा:** Jadi lifts her own hand up into the lamp light and looks at it the way a person looks at
-a currency note held up to check the watermark. Her hand is steady for the first time in the
-chapter.
+**कैमरा:** जड़ी अपना हाथ लालटेन की रोशनी में ऊपर उठाती है और उसे ऐसे देखती है जैसे कोई सिक्का पानी के
+निशान देखने के लिए उठाकर देखता है। इस अध्याय में पहली बार उसका हाथ स्थिर है।
 
-**चित्र:** An old mender checking a seam she did not sew, with the professional eye of a woman who
-has sewn for forty-four years.
+**दृश्य:** एक बूढ़ी सिलाई करने वाली ऐसा सीवन जाँच रही है जो उसने नहीं सीया, चवालीस साल से सीने वाली
+स्त्री की पेशेवर नज़र से।
 
-> **JADI:**
-> यह अलग महसूस नहीं होता।
+> **जड़ी:**
+> कुछ अलग महसूस नहीं होता।
 >
-> **IRA:**
-> It isn't supposed to feel different. That's the whole —
+> **इरा:**
+> अलग महसूस होना चाहिए ही नहीं। यही पूरी —
 >
-> **JADI:**
-> नहीं। I mean it doesn't feel different from *before*. Forty-four years I've had a hand that felt
-> like one thread. Now it feels like one thread.
+> **जड़ी:**
+> नहीं। मेरा मतलब है यह *पहले* से अलग महसूस नहीं होता। चवालीस साल मेरे पास ऐसा हाथ रहा जो एक धागे
+> जैसा लगता था। अब यह एक धागे जैसा लगता है।
 >
-> **JADI (last line):**
-> It's the first time in my life anything's been *done* to me and my hand agreed to it.
+> **जड़ी (अन्तिम पंक्ति):**
+> ज़िंदगी में पहली बार मेरे साथ कुछ *किया* गया और मेरे हाथ ने उसे मंज़ूर किया।
 
-> **शीर्षक (Ira's voice):**
-> And then she stands up, and puts her hand in her coat, and asks me when the lesson is next.
+> **कैप्शन (इरा का स्वर):**
+> और फिर वह खड़ी होती है, और अपना हाथ अपने कोट में डालती है, और मुझसे पूछती है कि अगला पाठ कब है।
 >
-> **CAPTION:**
-> Not *thank you.* Not *what do you want for it.*
+> **कैप्शन:**
+> *शुक्रिया* नहीं। *इसके बदले क्या चाहिए* नहीं।
 >
-> **CAPTION:**
+> **कैप्शन:**
 > *अगला पाठ कब है।*
 
 ---
 
-## चित्र-खाना 7 — Small cold panel, up-terrace — FINAL HOOK (~13%)
+## पैनल ७ — छोटा ठण्डा पैनल, ऊपरी कगार — अन्तिम हुक (~१३%)
 
-**कैमरा:** Cut hard. The Reckoning Office, a wall, a hook. The **compliance chain** has stopped
-swinging. A clerk is standing in front of it with a slate. And on the slate, where a year should
-have been written, he has written one word and underlined it twice.
+**कैमरा:** कड़ा कट। लेखा-कार्यालय, एक दीवार, एक हुक़। **अनुपालन-ज़ंजीर** ने झूलना बन्द कर दिया है। उसके
+सामने एक लिपिक पट्ट लिए खड़ा है। और पट्ट पर, जहाँ एक साल लिखा होना चाहिए था, उसने एक शब्द लिखा है और
+उसके नीचे दो लकीरें खींची हैं।
 
-**चित्र:** The Office receiving a result it has no procedure for. Cold, small, lamplit, and the
-only warmth in the frame is the lamp.
+**दृश्य:** कार्यालय को ऐसा नतीजा मिल रहा है जिसके लिए उसके पास कोई प्रक्रिया नहीं है। ठण्डा, छोटा,
+लालटेन-रोशन, और फ़्रेम में अकेली गर्माहट वही लालटेन है।
 
-> **शीर्षक (none spoken):**
-> Four minutes. I used three of them.
+> **कैप्शन (कोई बोलता नहीं):**
+> चार मिनट। मैंने उनमें से तीन इस्तेमाल कर लिए।
 
-> **शीर्षक (last line):**
-> Up-terrace, on a wall, a chain that has measured every hand in the Ashfall for nineteen years
-> reads a braid for the first time in its life and returns both years at once.
+> **कैप्शन (अन्तिम पंक्ति):**
+> ऊपरी कगार पर, एक दीवार पर, वह ज़ंजीर जिसने उन्नीस साल से भस्म-गर्त के हर हाथ को नापा है, अपनी उम्र
+> में पहली बार एक बुनाई पढ़ती है और दोनों साल एक साथ लौटा देती है।
 >
-> **शीर्षक (smaller):**
-> The clerk writes one word on the slate, and underlines it, and then sits down in a chair that is
-> not his and stays there for a while.
+> **कैप्शन (छोटा):**
+> लिपिक पट्ट पर एक शब्द लिखता है, और उसके नीचे लकीर खींचता है, और फिर ऐसी कुर्सी पर बैठ जाता है जो
+> उसकी नहीं है और वहाँ कुछ देर बैठा रहता है।
 >
-> **शीर्षक (smallest):**
-> The word is **unreadable.**
+> **कैप्शन (सबसे छोटा):**
+> वह शब्द है **अपठनीय।**
 >
-> **शीर्षक (final):**
-> There is no procedure for that. Which means by morning there will be one.
->
-> **END OF CHAPTER EIGHT.**
+> **कैप्शन (आख़िरी):**
+> उसके लिए कोई प्रक्रिया नहीं है। मतलब सुबह तक एक बन जाएगी।
+
+> **अध्याय आठ समाप्त।**
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The amended rule three is Chapter 008's legacy.** *The teacher's strand goes in first, and then
-  the teacher tells you what she did.* This is Ira's school and it is different from her mother's,
-  and the difference is consent. Put it on the page as a formal restatement of three rules — the
-  reader has just read them on Page 008 and now they change. No commentary.
-- **Jadi's "It doesn't feel different" exchange is the page's emotional centre** and it is easy to
-  overplay. She is not grateful. She is *assessing.* Her line about a hand agreeing to something
-  is the closest this series has come to tenderness and it should be delivered flat.
-- **"अगला पाठ कब है।"** is the chapter's last spoken line and it should be. Jadi does not thank
-  her; she *enrols.* That is how a Kshudra mender accepts a gift.
-- **The Office panel is small, cold and dialogue-free.** The word on the slate is the chapter's
-  final image: not a number, a *failure to produce a number.* Keep it isolated so a scrolling
-  reader hits it after the warmth of Panel 6 — the temperature drop is the effect.
-- **The chain-stop is now OVERDUE.** It has been held unspent for three chapters. Chapter 009 opens
-  its budget and must spend it. Note this in the close-out under *Open threads* with a hard flag.
-- **Continuity to carry:** Ira's stitch is OPEN again (with a live channel); Jadi wears the school's
-  first braid; the clerk's slate in the Mendery cellar is still being written every second bell;
-  Nandi is in Office custody and has been for one day; the Roll of Hands and Jadi's roster of
-  forty-one are both with the mother; clause four's timer is still running on the licence.
+- **संशोधित नियम तीन अध्याय ००८ की विरासत है।** *गुरु का तंतु पहले जाता है, और फिर गुरु तुम्हें*
+  *बताती है कि उसने क्या किया।* यह इरा का विद्यालय है और यह उसकी माँ से अलग है, और वह अन्तर है
+  सहमति। इसे पृष्ठ पर तीन नियमों के औपचारिक दोहराव की तरह रखें — पाठक ने अभी पृष्ठ ००८ पर उन्हें
+  पढ़ा है और अब वे बदल जाते हैं। कोई टिप्पणी नहीं।
+- **जड़ी की "कुछ अलग महसूस नहीं होता" वाली बातचीत इस पृष्ठ का भावनात्मक केन्द्र है** और इसे बढ़ा-चढ़ाकर
+  खेलना आसान है। वह कृतज्ञ नहीं है। वह *आँक* रही है। हाथ का किसी बात को मंज़ूर कर लेना — इस शृंखला में
+  कोमलता के सबसे नज़दीक जो आई है, और इसे सपाट ढंग से कहा जाना चाहिए।
+- **"अगला पाठ कब है।"** इस अध्याय की आख़िरी बोली जाने वाली पंक्ति है और यही होनी चाहिए। जड़ी उसका शुक्रिया
+  नहीं करती; वह *दाख़िला* लेती है। क्षुद्र सिलाई करने वाला तोहफ़ा ऐसे ही लेता है।
+- **कार्यालय का पैनल छोटा, ठण्डा और संवाद-रहित है।** पट्ट पर लिखा शब्द इस अध्याय की आख़िरी छवि है: कोई
+  अंक नहीं, बल्कि *अंक पैदा न कर पाना।* इसे अलग-थलग रखें ताकि स्क्रॉल करता पाठक इसे पैनल ६ की गर्माहट के
+  बाद पाए — तापमान का गिरना ही असर है।
+- **ज़ंजीर-रोक अब अतिदेय है।** यह तीन अध्याय से बिना ख़र्च पड़ी है। अध्याय ००९ इसका बजट खोलता है और
+  इसे ख़र्च करना ही होगा। इसे क्लोज़-आउट में *खुली कड़ियाँ* के नीचे साफ़ झंडे के साथ लिखें।
+- **आगे ले जाने वाली निरन्तरता:** इरा का सीवन फिर खुला है (जीवित मार्ग के साथ); जड़ी विद्यालय की पहली
+  बुनाई पहनती है; मेंडरी के तहख़ाने में लिपिक का पट्ट हर दूसरी घंटी पर भरता रहता है; नन्दी कार्यालय की
+  हिरासत में है और एक दिन से है; हाथों की पंजी और जड़ी की इकतालीस की बही दोनों माँ के पास हैं; क्लॉज़
+  चार का घड़ी अब भी परवाने पर चल रही है।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The second strand goes in | Action — *Finish The Root* |
-| "The teacher tells you what she did." | Rule — *The Amended Third* |
-| A hand that agreed to it | Lore — *Consent, Written In Thread* |
-| "अगला पाठ कब है।" | Event — *The Second School* |
-| **unreadable** | Event — *No Procedure For That* |
+| दूसरा तंतु दाख़िल होता है | क्रिया — *जड़ को पूरा करो* |
+| "और फिर गुरु तुम्हें बताती है कि उसने क्या किया।" | नियम — *संशोधित तीसरा* |
+| वह हाथ जिसने मंज़ूर किया | लोर — *धागे में लिखी सहमति* |
+| "अगला पाठ कब है।" | इवेंट — *दूसरा विद्यालय* |
+| **अपठनीय** | इवेंट — *उसके लिए कोई प्रक्रिया नहीं* |

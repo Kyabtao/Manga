@@ -1,214 +1,209 @@
-# THREADBORN — Chapter 08 — Page 006
+# सुत्रजात (THREADBORN) — अध्याय ०८ — पृष्ठ ००६
 
-**अध्याय शीर्षक:** *The First Pupil* / *पहला शिष्य*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Knot & Nail, Ashfall Basin
-**पृष्ठ प्रकार:** Regular — 7 panels
+**अध्याय शीर्षक:** *पहला शिष्य*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (दोपहर)
+**पृष्ठ प्रकार:** खिड़की — ७ पैनल, अन्त में हुक
 
-> Beats: Page 005 — the first pupil of the school walked into the stall, called Ira *the teacher*,
-> and asked her to pull the teacher's strand out of her palm.
->
-> **This page:** who Jadi is, and what the school became after the binding.
+> English source: [`page-006.md`](page-006.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> **यह पृष्ठ:** जड़ी कौन है, और बंधन के बाद विद्यालय क्या बन गया।
 
 ---
 
-## चित्र-खाना 1 — Close, the name (~13%)
+## पैनल १ — क्लोज़, नाम (~१३%)
 
-**कैमरा:** Jadi drinks the tea and sets it down. Ira has not answered the request. Instead she
-asks the question she has been holding since the doorway.
+**कैमरा:** जड़ी चाय पीती है और कप रख देती है। इरा ने माँग का जवाब नहीं दिया है। इसके बजाय वह वह सवाल
+पूछती है जो उसने दरवाज़े से ही थाम रखा था।
 
-**चित्र:** Two women at a counter, a cup of tea, and a transaction that is not about money.
+**दृश्य:** काउंटर पर दो स्त्रियाँ, एक प्याला चाय, और ऐसा सौदा जिसमें पैसे की बात नहीं है।
 
-> **IRA:**
-> तुम्हें क्या कहूँ?
+> **इरा:**
+> मैं तुम्हें क्या कहकर बुलाऊँ?
 >
-> **JADI:**
+> **जड़ी:**
 > जड़ी।
 >
-> **JADI:**
-> She named me. First day, when she put the thread in. She said: *you're the root, everything after
-> you grows off you.* And then she never used it again in forty years.
+> **जड़ी:**
+> उसने मेरा नाम रखा था। पहले दिन, जब उसने धागा डाला। उसने कहा: *तुम जड़ हो, तुम्हारे बाद जो भी आएगा
+> वह तुमसे ही उगेगा।* और फिर उसने चालीस साल में वह नाम दोबारा कभी इस्तेमाल नहीं किया।
 
-> **शीर्षक (Ira's voice):**
-> जड़ी। Root.
+> **कैप्शन (इरा का स्वर):**
+> जड़ी। जड़।
 >
-> **CAPTION:**
-> I'd have remembered that name. I've read every file in the Mendery's front shelves at least once.
-> There's no Jadi in the Council's basin register, which means the Council has never had a name for
-> this woman, which means she has been invisible in Agnikhand for forty-four years.
+> **कैप्शन:**
+> मुझे वह नाम याद होता। मैंने मेंडरी की सामने की ताख़ों की हर फ़ाइल कम से कम एक बार पढ़ी है। परिषद की
+> गर्त-पंजी में कोई जड़ी नहीं है, मतलब परिषद के पास इस स्त्री के लिए कभी कोई नाम नहीं रहा, मतलब वह
+> चवालीस साल से अग्निखण्ड में अदृश्य है।
 
 ---
 
-## चित्र-खाना 2 — Large, the drop (~15%)
+## पैनल २ — बड़ा, खिड़की (~१५%)
 
-**कैमरा:** Jadi's account, drawn as her memory — the Mendery's back door at night, a **hatch** cut
-low in the door, and one hand at a time pushed through it into the dark. Inside, in the dark, a
-woman's hands taking the hand and working on it. Nobody's face visible on either side.
+**कैमरा:** जड़ी का बयान, उसकी याद की तरह खींचा हुआ — रात में मेंडरी का पिछला दरवाज़ा, दरवाज़े में नीचे
+कटी एक **खिड़की**, और अँधेरे में एक बार में एक हाथ उसमें से भीतर सरकाया हुआ। भीतर, अँधेरे में, किसी
+स्त्री के हाथ वह हाथ लेकर उस पर काम कर रहे हैं। किसी का भी चेहरा न किसी ओर दिखता है।
 
-**चित्र:** The school after the binding. Not a stall, not a room — a *station.*
+**दृश्य:** बंधन के बाद का विद्यालय। न ठेला, न कमरा — एक *चौकी।*
 
-> **JADI:**
-> After they bound her, she didn't stop. Nobody shut her down, girl — there wasn't anything to shut.
-> A school is not a building. A school is *hands.*
+> **जड़ी:**
+> उसे बाँधने के बाद उसने काम बन्द नहीं किया। किसी ने उसे बन्द नहीं किया, लड़की — बन्द करने को कुछ था
+> ही नहीं। विद्यालय कोई इमारत नहीं होता। विद्यालय *हाथ* होता है।
 >
-> **JADI:**
-> They cut a hatch in the back door. Low down, the size of a forearm. And once a week, after the
-> third bell, people walked down to the Ash-sLums, put one hand through the hatch, and she worked
-> on it in the dark on the other side. Never spoke. Never opened the door. You'd feel her hands and
-> then you'd feel the thread go in and then she'd tap the wood twice and you'd take your hand back
-> and walk home.
+> **जड़ी:**
+> उन्होंने पिछले दरवाज़े में एक खिड़की काटी। नीचे की ओर, एक हाथ की बाँह जितनी। और हफ़्ते में एक बार,
+> तीसरी घंटी के बाद, लोग राख-बस्तियों तक उतरकर आते, एक हाथ खिड़की में से भीतर डालते, और वह दूसरी
+> ओर अँधेरे में उस पर काम करती। कभी बोली नहीं। कभी दरवाज़ा नहीं खोला। तुम्हें उसके हाथ महसूस होते,
+> और फिर धागा दाख़िल होता महसूस होता, और फिर वह लकड़ी पर दो बार खटखटाती और तुम अपना हाथ वापस लेकर घर
+> चले जाते।
 >
-> **JADI:**
-> Forty years of that. I ran the roster.
+> **जड़ी:**
+> चालीस साल ऐसे ही। नामों की बही मैं रखती थी।
 
 ---
 
-## चित्र-खाना 3 — Close, Ira (~14%)
+## पैनल ३ — क्लोज़, इरा (~१४%)
 
-**कैमरा:** Ira, close, working through it. She is not shocked. She is assembling.
+**कैमरा:** इरा, पास से, इसे सुलझाती हुई। वह चौंकी नहीं है। वह जोड़ रही है।
 
-**चित्र:** The daughter learning what her mother's twenty years actually were.
+**दृश्य:** बेटी को पता चल रहा है कि उसकी माँ के बीस साल असल में क्या थे।
 
-> **शीर्षक (Ira's voice):**
-> Twenty years bound and she was teaching the whole time. Through a hatch in a door, in the dark,
-> one forearm at a time, tapping twice when she was finished.
+> **कैप्शन (इरा का स्वर):**
+> बीस साल बद्ध और वह पूरे समय पढ़ा रही थी। दरवाज़े में कटी एक खिड़की से, अँधेरे में, एक बार में एक
+> बाँह, और पूरा होने पर दो बार खटखटाना।
 >
-> **CAPTION:**
-> Nandi said *she had students long after the Council shut her, and that is the entire point of the
-> sewer.* I thought she meant the thread went out.
+> **कैप्शन:**
+> नन्दी ने कहा था *परिषद के बन्द कराने के बाद भी उसके शिष्य थे, और सीवर का पूरा मतलब यही है।* मुझे
+> लगा उसका मतलब था कि धागा बाहर जाता था।
 >
-> **CAPTION:**
-> The thread didn't go out. The *students came in.*
+> **कैप्शन:**
+> धागा बाहर नहीं जाता था। *शिष्य भीतर आते थे।*
 
 ---
 
-## चित्र-खाना 4 — Medium, the roster (~14%)
+## पैनल ४ — मध्यम, नामों की बही (~१४%)
 
-**कैमरा:** Jadi's hands, close, over the Book of the Hand — the knots in the back. She turns the
-pages without reading them. She is going down a list in her head.
+**कैमरा:** जड़ी के हाथ, पास से, हाथ की किताब के ऊपर — पीछे की गाँठें। वह पन्ने पढ़े बिना पलटती है। वह
+अपने सिर में किसी सूची से नीचे उतर रही है।
 
-**चित्र:** The keeper of the roster and the book she kept the roster off.
+**दृश्य:** बही रखने वाली और वह किताब जिसके बाहर उसने बही रखी।
 
-> **JADI:**
-> Names were my job. She never wrote one down — not one, not ever, not in forty years. She said a
-> name is a handle. She said you can put a name in a book and then somebody *reads* the book.
+> **जड़ी:**
+> नाम मेरा काम था। उसने एक भी नहीं लिखा — एक भी नहीं, कभी नहीं, चालीस साल में नहीं। वह कहती थी नाम
+> एक दस्ता होता है। वह कहती थी तुम किसी किताब में नाम डाल सकते हो और फिर कोई उस किताब को *पढ़*
+> लेता है।
 >
-> **JADI:**
-> So the Roll wasn't names you'd recognise. Kind, year, and the note of the thread that went in.
-> And then the knot — the first one they'd tied — stitched down on the page next to it so she could
-> check a hand against it when they came back years later.
+> **जड़ी:**
+> तो पंजी में ऐसे नाम नहीं थे जिन्हें तुम पहचानो। जाति, साल, और जो धागा दाख़िल हुआ उसकी पहचान। और
+> फिर गाँठ — उनकी पहली गाँठ — उसके बग़ल पन्ने पर सी कर नीचे लगी हुई, ताकि सालों बाद जब वे लौटें तो
+> वह हाथ को उससे मिला सके।
 >
-> **JADI:**
-> A name never went in that book. Which is why the Roll of Hands has got your mother's name on the
-> cover and nobody else's in it at all.
+> **जड़ी:**
+> उस किताब में कोई नाम कभी दाख़िल नहीं हुआ। इसीलिए हाथों की पंजी के कवर पर तुम्हारी माँ का नाम है और
+> भीतर किसी और का नहीं।
 
-> **शीर्षक (Ira's voice):**
-> Then the principal didn't take the Roll for its names.
+> **कैप्शन (इरा का स्वर):**
+> तो प्रमुख ने पंजी उसके नामों के लिए नहीं ली।
 >
-> **CAPTION:**
-> He took it for its *kinds and years* — a count. A count of how many of us there are, in what
-> proportions, in what parts of the basin.
+> **कैप्शन:**
+> उसने उसकी *जातियाँ और साल* लिए — एक गिनती। एक गिनती कि हम कितने हैं, किस अनुपात में, गर्त के किन
+> हिस्सों में।
 
 ---
 
-## चित्र-खाना 5 — Close, Jadi's mark again (~14%)
+## पैनल ५ — क्लोज़, फिर जड़ी का चिह्न (~१४%)
 
-**कैमरा:** Back on the palm, under the lamp. Ira's thumb is at the seam's edge, not touching the
-thread. She is reading it the way she read Bhan's arm, and the panel should show the mender's
-gaze — measuring the depth of the grown-over section against the gauge of the strand.
+**कैमरा:** फिर हथेली पर, लालटेन के नीचे। इरा का अँगूठा सीवन के किनारे है, धागे को छू नहीं रहा। वह इसे
+वैसे पढ़ रही है जैसे भान की बाँह पढ़ी थी, और पैनल में सिलाई करने वाले की दृष्टि दिखनी चाहिए — ऊपर उग
+आए हिस्से की गहराई को तंतु की माप से नापती हुई।
 
-**चित्र:** The mender at work on a problem. She has not agreed to anything and she is already
-reading the tear.
+**दृश्य:** सिलाई करने वाली एक मसले पर काम कर रही है। उसने अभी किसी बात पर हामी नहीं भरी और वह पहले
+से फटन पढ़ रही है।
 
-> **IRA:**
-> Nine months, you said. You started cutting at it nine months ago. Why then?
+> **इरा:**
+> नौ महीने, तुमने कहा। तुमने नौ महीने पहले इसे काटना शुरू किया। उस समय क्यों?
 >
-> **JADI:**
+> **जड़ी:**
 > ...
 >
-> **JADI:**
-> Ask me the other question first, teacher, and I'll answer both.
+> **जड़ी:**
+> पहले मुझसे दूसरा सवाल पूछो, गुरु, और मैं दोनों का जवाब दे दूँगी।
 
 ---
 
-## चित्र-खाना 6 — Close, Jadi answers at last (~14%)
+## पैनल ६ — क्लोज़, जड़ी आख़िरकार जवाब देती है (~१४%)
 
-**कैमरा:** Jadi, very still. This is the page's payload and she delivers it in the same tone she
-delivered the roster.
+**कैमरा:** जड़ी, बहुत स्थिर। यह इस पृष्ठ का भार है और वह इसे उसी सुर में देती है जिसमें बही दी थी।
 
-**चित्र:** The first pupil telling the new teacher what has been happening to the school for nine
-months.
+**दृश्य:** पहला शिष्य नए गुरु को बता रहा है कि नौ महीने से विद्यालय के साथ क्या हो रहा है।
 
-> **IRA:**
-> What's the other question?
+> **इरा:**
+> दूसरा सवाल क्या है?
 >
-> **JADI:**
-> Why I'm cutting out the only thread I've got.
+> **जड़ी:**
+> मैं अपना अकेला धागा क्यों काट रही हूँ।
 >
-> **JADI:**
-> Because the Office has been calling us up the terrace. One at a time. Kshudra, basin, from every
-> part of the Ashfall. Nine months, forty-one of us.
+> **जड़ी:**
+> क्योंकि कार्यालय हमें कगार के ऊपर बुला रहा है। एक-एक करके। क्षुद्र, गर्त, भस्म-गर्त के हर हिस्से से।
+> नौ महीने, हममें से इकतालीस।
 >
-> **JADI:**
-> They don't arrest anybody. They *measure* — that's their word for it. They put a hand on a slate
-> and run a chain across the palm, and then they write a number, and then they let you walk home.
+> **जड़ी:**
+> वे किसी को गिरफ़्तार नहीं करते। वे *नापते* हैं — उनका यही शब्द है। वे हथेली पर एक ज़ंजीर चलाते हैं
+> और एक अंक लिख लेते हैं, और फिर तुम्हें घर चलने देते हैं।
 
 ---
 
-## चित्र-खाना 7 — Close, the number — CLOSING HOOK (~16%)
+## पैनल ७ — क्लोज़, वह अंक — अन्तिम हुक (~१६%)
 
-**कैमरा:** Jadi's face, and behind her, drawn small in the corner of the panel, the pot-row — with
-a grey figure walking it with a compliance chain. The same chain from Ch. 005 Page 006.
+**कैमरा:** जड़ी का चेहरा, और उसके पीछे, पैनल के कोने में छोटा खींचा हुआ, हाँड़ी-कतार — जिस पर एक धूसर
+आकृति अनुपालन-ज़ंजीर लिए चल रही है। वही ज़ंजीर जो अध्याय ००५ पृष्ठ ००६ की है।
 
-**चित्र:** The school's first pupil, who has been measured, sitting in the school's newest stall.
+**दृश्य:** विद्यालय का पहला शिष्य, जिसे नापा जा चुका है, विद्यालय के सबसे नए ठेले पर बैठा हुआ।
 
-> **IRA:**
-> Forty-one people. In nine months. What number did they write?
+> **इरा:**
+> इकतालीस लोग। नौ महीने में। उन्होंने क्या अंक लिखा?
 >
-> **JADI:**
-> Mine was forty-four.
+> **जड़ी:**
+> मेरा चवालीस था।
 >
-> **JADI (last line):**
-> Nobody in my family has ever lived past fifty, teacher. It's arithmetic, not a threat. Same
-> number as the seam.
+> **जड़ी (अन्तिम पंक्ति):**
+> मेरे परिवार में कोई पचास से आगे नहीं जिया, गुरु। यह हिसाब है, धमकी नहीं। वही अंक जो सीवन का है।
 
-> **शीर्षक (Ira's voice, smallest):**
-> The year the strand went in. She's telling me what the Office wrote on the slate was the **year
-> she was enrolled.**
+> **कैप्शन (इरा का स्वर, सबसे छोटा):**
+> वह साल जब तंतु दाख़िल हुआ। वह मुझे बता रही है कि जो कार्यालय ने पट्ट पर लिखा, वह **वह साल था जिसमें
+> उसका दाख़िला हुआ था।**
 >
-> **CAPTION:**
-> They aren't measuring hands. They're **dating** us. And there's only one document in the world
-> that would let them check those dates.
+> **कैप्शन:**
+> वे हाथ नहीं नाप रहे। वे हमें **तारीख़** दे रहे हैं। और दुनिया में एक ही दस्तावेज़ है जो उन्हें वे
+> तारीख़ें जाँचने देगा।
 >
-> **CAPTION:**
-> The Roll of Hands.
+> **कैप्शन:**
+> हाथों की पंजी।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The hatch is the central image of Jadi's page.** Low in the door, forearm-sized, one hand at a
-  time, two taps to end. It is warm and horrible at once, and it makes the mother's twenty years
-  concrete in a way Nandi's summary never did.
-- **The Roll has no names — this corrects and deepens Ch. 007.** Ch. 007 Page 008 said the roll
-  listed "name, kind, the year the strand went in." Page 006 reveals the store of names was *kept
-  by Jadi in her head*, and the book held kind, year and knot. Establish the correction from
-  Ira's side, as a mender re-reading a seam she thought she understood. **Update the Ch. 007
-  summary and the Ch. 008 close-out so the canon is consistent.**
-- **The Office's method is dating, not arresting.** Forty-one people measured in nine months, no
-  detentions, no violence — a number written on a slate. This is the series' political register
-  and it should be much more frightening than a raid.
-- **Jadi's "mine was forty-four"** is the chapter's coldest line. She is not asking for pity and
-  the page must not offer any.
-- **Keep the argument moving.** Ira is being handed a case for pulling the strand out that is
-  materially correct. Her answer on Page 009 must be better than the case.
+- **खिड़की जड़ी के पृष्ठ की केन्द्रीय छवि है।** दरवाज़े में नीचे, बाँह जितनी, एक बार में एक हाथ, अन्त में
+  दो खटखट। यह एक साथ गर्म और भयावह है, और यह माँ के बीस सालों को उस ठोसपन से दिखाती है जो नन्दी के
+  सारांश में कभी नहीं आया।
+- **पंजी में कोई नाम नहीं है — यह अध्याय ००७ को सुधारता और गहरा करता है।** अध्याय ००७ पृष्ठ ००८ ने
+  कहा था कि पंजी में जाति, साल और पहली गाँठ दर्ज थी, कोई नाम नहीं। पृष्ठ ००६ खोलता है कि नामों का
+  भंडार *जड़ी के सिर में* था। सुधार इरा की ओर से स्थापित करें, ऐसी सिलाई करने वाली की तरह जो उस सीवन
+  को दोबारा पढ़ रही है जिसे उसने समझ लिया था। **अध्याय ००७ का सारांश और अध्याय ००८ का क्लोज़-आउट
+  अपडेट करें ताकि क़ानून एक-सा रहे।**
+- **कार्यालय का तरीक़ा गिरफ़्तारी नहीं, तारीख़ देना है।** नौ महीने में इकतालीस लोग नापे गए, न कोई
+  हिरासत, न कोई हिंसा — पट्ट पर लिखा एक अंक। यही इस शृंखला का राजनीतिक सुर है और यह किसी छापे से
+  कहीं ज़्यादा डरावना होना चाहिए।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The hatch in the back door | Location — *The Hatch* |
-| "A school is not a building. A school is hands." | Lore — *The Unlicensed Stall* |
-| The roster, kept in one head | Lore — *Jadi's Book* |
-| Forty-one measured in nine months | Event — *The Dating* |
-| "Mine was forty-four." | Lore — *Same Number As The Seam* |
+| "उसने मेरा नाम रखा था।" | लोर — *जड़* |
+| दरवाज़े में कटी खिड़की | स्थान — *खिड़की* |
+| जाति, साल, गाँठ — नाम नहीं | लोर — *नाम दस्ता होता है* |
+| इकतालीस नापे गए | इवेंट — *नापना* |
+| "मेरा चवालीस था।" | लोर — *वह अंक* |

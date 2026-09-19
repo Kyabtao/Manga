@@ -20,7 +20,7 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Chapters 001–008 COMPLETE** — Arc I done, Arc II in progress |
+| **Chapter in progress** | **Chapters 001–008 COMPLETE** — Arc I done, Arc II in progress · **Hindi: Ch. 001–008 COMPLETE** (94.4–98.1% Devanagari, all above the 80% floor) |
 | **Pages completed** | Ch. 001–008: **all complete** (80 pages, 80 images) |
 | **NEXT page to build** | **Chapter 009 · Page 001** — the chain-stop budget is now OVERDUE and must be spent |
 | **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) (targets `main`) |

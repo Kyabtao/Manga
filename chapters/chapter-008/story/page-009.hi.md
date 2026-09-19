@@ -1,191 +1,188 @@
-# THREADBORN — Chapter 08 — Page 009
+# सुत्रजात (THREADBORN) — अध्याय ०८ — पृष्ठ ००९
 
-**अध्याय शीर्षक:** *The First Pupil* / *पहला शिष्य*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Ash-sLums, the hatch alley behind the Mendery
-**पृष्ठ प्रकार:** Turn page — 7 panels
+**अध्याय शीर्षक:** *पहला शिष्य*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — राख-बस्तियाँ, मेंडरी के पीछे की खिड़की-गली
+**पृष्ठ प्रकार:** मोड़ — ७ पैनल, अन्त में हुक
 
-> Beats: Page 008 — the school's purpose revealed: rule three enrolls, rules one and two *finish.*
-> A braid cannot be dated, so a braided hand cannot be counted. Jadi is the unfinished root. Ira's
-> price: open the closed stitch, and open a live channel with it.
->
-> **This page:** the hatch alley. And the first time in nine days the door is open.
+> English source: [`page-009.md`](page-009.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, the alley at night (~14%)
-
-**कैमरा:** The alley behind the Mendery, deep night, after third bell. The back door — shut — and
-the **hatch** in it: low, forearm-sized, a wooden shutter on a leather hinge, worn shiny at the
-edges by forty years of forearms going through.
-
-**चित्र:** The school's real address. Not a stall, not an archive — a hole at knee height in a
-door.
-
-> **शीर्षक (Ira's voice):**
-> Kessa said *open it where they can't see it,* and I thought about the cellar with a clerk in it
-> and the meter on the stair and the slate that records who comes and who goes.
->
-> **CAPTION:**
-> And then I thought about the fact that this school has had exactly one address for forty years and
-> nobody has ever once written it down.
+> **यह पृष्ठ:** खिड़की-गली। और नौ दिन में पहली बार दरवाज़ा खुला हुआ।
 
 ---
 
-## चित्र-खाना 2 — Medium, the hatch opens (~13%)
+## पैनल १ — चौड़ा, रात में गली (~१४%)
 
-**कैमरा:** Ira on her knees on the wet stone. The hatch's shutter up. Above her, the Mendery's back
-wall goes up into the slums; below, the alley drains away into the basin. The clerk's crate is on
-the other side of an inch of door, above the cellar floor, out of sight.
+**कैमरा:** मेंडरी के पीछे की गली, गहरी रात, तीसरी घंटी के बाद। पिछला दरवाज़ा — बन्द — और उसमें कटी
+**खिड़की**: नीचे, बाँह जितनी, चमड़े के कब्जे पर लकड़ी का पल्ला, जिसके किनारे चालीस साल की बाँहों के
+गुज़रने से चमक गए हैं।
 
-**चित्र:** A girl kneeling in an alley at a hole the size of her forearm, unpacking a needle-roll.
+**दृश्य:** विद्यालय का असली पता। न ठेला, न अभिलेख-कक्ष — दरवाज़े में घुटने की ऊँचाई पर एक छेद।
 
-> **शीर्षक (Ira's voice):**
-> The clerk's inside. Sitting on his crate, four feet up, on the other side of this door, with a
-> slate and a lamp and orders to write down everyone who comes and goes.
+> **कैप्शन (इरा का स्वर):**
+> केसा ने कहा था *उसे वहाँ खोलो जहाँ वे देख न सकें,* और मैंने उस तहख़ाने के बारे में सोचा जिसमें एक
+> लिपिक बैठा है, और सीढ़ी पर लगे मीटर के बारे में, और उस पट्ट के बारे में जो लिखता है कि कौन आया और
+> कौन गया।
 >
-> **CAPTION:**
-> He isn't going to write down a hand coming through a hole at knee height. Nobody ever has.
+> **कैप्शन:**
+> और फिर मैंने इस बात के बारे में सोचा कि इस विद्यालय का चालीस साल से ठीक एक पता रहा है और उसे किसी
+> ने एक बार भी लिखा नहीं है।
 
 ---
 
-## चित्र-खाना 3 — Close, the kit (~14%)
+## पैनल २ — मध्यम, खिड़की खुलती है (~१३%)
 
-**कैमरा:** Close on the ground: needle-roll open, four needles, the wax knife, the thread-cake,
-shears. And Ira's left hand, palm up, laid across her own knee.
+**कैमरा:** इरा गीले पत्थर पर घुटनों के बल। खिड़की का पल्ला ऊपर उठा हुआ। उसके ऊपर मेंडरी की पिछली दीवार
+बस्तियों तक जाती है; नीचे गली गर्त की ओर निकल जाती है। लिपिक की क्रेट दरवाज़े के एक इंच के दूसरी
+ओर, तहख़ाने के फ़र्श से ऊपर, नज़र से ओछी।
 
-**चित्र:** The tools of the trade, spread on wet stone, and the hand that has to be opened first.
+**दृश्य:** एक लड़की गली में अपनी बाँह जितने छेद के आगे घुटनों पर बैठी, सुई-पोटली खोलती हुई।
 
-> **JADI:**
-> You don't have to do this for me. I'm forty-four. I've had a decade more than my mother got.
+> **कैप्शन (इरा का स्वर):**
+> लिपिक भीतर है। अपनी क्रेट पर बैठा, चार फुट ऊपर, इस दरवाज़े की दूसरी ओर, एक पट्ट और एक लालटेन लिए,
+> और आदेश है कि हर आने-जाने वाले को लिख डालो।
 >
-> **IRA:**
-> You didn't ask me to mend you.
->
-> **IRA:**
-> You asked me to teach you. There's a difference and the whole school is it.
-
-> **शीर्षक (Ira's voice):**
-> She looks at me for a while after that and then she puts her hand through the hatch anyway,
-> because she's Kshudra and Kshudra don't argue with a fact once it's been said out loud.
+> **कैप्शन:**
+> वह घुटने की ऊँचाई वाले छेद से भीतर आता हाथ नहीं लिखेगा। किसी ने कभी नहीं लिखा।
 
 ---
 
-## चित्र-खाना 4 — Large, the stitch opens (~16%)
+## पैनल ३ — क्लोज़, पोटली (~१४%)
 
-**कैमरा:** Large panel, close on Ira's palm. The wax knife's tip at the seam. Then — the loops
-coming out, one at a time, from the **inside**, the Ch. 004 method, but this time done by her own
-hand, on her own hand, in a cold alley, by lamplight.
+**कैमरा:** ज़मीन पर क्लोज़: सुई-पोटली खुली, चार सुइयाँ, मोम-छुरी, धागे की टिकिया, क़ैंची। और इरा का
+बायाँ हाथ, हथेली ऊपर, उसी के घुटने पर रखा हुआ।
 
-**चित्र:** A girl opening a door she closed herself, two nights after closing it. The most
-deliberate act in the series so far.
+**दृश्य:** हुनर के औज़ार, गीले पत्थर पर बिछे हुए, और वह हाथ जिसे पहले खोलना है।
 
-> **शीर्षक (Ira's voice):**
-> Mending is four moves and the first one is *open the tear.* You don't get to skip it because the
-> tear is yours.
+> **जड़ी:**
+> तुम्हें मेरे लिए यह नहीं करना है। मैं चवालीस की हूँ। माँ से दस साल ज़्यादा मिल गए।
 >
-> **CAPTION:**
-> First loop. Second loop. The knife isn't cutting, it's *lifting* — same as she did it, same as the
-> stitch has always come out, from the inside, without tearing.
+> **इरा:**
+> तुमने मुझसे अपनी सिलाई करने को नहीं कहा।
 >
-> **CAPTION:**
-> Nine loops. It takes about a minute and a half and my hand doesn't shake once, which I will think
-> about later and be afraid of.
+> **इरा:**
+> तुमने मुझसे तुम्हें सिखाने को कहा। इन दोनों में फ़र्क़ है और वही पूरा विद्यालय है।
+
+> **कैप्शन (इरा का स्वर):**
+> इसके बाद वह मुझे कुछ देर देखती रहती है और फिर भी अपना हाथ खिड़की में दे देती है, क्योंकि वह क्षुद्र
+> है और क्षुद्र किसी तथ्य से, उसके ज़ोर से कहे जाने के बाद, बहस नहीं करते।
 
 ---
 
-## चित्र-खाना 5 — Close, the mark (~14%)
+## पैनल ४ — बड़ा, सीवन खुलता है (~१६%)
 
-**कैमरा:** The palm, opened. The Sutra-mark: projection type, braided, two strands wound around
-each other — and the crimson under the grey, lit from inside by the lamp.
+**कैमरा:** बड़ा पैनल, इरा की हथेली पर क्लोज़। सीवन पर मोम-छुरी की नोक। फिर — लूप बाहर निकलते हुए, एक-एक
+करके, **भीतर** से, अध्याय ००४ की विधि से, पर इस बार उसके अपने हाथ से, अपने ही हाथ पर, ठण्डी गली में,
+लालटेन की रोशनी में।
 
-**चित्र:** The open hand for the first time since Chapter 007. Everything the school is, in one
-palm.
+**दृश्य:** एक लड़की वह दरवाज़ा खोल रही है जो उसने ख़ुद बन्द किया था, बन्द करने के दो रात बाद। अब तक का
+सबसे जानबूझकर किया गया काम।
 
-> **ध्वनि:** *hn — hn — hn — hn*
-
-> **शीर्षक (Ira's voice):**
-> And there's the four notes.
+> **कैप्शन (इरा का स्वर):**
+> सिलाई में चार हरकतें हैं और पहली है *फटन खोलो।* यह छूट नहीं जाती कि फटन तुम्हारी अपनी है।
 >
-> **CAPTION:**
-> Immediate. No lag, no memory, no echo off a chain — four notes, off-pitch, right order, coming up
-> the braid like something that had its hand on a door waiting.
+> **कैप्शन:**
+> पहला लूप। दूसरा लूप। छुरी काट नहीं रही, वह *उठा* रही है — जैसे उसने किया था, जैसे सीवन हमेशा भीतर से
+> निकला है, बिना फाड़े।
 >
-> **CAPTION:**
-> Her hum. Live. And then, right underneath it, two more stitches, dry thread, on and on — she's
-> been sewing this whole time, four nights, and it is not a thing anybody does quietly.
+> **कैप्शन:**
+> नौ लूप। इसमें करीब डेढ़ मिनट लगता है और मेरा हाथ एक बार नहीं काँपता, जिसके बारे में मैं बाद में सोचूँगी
+> और डरूँगी।
 
 ---
 
-## चित्र-खाना 6 — Medium, the basin answers (~14%)
+## पैनल ५ — क्लोज़, चिह्न (~१४%)
 
-**कैमरा:** Wide, out over the Ashfall basin. Down the pot-row, on the terraces, at the dock:
-ordinary people in their doorways and on their steps, **looking up.** Not alarmed. Not knowing why.
-Just — pausing, mid-task, the way the whole city paused in Ch. 001 Page 008.
+**कैमरा:** हथेली, खुली हुई। सूत्र-चिह्न: उभार-शैली, बुना हुआ, दो तंतु एक-दूसरे पर लिपटे — और धूसर के
+नीचे क़िरमिज़ी, लालटेन से भीतर से जगमगाती हुई।
 
-**चित्र:** A basin full of threaded people noticing that something in the dark has *opened.*
+**दृश्य:** अध्याय ००७ के बाद पहली बार खुला हाथ। जो कुछ विद्यालय है, एक हथेली में।
 
-> **शीर्षक (Ira's voice):**
-> And then the pot-row goes quiet.
+> **ध्वनि:** *ह्न — ह्न — ह्न — ह्न*
+
+> **कैप्शन (इरा का स्वर):**
+> और वहाँ वे चार स्वर हैं।
 >
-> **CAPTION:**
-> Not silent. *Quiet.* Three hundred people down a row of stalls putting a hand up to their own
-> chest without knowing why, and one man at the dock standing still with a crate on his shoulder,
-> and a woman on the third terrace turning round to look at nothing at all.
+> **कैप्शन:**
+> तुरन्त। न देर, न स्मृति, न ज़ंजीर से उतरती गूँज — चार स्वर, ग़लत सुर, सही क्रम, बुनाई के ऊपर उठते हुए
+> ऐसे जैसे किसी की हथेली किसी दरवाज़े पर रखी इंतज़ार कर रही हो।
 >
-> **CAPTION:**
-> Forty years of single strands in this basin. They don't know what's happening. They can feel the
-> school breathing.
+> **कैप्शन:**
+> उसकी गुनगुनाहट। जीवित। और ठीक उसके नीचे, दो और सीवन, सूखा धागा, चलते ही चलते — वह चार रात से सी
+> रही है, और यह वह काम नहीं है जो कोई चुपचाप करता हो।
 
 ---
 
-## चित्र-खाना 7 — Close, the chain answers — CLOSING HOOK (~15%)
+## पैनल ६ — मध्यम, गर्त जवाब देता है (~१४%)
 
-**कैमरा:** Cut to the Council Stair, far up-terrace, drawn small and cold at the top of the panel:
-a **compliance chain** hanging from a hook on a wall, and it has begun, very slightly, to swing.
-Below it, in the alley, Ira has Jadi's palm in her hand and has not started work yet.
+**कैमरा:** चौड़ा, भस्म-गर्त के ऊपर, बाहर। हाँड़ी-कतार में नीचे, सीढ़ियों पर, गोदी पर: आम लोग अपने
+ड्योढ़ियों और सीढ़ियों पर, **ऊपर देखते हुए।** न डरे हुए। न यह जानते हुए कि क्यों। बस — काम के बीच में
+रुके हुए, जैसे अध्याय ००१ पृष्ठ ००८ पर पूरा शहर रुका था।
 
-**चित्र:** The answer, arriving from the wrong direction. The chapter's whole cost, in one cold
-small panel.
+**दृश्य:** तंतु वाले लोगों से भरा गर्त, यह भाँपते हुए कि अँधेरे में कुछ *खुल* गया है।
 
-> **शीर्षक (Ira's voice):**
-> Kessa priced it and she was right, and it was cheaper than she said, and I took it anyway.
+> **कैप्शन (इरा का स्वर):**
+> और फिर हाँड़ी-कतार चुप हो जाती है।
 >
-> **शीर्षक (last line):**
-> There's a chain hanging on a wall in the Reckoning Office that has never moved on its own in its
-> whole life, and tonight it's swinging.
+> **कैप्शन:**
+> मौन नहीं। *चुप।* ठेलों की एक कतार में तीन सौ लोग बिना वजह जाने अपना हाथ अपने सीने पर रख देते हैं,
+> और गोदी पर एक आदमी कंधे पर क्रेट लिए बिना हिले खड़ा हो जाता है, और तीसरी सीढ़ी पर एक स्त्री पलटकर
+> ऐसी चीज़ को देखती है जो है ही नहीं।
 >
-> **शीर्षक (smaller):**
-> It's about four minutes behind me. Which is four minutes more than I had.
+> **कैप्शन:**
+> इस गर्त में चालीस साल के अकेले तंतु। उन्हें पता नहीं कि क्या हो रहा है। उन्हें विद्यालय का साँस लेना
+> महसूस हो रहा है।
+
+---
+
+## पैनल ७ — क्लोज़, ज़ंजीर जवाब देती है — अन्तिम हुक (~१५%)
+
+**कैमरा:** परिषद-सीढ़ी पर कट, बहुत ऊपर कगार पर, पैनल के ऊपर छोटी और ठण्डी खींची हुई: दीवार के हुक़ से
+लटकी एक **अनुपालन-ज़ंजीर**, और वह बहुत हल्के-से झूलने लगी है। उसके नीचे, गली में, इरा जड़ी की हथेली
+अपने हाथ में लिए है और उसने काम शुरू नहीं किया है।
+
+**दृश्य:** जवाब, ग़लत दिशा से आता हुआ। पूरे अध्याय की क़ीमत, एक ठण्डे छोटे पैनल में।
+
+> **कैप्शन (इरा का स्वर):**
+> केसा ने दाम लगाया था और वह सही थी, और वह उससे कहीं सस्ता पड़ा जितना उसने कहा था, और मैंने फिर भी
+> चुकाया।
 >
-> **शीर्षक (smallest):**
-> So I pick up the needle.
+> **कैप्शन (अन्तिम पंक्ति):**
+> लेखा-कार्यालय में दीवार पर एक ज़ंजीर लटकी है जो पूरी उम्र में कभी अपने-आप नहीं हिली, और आज रात वह
+> झूल रही है।
+>
+> **कैप्शन (छोटा):**
+> वह मुझसे करीब चार मिनट पीछे है। यानी जितने मुझे मिले उससे चार मिनट ज़्यादा।
+>
+> **कैप्शन (सबसे छोटा):**
+> तो मैं सुई उठा लेती हूँ।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The hatch alley is the chapter's best location and must be drawn as a *return.* No nostalgia
-  music — this is a woman's working station, wet, cold, used. The shutter has a shine on its edges
-  from forty years of forearms; that shine is the only sentimental detail allowed.
-- **Ira opening her own stitch is drawn with the Ch. 004 method** — loops lifting from the inside,
-  no tearing. She is not undoing her mother's work; she is *continuing* it. The distinction is
-  visual and should be legible to anyone who has read Chapter 004.
-- **The basin's answer should echo Ch. 001 Page 008** (the Loom's hum stopping citywide) but be
-  *smaller.* That was the Loom. This is one girl in an alley. Keep it intimate — hands going to
-  chests, people pausing — and keep the Loom out of it entirely.
-- **The chain's swing is the chapter's only cutaway to the Office.** One small cold panel, no
-  dialogue, at the very end. The whole regulatory apparatus of this story reduces to an object
-  moving on a hook.
-- **"Four minutes more than I had."** Ira now has a *clock*, which is the structural thing Chapter
-  008 Page 001 opened with (the clerk, the slate, the meter). Close the loop.
+- **खिड़की-गली इस अध्याय का सबसे अच्छा स्थान है और इसे एक *वापसी* की तरह खींचा जाना चाहिए।** कोई
+  पुरानी याद वाला संगीत नहीं — यह एक स्त्री का कामकाजी ठिकाना है, गीला, ठण्डा, इस्तेमाल किया हुआ। पल्ले
+  के किनारों पर चालीस साल की बाँहों से आई चमक है; वह चमक ही एकमात्र भावुक ब्यौरा है जिसकी इजाज़त है।
+- **इरा का अपना सीवन खोलना अध्याय ००४ की विधि से खींचा जाए** — लूप भीतर से उठते हुए, बिना फाड़े। वह
+  अपनी माँ का काम पलट नहीं रही; वह उसे *आगे बढ़ा* रही है। यह फ़र्क़ दिखना चाहिए और अध्याय ००४ पढ़ चुके
+  किसी भी पाठक को समझ आना चाहिए।
+- **गर्त का जवाब अध्याय ००१ पृष्ठ ००८ की गूँज होना चाहिए** (सूत्र-यन्त्र की गुनगुनाहट पूरे शहर में रुकना)
+  पर *छोटा।* वह सूत्र-यन्त्र था। यह गली में एक लड़की है। इसे नज़दीकी रखें — हाथ सीने पर जाना, लोग रुकना
+  — और सूत्र-यन्त्र को पूरी तरह बाहर रखें।
+- **ज़ंजीर का झूलना इस अध्याय का एकमात्र कटअवे है कार्यालय की ओर।** एक छोटा ठण्डा पैनल, कोई संवाद
+  नहीं, बिलकुल अन्त में। इस कहानी का पूरा नियामक-तन्त्र एक हुक़ पर हिलती चीज़ तक सिमट जाता है।
+- **"जितने मुझे मिले उससे चार मिनट ज़्यादा।"** इरा के पास अब एक *घड़ी* है, जो वह संरचनात्मक चीज़ है
+  जिससे अध्याय ००८ पृष्ठ ००१ शुरू हुआ था (लिपिक, पट्ट, मीटर)। चक्र बन्द करें।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The hatch in the back door | Location — *The Hatch Alley* |
-| Opening her own stitch | Action — *Four Moves, On Yourself* |
-| The four notes, live and immediate | Event — *The Hum Returns* |
-| The basin going quiet | Event — *The School Breathing* |
-| The chain swinging on its hook | Clock — *Four Minutes* |
+| पिछले दरवाज़े में कटी खिड़की | स्थान — *खिड़की-गली* |
+| अपना ही सीवन खोलना | क्रिया — *चार हरकतें, ख़ुद पर* |
+| चार स्वर, जीवित और तुरन्त | इवेंट — *गुनगुनाहट लौटी* |
+| गर्त का चुप हो जाना | इवेंट — *विद्यालय का साँस लेना* |
+| हुक़ पर झूलती ज़ंजीर | घड़ी — *चार मिनट* |

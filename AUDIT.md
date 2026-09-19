@@ -9,7 +9,7 @@
 
 | | |
 |---|---|
-| **Critical findings** | **1** — Hindi translations for Chapters 003–008 are ~93% English |
+| **Critical findings** | **0** — Hindi translations for Chapters 003–008 are now complete (94.4–98.1% Devanagari; floor 80%) |
 | **Major findings** | **2** — one wholly wrong page image; one landscape image in a vertical strip |
 | **Minor findings** | **3** — cast-file format drift, cast-file depth drift, one unresolved pronoun in a style guide |
 | **Structural integrity** | **PASS** — 80/80 scripts, images, casts, summaries all present and correctly named |
@@ -32,7 +32,7 @@ hand-translated and are essentially complete.
 
 ### Measured coverage
 
-**Progress:** Chapter 003 has been fully hand-translated (see below). Chapters 004–008 remain.
+**Progress:** Chapters 003–008 are fully hand-translated — **60 of 60 files, pass complete.**
 
 | Chapter | Devanagari chars | Latin chars | % Devanagari | Verdict |
 |---|---:|---:|---:|---|
@@ -43,7 +43,7 @@ hand-translated and are essentially complete.
 | 005 | 2,062 → 21,487 | 21,211 → 1,280 | 8.9% → **94.4%** | ✅ **FIXED** |
 | 006 | 2,789 → 34,161 | 35,216 → 1,290 | 7.3% → **96.4%** | ✅ **FIXED** |
 | 007 | 3,671 → 50,502 | 51,886 → 1,298 | 6.6% → **97.5%** | ✅ **FIXED** |
-| 008 | 2,975 | 54,020 | 5.2% | **broken** |
+| 008 | 2,975 → 52,193 | 54,020 → 1,305 | 5.2% → **97.6%** | ✅ **FIXED** |
 
 Quoted-line analysis (dialogue and captions only, ≥3 Latin words and zero Devanagari = untranslated):
 
@@ -77,8 +77,11 @@ but it is the same generator and should be fixed in the same pass.
 
 ### Recommendation
 
-Chapters 003–008 needed **60 files re-translated**. **Chapters 003–007 are now complete** (50 files,
-97.2 / 94.4 / 94.4 / 96.4 / 97.5%). **Chapter 008 remains — 10 files.** This is a real translation job, not a script run.
+Chapters 003–008 needed **60 files re-translated**. **All 60 are now complete** (97.2 / 94.4 / 94.4 /
+96.4 / 97.5% / 97.6%), each chapter hand-written from the English page — prose, camera, image,
+captions, dialogue, SFX, notes and card hooks. **This finding is closed.** The Hindi pass over
+Chapters 003–008 is finished; `HINDI_MIN_PCT = 80.0` in `chapters/gen_support.py` is the standing
+regression guard and currently reports all eight chapters `ok`.
 
 **Method that worked for Chapter 003** (use it for the rest): read the EN page, write the HI page
 in full — prose, camera, image, captions, dialogue, SFX, notes and card hooks — then re-run
@@ -276,7 +279,7 @@ re-provision resets the local clone against the remote.
 
 | # | Priority | Item | Status |
 |---|---|---|---|
-| 1 | **Critical** | Re-translate Hindi — **Ch.003–007 done** (97.2 / 94.4 / 94.4 / 96.4 / 97.5%); Ch.008 remains (10 files) | 🔶 in progress |
+| 1 | **Critical** | Re-translate Hindi — **done: Ch.003–008 all 60 files** (97.2 / 94.4 / 94.4 / 96.4 / 97.5 / 97.6%) | ✅ closed |
 | 2 | Major | `chapter-004/images/page-001.png` was the wrong project's art | ✅ fixed |
 | 3 | Major | `chapter-007/images/page-007.png` landscape, not portrait | ✅ fixed |
 | 4 | Minor | Cast-file depth/format drift (Ch. 003–008 vs 001–002) | ⬜ open |
