@@ -32,11 +32,13 @@ hand-translated and are essentially complete.
 
 ### Measured coverage
 
+**Progress:** Chapter 003 has been fully hand-translated (see below). Chapters 004–008 remain.
+
 | Chapter | Devanagari chars | Latin chars | % Devanagari | Verdict |
 |---|---:|---:|---:|---|
 | 001 | 47,165 | 1,544 | **96.8%** | complete |
 | 002 | 55,457 | 1,092 | **98.1%** | complete |
-| 003 | 7,694 | 36,109 | 17.6% | **broken** |
+| 003 | 7,694 → 71,266 | 36,109 → 2,043 | 17.6% → **97.2%** | ✅ **FIXED** |
 | 004 | 1,797 | 21,930 | 7.6% | **broken** |
 | 005 | 2,062 | 21,211 | 8.9% | **broken** |
 | 006 | 2,789 | 35,216 | 7.3% | **broken** |
@@ -75,8 +77,15 @@ but it is the same generator and should be fixed in the same pass.
 
 ### Recommendation
 
-Chapters 003–008 need **60 files re-translated** (approximately 600 lines of prose and 1,250 quoted
-lines per chapter-set). This is a real translation job, not a script run. Two options:
+Chapters 003–008 needed **60 files re-translated**. **Chapter 003 is now complete** (10 files,
+97.2%). **Chapters 004–008 remain — 50 files.** This is a real translation job, not a script run.
+
+**Method that worked for Chapter 003** (use it for the rest): read the EN page, write the HI page
+in full — prose, camera, image, captions, dialogue, SFX, notes and card hooks — then re-run
+`gen_support.py` and confirm the coverage gate clears the chapter. Ten pages per session is a
+comfortable pace.
+
+Two options if a full re-translation is not wanted:
 
 - **Option A (recommended):** re-translate all 60 files to the Chapter 001–002 standard, chapter by
   chapter, starting with 003 so the back catalogue stays in order.
@@ -267,13 +276,13 @@ re-provision resets the local clone against the remote.
 
 | # | Priority | Item | Status |
 |---|---|---|---|
-| 1 | **Critical** | Re-translate `chapter-003`–`chapter-008` Hindi (60 files) | ⬜ open |
+| 1 | **Critical** | Re-translate Hindi — **Ch.003 done (97.2%)**; Ch.004–008 remain (50 files) | 🔶 in progress |
 | 2 | Major | `chapter-004/images/page-001.png` was the wrong project's art | ✅ fixed |
 | 3 | Major | `chapter-007/images/page-007.png` landscape, not portrait | ✅ fixed |
 | 4 | Minor | Cast-file depth/format drift (Ch. 003–008 vs 001–002) | ⬜ open |
 | 5 | Minor | Standardise image dimensions on 768×1376 | ⬜ open |
 | 6 | Housekeeping | Update PR #3 title and body to Chapters 003–008 | ⬜ open |
-| 7 | Process | Add a Hindi-coverage gate to `gen_support.py` so this cannot recur silently | ⬜ open |
+| 7 | Process | Hindi-coverage gate added to `gen_support.py`; correctly clears Ch.003, flags Ch.004–008 | ✅ done |
 
 ---
 
