@@ -20,14 +20,46 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 009 Hindi pass under way (6 of 10)** · Ch. 010 script + art complete · **Hindi: Ch. 001–008 COMPLETE** |
-| **Pages completed** | Ch. 001–008: **all complete** (80 pages, 80 images) · Ch. 009: **script + art complete**, Hindi 6/10 · Ch. 010: **script + art complete (10/10)** |
-| **NEXT page to build** | **Ch. 009 Hindi, pages 007–010**, then Ch. 010 Hindi (10 files) + cast files for both chapters |
+| **Chapter in progress** | **None — Ch. 001–010 all COMPLETE** (script + Hindi + cast + world + art) · **Ch. 011 not started** |
+| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · Ch. 009: Hindi 10/10, cast 10, glossary + locations · Ch. 010: Hindi 10/10, cast 10, glossary + locations |
+| **NEXT page to build** | **Ch. 011 Page 001** — create the chapter skeleton (four subfolders + `.gitkeep`) first, then plan the page from the Next-page brief below |
 | **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) (targets `main`) |
 
-### Next-page brief (Chapter 009 · Page 001)
-**The chain-stop budget is overdue.** It has been held unspent across Chapters 006, 007 and 008.
-Chapter 009 opens its budget and must spend it — no further deferral.
+### Next-page brief (Chapter 011 · Page 001)
+**The chapter folder does not exist yet.** Before writing, create `chapters/chapter-011/` with the four
+standard subfolders (`story/ characters/ other/ images/`) and `.gitkeep` files, as every chapter
+before it did.
+
+Chapter 010 ended with the Office doing what it does best: it did not chase a woman it could not find,
+it **priced her door.** The bounty's claimant sold the hatch, the chute, the nights and half the ninth
+terrace's hands, was entered as **party of record**, and the Office posted a **grey lamp on a pole** at
+the alley mouth at dusk. On the step lay the knot the mother lifted out of the register — and beside
+it a **second knot in an untrained hand.** That is where Chapter 011 opens, and both halves of the
+chapter should be in the air on page one:
+
+1. **Who tied it.** The mother is teaching again, in the open, without permission, and the school has
+   its first pupil it has never met. This is the second school's rival and its mirror, and Ira should
+   find out about it the way she finds out about everything — through a knot and a queue.
+2. **The survey.** First bell, the Office walks the alley entry by entry, hand by hand, from the fourth
+   step to the water-butt, with the keeper of the register obliged to attend. Every person who was ever
+   enrolled through that hatch is now a line in somebody's book, and the arithmetic of forty years is
+   finally legible from outside.
+
+The live threads to carry in: **clause four's timer** on the licence (it lapses if the keeper fails to
+produce); the translation room's **invented entries** (the copyist who turned a fee into a knot) and
+Rekhak's recorded readings; **Nima's condition** — the day she is told to put a hand on that stand she
+will refuse out loud, in the room, and the Office will test it; **Nandi's condition** — every entry
+read aloud with the keeper, which makes the school's readings public business; **Jadi's counting
+lesson** now loose in three households; and **Kessa's tally-thread**, still the only copy of anything
+the school has said that cannot be audited.
+
+Tone for the opener: after ten chapters of paperwork, Chapter 011 should begin with *hands* — a queue
+that is no longer only claimants, an alley with a lamp on a pole, and a knot on a step that somebody
+tied on purpose so that Ira would know she is not the only teacher in Agnikhand.
+
+### Superseded brief (Chapter 009 · Page 001) — kept for reference
+**The chain-stop budget is overdue.** It was held unspent across Chapters 006, 007 and 008.
+Chapter 009 opened its budget and spent it on Page 006.
 
 Chapter 008 ended on a slate: a compliance chain read a braided palm, returned both years at once,
 and a clerk wrote one word — **unreadable** — and underlined it twice. *There is no procedure for
@@ -254,8 +286,8 @@ chapters/
                 cast-page-001..010.md, *-ref.png
     other/     locations.md, glossary.md
     images/    page-001..010.png
-  chapter-002 .. chapter-008/  COMPLETE — same layout, 10 pages each
-  chapter-009/            next — skeleton created before writing starts
+  chapter-002 .. chapter-010/  COMPLETE — same layout, 10 pages each (EN + Hindi + art)
+  chapter-011/            next — skeleton created before writing starts
 
 website/                  generated reading site (committed) — build.py + assets/ are the sources
 index.html                root redirect into website/

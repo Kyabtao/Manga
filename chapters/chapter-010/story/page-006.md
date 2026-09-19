@@ -53,7 +53,7 @@ whole of the Inspector's offer.
 **Camera:** Medium, the corridor outside room nine: a bench, ash-light through a high window.
 **Nandi**, on her way to be processed as a room-eleven resident, and **Nima**, who has been standing
 there with the tray under her arm for the whole hearing. The clerk has stepped away. Ira is two steps
-back and has not been introduced. The two Kshudra women look at each other: one is fifty-odd, one is
+back and has not been introduced. The two Kshudra women look at each other: one is eighty-odd, one is
 nineteen, and both of them are wearing a braid in the left palm.
 
 **Image:** The school, meeting itself in a government corridor.

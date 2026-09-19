@@ -9,11 +9,38 @@
 
 | | |
 |---|---|
-| **Critical findings** | **0** (run 2) — Hindi complete for Ch. 001–008 (94.4–98.1% Devanagari; floor 80%); Ch. 009 Hindi pending |
-| **Major findings** | **0** (run 2) — the wrong-project image and the landscape image were fixed in run 1 |
+| **Critical findings** | **0** (run 3) — Hindi complete for Ch. 001–010 (94.4–98.3% Devanagari; floor 80%) |
+| **Major findings** | **0** (run 3) — the wrong-project image and the landscape image were fixed in run 1 |
 | **Minor findings** | **3 open** — cast-file format drift, cast-file depth drift, image dimension variation (all deferred, none blocking) |
-| **Structural integrity** | **PASS** — 90/90 EN scripts, 80/80 HI scripts, 80/80 images, 80/80 cast files, 9/9 summaries all present and correctly named |
+| **Structural integrity** | **PASS** — 100/100 EN scripts, 100/100 HI scripts, 100/100 images, 100/100 cast files, 10/10 summaries all present and correctly named |
 | **Continuity integrity** | **PASS** — lockbox chain, stitch state, four-notes rule, wax grammar, chain-stop budget all hold |
+
+## Audit run 3 — 2026-09-19 (scope: Chapters 001–010, website, tooling)
+
+Run 3 re-checks the whole repo after the **Chapter 009 and Chapter 010 completion pass**: both
+chapters' Hindi (10 + 10 files), cast files for both, `other/glossary.md` + `other/locations.md` for
+both, a full character sheet for **Nima**, canon-rules and bulk-cast sections on both chapter
+summaries, and the README's CURRENT POSITION moved on to Chapter 011.
+
+| Check | Result |
+|---|---|
+| Structure | **PASS** — Ch. 001–010: 10 EN + 10 HI + 10 PNG + 10 cast files each; 10 chapter summaries; 20 `other/` files (glossary + locations per chapter) |
+| Naming conventions | **PASS** — 0 off-convention filenames (7 full character sheets: Ira, Kessa, Patra, Rekhak, Nandi, Jadi, Nima, plus the intentional `*-ref.png` files in `chapter-001/characters/`) |
+| Images | **PASS (presence)** — 100 PNGs, 10 per chapter. Dimension/landscape re-verification was not possible in this sandbox (`file` absent, PIL unavailable); run 1's 0-landscape result and the fixed 9:16 pipeline stand. |
+| Internal links | **PASS** — 391 relative links checked, 0 missing |
+| Hindi coverage | **PASS** — 96.8 / 98.1 / 97.2 / 94.4 / 94.4 / 96.4 / 97.5 / 97.6 / 98.1 / 98.3 (floor 80); Ch. 009 and Ch. 010 complete |
+| Stray English headers in `.hi.md` | **PASS** — 0 (`**Camera:**` / `**Image:**` / `**SFX:**`) across all 100 Hindi files; Ch. 010 Page 010 converted this run |
+| Card-hook section on every EN page | **PASS** — 100/100 |
+| Chapter end markers | **PASS** — all ten `page-010.md` files carry their END OF CHAPTER marker |
+| Website build | **PASS** — `python3 website/build.py` clean; `website/characters/nima.html` now generated |
+| Continuity fix | Nandi's age on Ch. 010 Page 006 corrected from *fifty-odd* to *eighty-odd* (EN + HI) to match her Chapter 006 sheet: *very old — older than the binding, older than the school's charter*, and forty years of shelf-keeping |
+
+**Remaining open items (all non-blocking):** cast-file depth backfill (Ch. 003–010 vs 001–002);
+image dimension standardisation; तकुआ/तकली normalisation; and a future pass may promote more recurring
+cast (the Inspector, the grey clerk, the Kessa-less chapter characters) from inline cast entries to
+full sheets.
+
+---
 
 ## Audit run 2 — 2026-09-19 (scope: Chapters 001–009, website, tooling)
 
