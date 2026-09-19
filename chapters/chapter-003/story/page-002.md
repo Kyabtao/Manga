@@ -120,7 +120,7 @@ The unsigned slate stays on the counter behind him. Kessa's hand is already on t
 
 **Image:** The stall lets him leave without a word. The posting order stays face-down. Kessa's hand
 on the lockbox is the last frame: she is putting the letter inside with the cut-end and the census.
-Two objects in the box now. The filing cabinet grows.
+Three objects in the box now. The filing cabinet grows.
 
 > **REKHAK (dialogue, leaving, quiet):**
 > The Office will re-file the slate unsigned. Procedure has a drawer for that.
