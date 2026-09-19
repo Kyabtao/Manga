@@ -1,6 +1,7 @@
 # Chapter 007 — *The Crimson Line* / *क़िरमिज़ी पंक्ति* — CLOSE-OUT
 
-**Status:** IN PROGRESS — 10 pages (001–010) scripted, EN + Hindi, chapter summary written.
+**Status:** IN PROGRESS — 10 pages (001–010) scripted (EN + Hindi), 9/10 images generated
+(page 010 pending), cast files + glossary + locations grown in-step.
 **Arc:** II — The Mendery · **Sector:** Agnikhand · **Open PR for this work:** Kyabtao/Manga#3
 **Chain-stop budget:** ONE, **not spent this chapter** — second chapter running. Held for the Arc II turn.
 
