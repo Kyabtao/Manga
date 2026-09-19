@@ -1,188 +1,187 @@
-# THREADBORN — Chapter 08 — Page 001
+# सुत्रजात (THREADBORN) — अध्याय ०८ — पृष्ठ ००१
 
-**अध्याय शीर्षक:** *The First Pupil* / *पहला शिष्य*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Ash-sLums, the Mendery
-**पृष्ठ प्रकार:** Chapter opener — 7 panels
+**अध्याय शीर्षक:** *पहला शिष्य*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — राख-बस्तियाँ, मेंडरी
+**पृष्ठ प्रकार:** अध्याय-प्रारम्भ — ७ पैनल
 
-> Beats: Chapter 007 closed with the answered letter going down the supply chute and Ira sewing
-> her own stitch shut on the step. Nine days of Arc II have been about what is *inside* the
-> archive. Chapter 008 is about what happens when the Office finally walks into it.
+> English source: [`page-001.md`](page-001.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: अध्याय ००७ जवाबदिया ख़त आपूर्ति-नाली से नीचे जाने और इरा द्वारा सीढ़ी पर अपनी ही सिलाई सीने
+> के साथ बन्द हुआ। आर्क II के नौ दिन इस बारे में थे कि अभिलेखागार के *भीतर* क्या है। अध्याय ००८ इस
+> बारे में है कि जब कार्यालय आख़िरकार उसके भीतर क़दम रखता है तो क्या होता है।
 >
-> **Chapter 008 premise:** every ordinary person in this story has spent seven chapters being
-> read. Ira has just made herself unreadable — and the first thing the school needs from its new
-> teacher is to be read *out loud.*
+> **अध्याय ००८ का आधार:** इस कहानी का हर साधारण व्यक्ति सात अध्याय से *पढ़ा* जाता आया है। इरा ने
+> अभी-अभी ख़ुद को अपठनीय बनाया है — और विद्यालय को अपने नए गुरु से सबसे पहले जो चाहिए, वह है
+> बुलंद आवाज़ में पढ़ा जाना।
 >
-> **Continuity:** stitch closed (Ch. 007 p010). Clause four's timer runs one Unspooling from the
-> letter's delivery — the letter has gone back down the chute. Principal still unnamed and holding
-> a letter he cannot read. Chain-stop budget **unspent for a third chapter** — this chapter spends
-> it, or the next one must. Kessa's tally-thread holds both crease-writs.
+> **निरन्तरता:** सिलाई बन्द (अध्याय ००७ पृष्ठ ०१०)। खंड चार की घड़ी ख़त के पहुँचने से एक अनुकुलन चलती
+> है — ख़त नाली से नीचे जा चुका है। प्रमुख अब भी अनाम और उसके पास वह ख़त है जिसे वह पढ़ नहीं सकता।
+> ज़ंजीर-रोक बजट **तीसरे अध्याय से ख़र्च नहीं** — यह अध्याय इसे ख़र्च करे या अगले को करना पड़ेगा।
+> केसा की गिनती-डोर में दोनों तह-लिखत हैं।
 
 ---
 
-## चित्र-खाना 1 — Wide, the Ash-sLums at first light (~14%)
+## पैनल १ — व्यापक, पहली रोशनी में राख-बस्तियाँ (~१४%)
 
-**कैमरा:** The basin floor, pre-dawn. Ira walking down through the crater's terraces with her kit
-on her back. Ahead of her: the Mendery — low, broad, no windows, one door — and this morning there
-is a **lamp** in the archive stair and three figures on the step.
+**कैमरा:** गर्त का फ़र्श, भोर से पहले। इरा कैल्डेरा की सीढ़ियों से नीचे उतरती हुई, पीठ पर थैली। उसके
+आगे: मेंडरी — नीची, चौड़ी, बिना खिड़कियों के, एक दरवाज़े के साथ — और आज सुबह अभिलेखागार की सीढ़ी में एक
+**लालटेन** जल रही है और सीढ़ी पर तीन आकृतियाँ खड़ी हैं।
 
-**चित्र:** The building, and the three people who should never be standing outside it. Ira is small
-in the frame, foreground; the Office is small in the distance. Both equally still.
+**दृश्य:** इमारत, और वे तीन लोग जिन्हें उसके बाहर कभी खड़ा नहीं होना चाहिए था। इरा फ़्रेम में छोटी है,
+अग्रभूमि में; कार्यालय दूरी में छोटा है। दोनों बराबर स्थिर।
 
-> **शीर्षक (Ira's voice):**
-> I have walked this road three mornings running and every one of them the Mendery was dark.
+> **कैप्शन (इरा का स्वर):**
+> मैं यह रास्ता तीन सुबह से लगातार चल रही हूँ और तीनों बार मेंडरी अँधेरी थी।
 >
-> **CAPTION:**
-> This morning there are three men on the step and a lamp burning in a stair that hasn't had a lamp
-> in it since before I was born.
+> **कैप्शन:**
+> आज सुबह सीढ़ी पर तीन आदमी हैं और ऐसी सीढ़ी में लालटेन जल रही है जिसमें मेरे पैदा होने से पहले से
+> कोई लालटेन नहीं जलती थी।
 
 ---
 
-## चित्र-खाना 2 — Close, Ira's palm (~14%)
+## पैनल २ — क्लोज़, इरा की हथेली (~१४%)
 
-**कैमरा:** Close on Ira's left palm as she walks — the stitch, sewn shut two nights ago, the seam
-clean, the thread laid down flat. No crimson under the grey. Nothing moving. It has been like this
-since the step.
+**कैमरा:** चलती हुई इरा की बाईं हथेली पर क्लोज़ — सिलाई, दो रात पहले सी कर बन्द की हुई, सीवन साफ़,
+धागा सपाट लेटा हुआ। धूसर के नीचे कोई क़िरमिज़ी नहीं। कुछ हिल नहीं रहा। सीढ़ी के बाद से ऐसा ही है।
 
-**चित्र:** A closed hand. Same stillness as Chapter 001 Page 001, arrived at from the opposite
-direction — she chose this one.
+**दृश्य:** एक बन्द हाथ। वही स्थिरता जो अध्याय ००१ पृष्ठ ००१ की है, पर उलटी दिशा से पहुँची हुई — यह
+उसने चुनी है।
 
-> **शीर्षक (Ira's voice):**
-> Two nights. The strand's been sewn down and quiet since I closed it, and quiet is what I wanted,
-> and I have asked it for nothing since.
+> **कैप्शन (इरा का स्वर):**
+> दो रातें। तंतु बन्द करने के बाद से सीया और चुप है, और चुप ही मुझे चाहिए था, और मैंने तब से उससे
+> कुछ माँगा नहीं।
 >
-> **CAPTION:**
-> Nine days ago I couldn't pull a thread at all. Five days ago I could pull one that belongs to
-> nobody. Two nights ago I shut the door on it myself.
+> **कैप्शन:**
+> नौ दिन पहले मैं धागा खींच ही नहीं सकती थी। पाँच दिन पहले मैं वह खींच सकी जो किसी का नहीं है। दो रात
+> पहले मैंने उस पर ख़ुद दरवाज़ा बन्द कर दिया।
 >
-> **CAPTION:**
-> I keep telling myself that's the same as *choosing.*
+> **कैप्शन:**
+> मैं ख़ुद से कहती रहती हूँ कि यह *चुनने* जैसा ही है।
 
 ---
 
-## चित्र-खाना 3 — Medium, the step (~13%)
+## पैनल ३ — मध्यम, सीढ़ी (~१३%)
 
-**कैमरा:** The Mendery's back door. Three figures: two junior clerks in grey with a **slate** and a
-sealed box, and between them, standing very still with his hands behind his back, the
-**Inspector** — the same man from Ch. 005 Page 006 and Ch. 006 Page 008, compliance chain coiled
-at his belt.
+**कैमरा:** मेंडरी का पिछला दरवाज़ा। तीन आकृतियाँ: धूसर में दो कनिष्ठ लिपिक, एक **पट्ट** और एक मुहरबन्द
+बक्सा लिए, और उनके बीच, बहुत स्थिर खड़ा, हाथ पीठ के पीछे बाँधे, **निरीक्षक** — वही आदमी जो अध्याय ००५
+पृष्ठ ००६ और अध्याय ००६ पृष्ठ ००८ में था, कमर पर अनुपालन-ज़ंजीर लिपटी हुई।
 
-**चित्र:** Procedure, arrived. Not a raid — a *visit* with paperwork. Nobody is shouting. Nobody
-has a weapon out.
+**दृश्य:** प्रक्रिया, आ पहुँची। छापा नहीं — काग़ज़ी कार्रवाई के साथ एक *भेंट*। कोई चिल्ला नहीं रहा।
+किसी ने हथियार नहीं निकाला है।
 
-> **शीर्षक (Ira's voice):**
-> No shouting. No hands on anybody. Two clerks with a slate and a sealed case, and the Inspector
-> standing between them with his hands behind his back like a man waiting for a tram.
+> **कैप्शन (इरा का स्वर):**
+> कोई चिल्लाना नहीं। किसी पर हाथ नहीं। एक पट्ट और एक मुहरबन्द बक्सा लिए दो लिपिक, और उनके बीच खड़ा
+> निरीक्षक, हाथ पीठ के पीछे, ऐसे आदमी की तरह जो किसी गाड़ी की प्रतीक्षा कर रहा हो।
 
 ---
 
-## चित्र-खाना 4 — Close, the Inspector (~14%)
+## पैनल ४ — क्लोज़, निरीक्षक (~१४%)
 
-**कैमरा:** The Inspector, close. He is not triumphant. He is *mild* — and mild is much worse. He
-is looking at the door the way a man looks at a job he has been waiting years to be given.
+**कैमरा:** निरीक्षक, पास से। वह विजयी नहीं है। वह *नरम* है — और नरम बहुत बुरा है। वह दरवाज़े को ऐसे
+देख रहा है जैसे कोई आदमी ऐसे काम को देखता है जिसे करने का हुक्म उसे सालों से मिलने का इंतज़ार था।
 
-**चित्र:** The man who has been asking for nine days finally holding the thing he was asking with.
+**दृश्य:** वह आदमी जो नौ दिन से माँग रहा था, आख़िरकार वह चीज़ थामे हुए जिसके साथ वह माँग रहा था।
 
-> **INSPECTOR:**
+> **निरीक्षक:**
 > सुप्रभात।
 >
-> **INSPECTOR:**
-> You're the mender. Ira Sutar. Third register, provisional, entered eleven days ago by a hand
-> that is not the Council's.
+> **निरीक्षक:**
+> तुम सिलाई करने वाली हो। इरा सुतार। तीसरी पंजी, अनंतिम, ग्यारह दिन पहले दर्ज — ऐसे हाथ से जो परिषद
+> का नहीं है।
 
-> **शीर्षक (Ira's voice):**
-> Eleven days.
+> **कैप्शन (इरा का स्वर):**
+> ग्यारह दिन।
 >
-> **CAPTION:**
-> He's counted the days since the licence before he's counted anything in this cellar.
+> **कैप्शन:**
+> उसने इस तहख़ाने की कोई चीज़ गिनने से पहले परवाने के दिन गिन लिए हैं।
 
 ---
 
-## चित्र-खाना 5 — Large, the door (~15%)
+## पैनल ५ — बड़ा, दरवाज़ा (~१५%)
 
-**कैमरा:** The back door, open. Through it, down the stair, the archive is visible in the lamp
-light — and it is *wrong*. The quires are out. The sheets are fanned. Thirty years of filed lives
-are lying open on every surface of a room that is not supposed to have a floor you can see.
+**कैमरा:** पिछला दरवाज़ा, खुला। उसके भीतर से, सीढ़ी के नीचे, लालटेन की रोशनी में अभिलेखागार दिखता है —
+और वह *ग़लत* है। दस्ते बाहर हैं। पन्ने पंखे की तरह फैले हैं। तीस साल की फ़ाइल की गई ज़िन्दगियाँ ऐसे
+कमरे की हर सतह पर खुली पड़ी हैं जिसका फ़र्श दिखना नहीं चाहिए।
 
-**चित्र:** The crime scene the mother left behind. From out here, in daylight, with clerks' lamps
-on it, it does not look like work. It looks like what the Office will call it.
+**दृश्य:** वह अपराध-स्थल जो माँ पीछे छोड़ गई। बाहर से, दिन के उजाले में, लिपिकों की लालटेनों के नीचे,
+यह काम जैसा नहीं दिखता। यह वैसा दिखता है जैसा कार्यालय इसे कहेगा।
 
-> **INSPECTOR:**
-> The Mendery holds custodial records for the Ashfall basin. Debts, bindings, custodial transfers.
-> The Office has not been granted access since the second Council-turn.
+> **निरीक्षक:**
+> मेंडरी भस्म-गर्त के अभिरक्षण-अभिलेख रखती है। ऋण, बंधन, अभिरक्षण-स्थानांतरण। दूसरे परिषद-मोड़ से
+> कार्यालय को प्रवेश नहीं दिया गया।
 >
-> **INSPECTOR:**
-> I have a warrant with a school's name written on it, and this morning I find the door standing
-> open and the entire archive taken apart on the floor.
+> **निरीक्षक:**
+> मेरे पास एक अधिपत्र है जिस पर एक विद्यालय का नाम लिखा है, और आज सुबह मुझे दरवाज़ा खुला मिलता है और
+> पूरा अभिलेखागार फ़र्श पर बिखरा हुआ।
 
 ---
 
-## चित्र-खाना 6 — Close, the Inspector's conclusion (~14%)
+## पैनल ६ — क्लोज़, निरीक्षक का निष्कर्ष (~१४%)
 
-**कैमरा:** The Inspector turns from the doorway and looks at Ira directly for the first time. He
-is still mild. He says the thing that reframes the whole chapter in one sentence.
+**कैमरा:** निरीक्षक दरवाज़े से मुड़ता है और पहली बार सीधे इरा को देखता है। वह अब भी नरम है। वह वह बात
+कहता है जो एक ही वाक्य में पूरे अध्याय का ढाँचा बदल देती है।
 
-**चित्र:** The sentence that turns Ira from suspect into witness, and turns Nandi from keeper into
-defendant.
+**दृश्य:** वह वाक्य जो इरा को संदिग्ध से गवाह बना देता है, और नन्दी को अभिलेख-रक्षक से अभियुक्त।
 
-> **INSPECTOR:**
-> I don't need to find a criminal here, mender. I need to find out who opened forty years of
-> custodial records and left them lying on a floor.
+> **निरीक्षक:**
+> मुझे यहाँ कोई अपराधी ढूँढ़ना नहीं है, सिलाई करने वाली। मुझे यह पता करना है कि चालीस साल के
+> अभिरक्षण-अभिलेख खोलकर उन्हें फ़र्श पर पड़ा किसने छोड़ा।
 >
-> **INSPECTOR:**
-> And the person who keeps this archive has been sitting in the middle of it since Tuesday.
+> **निरीक्षक:**
+> और इस अभिलेखागार को जो सँभालती है, वह मंगलवार से इसी के बीचोंबीच बैठी हुई है।
 
 ---
 
-## चित्र-खाना 7 — Medium, Nandi in the lamp light — CLOSING HOOK (~16%)
+## पैनल ७ — मध्यम, लालटेन की रोशनी में नन्दी — अन्तिम हुक (~१६%)
 
-**कैमरा:** Through the door, down the stair, into the archive. **Nandi** is on her stool exactly
-where Ira left her — middle of the floor, quires around her, the pile of extracted thread at her
-feet. Two clerks are measuring the room with a tape. She has not been moved, has not been spoken
-to, has not been allowed to touch anything. She is looking up the stair, at Ira, and there is
-nothing on her face at all.
+**कैमरा:** दरवाज़े से, सीढ़ी के नीचे, अभिलेखागार में। **नन्दी** ठीक वहीं अपने स्टूल पर है जहाँ इरा ने उसे
+छोड़ा था — फ़र्श के बीच, चारों ओर दस्ते, पैरों पर निकाले हुए धागे का ढेर। दो लिपिक फ़ीते से कमरा नाप
+रहे हैं। उसे हिलाया नहीं गया, उससे कुछ पूछा नहीं गया, उसे कुछ छूने नहीं दिया गया। वह सीढ़ी के ऊपर
+देख रही है, इरा की ओर, और उसके चेहरे पर कुछ भी नहीं है।
 
-**चित्र:** The keeper of the archive, sitting inside her own evidence.
+**दृश्य:** अभिलेखागार की रखवाली करने वाली, अपने ही सबूत के भीतर बैठी हुई।
 
-> **शीर्षक (Ira's voice):**
-> They haven't asked her anything. That's the thing I notice first. Two clerks, a tape measure, a
-> slate, and not one question in the four minutes I stand at the top of the stair.
+> **कैप्शन (इरा का स्वर):**
+> उन्होंने उससे कुछ पूछा नहीं है। पहली बात यही खटकती है। दो लिपिक, एक फ़ीता, एक पट्ट, और जितनी देर मैं
+> सीढ़ी के ऊपर खड़ी रही उतनी देर में एक भी सवाल नहीं।
 >
-> **CAPTION:**
-> They don't need a statement. They need a *room.*
+> **कैप्शन:**
+> उन्हें बयान नहीं चाहिए। उन्हें *कमरा* चाहिए।
 >
-> **शीर्षक (last line):**
-> She looks up at me and she doesn't say a word, and I understand the whole thing at once, standing
-> in a doorway with my kit on my back.
+> **कैप्शन (अन्तिम पंक्ति):**
+> वह मेरी ओर ऊपर देखती है और एक शब्द नहीं कहती, और मैं पूरी बात एक साथ समझ जाती हूँ, पीठ पर थैली लिए
+> दरवाज़े में खड़ी हुई।
 >
-> **शीर्षक (smaller):**
-> Whatever they're going to do to this cellar, they're going to do it to her.
+> **कैप्शन (छोटा):**
+> इस तहख़ाने के साथ वे जो भी करने वाले हैं, वह उसके साथ करेंगे।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The audit is procedural, not violent.** Nothing is seized by force, nobody is dragged anywhere.
-  The menace is a tape measure and a lamp. Keep the Office absolutely calm — this series has
-  established that up-terrace power is *bureaucratic*, and the fear should come from the clerks
-  writing things down.
-- **Ira's closed stitch is the page's second subject.** Draw the palm twice, identically, so the
-  reader registers the change from Ch. 007. The line *"I keep telling myself that's the same as
-  choosing"* is the character's whole position entering this chapter.
-- **The Inspector is not a villain here.** He has wanted into this cellar for years and has finally
-  been handed a warrant; the page should read as a man doing a job he is good at. Save his cruelty
-  for later, where it will be *administrative* rather than physical.
-- **Nandi does not defend herself and does not look afraid.** She is an archive keeper standing
-  inside the only thing she has ever cared for while it is catalogued. The blankness is the point.
-- **Do not use the Loom panel in this chapter's opener.** The Loom never speaks and never comments;
-  keep it out of the audit entirely.
+- **लेखा प्रक्रियात्मक है, हिंसक नहीं।** कुछ भी ज़ोर से ज़ब्त नहीं होता, किसी को घसीटा नहीं जाता। डर एक
+  फ़ीता और एक लालटेन है। कार्यालय को पूरी तरह शान्त रखें — इस शृंखला ने स्थापित किया है कि ऊपरी कगार
+  की ताक़त *नौकरशाही* है, और डर लिपिकों के लिखने से आना चाहिए।
+- **इरा की बन्द सिलाई इस पृष्ठ का दूसरा विषय है।** हथेली दो बार, बिलकुल एक जैसी खींचें, ताकि पाठक
+  अध्याय ००७ से आया बदलाव दर्ज करे। पंक्ति *"मैं ख़ुद से कहती रहती हूँ कि यह चुनने जैसा ही है"* इस अध्याय
+  में क़दम रखते समय पात्र की पूरी स्थिति है।
+- **निरीक्षक यहाँ खलनायक नहीं है।** वह सालों से इस तहख़ाने में आना चाहता था और अब उसे अधिपत्र थमा दिया
+  गया है; पृष्ठ ऐसे आदमी का पढ़ा जाना चाहिए जो अपना काम अच्छी तरह कर रहा हो। उसकी कठोरता बाद के लिए
+  बचाएँ, जहाँ वह *प्रशासनिक* होगी, शारीरिक नहीं।
+- **नन्दी न अपनी सफ़ाई देती है, न डरी दिखती है।** वह अभिलेखागार की रखवाली करने वाली है जो अपनी अकेली
+  प्यारी चीज़ के भीतर खड़ी है, जब उसकी सूची बन रही है। यही भावशून्यता मुद्दा है।
+- **इस अध्याय के प्रारम्भ में सूत्र-यन्त्र का पैनल इस्तेमाल न करें।** सूत्र-यन्त्र कभी नहीं बोलता और कभी
+  टिप्पणी नहीं करता; उसे लेखा से पूरी तरह बाहर रखें।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| Three men and a lamp on the step | Event — *The Office Comes Down* |
-| The stitch sewn shut | State — *Chosen Quiet* |
-| "You're the mender. Ira Sutar. Third register, provisional." | Lore — *Counted Before Questioned* |
-| The archive lying open | Location — *The Evidence Floor* |
-| "They need a room." | Event — *Custody Of Place* |
+| सीढ़ी पर तीन आदमी और एक लालटेन | इवेंट — *कार्यालय नीचे आता है* |
+| सिलाई सी कर बन्द | अवस्था — *चुना हुआ मौन* |
+| "तुम सिलाई करने वाली हो। इरा सुतार। तीसरी पंजी, अनंतिम।" | लोर — *पूछने से पहले गिना गया* |
+| खुला पड़ा अभिलेखागार | स्थान — *सबूत का फ़र्श* |
+| "उन्हें कमरा चाहिए।" | इवेंट — *जगह की अभिरक्षा* |

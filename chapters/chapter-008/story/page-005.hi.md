@@ -1,204 +1,199 @@
-# THREADBORN — Chapter 08 — Page 005
+# सुत्रजात (THREADBORN) — अध्याय ०८ — पृष्ठ ००५
 
-**अध्याय शीर्षक:** *The First Pupil* / *पहला शिष्य*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Knot & Nail, Ashfall Basin
-**पृष्ठ प्रकार:** Regular — 7 panels
+**अध्याय शीर्षक:** *पहला शिष्य*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (दोपहर)
+**पृष्ठ प्रकार:** शब्द — ७ पैनल, अन्त में हुक
 
-> Beats: Page 004 — the book gives Ira hands without names and the principal names without hands.
-> Neither can move. The school comes to the stall instead.
->
-> **This page:** the woman in the doorway. And the word she uses.
+> English source: [`page-005.md`](page-005.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Medium, the doorway (~13%)
-
-**कैमरा:** The stall front, from inside. The woman in the doorway: **JADI** — Kshudra, very old,
-stooped, in basin clothes that were good forty years ago and have been mended by an expert ever
-since. Her left hand is still up on the doorframe. She is looking at Ira's hands, not her face.
-
-**चित्र:** An old woman who has walked two streets to stand in a doorway and look at a pair of
-hands.
-
-> **शीर्षक (Ira's voice):**
-> She's Kshudra, she's older than Nandi by a decade, and she's dressed in a coat that's been mended
-> about a hundred times by somebody who was extremely good at it.
->
-> **CAPTION:**
-> And she hasn't looked at my face once since she got to the door.
+> **यह पृष्ठ:** दरवाज़े में खड़ी स्त्री। और वह शब्द जो वह इस्तेमाल करती है।
 
 ---
 
-## चित्र-खाना 2 — Close, Ira's palm shown (~14%)
+## पैनल १ — मध्यम, दरवाज़ा (~१३%)
 
-**कैमरा:** Close: Ira, understanding, turns her left hand over and holds it out, palm up — the way
-you show a mark to a person who cannot ask for it. The stitch is *closed.* No braid. No crimson.
-A flat seam and a shut door.
+**कैमरा:** ठेले का सामने का हिस्सा, भीतर से। दरवाज़े में खड़ी स्त्री: **जड़ी** — क्षुद्र, बहुत बूढ़ी,
+झुकी हुई, गर्त के ऐसे कपड़ों में जो चालीस साल पहले अच्छे थे और तब से किसी बहुत माहिर ने पैबन्द लगाए
+हैं। उसका बायाँ हाथ अब भी चौखट पर है। वह इरा के हाथों को देख रही है, चेहरे को नहीं।
 
-**चित्र:** The mender answering the only question the visitor is actually asking.
+**दृश्य:** एक बूढ़ी स्त्री जो दो गलियाँ चलकर एक दरवाज़े में खड़ी होने और एक जोड़ी हाथों को देखने आई है।
 
-> **शीर्षक (Ira's voice):**
-> So I turn my hand over and hold it out, because there's only one thing she's come here to check
-> and I'd rather she got it over with.
+> **कैप्शन (इरा का स्वर):**
+> वह क्षुद्र है, वह नन्दी से दस साल बड़ी है, और उसने ऐसा कोट पहना है जिसे किसी बेहद कुशल व्यक्ति ने
+> करीब सौ बार पैबन्द किया है।
+>
+> **कैप्शन:**
+> और दरवाज़े तक पहुँचने के बाद से उसने मेरा चेहरा एक बार भी नहीं देखा।
 
-> **JADI:**
+---
+
+## पैनल २ — क्लोज़, इरा अपनी हथेली दिखाती है (~१४%)
+
+**कैमरा:** क्लोज़: इरा, समझकर, अपना बायाँ हाथ पलटती है और आगे कर देती है, हथेली ऊपर — वैसे जैसे तुम
+किसी ऐसे व्यक्ति को चिह्न दिखाते हो जो उसे माँग नहीं सकता। सिलाई *बन्द* है। न बुनाई। न क़िरमिज़ी। एक
+सपाट सीवन और बन्द दरवाज़ा।
+
+**दृश्य:** सिलाई करने वाली वही अकेला सवाल का जवाब दे रही है जो आगंतुक असल में पूछ रही है।
+
+> **कैप्शन (इरा का स्वर):**
+> तो मैं अपना हाथ पलटकर आगे कर देती हूँ, क्योंकि वह यहाँ सिर्फ़ एक चीज़ देखने आई है और मैं चाहती हूँ कि
+> वह जल्दी निपट जाए।
+
+> **जड़ी:**
 > ...
 >
-> **JADI:**
-> Closed.
+> **जड़ी:**
+> बन्द है।
 
 ---
 
-## चित्र-खाना 3 — Close, Jadi's face (~14%)
+## पैनल ३ — क्लोज़, जड़ी का चेहरा (~१४%)
 
-**कैमरा:** Jadi's face for the first time. Deep-lined, hard-used, Kshudra. Her eyes go from the
-hand to Ira's face at last — and what lands there is not disappointment. It is **recognition.**
+**Camera:** पहली बार जड़ी का चेहरा। गहरी लकीरें, ख़ूब घिसा हुआ, क्षुद्र। उसकी आँखें हाथ से इरा के चेहरे
+पर आती हैं — और वहाँ जो उतरता है वह निराशा नहीं है। वह **पहचान** है।
 
-**चित्र:** The first pupil, seeing the school in a face.
+**दृश्य:** पहला शिष्य, एक चेहरे में विद्यालय देख रहा है।
 
-> **JADI:**
-> तुमने इसे बंद कर दिया।
+> **जड़ी:**
+> तुमने इसे बन्द कर दिया।
 >
-> **IRA:**
+> **इरा:**
 > दो रात पहले।
 >
-> **JADI:**
-> Mm. She did the same thing, the year they came for her. Closed the hand and let them take her
-> quiet, and worked from behind the wall for twenty years.
-
-> **JADI:**
-> You'll be *her*, then.
+> **जड़ी:**
+> हूँ। उसने भी यही किया था, जिस साल वे उसके लिए आए थे। हाथ बन्द किया और उन्हें चुपचाप ले जाने दिया,
+> और बीस साल दीवार के पीछे से काम करती रही।
+>
+> **जड़ी:**
+> तो तुम *वही* होगी।
 
 ---
 
-## चित्र-खाना 4 — Medium, the word (~15%)
+## पैनल ४ — मध्यम, वह शब्द (~१५%)
 
-**कैमरा:** Jadi comes properly in and lowers herself onto the stool by the counter like a woman
-whose knees have an arrangement with gravity. Kessa has already poured tea — the second time in
-the series Kessa has poured tea for someone (Ch. 001 Page 003 was the first). Ira stands.
+**कैमरा:** जड़ी ठीक से भीतर आती है और काउंटर के पास स्टूल पर ऐसे उतरती है जैसे किसी स्त्री के घुटनों का
+गुरुत्वाकर्षण से कोई समझौता हो। केसा पहले ही चाय बना चुकी है — शृंखला में यह दूसरी बार है कि केसा ने
+किसी के लिए चाय बनाई (अध्याय ००१ पृष्ठ ००३ पहली बार था)। इरा खड़ी है।
 
-**चित्र:** The school's first pupil sitting down in the school's newest stall.
+**दृश्य:** विद्यालय का पहला शिष्य, विद्यालय के सबसे नए ठेले पर बैठा हुआ।
 
-> **IRA:**
-> I'm her daughter.
+> **इरा:**
+> मैं उसकी बेटी हूँ।
 >
-> **JADI:**
+> **जड़ी:**
 > मुझे पता है तुम क्या हो। मैंने पूछा तुम *क्या* हो।
 >
-> **JADI:**
-> *(and she says the word plainly, no ceremony, the way you'd say a trade)*
+> **जड़ी:**
+> *(और वह शब्द सपाट ढंग से कहती है, बिना किसी औपचारिकता के, जैसे कोई धंधा बताता है)*
 >
-> **JADI:**
-> तुम शिक्षक हो।
+> **जड़ी:**
+> तुम गुरु हो।
 
-> **शीर्षक (Ira's voice):**
-> Kessa's hand stops over the tea.
+> **कैप्शन (इरा का स्वर):**
+> चाय के ऊपर केसा का हाथ रुक जाता है।
 >
-> **CAPTION:**
-> I have been called a hole, a debt, a defect, a price, a fold, an entry in the third register, a
-> girl with the braided mark, and provisionally licensed under a private hand.
+> **कैप्शन:**
+> मुझे छेद कहा गया है, ऋण कहा गया है, दोष कहा गया है, दाम कहा गया है, तह कहा गया है, तीसरी पंजी की
+> प्रविष्टि कहा गया है, बुने चिह्न वाली लड़की कहा गया है, और एक निजी हाथ के नीचे अनंतिम रूप से
+> परवानायाफ़्ता।
 >
-> **CAPTION:**
-> Nobody has ever used that word about me. Nobody has ever used it in this basin about anyone.
+> **कैप्शन:**
+> मेरे लिए किसी ने वह शब्द कभी इस्तेमाल नहीं किया। इस गर्त में किसी के लिए किसी ने वह शब्द कभी
+> इस्तेमाल नहीं किया।
 
 ---
 
-## चित्र-खाना 5 — Large, the first page (~15%)
+## पैनल ५ — बड़ा, पहला पन्ना (~१५%)
 
-**कैमरा:** Ira has the Book of the Hand open on the counter at the back section. Jadi's eyes go
-to it and stay. And on the **first** pupil page — the very first in forty years — the stitched-down
-first knot is visible, and it is the same grip as the hand in the doorway.
+**कैमरा:** इरा ने हाथ की किताब काउंटर पर पिछले हिस्से में खोल रखी है। जड़ी की आँखें उस पर जाती हैं और
+वहीं रह जाती हैं। और **पहले** शिष्य-पन्ने पर — चालीस साल के पहले पन्ने पर — सी कर नीचे लगी पहली गाँठ
+दिखती है, और वह वही पकड़ है जो दरवाज़े में खड़े हाथ की है।
 
-**चित्र:** Page one of forty years, and the woman who is page one, sitting in front of it.
+**दृश्य:** चालीस साल का पहला पन्ना, और वह स्त्री जो पहला पन्ना है, उसके सामने बैठी हुई।
 
-> **IRA:**
-> The Roll's gone. She took it. But the book's still on the shelf, and the first page in the back
-> of it is —
+> **इरा:**
+> पंजी चली गई। उसने उसे ले लिया। पर किताब अब भी ताख़े पर है, और उसके पिछले हिस्से का पहला पन्ना है —
 >
-> **JADI:**
-> Mine. Yes.
+> **जड़ी:**
+> मेरा। हाँ।
 >
-> **JADI:**
-> I was twelve. She had a stall in the pot-row with a sign that said *mending* and no licence and
-> four of us sitting on crates behind her copying her hands. First day she never said one word to
-> any of us. Just sewed, and let us watch, and at the end of the day she called us up one at a
-> time and put a thread through our palms.
-
-> **JADI:**
-> नियम तीन। Before speech. She said if she told us what it was first, we'd have *decided*
-> something. This way it was just *true.*
+> **जड़ी:**
+> मैं बारह की थी। उसका हाँड़ी-कतार में एक ठेला था, जिस पर लिखा था *सिलाई*, और कोई परवाना नहीं था, और
+> हम चार उसके पीछे क्रेटों पर बैठे उसके हाथों की नक़ल कर रहे थे। पहले दिन उसने हममें से किसी से एक
+> शब्द नहीं कहा। बस सिया, और हमें देखने दिया, और दिन के अन्त में हमें एक-एक करके बुलाया और हमारी
+> हथेलियों में धागा डाल दिया।
+>
+> **जड़ी:**
+> नियम तीन। बोलने से पहले। उसने कहा कि अगर वह पहले बता देती कि यह क्या है, तो हम कुछ *तय* कर लेते।
+> इस तरह यह बस *सच* रहा।
 
 ---
 
-## चित्र-खाना 6 — Close, the failing mark (~14%)
+## पैनल ६ — क्लोज़, बिगड़ता चिह्न (~१४%)
 
-**कैमरा:** Jada holds her left palm up between them under the lamp. The braid is there — grey, old,
-flattened by decades of work — and at the root of it, where the teacher's strand entered her hand
-at twelve years old, the seam has **opened.** Not torn. *Grown out.* Skin has closed over part of
-the thread. The braid has come loose and is lying on the surface of the palm like something the
-body has decided to reject.
+**कैमरा:** जड़ी अपनी बाईं हथेली उनके बीच लालटेन के नीचे ऊपर उठाती है। बुनाई वहाँ है — धूसर, पुरानी,
+दशकों के काम से सपाट पड़ी — और उसकी जड़ पर, जहाँ गुरु का तंतु बारह साल की उम्र में उसके हाथ में
+दाख़िल हुआ था, सीवन **खुल गया है।** फटा नहीं। *बाहर निकल आया।* त्वचा धागे के एक हिस्से के ऊपर बन्द
+हो गई है। बुनाई ढीली पड़कर हथेली की सतह पर ऐसे पड़ी है जैसे शरीर ने उसे ठुकराने का फ़ैसला कर लिया हो।
 
-**चित्र:** The first pupil's mark, failing. The panel is the medical reality of a forty-year stitch
-in a woman who was twelve when it was put in.
+**दृश्य:** पहले शिष्य का चिह्न, बिगड़ता हुआ। पैनल उस स्त्री में चालीस साल पुरानी सिलाई की चिकित्सकीय
+हक़ीक़त है जो इसे डलवाते समय बारह की थी।
 
-> **शीर्षक (Ira's voice):**
-> Forty-four years in one hand. I've never seen the seam from the outside before — I've only ever
-> seen mine, from the inside, which is a completely different view.
+> **कैप्शन (इरा का स्वर):**
+> एक हाथ में चवालीस साल। मैंने कभी सीवन को बाहर से नहीं देखा — मैंने हमेशा अपना देखा है, भीतर से, और
+> वह बिलकुल अलग नज़ारा है।
 >
-> **CAPTION:**
-> It hasn't torn. That's what I notice. It's been *worked* at, over and over, for a long time, with
-> something small and sharp, by somebody patient.
+> **कैप्शन:**
+> यह फटा नहीं है। यही मुझे खटकता है। इस पर *काम* हुआ है, बार-बार, बहुत समय तक, किसी छोटी और तेज़
+> चीज़ से, किसी धैर्यवान व्यक्ति के हाथों।
 
 ---
 
-## चित्र-खाना 7 — Close, Jadi asks — CLOSING HOOK (~15%)
+## पैनल ७ — क्लोज़, जड़ी पूछती है — अन्तिम हुक (~१५%)
 
-**कैमरा:** Jadi, holding the palm up, looking at Ira with an expression that is not fear and not
-hope — it is the flat patience of a woman who has already decided the answer is no.
+**कैमरा:** जड़ी, हथेली ऊपर उठाए, इरा को ऐसे भाव से देखती हुई जो न डर है न आशा — यह ऐसी स्त्री का सपाट
+धैर्य है जिसने पहले ही तय कर लिया है कि जवाब ना होगा।
 
-**चित्र:** The first pupil asking the new teacher for the one thing the school cannot give.
+**दृश्य:** पहला शिष्य नए गुरु से वह एक चीज़ माँग रहा है जो विद्यालय नहीं दे सकता।
 
-> **JADI:**
-> I've spent the last nine months getting it out. Little at a time, so it wouldn't heal round it.
+> **जड़ी:**
+> मैंने पिछले नौ महीने इसे निकालने में बिताए हैं। ज़रा-ज़रा करके, ताकि यह चारों ओर से भर न जाए।
 >
-> **JADI:**
-> I can't finish it. It's at the root and my hand won't go deep enough.
+> **जड़ी:**
+> मैं इसे पूरा नहीं कर सकती। यह जड़ पर है और मेरा हाथ इतना गहरा नहीं जाता।
 >
-> **JADI:**
-> So that's what I've come for, teacher. Not to get it mended.
+> **जड़ी:**
+> तो इसी लिए आई हूँ, गुरु। सिलाई करवाने नहीं।
 >
-> **JADI (last line):**
+> **जड़ी (अन्तिम पंक्ति):**
 > इसे निकाल दो।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **"Teacher" is the chapter's title landing.** Ira has spent the whole series being read by other
-  people. This is the first time anyone has named her as the *reader.* Held flat, no swell, no
-  music — Jadi says it like a job title, which makes it heavier, not lighter.
-- **Jadi's name should not be spoken on-panel until Page 006.** She is "the woman in the doorway"
-  on 004 and "she" through most of 005. The name arrives with her history.
-- **The tea is a deliberate echo of Ch. 001 Page 003** (Kessa pouring for Ira, with the loupe up).
-  Second time in the series; same counter; different meaning. Kessa hands out tea to people she has
-  decided to keep.
-- **Jadi's origin story is the school's origin story:** a sign saying *mending*, no licence, four
-  children on crates, no words. This is what the Council called unlicensed. Play it warmly, not
-  tragically — those were good days and she should tell it like good days.
-- **The failing mark is mechanical, not mystical.** Grown out, worked at with something small and
-  sharp, patiently, for nine months. Ira reads it clinically, because she is a mender and that is
-  how she loves people.
-- **Jadi's request is the chapter's dilemma** and it should genuinely be an argument she *wins* on
-  the merits. Her case: the strand is how they are found. The teacher's answer must be better than
-  "no." That argument is Page 009.
+- **"गुरु" इस अध्याय के शीर्षक की वसूली है।** इरा पूरी शृंखला में दूसरों द्वारा पढ़ी जाती रही है। यह
+  पहली बार है कि किसी ने उसे *पढ़ने वाला* कहकर पुकारा है। सपाट रखें, कोई उभार नहीं, कोई संगीत नहीं —
+  जड़ी इसे ऐसे कहती है जैसे कोई पद का नाम, और इसी से यह भारी होता है, हल्का नहीं।
+- **जड़ी का नाम पृष्ठ ००६ तक पैनल पर न बोला जाए।** पृष्ठ ००४ पर वह "दरवाज़े में खड़ी स्त्री" है और ००५
+  के ज़्यादातर हिस्से में "वह"। नाम उसके इतिहास के साथ आता है।
+- **चाय अध्याय ००१ पृष्ठ ००३ की जानबूझकर गूँज है** (केसा इरा के लिए चाय बनाती है, लूप ऊपर)। शृंखला
+  में दूसरी बार; वही काउंटर; अलग अर्थ। केसा चाय उन्हें देती है जिन्हें उसने रखने का फ़ैसला किया है।
+- **जड़ी की मूल कहानी विद्यालय की मूल कहानी है:** *सिलाई* लिखा एक बोर्ड, कोई परवाना नहीं, क्रेटों पर
+  चार बच्चे, कोई शब्द नहीं। इसे परिषद ने बे-परवाना कहा था। इसे गर्मजोशी से खेलें, त्रासदी से नहीं —
+  वे अच्छे दिन थे और उसे उन्हें अच्छे दिनों की तरह बताना चाहिए।
+- **बिगड़ता चिह्न यान्त्रिक है, रहस्यमय नहीं।** बाहर निकल आया, किसी छोटी और तेज़ चीज़ से, धैर्य से, नौ
+  महीने तक खोदा गया। इरा इसे चिकित्सकीय ढंग से पढ़ती है, क्योंकि वह सिलाई करने वाली है और वह इसी तरह
+  लोगों से प्यार करती है।
+- **जड़ी की माँग इस अध्याय की दुविधा है** और यह वाक़ई ऐसा तर्क होना चाहिए जिसे वह गुणों के आधार पर
+  *जीतती* है। उसका पक्ष: तंतु ही वह तरीक़ा है जिससे वे ढूँढ़े जाते हैं। गुरु का जवाब "ना" से बेहतर
+  होना चाहिए। वह तर्क पृष्ठ ००९ है।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The hand held out palm-up | Action — *Show The Mark* |
-| "You'll be *her*, then." | Lore — *Recognised At The Door* |
-| "तुम शिक्षक हो।" | Title — *The Teacher* |
-| Four children on crates behind a mending sign | Lore — *The Unlicensed Stall* |
-| "इसे निकाल दो।" | Objective — *Unmake The Rule* |
+| हथेली ऊपर करके आगे की गई | क्रिया — *चिह्न दिखाओ* |

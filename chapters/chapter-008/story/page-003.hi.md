@@ -1,190 +1,188 @@
-# THREADBORN — Chapter 08 — Page 003
+# सुत्रजात (THREADBORN) — अध्याय ०८ — पृष्ठ ००३
 
-**अध्याय शीर्षक:** *The First Pupil* / *पहला शिष्य*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Mendery, the archive's back wall
-**पृष्ठ प्रकार:** Reveal page — 7 panels
+**अध्याय शीर्षक:** *पहला शिष्य*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — मेंडरी, पिछली दीवार
+**पृष्ठ प्रकार:** हाथ की किताब — ७ पैनल, अन्त में हुक
 
-> Beats: Page 002 — Ira saved the records by declaring them the principal's property and gave the
-> Office a reason to come back every second bell. Nandi was walked out on her own feet and left one
-> instruction: *the shelf — the empty one. Look at what's still standing next to it.*
+> English source: [`page-003.md`](page-003.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
+
+> सूत्र: नन्दी की हिदायत: *वह ताख़ा — ख़ाली वाला। देखना कि उसके बग़ल अब भी क्या खड़ा है।*
 >
-> **This page:** the back wall, read properly.
+> **यह पृष्ठ:** पिछली दीवार, ठीक से पढ़ी हुई।
 
 ---
 
-## चित्र-खाना 1 — Wide, the cellar with one clerk in it (~14%)
+## पैनल १ — व्यापक, एक लिपिक वाला तहख़ाना (~१४%)
 
-**कैमरा:** The archive, an hour later. The clerks have gone up; **one** junior clerk remains,
-sitting on an upturned crate by the stair with the slate on his knees, entirely bored. Ira is at
-the far end, at the back wall, at the edge of the lamplight.
+**कैमरा:** अभिलेखागार, एक घंटे बाद। लिपिक ऊपर जा चुके हैं; **एक** कनिष्ठ लिपिक बचा है, जो सीढ़ी के
+पास उलटे क्रेट पर बैठा है, घुटनों पर पट्ट, पूरी तरह ऊबा हुआ। इरा दूसरे सिरे पर है, पिछली दीवार पर,
+लालटेन की रोशनी के किनारे।
 
-**चित्र:** An occupied room. Everything Ira does from now on is being watched by a man who is not
-watching.
+**दृश्य:** एक भरा हुआ कमरा। अब इरा जो भी करेगी, वह ऐसे आदमी की नज़र में होगा जो देख नहीं रहा।
 
-> **शीर्षक (Ira's voice):**
-> One clerk, one crate, one slate. He's been told to stay in the room and record who comes and who
-> goes, and he has decided that a girl looking at a shelf is not a who-comes-and-goes.
+> **कैप्शन (इरा का स्वर):**
+> एक लिपिक, एक क्रेट, एक पट्ट। उसे कहा गया है कि कमरे में रहो और दर्ज करो कौन आता है और कौन जाता है,
+> और उसने तय कर लिया है कि ताख़े को देखती हुई लड़की कोई आना-जाना नहीं है।
 >
-> **CAPTION:**
-> Which is the first useful thing anybody up-terrace has ever done for me.
+> **कैप्शन:**
+> और ऊपरी कगार के किसी ने मेरे लिए जो पहला काम का काम किया है, वही यह है।
 
 ---
 
-## चित्र-खाना 2 — Medium, the wall (~13%)
+## पैनल २ — मध्यम, दीवार (~१३%)
 
-**कैमरा:** The back wall, full. Five shelves of hand-cut boards and knot-script labels. The gap —
-one file's width of clean dust — sits at eye level, third shelf, second from the left. Ira is
-standing in front of it looking at the gap.
+**कैमरा:** पिछली दीवार, पूरी। हाथ से कटे पत्तों और गाँठ-लिपि के नाम-पट्टों की पाँच ताख़ें। अंतराल —
+एक फ़ाइल की चौड़ाई की साफ़ धूल — आँख की सतह पर है, तीसरी ताख़, बाईं ओर से दूसरी। इरा उसके सामने खड़ी
+अंतराल को देख रही है।
 
-**चित्र:** The wall as she saw it last time, and it holds nothing new.
+**दृश्य:** दीवार वैसी जैसी उसने पिछली बार देखी थी, और इसमें कुछ नया नहीं है।
 
-> **शीर्षक (Ira's voice):**
-> I've looked at this wall twice. First time I was looking for my mother's name and I found the
-> charter. Second time I was looking for what had been taken and I found the hole.
+> **कैप्शन (इरा का स्वर):**
+> मैं इस दीवार को दो बार देख चुकी हूँ। पहली बार मैं अपनी माँ का नाम ढूँढ़ रही थी और मुझे अधिकार-पत्र
+> मिला। दूसरी बार मैं ढूँढ़ रही थी कि क्या ले जाया गया और मुझे छेद मिला।
 >
-> **CAPTION:**
-> Both times I read the wall for *absence.* Which is what you do in a basin, where everything
-> that matters has already been carried off.
+> **कैप्शन:**
+> दोनों बार मैंने दीवार को *ग़ैरमौजूदगी* के लिए पढ़ा। जो तुम गर्त में करते हो, जहाँ जो कुछ मायने रखता
+> है वह पहले ही उठाया जा चुका है।
 
 ---
 
-## चित्र-खाना 3 — Close, the shelf (~14%)
+## पैनल ३ — क्लोज़, ताख़ा (~१४%)
 
-**कैमरा:** Ira's hand comes up and her fingers walk along the shelf — past the gap, to the volume
-standing immediately to its right. It is *thicker* than the Roll. Older boards, darker, re-bound
-at least twice, with a knotted label sewn on at the spine.
+**कैमरा:** इरा का हाथ ऊपर आता है और उसकी उँगलियाँ ताख़े पर चलती हैं — अंतराल के पार, उसके ठीक दाईं ओर
+खड़ी जिल्द तक। यह पंजी से *मोटी* है। पुराने पत्ते, गहरे, कम से कम दो बार दोबारा जिल्दबन्द, मेरुदंड पर
+गाँठों वाला नाम-पट्ट सीया हुआ।
 
-**चित्र:** The book next to the hole. It has been standing there the whole time, and both times she
-looked at the wall, she looked past it.
+**दृश्य:** छेद के बग़ल की किताब। वह वहाँ पूरे समय से खड़ी है, और दोनों बार जब उसने दीवार देखी, वह उसके
+पार देखती रह गई।
 
-> **शीर्षक (Ira's voice):**
-> She said: look at what's still standing next to it.
+> **कैप्शन (इरा का स्वर):**
+> उसने कहा था: देखना कि उसके बग़ल अब भी क्या खड़ा है।
 >
-> **CAPTION:**
-> So I look, and there's a book there. There's been a book there the entire time. It's thicker than
-> the Roll and it's been re-bound twice and it's got a knotted label on the spine and I have walked
-> past it twice without seeing it, because in a basin we only ever count what's gone.
+> **कैप्शन:**
+> तो मैं देखती हूँ, और वहाँ एक किताब है। वहाँ पूरे समय से एक किताब है। यह पंजी से मोटी है और दो बार
+> दोबारा जिल्दबन्द हुई है और इसके मेरुदंड पर गाँठों वाला नाम-पट्ट है और मैं इसके पास से दो बार गुज़री
+> हूँ बिना देखे, क्योंकि गर्त में हम सिर्फ़ उसे गिनते हैं जो जा चुका है।
 
 ---
 
-## चित्र-खाना 4 — Close, the spine label (~14%)
+## पैनल ४ — क्लोज़, मेरुदंड का नाम-पट्ट (~१४%)
 
-**कैमरा:** Macro on the knotted spine label. Ira's eyes on it. She can read four knots of
-knot-script and this label uses three of them.
+**कैमरा:** गाँठों वाले नाम-पट्ट पर मैक्रो। उस पर इरा की आँखें। वह गाँठ-लिपि की चार गाँठें पढ़ सकती है
+और यह नाम-पट्ट उनमें से तीन इस्तेमाल करता है।
 
-**चित्र:** A label she can *nearly* read — and the nearness is the point. Chapter 008's whole
-premise is that the school taught her thread and never taught her to read.
+**दृश्य:** ऐसा नाम-पट्ट जिसे वह *लगभग* पढ़ सकती है — और यही लगभग होना मुद्दा है। अध्याय ००८ का पूरा
+आधार यह है कि विद्यालय ने उसे धागा सिखाया और पढ़ना कभी नहीं सिखाया।
 
-> **शीर्षक (Ira's voice):**
-> Three knots. I can read four and one of them is *thread* and one of them is my own name.
+> **कैप्शन (इरा का स्वर):**
+> तीन गाँठें। मैं चार पढ़ सकती हूँ और उनमें से एक *धागा* है और एक मेरा अपना नाम।
 >
-> **CAPTION:**
-> I get the first one. I don't get the second or the third. And I stand there in a cellar with a
-> clerk's slate forty feet behind me and I feel it properly for the first time in my life:
+> **कैप्शन:**
+> पहली मुझे समझ आ जाती है। दूसरी और तीसरी नहीं आती। और मैं वहाँ खड़ी रहती हूँ, ऐसे तहख़ाने में जिसके
+> पीछे चालीस फ़ुट दूर एक लिपिक का पट्ट है, और मुझे अपनी ज़िन्दगी में पहली बार यह ठीक से महसूस होता है:
 >
-> **CAPTION:**
-> I was *never taught.* She sewed a thread into my hand before I could talk and she never once
-> taught me what was in the book.
+> **कैप्शन:**
+> मुझे *कभी सिखाया ही नहीं गया।* उसने मेरे बोलने से पहले मेरे हाथ में धागा सीया और उसने एक बार भी मुझे
+> नहीं सिखाया कि किताब में क्या है।
 
 ---
 
-## चित्र-खाना 5 — Large, the book opens (~15%)
+## पैनल ५ — बड़ा, किताब खुलती है (~१५%)
 
-**कैमरा:** Ira lifts the volume off the shelf and opens it on the reading table. The pages are the
-school's own: **knot diagrams**, hundreds of them, each with a small hand-drawn finger-position
-underneath. Methodical, patient, teaching pages — a workbook.
+**कैमरा:** इरा जिल्द को ताख़े से उठाती है और उसे पढ़ने की मेज़ पर खोलती है। पन्ने विद्यालय के अपने हैं:
+**गाँठों के नक़्शे**, सैकड़ों, हर एक के नीचे हाथ से खींची उँगलियों की छोटी मुद्रा। क्रमबद्ध, धैर्यवान,
+सिखाने वाले पन्ने — एक कार्य-पुस्तिका।
 
-**चित्र:** The school's craft, written down. Everything Ira has been doing by instinct for nine
-days, already set out in a book that has been standing in a cellar for forty years.
+**दृश्य:** विद्यालय का हुनर, लिखा हुआ। वह सब कुछ जो इरा नौ दिन से सहज-बुद्धि से करती आई है, पहले से
+एक किताब में उतारा हुआ, जो चालीस साल से एक तहख़ाने में खड़ी है।
 
-> **शीर्षक (Ira's voice):**
-> It's the whole craft. Page after page of knots with the fingers drawn under them, so a child who
-> can't read can copy the hands.
+> **कैप्शन (इरा का स्वर):**
+> यह पूरा हुनर है। पन्ने पर पन्ना गाँठें, उनके नीचे खींची हुई उँगलियाँ, ताकि जो बच्चा पढ़ नहीं सकता वह
+> हाथों की नक़ल कर सके।
 >
-> **CAPTION:**
-> Every single thing I worked out on my own for nine days is in here. Rule one, rule two, rule
-> three. The crease-writ. The four moves. *All of it*, drawn out like a lesson, forty years ago, by
-> her.
+> **कैप्शन:**
+> वह हर एक चीज़ जो मैंने नौ दिन में अपने से निकाली, इसी में लिखी हुई है। नियम एक, नियम दो, नियम तीन।
+> तह-लिखत। चार हरकतें। *यह सब*, किसी पाठ की तरह खींचा हुआ, चालीस साल पहले, उसके हाथ से।
 
 ---
 
-## चित्र-खाना 6 — Close, the back of the book (~14%)
+## पैनल ६ — क्लोज़, किताब का पिछला हिस्सा (~१४%)
 
-**कैमरा:** Ira turns to the back. The last third of the volume is different: **one page per
-person.** No names — a page per pupil with, at the centre of each page, a single knot tied in
-brown thread and stitched down to the paper.
+**कैमरा:** इरा पीछे की ओर पलटती है। जिल्द का आख़िरी तिहाई हिस्सा अलग है: **हर व्यक्ति के लिए एक पन्ना।**
+कोई नाम नहीं — हर शिष्य का एक पन्ना, और हर पन्ने के बीच में, भूरे धागे से बाँधी गई एक अकेली गाँठ, काग़ज़
+पर सी कर नीचे लगाई हुई।
 
-**चित्र:** Forty years of first knots, a page each. The school's roll of names has been carried off
-— and the proof of every pupil is still on this shelf, because a knot is not a name.
+**दृश्य:** चालीस साल की पहली गाँठें, हर एक का अपना पन्ना। विद्यालय की नाम-पंजी उठा ली गई है — और हर
+शिष्य का सबूत अब भी इस ताख़े पर है, क्योंकि गाँठ कोई नाम नहीं है।
 
-> **शीर्षक (Ira's voice):**
-> The back of the book isn't lessons. It's *people.*
+> **कैप्शन (इरा का स्वर):**
+> किताब के पीछे का हिस्सा पाठ नहीं है। वह *लोग* हैं।
 >
-> **CAPTION:**
-> One page each. No names. Instead, stitched down flat to the paper, one knot — the first knot they
-> ever tied, the one the teacher cut off and kept, the way Kessa keeps readings in a cord.
+> **कैप्शन:**
+> हर एक का एक पन्ना। कोई नाम नहीं। उनके बजाय, काग़ज़ पर सपाट सी कर नीचे लगी, एक गाँठ — वह पहली गाँठ
+> जो उन्होंने कभी बाँधी, वही जिसे गुरु ने काटकर रख लिया, जैसे केसा पाठ एक डोर में रखती है।
 >
-> **CAPTION:**
-> She took the Roll of Hands so nobody could read the *names.*
+> **कैप्शन:**
+> उसने हाथों की पंजी इसलिए ले ली कि कोई *नाम* न पढ़ सके।
 >
-> **CAPTION:**
-> She left this on the shelf. Of course she left this on the shelf. You can't read a hand off a
-> knot unless you already know the hand.
+> **कैप्शन:**
+> यह उसने ताख़े पर छोड़ दिया। बेशक यह उसने ताख़े पर छोड़ दिया। गाँठ से तुम हाथ नहीं पढ़ सकते, जब तक
+> कि तुम उस हाथ को पहले से न जानते हो।
 
 ---
 
-## चित्र-खाना 7 — Close, Ira's thumb on a page — CLOSING HOOK (~16%)
+## पैनल ७ — क्लोज़, किसी पन्ने पर इरा का अँगूठा — अन्तिम हुक (~१६%)
 
-**कैमरा:** Ira's thumb on the last page of the book. Under it, a first knot in brown thread,
-stitched down. The knot is a **learned knot** — uneven, wrong in a specific way. Not the way a
-beginner ties badly. The way a beginner ties *while copying someone else's hands.*
+**कैमरा:** किताब के आख़िरी पन्ने पर इरा का अँगूठा। उसके नीचे, भूरे धागे में बाँधी गई, सी कर नीचे लगी
+एक पहली गाँठ। गाँठ एक **सीखी हुई गाँठ** है — असमान, किसी ख़ास ढंग से ग़लत। ऐसी ग़लत नहीं जैसे शुरुआती
+बुरी तरह बाँधता है। ऐसी ग़लत जैसे शुरुआती *किसी और के हाथों की नक़ल करते हुए* बाँधता है।
 
-**चित्र:** The last page of a forty-year book, in a hand Ira recognises the *method* of even if she
-cannot read the person.
+**दृश्य:** चालीस साल की किताब का आख़िरी पन्ना, ऐसे हाथ से बँधा जिसका *तरीक़ा* इरा पहचानती है, भले ही
+वह व्यक्ति को न पढ़ सके।
 
-> **शीर्षक (Ira's voice):**
-> The last page in the book is the newest one. Same brown thread as all the others, same stitch-down
-> at the corners.
+> **कैप्शन (इरा का स्वर):**
+> किताब का आख़िरी पन्ना सबसे नया है। वही भूरा धागा जो बाक़ी सबका है, कोनों पर वही सी कर नीचे लगाना।
 >
-> **CAPTION:**
-> But the knot on it is *wrong* — wrong in a way I've seen before, wrong in a way I know, wrong the
-> way a knot goes wrong when the person tying it is copying fingers and not reading a book.
+> **कैप्शन:**
+> पर उस पर की गाँठ *ग़लत* है — ऐसी ग़लत जो मैंने पहले देखी है, ऐसी ग़लत जो मैं जानती हूँ, ऐसी ग़लत जैसे
+> गाँठ तब ग़लत होती है जब बाँधने वाला पुस्तक नहीं पढ़ रहा हो, बल्कि उँगलियों की नक़ल कर रहा हो।
 >
-> **शीर्षक (last line):**
-> The last pupil in this school learned the way I learned. Off somebody's hands, in the dark,
-> without a word being said.
+> **कैप्शन (अन्तिम पंक्ति):**
+> इस विद्यालय के आख़िरी शिष्य ने वैसे सीखा जैसे मैंने सीखा। किसी के हाथों से, अँधेरे में, एक शब्द
+> कहे बिना।
 >
-> **शीर्षक (smaller):**
-> That page is less than a year old.
+> **कैप्शन (छोटा):**
+> वह पन्ना एक साल से भी कम पुराना है।
 >
-> **शीर्षक (smallest):**
-> And whoever it is, she's still alive.
+> **कैप्शन (सबसे छोटा):**
+> और वह जो भी है, अब भी ज़िन्दा है।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The book must not read as a magic tome.** It is a workbook — finger diagrams, copied by hand,
-  for people who cannot read. Its plainness is the point: this school taught by *hands*, which is
-  why the Council could never license or extinguish it properly.
-- **The distinction that carries Chapter 008:** the mother took the Roll (names — the thing that
-  makes people findable) and left the book (knots — the thing that makes people *recognisable*).
-  A knot cannot be looked up. This is the school's entire security model and it is the reason the
-  Office has never been able to get an index of it.
-- **The clerk on the crate is a running element of this chapter.** He is not a threat; he is a
-  *clock.* Every scene in the Mendery this chapter has him in the background. Pay him on page 009.
-- **Do not name the last pupil.** The reader should get to her before Ira does — page 005.
-- **The volume next to the gap is the school's second book; the Roll was the first.** Glossary
-  entry: *Book of the Hand — the school's method book, re-bound twice, ending in forty years of
-  first knots, one page per pupil, no names.*
+- **किताब को कोई जादुई ग्रंथ नहीं लगना चाहिए।** यह एक कार्य-पुस्तिका है — उँगलियों के नक़्शे, हाथ से
+  उतारे हुए, उनके लिए जो पढ़ नहीं सकते। इसका सादा होना ही मुद्दा है: यह विद्यालय *हाथों* से सिखाता था,
+  और इसीलिए परिषद इसे न ठीक से लाइसेंस कर सकी, न मिटा सकी।
+- **अध्याय ००८ को जो भेद उठाता है:** माँ ने पंजी ले ली (नाम — वह चीज़ जो लोगों को ढूँढ़ने योग्य बनाती है)
+  और किताब छोड़ दी (गाँठें — वह चीज़ जो लोगों को *पहचानने योग्य* बनाती है)। गाँठ को कोई खोज नहीं सकता।
+  यही विद्यालय का पूरा सुरक्षा-मॉडल है और यही वजह है कि कार्यालय आज तक इसकी कोई सूची नहीं बना पाया।
+- **क्रेट पर बैठा लिपिक इस अध्याय का चलता हुआ तत्व है।** वह ख़तरा नहीं है; वह एक *घड़ी* है। इस अध्याय
+  के मेंडरी के हर दृश्य में वह पीछे मौजूद है। पृष्ठ ००९ पर उसका हिसाब दें।
+- **आख़िरी शिष्य का नाम मत लें।** पाठक उस तक इरा से पहले पहुँचे — पृष्ठ ००५।
+- **अंतराल की बग़ल वाली जिल्द विद्यालय की दूसरी किताब है; पंजी पहली थी।** शब्दावली प्रविष्टि: *हाथ की
+  किताब — विद्यालय की विधि-पुस्तक, दो बार दोबारा जिल्दबन्द, जिसका अन्त चालीस साल की पहली गाँठों पर
+  होता है, हर शिष्य का एक पन्ना, कोई नाम नहीं।*
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The clerk on the crate | Clock — *One Slate, One Room* |
-| The book next to the hole | Relic — *The Book Of The Hand* |
-| The finger diagrams | Skill — *Taught By Hands* |
-| A page per pupil, no names | Lore — *Knots Cannot Be Looked Up* |
-| The last page, less than a year old | Clue — *The Newest Pupil* |
+| क्रेट पर बैठा लिपिक | घड़ी — *एक पट्ट, एक कमरा* |
+| छेद के बग़ल की किताब | रिलिक — *हाथ की किताब* |
+| उँगलियों के नक़्शे | कौशल — *हाथों से सिखाया* |
+| हर शिष्य का एक पन्ना, कोई नाम नहीं | लोर — *गाँठें खोजी नहीं जा सकतीं* |
+| आख़िरी पन्ना, एक साल से कम पुराना | सुराग़ — *सबसे नया शिष्य* |

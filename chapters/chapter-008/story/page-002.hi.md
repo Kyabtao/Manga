@@ -1,196 +1,194 @@
-# THREADBORN — Chapter 08 — Page 002
+# सुत्रजात (THREADBORN) — अध्याय ०८ — पृष्ठ ००२
 
-**अध्याय शीर्षक:** *The First Pupil* / *पहला शिष्य*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Mendery, the archive
-**पृष्ठ प्रकार:** Regular — 7 panels
+**अध्याय शीर्षक:** *पहला शिष्य*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — मेंडरी, तहख़ाने का अभिलेखागार
+**पृष्ठ प्रकार:** अधिपत्र — ७ पैनल, अन्त में हुक
 
-> Beats: Page 001 — the Office is inside the Mendery. The archive's records are open on the floor,
-> which makes the room evidence. Nandi is the keeper, and the keeper is who they take.
->
-> **This page:** the warrant, read aloud. And the first use of the third-register entry — by Ira,
-> knowingly, as a weapon, for the first time.
+> English source: [`page-002.md`](page-002.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Close, the warrant (~14%)
-
-**कैमरा:** The Inspector holds up a folded instrument with a **grey seal** and a **crimson
-countersignature** at the foot. He reads the operative line without ornament, the way a man reads
-a thing he has read forty times in preparation.
-
-**चित्र:** Two waxes on one warrant. The same two-wax grammar as the letter, the posting order and
-the census. This document has two owners and one of them is crimson.
-
-> **INSPECTOR:**
-> *By instrument of the Reckoning Office, in the matter of the Mendery of the Ashfall basin: the
-> custodian of record is remanded for examination, the premises are sequestered as evidence, and
-> all records held therein are vested in the Office pending review.*
->
-> **INSPECTOR:**
-> The countersignature is a private hand's. I have been told not to remark on it.
+> **यह पृष्ठ:** अधिपत्र, बुलंद आवाज़ में पढ़ा गया। और तीसरी-पंजी प्रविष्टि का पहला इस्तेमाल — इरा
+> द्वारा, जानबूझकर, पहली बार हथियार की तरह।
 
 ---
 
-## चित्र-खाना 2 — Medium, Ira steps down (~13%)
+## पैनल १ — क्लोज़, अधिपत्र (~१४%)
 
-**कैमरा:** Ira comes down the stair into the archive. She does not go to Nandi — she stops at the
-edge of the fanned quires and puts her kit down slowly, deliberately, on a clear patch of floor.
-Hands visible. The gesture from every counter negotiation in this series.
+**कैमरा:** निरीक्षक **धूसर मोहर** और नीचे **क़िरमिज़ी प्रति-हस्ताक्षर** वाला एक मुड़ा हुआ दस्तावेज़ ऊपर
+उठाता है। वह काम की पंक्ति बिना किसी सजावट के पढ़ता है, ऐसे आदमी की तरह जिसने तैयारी में इसे चालीस बार
+पढ़ा हो।
 
-**चित्र:** A girl entering a room full of officials with her hands where they can be seen. She has
-learned this from Kessa and it is the only armour she owns.
+**दृश्य:** एक अधिपत्र पर दो मोम। वही दो-मोम व्याकरण जो ख़त का, हस्तांतरण-आदेश का और गिनती का है। इस
+दस्तावेज़ के दो मालिक हैं और उनमें से एक क़िरमिज़ी है।
 
-> **शीर्षक (Ira's voice):**
-> Kit down. Hands out of it. Stand where the lamp is.
+> **निरीक्षक:**
+> *लेखा-कार्यालय के अधिपत्र से, भस्म-गर्त की मेंडरी के विषय में: अभिलेख का अभिरक्षक जाँच के लिए
+> हिरासत में लिया जाता है, परिसर सबूत के रूप में ज़ब्त किया जाता है, और उसमें रखा सारा अभिलेख समीक्षा
+> तक कार्यालय में निहित किया जाता है।*
 >
-> **CAPTION:**
-> Kessa's four rules for up-terrace men and I have never once had to use them while a woman I know
-> was sitting on a stool in the middle of the room.
+> **निरीक्षक:**
+> प्रति-हस्ताक्षर एक निजी हाथ का है। मुझसे कहा गया है कि इस पर टिप्पणी न करूँ।
 
 ---
 
-## चित्र-खाना 3 — Close, Ira's claim (~14%)
+## पैनल २ — मध्यम, इरा नीचे उतरती है (~१३%)
 
-**कैमरा:** Close on Ira's face as she speaks. She is not pleading. She is filing — deliberately
-using their own language, in their own register, and hating it.
+**कैमरा:** इरा सीढ़ी से नीचे अभिलेखागार में आती है। वह नन्दी के पास नहीं जाती — वह फैले हुए दस्तों के
+किनारे रुकती है और अपनी थैली धीरे, जानबूझकर, फ़र्श के एक साफ़ हिस्से पर रख देती है। हाथ दिखते हुए। इस
+शृंखला की हर काउंटर-बातचीत का हाव-भाव।
 
-**चित्र:** The mender doing paperwork out loud.
+**दृश्य:** अफ़सरों से भरे कमरे में घुसती एक लड़की, हाथ वहाँ जहाँ वे दिख जाएँ। उसने यह केसा से सीखा है और
+यही उसका अकेला कवच है।
 
-> **IRA:**
-> Custodial records, you said. Then you'll want the register they belong to.
+> **कैप्शन (इरा का स्वर):**
+> थैली नीचे। हाथ उससे बाहर। वहीं खड़े रहो जहाँ लालटेन है।
 >
-> **IRA:**
-> The Mendery's holdings aren't Council holdings. Every quire in this room was bound under a
-> private commission — the same hand that countersigned your warrant.
->
-> **IRA:**
-> So sequester the room if you like, Inspector. But the *records* are third register. And a
-> third-register holding with a live entry in it can't be vested in the Council. It reverts to the
-> register's owning hand.
+> **कैप्शन:**
+> ऊपरी कगार के आदमियों के लिए केसा के चार नियम, और मुझे उन्हें कभी इस्तेमाल नहीं करना पड़ा — जबकि
+> कमरे के बीचोंबीच एक स्टूल पर बैठी मेरी जान-पहचान की एक स्त्री थी।
 
 ---
 
-## चित्र-खाना 4 — Medium, the clerks stop (~14%)
+## पैनल ३ — क्लोज़, इरा का दावा (~१४%)
 
-**कैमरा:** Both clerks look up from the slate at the same moment. The tape measure stops. This is
-not a thing anybody in the Office expects a basin girl to know, and the reader should be able to
-see two professionals recalculating.
+**कैमरा:** बोलती हुई इरा के चेहरे पर क्लोज़। वह गिड़गिड़ा नहीं रही। वह दाख़िल कर रही है — जानबूझकर उन्हीं
+की भाषा, उन्हीं की पंजी में, और इसे नफ़रत करते हुए।
 
-**चित्र:** Procedure hitting an unexpected clause. Nobody is angry; everybody is now doing
-arithmetic.
+**दृश्य:** सिलाई करने वाली बुलंद आवाज़ में काग़ज़ी कार्रवाई कर रही है।
 
-> **CLERK:**
-> ...That's a third-register holding.
+> **इरा:**
+> अभिरक्षण-अभिलेख, तुमने कहा। तो तुम्हें वह पंजी चाहिए जिसकी वे हैं।
 >
-> **INSPECTOR:**
-> Yes.
+> **इरा:**
+> मेंडरी की धरोहरें परिषद की धरोहरें नहीं हैं। इस कमरे का हर दस्ता एक निजी ठेके के नीचे जिल्दबन्द
+> हुआ है — उसी हाथ से जिसने तुम्हारे अधिपत्र पर प्रति-हस्ताक्षर किए।
 >
-> **CLERK:**
-> But a third-register reversion only holds if there's a live entry. She'd have to be —
->
-> **INSPECTOR:**
-> She is. She told us. *Provisional, eleven days.*
+> **इरा:**
+> तो कमरा ज़ब्त कर लो, निरीक्षक। पर *अभिलेख* तीसरी पंजी के हैं। और तीसरी पंजी की ऐसी धरोहर, जिसमें एक
+> जीवित प्रविष्टि हो, परिषद में निहित नहीं की जा सकती। वह पंजी रखने वाले हाथ को लौट जाती है।
 
 ---
 
-## चित्र-खाना 5 — Close, the Inspector reads her (~15%)
+## पैनल ४ — मध्यम, लिपिक रुक जाते हैं (~१४%)
 
-**कैमरा:** The Inspector looks at Ira for a long moment. Not hostile. Genuinely interested, in the
-way a man is interested in a tool he did not know existed.
+**कैमरा:** दोनों लिपिक एक ही पल में पट्ट से नज़र उठाते हैं। फ़ीता रुक जाता है। यह ऐसी बात नहीं है जिसकी
+अपेक्षा कार्यालय में कोई गर्त की किसी लड़की से करे, और पाठक को दो पेशेवरों को दोबारा हिसाब लगाते देखना
+चाहिए।
 
-**चित्र:** The moment Ira becomes a *fact* to the Office rather than a nuisance. This is the cost
-of the page: she has just saved the archive by naming herself as someone's property.
+**दृश्य:** प्रक्रिया एक अप्रत्याशित खंड से टकराती हुई। कोई ग़ुस्से में नहीं है; सब अब गिनती कर रहे हैं।
 
-> **INSPECTOR:**
-> तुम्हें पता है तुमने अभी क्या किया।
+> **लिपिक:**
+> ...यह तीसरी पंजी की धरोहर है।
 >
-> **IRA:**
-> मैंने अभिलेख तुम्हारे बजाय उसके हाथ में रखा।
+> **निरीक्षक:**
+> हाँ।
 >
-> **INSPECTOR:**
-> No, mender. You told the Reckoning Office, in front of two clerks of record, that the Mendery
-> and everything in it belongs to a private hand. On a slate. In a room I am standing in.
+> **लिपिक:**
+> पर तीसरी पंजी का पलटाव तभी टिकता है जब कोई जीवित प्रविष्टि हो। उसे होना पड़ेगा —
 >
-> **INSPECTOR:**
-> I've been trying to get into this cellar for four years. You've just given me a reason to keep
-> coming back for as long as the entry stands.
+> **निरीक्षक:**
+> वह है। उसने हमें बता दिया। *अनंतिम, ग्यारह दिन।*
 
 ---
 
-## चित्र-खाना 6 — Medium, the price (~14%)
+## पैनल ५ — क्लोज़, निरीक्षक उसे पढ़ता है (~१५%)
 
-**कैमरा:** The Inspector gestures — small, almost courteous — and one of the clerks closes the
-sealed case. They are not taking the archive. They are taking the keeper.
+**कैमरा:** निरीक्षक एक लम्बे पल तक इरा को देखता है। शत्रुभाव से नहीं। सचमुच दिलचस्पी से, ऐसे आदमी की
+दिलचस्पी से जिसे ऐसा औज़ार मिला हो जिसका उसे पता ही नहीं था।
 
-**चित्र:** The exchange being executed. The Office changes its target without changing its pace.
+**दृश्य:** वह पल जब इरा कार्यालय के लिए उपद्रव से *तथ्य* बन जाती है। यही इस पृष्ठ की क़ीमत है: उसने
+अभी-अभिलेखागार बचाया है, यह बताकर कि वह किसी की जायदाद है।
 
-> **INSPECTOR:**
-> अभिलेख रहेंगे। कमरा खुला रहेगा, और मैं हर दूसरी घंटी में यहाँ रहूँगा।
+> **निरीक्षक:**
+> तुम्हें पता है तुमने क्या किया।
 >
-> **INSPECTOR:**
-> The *custodian* comes with us. Not for the school's name. For forty years of unauthorised
-> custodial custody in a basin the Office has no index for at all.
+> **इरा:**
+> मैंने अभिलेखागार तुम्हारे बजाय उसके हाथ के नीचे कर दिया।
 >
-> **INSPECTOR:**
-> Which is a thing I didn't know existed until this week, and which I would very much like
-> explained by the person who has been keeping it.
+> **निरीक्षक:**
+> नहीं, सिलाई करने वाली। तुमने लेखा-कार्यालय को, अभिलेख के दो लिपिकों के सामने, बता दिया कि मेंडरी और
+> उसमें रखा सब कुछ एक निजी हाथ का है। एक पट्ट पर। ऐसे कमरे में जिसमें मैं खड़ा हूँ।
+>
+> **निरीक्षक:**
+> मैं चार साल से इस तहख़ाने में आने की कोशिश कर रहा हूँ। तुमने मुझे अभी-अभी एक वजह दे दी है कि जब तक
+> वह प्रविष्टि टिके, मैं लौटता रहूँ।
 
 ---
 
-## चित्र-खाना 7 — Close, Nandi stands up — CLOSING HOOK (~16%)
+## पैनल ६ — मध्यम, क़ीमत (~१४%)
 
-**कैमरा:** Nandi rises off the stool for the first time in the chapter. It takes her a moment and
-she refuses help. She is not cuffed, not touched. She walks to the stair on her own feet, and she
-stops exactly level with Ira — and does not look at her.
+**कैमरा:** निरीक्षक इशारा करता है — छोटा-सा, लगभग शिष्ट — और एक लिपिक मुहरबन्द बक्सा बन्द कर देता है।
+वे अभिलेखागार नहीं ले जा रहे। वे रखवाली करने वाली को ले जा रहे हैं।
 
-**चित्र:** The old woman walking out of her own archive under her own power, and the one line she
-is willing to spend on the way past.
+**दृश्य:** सौदा पूरा हो रहा है। कार्यालय अपनी चाल बदले बिना अपना निशाना बदल लेता है।
 
-> **NANDI:**
-> बच्ची।
+> **निरीक्षक:**
+> अभिलेख रहेंगे। कमरा खुला रहेगा, और मैं हर दूसरी घंटी उसमें मौजूद रहूँगा।
 >
-> **NANDI:**
-> Don't come to the Office. Don't file anything. Don't sign a thing, and don't *answer* anything
-> they read to you.
+> **निरीक्षक:**
+> *अभिरक्षक* हमारे साथ आएगा। विद्यालय के नाम के लिए नहीं। ऐसे गर्त में चालीस साल की बे-इजाज़त
+> अभिरक्षण-सँभाल के लिए जिसकी कार्यालय के पास कोई सूची ही नहीं है।
 >
-> **NANDI:**
-> And the shelf — the empty one. Look at it again. You looked at it with me and you looked at the
-> *hole.* Look at what's still standing next to it.
+> **निरीक्षक:**
+> जो ऐसी चीज़ है जिसका होना मुझे इस हफ़्ते से पहले पता ही नहीं था, और जिसकी बहुत विस्तृत व्याख्या
+> मैं उसी व्यक्ति से चाहूँगा जो इसे सँभालता आया है।
 
-> **शीर्षक (Ira's voice, last line):**
-> Then she walks up the stair with two clerks and an Inspector behind her, and nobody touches her
-> once.
+---
+
+## पैनल ७ — क्लोज़, नन्दी खड़ी होती है — अन्तिम हुक (~१६%)
+
+**कैमरा:** नन्दी इस अध्याय में पहली बार स्टूल से उठती है। उसमें एक पल लगता है और वह मदद ठुकरा देती है।
+उस पर हथकड़ी नहीं, उसे छुआ नहीं जाता। वह अपने पैरों से सीढ़ी तक चलती है, और ठीक इरा के साथ आकर रुकती
+है — और उसकी ओर नहीं देखती।
+
+**दृश्य:** बूढ़ी स्त्री अपने ही अभिलेखागार से अपनी ही ताक़त से निकल रही है, और रास्ते में जो एक पंक्ति वह
+ख़र्च करने को तैयार है।
+
+> **नन्दी:**
+> लड़की।
 >
-> **शीर्षक (smaller):**
-> And I'm standing in a cellar full of open books with a closed hand, and she has just told me that
-> I asked the wrong question on the back wall.
+> **नन्दी:**
+> कार्यालय मत आना। कुछ दाख़िल मत करना। किसी चीज़ पर हस्ताक्षर मत करना, और जो वे तुम्हें पढ़कर सुनाएँ,
+> उसका *जवाब* भी मत देना।
+>
+> **नन्दी:**
+> और वह ताख़ा — ख़ाली वाला। उसे दोबारा देखना। तुमने उसे मेरे साथ देखा था और तुमने *छेद* देखा था। देखना
+> कि उसके बग़ल अब भी क्या खड़ा है।
+
+> **कैप्शन (इरा का स्वर, अन्तिम पंक्ति):**
+> फिर वह दो लिपिकों और एक निरीक्षक के साथ सीढ़ी चढ़ जाती है, और उसे कोई एक बार भी नहीं छूता।
+>
+> **कैप्शन (छोटा):**
+> और मैं खुली किताबों से भरे तहख़ाने में खड़ी हूँ, हाथ बन्द किए हुए, और उसने मुझे अभी-अभी बताया है कि
+> पिछली दीवार पर मैंने ग़लत सवाल पूछा था।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **Ira's legal manoeuvre is her first real up-terrace move** and it must feel like a *win she
-  immediately regrets*. She saves the archive by declaring it the property of the man who wrote
-  the licence. Rekhak told her in Ch. 007 that third-register entries inventory — she is now
-  inventory. Play it straight: no cleverness music, no triumphant beat.
-- **The Clerk line is important.** A junior official confirming the rule out loud establishes the
-  logic for the reader through a professional, not through Ira explaining.
-- **"...a private hand. On a slate. In a room I am standing in."** The Inspector's interest
-  changes direction here, mid-page. He stops trying to close a case and starts trying to open a
-  bigger one. He is not defeated by Ira's move; he is promoted by it.
-- **Nandi's exit is the page's real payload.** No cuffs, no struggle, no dignity lost. She walks
-  out on her own feet, which is more frightening.
-- **Nandi's last instruction plants Chapter 008's investigation:** the back wall, the *thing still
-  standing next to the hole.* Do not show it yet. Chapter 008 Page 006–007 pays it. (It is not the
-  Roll of Hands. It is the volume the Roll was shelved *with* — the school's second book.)
+- **इरा की क़ानूनी चाल उसका पहला असली ऊपरी-कगार वाला दाँव है** और वह ऐसी *जीत लगनी चाहिए जिसका उसे
+  तुरन्त पछतावा हो*। वह अभिलेखागार को उस आदमी की जायदाद घोषित करके बचाती है जिसने परवाना लिखा। रेखक
+  ने अध्याय ००७ में बताया था कि तीसरी पंजी की प्रविष्टियाँ सूचीबद्ध करती हैं — अब वह ख़ुद सूची में है।
+  इसे सीधा खेलें: न कोई चतुराई का संगीत, न कोई विजय का क्षण।
+- **लिपिक की पंक्ति ज़रूरी है।** कनिष्ठ अफ़सर का नियम बुलंद आवाज़ में दोहराना, इरा के समझाने के बजाय
+  एक पेशेवर के ज़रिए पाठक के लिए तर्क स्थापित करता है।
+- **"...एक निजी हाथ का। एक पट्ट पर। ऐसे कमरे में जिसमें मैं खड़ा हूँ।"** यहीं निरीक्षक की दिलचस्पी की
+  दिशा बदलती है, पृष्ठ के बीचोंबीच। वह मुक़दमा बन्द करना छोड़कर बड़ा मुक़दमा खोलने लगता है। इरा की चाल
+  से वह हारता नहीं; उसे तरक़्क़ी मिलती है।
+- **नन्दी का निकलना इस पृष्ठ का असली भार है।** न हथकड़ी, न संघर्ष, न इज़्ज़त की हानि। वह अपने पैरों से
+  निकलती है, और यही ज़्यादा डरावना है।
+- **नन्दी की आख़िरी हिदायत अध्याय ००८ की जाँच रखती है:** पिछली दीवार, *वह चीज़ जो छेद के बग़ल अब भी
+  खड़ी है।* इसे अभी मत दिखाएँ। पृष्ठ ००६–००७ इसका फल देते हैं। (यह हाथों की पंजी नहीं है। यह वह जिल्द
+  है जिसके *साथ* पंजी ताख़े पर रखी थी — विद्यालय की दूसरी किताब।)
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| The two-wax warrant, read aloud | Relic — *The Remand Instrument* |
-| "The records are third register." | Skill — *Speak Their Register* |
-| "You just told the Reckoning Office... on a slate." | Event — *A Reason To Return* |
-| The custodian, not the records | Event — *They Take The Keeper* |
-| "Look at what's still standing next to it." | Clue — *The Second Book* |
+| दो-मोम वाला अधिपत्र, बुलंद आवाज़ में | रिलिक — *हिरासत-अधिपत्र* |
+| "अभिलेख तीसरी पंजी के हैं।" | कौशल — *उनकी पंजी में बोलो* |
+| "तुमने लेखा-कार्यालय को बता दिया... एक पट्ट पर।" | इवेंट — *लौटने की एक वजह* |
+| अभिलेख नहीं, अभिरक्षक | इवेंट — *वे रखवाली करने वाली को ले जाते हैं* |
+| "देखना कि उसके बग़ल अब भी क्या खड़ा है।" | सुराग़ — *दूसरी किताब* |

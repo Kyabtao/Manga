@@ -1,203 +1,195 @@
-# THREADBORN — Chapter 08 — Page 004
+# सुत्रजात (THREADBORN) — अध्याय ०८ — पृष्ठ ००४
 
-**अध्याय शीर्षक:** *The First Pupil* / *पहला शिष्य*
-**Arc:** II — The Mendery
-**क्षेत्र:** Agnikhand — the Knot & Nail, Ashfall Basin
-**पृष्ठ प्रकार:** Regular — 7 panels
+**अध्याय शीर्षक:** *पहला शिष्य*
+**आर्क:** II — मेंडरी
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (दोपहर)
+**पृष्ठ प्रकार:** पहले ही दाख़िल — ७ पैनल, अन्त में हुक
 
-> Beats: Page 003 — the book next to the hole: the school's method book, *the Book of the Hand*,
-> ending in forty years of first knots, one page per pupil, no names. The last page is less than a
-> year old.
->
-> **This page:** the book on the counter, and the arithmetic that follows.
+> English source: [`page-004.md`](page-004.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Medium, the counter (~13%)
-
-**कैमरा:** The Knot & Nail, midday, shutters down. The Book of the Hand lies open on the counter
-between them — the back third open, knots facing up. Kessa has the loupe in and is going through
-the pages the way she goes through a ledger: fast, and then stopping dead.
-
-**चित्र:** The appraiser doing what she does to a book that has no numbers in it.
-
-> **शीर्षक (Ira's voice):**
-> Kessa reads about forty pages before she stops, and where she stops is the part I already knew,
-> which she does not.
->
-> **CAPTION:**
-> She stops at the first knot.
+> **यह पृष्ठ:** काउंटर पर किताब, और उसके बाद का हिसाब।
 
 ---
 
-## चित्र-खाना 2 — Close, Kessa's thumb on a page (~14%)
+## पैनल १ — मध्यम, काउंटर (~१३%)
 
-**कैमरा:** Close on Kessa's scarred thumb, flat on the first of the pupil pages, over the
-stitched-down knot. She is not reading it. She is *feeling* it, the way she feels a knot in a
-disputed cord.
+**कैमरा:** गाँठ और कील, दोपहर, शटर गिरे हुए। हाथ की किताब उनके बीच काउंटर पर खुली है — पिछला तिहाई
+खुला, गाँठें ऊपर की ओर। केसा का लूप आँख में है और वह पन्नों को वैसे देख रही है जैसे बही देखती है:
+तेज़ी से, और फिर ठिठककर।
 
-**चित्र:** The appraiser and a knot. Her whole trade is knowing what a knot means without being
-told.
+**दृश्य:** परखन-हार वही कर रही है जो वह ऐसी किताब के साथ करती है जिसमें कोई अंक नहीं है।
 
-> **KESSA:**
-> That's a Kshudra knot.
+> **कैप्शन (इरा का स्वर):**
+> केसा लगभग चालीस पन्ने पढ़ती है और फिर रुक जाती है, और जहाँ वह रुकती है वह वह हिस्सा है जो मुझे पहले
+> से पता था, और उसे नहीं।
 >
-> **KESSA:**
-> Not the pattern — the *grip.* You can feel the grip of a hand in a knot if it's stitched down
-> flat enough. That one was tied by somebody who learned threading before she learned walking.
-> Kshudra, every page in this half of the book.
-
-> **शीर्षक (Ira's voice):**
-> Which is a sentence I have to stand still for. Forty years of pupils, and the back half of the
-> school — the *oldest* half — is all Kshudra hands.
+> **कैप्शन:**
+> वह पहली गाँठ पर रुकती है।
 
 ---
 
-## चित्र-खाना 3 — Medium, the arithmetic (~14%)
+## पैनल २ — क्लोज़, पन्ने पर केसा का अँगूठा (~१४%)
 
-**कैमरा:** Kessa closes the book, sets the loupe down, and lays both hands flat on the counter on
-either side of it. The gesture from Ch. 007 Page 002: she has seen enough and wants Ira to see it
-too.
+**कैमरा:** केसा के निशानों भरे अँगूठे पर क्लोज़, शिष्य-पन्नों में से पहले पर सपाट, सी कर नीचे लगी गाँठ के
+ऊपर। वह उसे पढ़ नहीं रही। वह उसे *महसूस* कर रही है, जैसे विवादित डोर की गाँठ महसूस करती है।
 
-**चित्र:** The appraiser ending her own reading. This is her position-taking posture.
+**दृश्य:** परखन-हार और एक गाँठ। उसका पूरा धंधा यह जानना है कि गाँठ का मतलब क्या है, बताए बिना।
 
-> **KESSA:**
-> So he's taken the names and got the school's charter and put your name in a private book. Those
-> are his three moves. And you've got **this.**
+> **केसा:**
+> यह क्षुद्र की गाँठ है।
 >
-> **KESSA:**
-> Which isn't a list of people. It's a list of *hands.*
->
-> **IRA:**
-> Then I can't find them. A knot isn't an address.
->
-> **KESSA:**
-> नहीं। But it isn't an *index*, either. Which is why he doesn't have one — and why she left it on
-> the shelf where he'd walk past it.
+> **केसा:**
+> नक़्शा नहीं — *पकड़।* अगर गाँठ काफ़ी सपाट सी कर नीचे लगी हो तो तुम उसमें हाथ की पकड़ महसूस कर सकते
+> हो। यह वाली किसी ऐसे ने बाँधी है जिसने चलना सीखने से पहले धागा पिरोना सीखा। क्षुद्र — इस आधी
+> किताब का हर पन्ना।
+
+> **कैप्शन (इरा का स्वर):**
+> और यह ऐसा वाक्य है जिस पर मुझे एक पल ठहरना पड़ता है। चालीस साल के शिष्य, और विद्यालय का पिछला
+> आधा हिस्सा — जो *सबसे पुराना* है — पूरा क्षुद्र हाथों का है।
 
 ---
 
-## चित्र-खाना 4 — Close, the second bell (~14%)
+## पैनल ३ — मध्यम, हिसाब (~१४%)
 
-**कैमरा:** Through the stall's half-shutters, up the pot-row: the Mendery stair, two streets off,
-barely visible. A bell rings somewhere. And a small grey figure — the clerk — can be seen walking
-up the Mendery step with his slate.
+**कैमरा:** केसा किताब बन्द करती है, लूप रख देती है, और दोनों हाथ काउंटर पर उसके दोनों ओर सपाट रख देती
+है। अध्याय ००७ पृष्ठ ००२ का हाव-भाव: उसने काफ़ी देख लिया है और वह चाहती है कि इरा भी देखे।
 
-**चित्र:** The clock, arriving. Every second bell, on the bell. The Office is now part of the
-basin's weather.
+**दृश्य:** परखन-हार अपना पाठ ख़त्म कर रही है। यही उसकी मोर्चा लेने की मुद्रा है।
 
-> **शीर्षक (Ira's voice):**
-> Second bell. Up the pot-row there's a grey man going up the Mendery step with a slate under his
-> arm, and he'll do that every second bell until the entry lapses.
+> **केसा:**
+> तो उसने नाम ले लिए, विद्यालय का अधिकार-पत्र ले लिया, और तुम्हारा नाम एक निजी बही में डाल दिया।
+> उसके तीन दाँव यही हैं। और तुम्हारे पास **यह** है।
 >
-> **CAPTION:**
-> Kessa calls it *the meter.* She says all up-terrace things are meters, and you can live with a
-> meter so long as you know what it's counting. This one is counting *days.*
+> **केसा:**
+> जो लोगों की सूची नहीं है। यह *हाथों* की सूची है।
+>
+> **इरा:**
+> तो मैं उन्हें ढूँढ़ नहीं सकती। गाँठ कोई पता नहीं होती।
+>
+> **केसा:**
+> नहीं। पर वह कोई *सूची* भी नहीं है। इसीलिए उसके पास कोई सूची नहीं है — और इसीलिए उसने इसे उसी ताख़े
+> पर छोड़ा जिसके पास से वह गुज़रता रहेगा।
 
 ---
 
-## चित्र-खाना 5 — Close, the pre-filed entry (~14%)
+## पैनल ४ — क्लोज़, दूसरी घंटी (~१४%)
 
-**कैमरा:** Kessa, loupe up, looking at Ira over the counter. She has one more piece and it has
-been bothering her since the Inspector said it out loud.
+**कैमरा:** ठेले के आधे-गिरे शटरों से, हाँड़ी-कतार के ऊपर: मेंडरी की सीढ़ी, दो गलियाँ दूर, मुश्किल से
+दिखती हुई। कहीं एक घंटी बजती है। और एक छोटी धूसर आकृति — वही लिपिक — पट्ट बग़ल में दबाए मेंडरी की
+सीढ़ी चढ़ता दिखता है।
 
-**चित्र:** The appraiser noticing the detail nobody else has.
+**दृश्य:** घड़ी, आ पहुँची। हर दूसरी घंटी, घंटी पर। कार्यालय अब गर्त के मौसम का हिस्सा है।
 
-> **KESSA:**
-> Eleven days, he said. The entry into the third register was made eleven days ago.
+> **कैप्शन (इरा का स्वर):**
+> दूसरी घंटी। हाँड़ी-कतार के ऊपर बग़ल में पट्ट दबाए एक धूसर आदमी मेंडरी की सीढ़ी चढ़ रहा है, और वह
+> ऐसा हर दूसरी घंटी करेगा जब तक प्रविष्टि लुप्त न हो जाए।
 >
-> **KESSA:**
-> Child — you read that licence for the first time two mornings ago. It came down the stair two
-> nights before that. Twelve days, fifteen hours, and he's had your name in a private book for
-> **eleven of them.**
->
-> **KESSA:**
-> He entered you before he wrote to you. He entered you before he'd *asked.*
-
-> **शीर्षक (Ira's voice):**
-> Pre-filed.
->
-> **CAPTION:**
-> The docket slate in the re-review chamber, Chapter two. The audit scheduled a day before it was
-> filed. The crimson initial on the chamber record, dry before the bell.
->
-> **CAPTION:**
-> He does it every time. He doesn't react. He *pre-files*, and then he waits to be right.
+> **कैप्शन:**
+> केसा इसे *मीटर* कहती है। वह कहती है ऊपरी कगार की हर चीज़ मीटर है, और मीटर के साथ तब तक रहा जा सकता
+> है जब तक तुम्हें पता हो कि वह क्या गिन रहा है। यह वाला *दिन* गिन रहा है।
 
 ---
 
-## चित्र-खाना 6 — Medium, the plan (~14%)
+## पैनल ५ — क्लोज़, पहले से दर्ज प्रविष्टि (~१४%)
 
-**कैमरा:** Two-shot over the counter. Kessa stands; Ira sits on the stool. Between them the open
-book. Kessa's plan is not clever and she says so.
+**कैमरा:** केसा, लूप ऊपर, काउंटर के पार इरा को देखती हुई। उसके पास एक और टुकड़ा है और वह उसे जब से
+निरीक्षक ने बोलकर कहा है, परेशान कर रहा है।
 
-**चित्र:** Two people with a book of hands and no names, working out the only thing they can
-actually do.
+**दृश्य:** परखन-हार वह ब्यौरा पकड़ रही है जो किसी और ने नहीं पकड़ा।
 
-> **KESSA:**
-> Then here's where we are. He'll be reading the roll by now — every name on it, every kind, every
-> year. That book gives him a list of pupils and a way to verify them, because the strand in the
-> hand answers a reader. That's the whole point of the roll and it's the whole reason she took it.
+> **केसा:**
+> ग्यारह दिन, उसने कहा। तीसरी पंजी में प्रविष्टि ग्यारह दिन पहले हुई।
 >
-> **KESSA:**
-> Which means he can't use it yet. He can *name* them. He can't find them.
+> **केसा:**
+> बच्ची — तुमने वह परवाना पहली बार दो सुबह पहले पढ़ा था। वह उससे दो रात पहले सीढ़ी से उतरा था। बारह
+> दिन, पन्द्रह घंटे, और तुम्हारा नाम एक निजी बही में उसके यहाँ **इनमें से ग्यारह** दिन से है।
 >
-> **KESSA:**
-> And you've got forty first knots and no names and you can't use it either. You can't find a hand
-> from a page.
+> **केसा:**
+> उसने तुम्हें लिखने से पहले तुम्हें दर्ज कर लिया। उसने *पूछने* से पहले तुम्हें दर्ज कर लिया।
+
+> **कैप्शन (इरा का स्वर):**
+> पहले से दाख़िल।
 >
-> **KESSA:**
-> So neither of you can move first. Which means we wait, and the school comes to us.
+> **कैप्शन:**
+> पुनः-समीक्षा कक्ष का दैनिकी-पट्ट, अध्याय दो। लेखा दाख़िल होने से एक दिन पहले तय। कक्ष के अभिलेख पर
+> क़िरमिज़ी आद्याक्षर, घंटी से पहले ही सूखा हुआ।
+>
+> **कैप्शन:**
+> वह हर बार यही करता है। वह प्रतिक्रिया नहीं देता। वह *पहले से दाख़िल* करता है, और फिर सही साबित होने
+> की प्रतीक्षा करता है।
 
 ---
 
-## चित्र-खाना 7 — Close, the door — CLOSING HOOK (~15%)
+## पैनल ६ — मध्यम, योजना (~१४%)
 
-**कैमरा:** The stall's front. Kessa, mid-sentence, stops. Someone is standing in the doorway. We
-see only: a pair of hands, one gripping the doorframe, and the palm — **open, wrong, and carrying a
-braided mark with a first knot at the root.** An old Kshudra hand. Badly cared for. Shaking.
+**कैमरा:** काउंटर के पार दो-पात्र शॉट। केसा खड़ी है; इरा स्टूल पर बैठी है। बीच में खुली किताब। केसा की
+योजना चतुर नहीं है और वह यह ख़ुद कहती है।
 
-**चित्र:** The plan arriving before it was finished being said. The school, at the door, having
-walked two streets to find it.
+**दृश्य:** दो लोग, हाथों की एक किताब, कोई नाम नहीं, और वही एक चीज़ तय कर रहे हैं जो वे असल में कर सकते
+हैं।
+
+> **केसा:**
+> तो बात यहाँ तक है। वह अब तक पंजी पढ़ रहा होगा — उसका हर नाम, हर जाति, हर साल। वह किताब उसे शिष्यों
+> की सूची और उन्हें जाँचने का तरीक़ा देती है, क्योंकि हाथ का तंतु पढ़ने वाले को जवाब देता है। पंजी का
+> पूरा मतलब यही है और उसके ले जाने की पूरी वजह भी यही।
+>
+> **केसा:**
+> मतलब वह अभी उसका इस्तेमाल नहीं कर सकता। वह उन्हें *नाम* दे सकता है। ढूँढ़ नहीं सकता।
+>
+> **केसा:**
+> और तुम्हारे पास चालीस पहली गाँठें हैं और कोई नाम नहीं, और तुम भी उसका इस्तेमाल नहीं कर सकती। तुम
+> पन्ने से कोई हाथ नहीं ढूँढ़ सकती।
+>
+> **केसा:**
+> तो तुम दोनों में से कोई पहला क़दम नहीं उठा सकता। मतलब हम रुकते हैं, और विद्यालय हमारे पास आता है।
+
+---
+
+## पैनल ७ — क्लोज़, दरवाज़ा — अन्तिम हुक (~१५%)
+
+**कैमरा:** ठेले का सामने का हिस्सा। केसा, बात के बीचोंबीच, रुक जाती है। कोई दरवाज़े में खड़ा है। हमें
+सिर्फ़ इतना दिखता है: एक जोड़ी हाथ, एक चौखट पकड़े हुए, और हथेली — **खुली, ग़लत, और जिस पर एक बुना चिह्न
+है जिसकी जड़ पर पहली गाँठ है।** एक बूढ़ा क्षुद्र हाथ। बुरी तरह उपेक्षित। काँपता हुआ।
+
+**दृश्य:** योजना पूरी कहे जाने से पहले ही आ पहुँची। विद्यालय, दरवाज़े पर, दो गलियाँ चलकर उसे ढूँढ़ चुका
+है।
 
 > **ध्वनि:** *—*
 
-> **KESSA (last line):**
-> ...Well. That was quick.
+> **केसा (अन्तिम पंक्ति):**
+> ...अच्छा। यह तो जल्दी आ गई।
 
-> **शीर्षक (Ira's voice):**
-> The palm in the doorway is open. There's a braid in it. There's a knot at the root of the braid
-> that was tied by somebody learning, and the thread has come loose from the seam, and it's been
-> loose long enough that the skin's grown over part of it.
+> **कैप्शन (इरा का स्वर):**
+> दरवाज़े में हथेली खुली है। उसमें एक बुनाई है। बुनाई की जड़ पर एक गाँठ है जो किसी सीखते हुए ने बाँधी
+> थी, और धागा सीवन से ढीला पड़ गया है, और इतने समय से ढीला है कि त्वचा उसके एक हिस्से के ऊपर उग आई
+> है।
 >
-> **शीर्षक (smaller):**
-> And the hand is shaking the way hands shake when they've been holding something up for a very
-> long time and are about to stop.
+> **कैप्शन (छोटा):**
+> और हाथ वैसे काँप रहा है जैसे हाथ तब काँपते हैं जब वे बहुत देर से किसी चीज़ को ऊपर उठाए हुए हैं और अब
+> छोड़ने वाले हों।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The pre-filing characterisation is now explicit canon** and this is the page that states it:
-  the principal does not respond, he *pre-files*. It retro-justifies Ch. 002's docket slate and
-  Ch. 001's crimson initial. Keep it as Ira's realisation, flat, no exclamation.
-- **The strategic deadlock is the chapter's engine.** He has names without bodies. Ira has bodies
-  without names. Neither side can act. The page must make that legible in two panels so the reader
-  understands why the chapter's only possible plot is *the school walking in.*
-- **"The meter" is Kessa's coinage** and should recur. Up-terrace power, in this series, is
-  measurement.
-- **The doorway hand is the chapter's best single image.** Do not show the woman. Show the hand,
-  the braid, the grown-over seam, the shake. Page 005 opens on her face.
-- **Continuity:** Kessa's loupe state, her hands-flat posture, and the counter are all continuous
-  from Ch. 007 Page 002 and 006. Keep the stall's shutters half-down — it has been shut since the
-  licence arrived.
+- **पहले-से-दाख़िल करने वाला चरित्र-चित्रण अब स्पष्ट क़ानून है** और यही वह पृष्ठ है जो इसे कहता है:
+  प्रमुख प्रतिक्रिया नहीं देता, वह *पहले से दाख़िल* करता है। यह अध्याय ००२ के दैनिकी-पट्ट और अध्याय ००१
+  के क़िरमिज़ी आद्याक्षर को बाद में जाकर न्याय देता है। इसे इरा की समझ की तरह रखें, सपाट, बिना
+  विस्मयादिबोधक।
+- **रणनीतिक गतिरोध इस अध्याय का इंजन है।** उसके पास नाम हैं, देह नहीं। इरा के पास देह हैं, नाम नहीं।
+  कोई भी पक्ष हिल नहीं सकता। पृष्ठ को यह दो पैनलों में पढ़ने लायक बना देना चाहिए ताकि पाठक समझ जाए कि
+  इस अध्याय की अकेली संभव कथा *विद्यालय का भीतर आ जाना* है।
+- **"मीटर" केसा का गढ़ा शब्द है** और इसे दोहराया जाना चाहिए। इस शृंखला में ऊपरी कगार की ताक़त मापना है।
+- **दरवाज़े वाला हाथ इस अध्याय की सबसे अच्छी अकेली छवि है।** स्त्री को मत दिखाएँ। हाथ दिखाएँ, बुनाई
+  दिखाएँ, ऊपर उग आई त्वचा दिखाएँ, काँपन दिखाएँ। पृष्ठ ००५ उसके चेहरे पर खुलता है।
+- **निरन्तरता:** केसा की लूप-अवस्था, उसकी हाथ-सपाट मुद्रा, और काउंटर — सब अध्याय ००७ पृष्ठ ००२ और
+  ००६ से लगातार हैं। ठेले के शटर आधे-गिरे रखें — परवाना आने के बाद से बन्द हैं।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| "That's a Kshudra knot." | Skill — *Read The Grip* |
-| A list of hands, not a list of people | Lore — *Not An Index* |
-| The meter at the second bell | Clock — *Counting Days* |
-| "He entered you before he asked." | Lore — *The Pre-Filing Hand* |
-| The hand in the doorway | Event — *The School Arrives* |
+| "यह क्षुद्र की गाँठ है।" | कौशल — *पकड़ पढ़ो* |
+| हाथों की सूची, लोगों की सूची नहीं | लोर — *सूची नहीं* |
