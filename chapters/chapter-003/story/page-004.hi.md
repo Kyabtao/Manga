@@ -1,143 +1,145 @@
-# THREADBORN — Chapter 03 — Page 004
+# सुत्रजात (THREADBORN) — अध्याय ०३ — पृष्ठ ००४
 
-**अध्याय शीर्षक:** *The Hand That Opens* / *वह हाथ जो खोलता है*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, the Knot & Nail (evening)
-**पृष्ठ प्रकार:** The cutter's pattern — 7 panels, hook at the bottom
+**अध्याय शीर्षक:** *वह हाथ जो खोलता है*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, गाँठ और कील (संध्या)
+**पृष्ठ प्रकार:** काटने वाले का ढर्रा — ७ पैनल, अन्त में हुक
 
-> पिछले पृष्ठ से: Page 003: Bhan's nightly openings, the ash-grey re-sealing thread, Ira's
-> charcoal mark, the slate's pre-logged line. Page 001: the reversal, the cut-end on the counter.
+> English source: [`page-004.md`](page-004.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, evening at the stall (~14%)
-
-**कैमरा:** Evening, Knot & Nail: Ira reports to Kessa across the counter. The posting order is
-face-down. The lockbox is on the counter — Kessa has not moved it since morning.
-
-**चित्र:** Two women and a box, the same image as Page 001 but heavier. Kessa's loupe is up.
-
-> **IRA (dialogue):**
-> वही मोड़-सिरा। वही कोण। And the re-sealing thread is ash-grey. My colour.
+> पृष्ठ ००३ से आगे आते सूत्र: भान के रात्रि-उद्घाटन, राख-धूसर पुनः-सीलने वाला धागा, इरा का
+> कोयला-निशान, पट्ट की पूर्व-दर्ज रेखा। पृष्ठ ००१: उलटाव, काउंटर पर कट-सिरा।
 
 ---
 
-## चित्र-खाना 2 — Medium, the connection (~13%)
+## पैनल १ — व्यापक, ठेले पर संध्या (~१४%)
 
-**कैमरा:** Kessa's hands on the lockbox lid. She opens it, lifts the cut-end from its felt bed,
-and holds it beside Ira's hand — not touching, parallel. Two shadowless objects: the forty-year-old
-thread and the girl's palm-stitch.
+**कैमरा:** संध्या, गाँठ और कील: इरा काउंटर के पार केसा को रिपोर्ट करती है। स्थानांतरण-आदेश उलटा पड़ा
+है। ताला-बक्सा काउंटर पर है — केसा ने उसे सुबह से हिलाया नहीं।
 
-**चित्र:** The cut-end and Ira's palm in parallel: same school, same colour, same gauge. Kessa's
-loupe-eye moves between them.
+**दृश्य:** दो औरतें और एक बक्सा, वही दृश्य जो पृष्ठ ००१ का था पर भारी। केसा का लूप ऊपर है।
 
-> **केसा (संवाद, dry):**
-> Same thread. Same age as the stitch, not the box. Whoever sewed you left the same thread in
-> this box forty years ago.
+> **इरा (संवाद):**
+> वही मोड़-सिरा। वही कोण। और पुनः-सीलने वाला धागा राख-धूसर है। मेरा रंग।
 
 ---
 
-## चित्र-खाना 3 — Close, the implication (~14%)
+## पैनल २ — मध्यम, सम्बन्ध (~१३%)
 
-**कैमरा:** On Ira's face: the implication landing. The cutter who opens Bhan nightly uses thread
-identical to the cut-end. The cut-end is forty years older than Ira's stitch. The cutter and the
-sewer share a hand-school. The thread connects all three: the box, the arm, the palm.
+**कैमरा:** ताला-बक्से के ढक्कन पर केसा के हाथ। वह उसे खोलती है, कट-सिरे को उसके नमदा-बिस्तर से उठाती
+है, और इरा के हाथ के बगल में रखती है — छूते हुए नहीं, समानान्तर। दो छायाहीन चीज़ें: चालीस साल पुराना
+धागा और लड़की की हथेली-सिलाई।
 
-**चित्र:** Ira's mismatched eyes are level. She is doing arithmetic with her hands.
+**दृश्य:** कट-सिरा और इरा की हथेली समानान्तर: वही विद्या, वही रंग, वही माप। केसा की लूप-आँख उनके बीच
+आती-जाती है।
 
-> **इरा (संवाद, flat):**
-> The cutter uses the same thread that's in the box.
+> **केसा (संवाद, सूखा):**
+> वही धागा। उम्र सिलाई की है, बक्से की नहीं। जिसने तुम्हें सीया, उसने यही धागा चालीस साल पहले इस
+> बक्से में छोड़ दिया।
+
+---
+
+## पैनल ३ — क्लोज़, निहितार्थ (~१४%)
+
+**कैमरा:** इरा के चेहरे पर: निहितार्थ उतरता हुआ। जो काटने वाला हर रात भान को खोलता है, वह कट-सिरे
+जैसा ही धागा इस्तेमाल करता है। कट-सिरा इरा की सिलाई से चालीस साल पुराना है। काटने वाला और सीवर एक
+ही हाथ-विद्या बाँटते हैं। धागा तीनों को जोड़ता है: बक्सा, बाँह, हथेली।
+
+**दृश्य:** इरा की बेमेल आँखें बराबर हैं। वह अपने हाथों से अंकगणित कर रही है।
+
+> **इरा (संवाद, सपाट):**
+> काटने वाला वही धागा इस्तेमाल करता है जो बक्से में है।
 >
-> **KESSA (dialogue):**
-> That thread has not been outside this box in forty years.
+> **केसा (संवाद):**
+> वह धागा चालीस साल से इस बक्से के बाहर नहीं गया।
 >
-> **IRA (dialogue):**
-> Then someone has a second piece.
+> **इरा (संवाद):**
+> तो किसी के पास दूसरा टुकड़ा है।
 
 ---
 
-## चित्र-खाना 4 — Medium, Kessa's hands (~13%)
+## पैनल ४ — मध्यम, केसा के हाथ (~१३%)
 
-**कैमरा:** Kessa wraps the cut-end back into its bed and closes the box. Her hands move slowly —
-not fear, calculation. She reaches for the tally-thread at her belt and ties one knot: a Kshudra
-note, the same gesture as storing the four notes.
+**कैमरा:** केसा कट-सिरे को वापस उसके बिस्तर में लपेटती है और बक्सा बन्द करती है। उसके हाथ धीरे चलते
+हैं — डर नहीं, गणना। वह अपनी कमर पर बँधी गिनती-डोर की ओर हाथ बढ़ाती है और एक गाँठ बाँधती है: क्षुद्र
+टिप्पणी, वही इशारा जो चार स्वरों को रखने का था।
 
-**चित्र:** The knot in the tally-thread is the visual: Kessa is filing this revelation in the only
-ledger she trusts — her body.
+**दृश्य:** गिनती-डोर में गाँठ ही दृश्य है: केसा इस उद्घाटन को उस अकेली बहीखाते में दाख़िल कर रही है
+जिस पर वह भरोसा करती है — अपने शरीर।
 
-> **केसा (संवाद, quiet):**
-> Two pieces of the same thread. One in my box. One in the basin's night.
+> **केसा (संवाद, धीमा):**
+> एक ही धागे के दो टुकड़े। एक मेरे बक्से में। एक गर्त की रात में।
 >
-> **KESSA (dialogue):**
-> That's not a cutter, child. That's a supply line.
+> **केसा (संवाद):**
+> यह काटने वाला नहीं है, बच्ची। यह एक आपूर्ति-मार्ग है।
 
 ---
 
-## चित्र-खाना 5 — Wide, the basin night (~13%)
+## पैनल ५ — व्यापक, गर्त की रात (~१३%)
 
-**कैमरा:** Night, the basin: stalls closing, lamps guttering. The Knot & Nail's shutters are up
-still — Kessa has not closed them. The market is settling into the owned quiet that followed the
-census purchase.
+**कैमरा:** रात, गर्त: ठेले बन्द होते हुए, लालटेनें बुझती हुई। गाँठ और कील के शटर अब भी चढ़े हैं —
+केसा ने उन्हें बन्द नहीं किया। बाज़ार उस अधिकृत शान्ति में बैठ रहा है जो गणना ख़रीदे जाने के बाद आई थी।
 
-**चित्र:** The basin at night, normal and watchful. A figure moves at the far end of the row — not
-named, not visible clearly, just a shape among the stalls. The basin does not notice.
+**दृश्य:** रात का गर्त, सामान्य और सतर्क। कतार के दूर सिरे पर एक आकृति चलती है — अनाम, साफ़ दिखती
+नहीं, बस ठेलों के बीच एक रूप। गर्त ध्यान नहीं देता।
 
-> **शीर्षक (Ira's voice, small):**
-> Kessa tied one knot and said the basin has a supply line. I know what supply lines do. They
-> deliver.
-
----
-
-## चित्र-खाना 6 — Macro, the lockbox at night (~13%)
-
-**कैमरा:** The lockbox on the counter, lamplight on its black basalt surface. Kessa's hand rests
-on the lid — not opening, guarding. The box holds three things now: cut-end, census, posting order.
-
-**चित्र:** The box as icon: black, closed, heavy with three objects. Kessa's hand on it is the
-frame's anchor.
-
-> **शीर्षक (none spoken):**
-> Three objects in a box that has held one for forty years. The cutter's thread. The basin's list.
-> The two institutions' letter. Kessa keeps them all and signs for none.
+> **कैप्शन (इरा का स्वर, धीमा):**
+> केसा ने एक गाँठ बाँधी और कहा कि गर्त का एक आपूर्ति-मार्ग है। मैं जानती हूँ आपूर्ति-मार्ग क्या करते
+> हैं। वे पहुँचाते हैं।
 
 ---
 
-## चित्र-खाना 7 — Medium, the night question — HOOK (~19%)
+## पैनल ६ — मैक्रो, रात में ताला-बक्सा (~१३%)
 
-**कैमरा:** Ira at the counter, leaning on her elbows, face close to Kessa's. The question she has
-held since Page 001, asked again — but differently this time. Not *who sewed me* but *who is
-practising on my arm's grammar.*
+**कैमरा:** काउंटर पर ताला-बक्सा, उसकी काली बेसाल्ट सतह पर लालटेन की रोशनी। केसा का हाथ ढक्कन पर टिका
+है — खोलता नहीं, पहरा देता हुआ। बक्से में अब तीन चीज़ें हैं: कट-सिरा, गणना, स्थानांतरण-आदेश।
 
-**चित्र:** Two faces close across the counter, lamplight between them. Kessa's loupe is up. Her
-expression is the same as always — dry, transactional — but her hands are still on the box.
+**दृश्य:** बक्सा प्रतीक के रूप में: काला, बन्द, तीन चीज़ों से भारी। उस पर केसा का हाथ फ़्रेम का लंगर है।
 
-> **इरा (संवाद, quiet):**
-> The cutter and the sewer share a thread. They share a school. And someone is running the same
-> thread through Bhan's arm every night.
+> **कैप्शन (कोई बोलता नहीं):**
+> उस बक्से में तीन चीज़ें हैं जिसमें चालीस साल से एक रही। काटने वाले का धागा। गर्त की सूची। दो
+> संस्थाओं का ख़त। केसा सब रखती है और किसी के लिए दस्तख़त नहीं करती।
+
+---
+
+## पैनल ७ — मध्यम, रात का सवाल — हुक (~१९%)
+
+**कैमरा:** इरा काउंटर पर, कोहनियों के बल झुकी, चेहरा केसा के क़रीब। वह सवाल जो उसने पृष्ठ ००१ से
+थामा है, फिर पूछा गया — पर इस बार अलग ढंग से। *मुझे किसने सीया* नहीं, बल्कि *मेरी बाँह के व्याकरण पर
+कौन अभ्यास कर रहा है।*
+
+**दृश्य:** काउंटर के आर-पार दो चेहरे क़रीब, बीच में लालटेन की रोशनी। केसा का लूप ऊपर है। उसका भाव
+हमेशा जैसा — सूखा, लेन-देन वाला — पर उसके हाथ अब भी बक्से पर हैं।
+
+> **इरा (संवाद, धीमा):**
+> काटने वाला और सीवर एक धागा बाँटते हैं। वे एक विद्या बाँटते हैं। और कोई हर रात भान की बाँह से वही
+> धागा निकालता है।
 >
-> **इरा (संवाद, quieter):**
-> Who has the other piece?
+> **इरा (संवाद, और धीमा):**
+> दूसरा टुकड़ा किसके पास है?
 >
-> **केसा (संवाद, after a beat):**
-> Ask the box, child. It's been holding that question for forty years.
+> **केसा (संवाद, एक क्षण बाद):**
+> बक्से से पूछो, बच्ची। वह यह सवाल चालीस साल से थामे हुए है।
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The thread connection** is the page's revelation: the cutter uses thread identical to the
-  cut-end. The cut-end is forty years old. Therefore someone has a second piece of the same
-  thread, and they are using it in the basin's night.
-- **Kessa's tally-knot** is her filing system: one knot = one new fact stored in the only ledger
-  that cannot be subpoenaed. Keep the gesture identical to Ch. 002 Page 001's thumb-rub.
-- **The supply line concept** escalates the cutter from individual to network. This is Kessa's
-  word; do not use it again until it is proven.
-- **Chain budget: unspent.** Four notes silent. Sewer unnamed.
+- **धागे का सम्बन्ध** इस पृष्ठ का उद्घाटन है: काटने वाला कट-सिरे जैसा ही धागा इस्तेमाल करता है।
+  कट-सिरा चालीस साल पुराना है। इसलिए किसी के पास उसी धागे का दूसरा टुकड़ा है, और वे उसे गर्त की रात
+  में इस्तेमाल कर रहे हैं।
+- **केसा की गिनती-गाँठ** उसकी फ़ाइल-प्रणाली है: एक गाँठ = एक नया तथ्य, उस अकेली बहीखाते में दर्ज जिसे
+  सम्मन नहीं किया जा सकता। इशारा अध्याय ००२ पृष्ठ ००१ की अंगूठा-रगड़ जैसा ही रखें।
+- **आपूर्ति-मार्ग की धारणा** काटने वाले को व्यक्ति से जाल तक बढ़ा देती है। यह केसा का शब्द है; जब तक
+  यह सिद्ध न हो जाए, इसे दोबारा इस्तेमाल न करें।
+- **ज़ंजीर बजट: अख़र्च।** चार स्वर चुप। सीवर अनाम।
 
 ## कार्ड-गेम हुक
 
-| Beat | Card |
+| बीट | कार्ड |
 |---|---|
-| Two pieces of the same thread | Lore card — *The Supply Line* |
-| Kessa's tally-knot | Relic card — *The Body's Ledger* |
-| "Ask the box." | Event card — *Forty-Year Question* |
+| एक ही धागे के दो टुकड़े | लोर कार्ड — *आपूर्ति-मार्ग* |
+| केसा की गिनती-गाँठ | रिलिक कार्ड — *शरीर की बहीखाता* |
+| "बक्से से पूछो।" | इवेंट कार्ड — *चालीस साल का सवाल* |

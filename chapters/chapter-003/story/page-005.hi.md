@@ -1,127 +1,139 @@
-# THREADBORN — Chapter 03 — Page 005
+# सुत्रजात (THREADBORN) — अध्याय ०३ — पृष्ठ ००५
 
-**अध्याय शीर्षक:** *The Hand That Opens* / *वह हाथ जो खोलता है*
-**खंड:** I — अनुकुलन
-**क्षेत्र:** Agnikhand — Ashfall Basin, dawn
-**पृष्ठ प्रकार:** The cutter comes — 7 panels, hook at the bottom
+**अध्याय शीर्षक:** *वह हाथ जो खोलता है*
+**आर्क:** I — अनुकुलन
+**खण्ड:** अग्निखण्ड — भस्म-गर्त, भोर
+**पृष्ठ प्रकार:** काटने वाला आता है — ७ पैनल, अन्त में हुक
 
-> पिछले पृष्ठ से: Page 004: the supply line, the second piece of thread, Kessa's tally-knot.
-> Page 003: Bhan's arm left readable, the charcoal mark.
+> English source: [`page-005.md`](page-005.md)
+> This is the Hindi translation track. Lettering follows the same balloon styles — see
+> `series-bible/style-guide.md`.
 
----
-
-## चित्र-खाना 1 — Wide, dawn at the dock (~14%)
-
-**कैमरा:** Dawn, dock three: Bhan asleep against a grain-lift, left sleeve rolled up, forearm
-exposed. The charcoal mark Ira left is visible at the mend's edge. The dock is empty — the night
-shift ended, the day shift has not begun.
-
-**चित्र:** Bhan sleeping, patient even in rest. His arm is a canvas waiting. The dock lamp flickers.
-
-> **शीर्षक (none spoken):**
-> Night fifty-three. The arm waits, as it has waited every night.
+> पृष्ठ ००४ से आगे आते सूत्र: आपूर्ति-मार्ग, धागे का दूसरा टुकड़ा, केसा की गिनती-गाँठ। पृष्ठ ००३:
+> भान की बाँह पढ़ने योग्य छोड़ी गई, कोयला-निशान।
 
 ---
 
-## चित्र-खाना 2 — Medium, the figure arrives (~13%)
+## पैनल १ — व्यापक, गोदी पर भोर (~१४%)
 
-**कैमरा:** A figure at the dock's edge, hooded, small — not a large person. The shadow falls
-correctly (not a Preta). Hands emerge from the hood: gloved, precise, ash-grey thread wound round
-one finger. The figure kneels beside Bhan.
+**Camera:** भोर, गोदी तीन: भान एक अनाज-उत्थापक के सहारे सोया हुआ, बायीं आस्तीन चढ़ी, बाँह खुली। इरा
+जो कोयला-निशान छोड़ गई थी, वह सिलाई के किनारे दिखता है। गोदी ख़ाली है — रात की पाली ख़त्म, दिन की
+शुरू नहीं हुई।
 
-**चित्र:** The cutter: hooded, careful, moving the way Kessa moves — unhurried, final. The
-ash-grey thread is visible on the gloved finger. The cutter's hands are steady and surgical.
+**दृश्य:** भान सोया हुआ, विश्राम में भी धैर्यवान। उसकी बाँह कैनवास है, प्रतीक्षा में। गोदी की लालटेन
+टिमटिमाती है।
 
-> **ध्वनि:** (soft, thread through skin) *tsss*
-
----
-
-## चित्र-खाना 3 — Macro, the cut (~14%)
-
-**कैमरा:** Extreme close on Bhan's forearm as the cutter works: the nightly reopening, the
-turn-back at each end, the stitch-grammar that matches Ira's palm. But tonight the cutter pauses —
-the charcoal mark is in the way. The cutter's gloved fingertip touches the mark.
-
-**चित्र:** The cutter reads the mark. The mark says: *someone was here before you.* The cutter's
-hand does not withdraw. It stays.
-
-> **शीर्षक (none spoken):**
-> The mark said: *read.* The cutter read it.
+> **कैप्शन (कोई बोलता नहीं):**
+> तिरपनवीं रात। बाँह इंतज़ार करती है, जैसे हर रात करती आई है।
 
 ---
 
-## चित्र-खाना 4 — Close, the response (~13%)
+## पैनल २ — मध्यम, आकृति आती है (~१३%)
 
-**कैमरा:** The cutter's hand, still on the charcoal mark. A new gesture: the cutter takes a
-second piece of ash-grey thread — the supply line's second piece — and lays it across the mark,
-sealing it into the seam. Not hiding it. *Acknowledging* it.
+**कैमरा:** गोदी के किनारे एक आकृति, टोपी लगाए, छोटी — बड़ी देह नहीं। छाया ठीक गिरती है (प्रेत नहीं)।
+टोपी से हाथ निकलते हैं: दस्ताने पहने, सटीक, एक उँगली पर राख-धूसर धागा लिपटा हुआ। आकृति भान के पास
+घुटनों के बल बैठती है।
 
-**चित्र:** The second thread is identical to the cut-end in Kessa's box. The cutter is not
-erasing Ira's mark — they are *filing* it, sewing it into the evidence, keeping it.
+**दृश्य:** काटने वाला: टोपी लगाए, सावधान, वैसे चलता हुआ जैसे केसा चलती है — बिना जल्दबाज़ी, अन्तिम।
+दस्ताने वाली उँगली पर राख-धूसर धागा दिखता है। काटने वाले के हाथ स्थिर और शल्य-चिकित्सकीय हैं।
 
-> **शीर्षक (Ira's voice, smallest):**
-> They didn't remove my mark. They kept it. They sewed it in.
-
----
-
-## चित्र-खाना 5 — Medium, the departure (~13%)
-
-**कैमरा:** The cutter stands, rolls Bhan's sleeve down — careful, gentle, the way you close a book
-you intend to read again. The hood turns toward the stall-row for one frame — not toward the Knot &
-Nail, but toward the basin's list-post. Then the figure walks into the pre-dawn grey.
-
-**चित्र:** The cutter's departure is unhurried. The hood's angle toward the list-post is the hook's
-seed: the cutter knows where things are filed in this basin.
-
-> **शीर्षक (none spoken):**
-> Night fifty-three. The arm is closed. The mark is kept. The cutter walks toward the filing.
+> **ध्वनि:** (कोमल, त्वचा से गुज़रता धागा) *त्स्स्स*
 
 ---
 
-## चित्र-खाना 6 — Medium, morning at the stall (~13%)
+## पैनल ३ — मैक्रो, कटाई (~१४%)
 
-**कैमरा:** Morning, Knot & Nail: Ira arrives to find Kessa already behind the counter, loupe
-down, lockbox open. The cut-end is out. Kessa is comparing something — a fresh length of thread,
-left on the counter overnight by an unknown hand.
+**कैमरा:** भान की बाँह पर बहुत पास से, जब काटने वाला काम करता है: रात्रि-पुनःखुलना, दोनों सिरों पर
+मोड़-सिरा, वह सिलाई-व्याकरण जो इरा की हथेली से मेल खाता है। पर आज रात काटने वाला रुकता है — कोयला-निशान
+रास्ते में है। काटने वाले की दस्ताने वाली उँगली निशान को छूती है।
 
-**चित्र:** A third piece of ash-grey thread on the counter. Not the cut-end (that's in the box).
-Not Ira's (she carries needles, not thread-spool). Left by someone who knows the stall's hours.
+**दृश्य:** काटने वाला निशान पढ़ता है। निशान कहता है: *तुमसे पहले कोई यहाँ था।* काटने वाले का हाथ पीछे
+नहीं हटता। वह वहीं रहता है।
 
-> **केसा (संवाद, dry):**
-> Someone left thread on my counter overnight.
+> **कैप्शन (कोई बोलता नहीं):**
+> निशान ने कहा था: *पढ़ो।* काटने वाले ने उसे पढ़ा।
+
+---
+
+## पैनल ४ — क्लोज़, जवाब (~१३%)
+
+**कैमरा:** काटने वाले का हाथ, अब भी कोयला-निशान पर। एक नया इशारा: काटने वाला राख-धूसर धागे का दूसरा
+टुकड़ा उठाता है — आपूर्ति-मार्ग का दूसरा टुकड़ा — और उसे निशान के आर-पार रखता है, उसे सीवन में सी देता
+है। छिपाता नहीं। उसे *स्वीकार* करता है।
+
+**दृश्य:** दूसरा धागा केसा के बक्से के कट-सिरे जैसा ही है। काटने वाला इरा का निशान मिटा नहीं रहा —
+वे उसे *दाख़िल* कर रहे हैं, सबूत में सी रहे हैं, रख रहे हैं।
+
+> **कैप्शन (इरा का स्वर, सबसे धीमा):**
+> उन्होंने मेरा निशान हटाया नहीं। उन्होंने उसे रख लिया। उन्होंने उसे सी दिया।
+
+---
+
+## पैनल ५ — मध्यम, प्रस्थान (~१३%)
+
+**कैमरा:** काटने वाला खड़ा होता है, भान की आस्तीन नीचे करता है — सावधानी से, कोमलता से, जैसे आप ऐसी
+किताब बन्द करते हैं जिसे दोबारा पढ़ना है। टोपी एक फ़्रेम के लिए ठेला-कतार की ओर मुड़ती है — गाँठ और
+कील की ओर नहीं, बल्कि गर्त के सूची-स्तम्भ की ओर। फिर आकृति भोर-पूर्व की धूसरता में चली जाती है।
+
+**दृश्य:** काटने वाले का प्रस्थान बिना जल्दबाज़ी है। सूची-स्तम्भ की ओर टोपी का कोण हुक का बीज है:
+काटने वाला जानता है कि इस गर्त में चीज़ें कहाँ दाख़िल होती हैं।
+
+> **कैप्शन (कोई बोलता नहीं):**
+> तिरपनवीं रात। बाँह बन्द है। निशान रखा गया है। काटने वाला दाख़िले की ओर चलता है।
+
+---
+
+## पैनल ६ — मध्यम, ठेले पर सुबह (~१३%)
+
+**कैमरा:** सुबह, गाँठ और कील: इरा पहुँचती है तो केसा पहले से काउंटर के पीछे है, लूप नीचे, ताला-बक्सा
+खुला। कट-सिरा बाहर है। केसा किसी चीज़ की तुलना कर रही है — धागे का एक ताज़ा टुकड़ा, जिसे रात भर में
+किसी अनजान हाथ ने काउंटर पर छोड़ दिया।
+
+**दृश्य:** काउंटर पर राख-धूसर धागे का तीसरा टुकड़ा। कट-सिरा नहीं (वह बक्से में है)। इरा का नहीं (वह
+सुइयाँ ढोती है, धागे की अटी नहीं)। किसी ऐसे ने छोड़ा जो ठेले के समय जानता है।
+
+> **केसा (संवाद, सूखा):**
+> किसी ने रात भर में मेरे काउंटर पर धागा छोड़ दिया।
 >
-> **KESSA (dialogue):**
-> वही धागा। वही माप। A gift, or a receipt.
+> **केसा (संवाद):**
+> वही धागा। वही माप। तोहफ़ा, या रसीद।
 
 ---
 
-## चित्र-खाना 7 — Macro, the three pieces — HOOK (~19%)
+## पैनल ७ — मैक्रो, तीनों टुकड़े — हुक (~१९%)
 
-**कैमरा:** The counter, flat: the cut-end from the box, the thread from the counter, and — laid
-beside them — Ira's own mending thread from her kit. Three pieces of ash-grey thread, same colour,
-same gauge, same age-range: one forty years old (cut-end), one fresh (counter), one fifteen years
-old (Ira's, the age of her stitch).
+**कैमरा:** काउंटर, सपाट: बक्से से कट-सिरा, काउंटर से धागा, और — उनके बगल में रखा — इरा की थैली से
+उसका अपना सिलाई-धागा। राख-धूसर धागे के तीन टुकड़े, वही रंग, वही माप, वही उम्र-सीमा: एक चालीस साल
+पुराना (कट-सिरा), एक ताज़ा (काउंटर), एक पन्द्रह साल पुराना (इरा का, उसकी सिलाई की उम्र)।
 
-**चित्र:** Three pieces of thread, side by side. A family photograph of the supply line.
+**दृश्य:** धागे के तीन टुकड़े, साथ-साथ। आपूर्ति-मार्ग की पारिवारिक तस्वीर।
 
-> **केसा (संवाद, quiet):**
-> Box. Counter. Yours. Same thread.
+> **केसा (संवाद, धीमा):**
+> बक्सा। काउंटर। तुम्हारा। वही धागा।
 >
-> **केसा (संवाद, quieter):**
-> Whoever is running this supply line wants you to know they exist.
+> **केसा (संवाद, और धीमा):**
+> जो भी यह आपूर्ति-मार्ग चला रहा है, वह चाहता है कि तुम जानो कि वह मौजूद है।
 >
-> **शीर्षक (none spoken):**
-> The cutter left a receipt. The thread is the message: *I have the same thread you do. I have
-> always had it. And now you know.*
+> **कैप्शन (कोई बोलता नहीं):**
+> काटने वाले ने रसीद छोड़ी। धागा ही संदेश है: *मेरे पास वही धागा है जो तुम्हारे पास है। वह हमेशा से
+> मेरे पास था। और अब तुम जानती हो।*
 
 ---
 
 ## लेखन और चित्र नोट्स
 
-- **The cutter is shown but not named.** Hooded, small-handed, unhurried. The shadow falls
-  correctly (not Preta). Do not reveal face, voice, or Kind.
-- **The charcoal mark is read and kept** — the cutter acknowledges Ira's presence without
-  removing her evidence. This is a conversation conducted in stitch-grammar.
-- **The third thread on the counter** is the chapter's escalation: the supply line is active
-  and confident enough to deliver to the stall itself.
-- **Chain budget: unspent.** Four notes silent. Sewer unnamed.
+- **काटने वाला दिखाया जाता है पर नामित नहीं।** टोपी लगाए, छोटे हाथों वाला, बिना जल्दबाज़ी। छाया ठीक
+  गिरती है (प्रेत नहीं)। चेहरा, आवाज़, या जाति न खोलें।
+- **कोयला-निशान पढ़ा जाता है और रखा जाता है** — काटने वाला इरा की मौजूदगी स्वीकार करता है, उसका सबूत
+  हटाए बिना। यह सिलाई-व्याकरण में चलने वाली बातचीत है।
+- **काउंटर पर तीसरा धागा** इस अध्याय की वृद्धि है: आपूर्ति-मार्ग सक्रिय है और इतना आत्मविश्वासी कि
+  ठेले तक ही पहुँचा दे।
+- **ज़ंजीर बजट: अख़र्च।** चार स्वर चुप। सीवर अनाम।
+
+## कार्ड-गेम हुक
+
+| बीट | कार्ड |
+|---|---|
+| काटने वाला रसीद छोड़ता है | इवेंट कार्ड — *सीया हुआ स्वीकार* |
+| राख-धूसर धागे के तीन टुकड़े | लोर कार्ड — *पारिवारिक तस्वीर* |
+| "वह चाहता है कि तुम जानो कि वह मौजूद है।" | इवेंट कार्ड — *संदेश* |
