@@ -11,11 +11,41 @@
 |---|---|
 | **Critical findings** | **0** (run 6) — Hindi complete for Ch. 001–010 (94.4–98.3% Devanagari; floor 80%) |
 | **Major findings** | **1 open** (run 5) — **art-style split:** Ch. 001–005 were generated in an earlier, off-style pass (semi-modern props, occasional readable Latin lettering). ~10+ images to regenerate. Not fixable by edit. |
-| **Minor findings** | **4 open** (run 6) — image dimension variation, cast-file format/depth drift, तकुआ/तकली normalisation, 7 model sheets still short of the 8-panel standard |
+| **Minor findings** | **3 open** (run 7) — image dimension variation, cast-file format/depth drift, तकुआ/तकली normalisation. *(The 8-panel gap closed in run 7.)* |
 | **Fixed in run 5** | 133 missing `Camera:`/`कैमरा:` labels (Ch. 004–005) · 19 pages given notes sections (EN+HI) · Ch. 001–002 headings normalised · Ch. 004 p008 page-type line · 28 obsolete `.gitkeep` files · README's false "PR #3 merged" claim |
 | **Structural integrity** | **PASS** — 100/100 EN scripts, 100/100 HI scripts, 100/100 images, 100/100 cast files, 10/10 summaries, 20/20 `other/` files, 0 junk |
 | **Continuity integrity** | **PASS** — mother never on panel, Loom never speaks, chain-stop budget accounted for in every chapter that states one |
 | **Merge state** | **PR #3 merged into `main` this run** (user instruction, after audit) |
+
+## Audit run 7 — 2026-09-21 (bring the back catalogue up to the standard)
+
+Requested scope: *"update first current arts"* — the seven sheets that predated
+`05-character-art-spec.md` were extended to the full eight panels, and the alt-sheet convention was
+added with Ira as the first.
+
+### Delivered
+
+| # | Item | Result |
+|---|---|---|
+| 1 | **Seven sheets re-drawn to eight panels** — Ira, Kessa, Patra, Rekhak, Nandi, Jadi, Nima. | Each was regenerated **from its own existing sheet as the character reference**, so face, build, costume and rendering style carry over rather than being redesigned. Every one now has front · side · back · face · detail · hands · kit · action, with the detail panel mapped to that character's canon (Ira's stitched right palm, Kessa's loupe over the eye, Patra's backlit blank name-tags, Rekhak's Sight-mark and neck-lines, Nandi's leaf by lamplight, Jadi's grey-and-crimson palm, Nima's wrist turned inward). |
+| 2 | **Two canon extras found while re-drawing** (both now in the sheets) | Kessa's sheet says the loupe flips down over the **left** eye — the ref sheet shows it, and the old sheet only ever showed it pushed up. Nima's braid is the school's and gets turned against her leg: slot 5 is that turn, and it is the one thing the Office would have to enter if it ever saw it. |
+| 3 | **Alt sheets are now a documented convention** | `05-character-art-spec.md` §6.1: `<name>-alt.png`, lettered slots **A–H** (never numbered — the eight numbered slots belong to the model sheet), pattern = default state · variant state · five expressions · macro detail · kit tipped out · two staging panels · silhouette test. |
+| 4 | **Ira's alt sheet drawn** — `chapter-001/characters/ira-sutar-alt.png`: working state and ceremony state, five expressions (including one the series has not used yet), macro palm, satchel tipped out, crowd staging under the Loom, waiting-room staging, and three solid-black silhouette studies. | The silhouette test from `style-guide.md` is now an actual panel in the repo for the first time. |
+| 5 | **Site support** | The art page auto-detects `<name>-alt.png` and grows an **Alt sheet** section with lettered chips and its own click-to-zoom plate; the sheet page's card reads *8 panels + alt sheet*. |
+| 6 | **Layout exceptions recorded, not silently broken** | Patra (tall two-column) and Jadi (tall stacked) keep the page shapes they were designed on — the spec now lists them under *settled layout exceptions* so no future editor "fixes" them. |
+
+### Verified
+
+- All nine `*-ref.png` + one `*-alt.png` decode as valid PNGs, 1.8–2.2 MB (inside the 1.2–3 MB band),
+  eight panels each (ten for Patra's 3-3-2-2 arrangement).
+- Nine art pages rebuilt; **16,064 local links over 343 pages — 0 broken**.
+- Every sheet's `**Ref sheet panels:**` line matches the art; no cast file claims a sheet is missing.
+
+### Still open after run 7
+
+- **Ch. 001–005 page art style split** (run 5) remains the repo's single major art item — unrelated to
+  character sheets, and still a ~10+ page regeneration job.
+- Alt sheets exist for Ira only. The convention is ready for the next character who needs one.
 
 ## Audit run 6 — 2026-09-21 (character-art standard + clickable model sheets)
 
@@ -37,10 +67,10 @@ the site**.
 
 ### Still open after run 6
 
-- **Seven sheets predate the standard** (Ira, Kessa, Patra, Rekhak, Nandi, Jadi, Nima): all have
+- ~~**Seven sheets predate the standard** (Ira, Kessa, Patra, Rekhak, Nandi, Jadi, Nima): all have
   front · side · back · face, and all but Rekhak have a hands/detail slot, but **none has the kit and
-  action slots**. Their art pages say so out loud. Extending them is a 7-sheet art job for the next
-  pass — no rewrite of the prose is needed, only slots 7–8, and the `**Ref sheet panels:**` line.
+  action slots**.~~ → **CLOSED in run 7**: all seven re-drawn to the full eight panels from their own
+  sheets as the character reference. **No sheet in the repo is short any more.**
 - The run-5 **Ch. 001–005 style split** remains the repo's biggest art item, unchanged by this run.
 - Model sheets are drawn in one pass each; nothing here re-renders a page.
 

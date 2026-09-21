@@ -9,8 +9,8 @@ Sectors; Agnikhand tolerates them the way it tolerates smoke)
 **Occupation:** contract broker for principals who cannot or will not appear
 **Mark location:** none. Where a Sutra-mark should be, there is a **smooth scar of absence** over the
 heart. Do not draw it in Chapter 1; it is a later reveal.
-**Ref sheet:** [`patra-ref.png`](patra-ref.png) — 5 panels (front · side · back · face · detail)
-**Ref sheet panels:** front · side · back · face · detail (the belt of blank name-tags by candlelight)
+**Ref sheet:** [`patra-ref.png`](patra-ref.png) — 8 panels (the house standard; drawn in the tall two-column layout)
+**Ref sheet panels:** front · side · back · face · detail (the belt of blank name-tags, backlit) · hands (open, translucent fingertips, tag-cord looped on one wrist) · kit (document case, blank ribbon, uncut seal, purse of blank tags, snuffer, candle, folded cloth) · action (the record-room aisle, a blank page held out, shadows falling toward the light)
 
 ---
 

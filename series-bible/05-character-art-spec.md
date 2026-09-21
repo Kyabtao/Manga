@@ -1,6 +1,7 @@
 # Character Art Spec — the standard model sheet
 
 **Status:** canon. Every named recurring character gets one, and every one looks the same.
+**As of 2026-09-21:** all nine sheets carry the full eight panels.
 **Applies to:** `chapters/<chapter>/characters/<name>-ref.png` — the file beside the sheet, in the
 chapter of that character's **first appearance**, forever (see README *Structure conventions*).
 
@@ -36,6 +37,14 @@ working hands — and kept by every sheet since.
 | 7 | **Kit** | Their carried objects laid out flat, like a table after they empty their pockets. Every recurring prop is in this panel. |
 | 8 | **Action** | The same design in use, under pressure — mid-work, mid-reading, mid-standing-in-a-doorway. Proof the model sheet survives a scene. |
 | 9+ | **Anything else** | Optional extras after slot 8: extra costume state, an alternate hand, a second expression, a seasonal/arc variant. Add them; never renumber the eight. |
+
+**Settled layout exceptions** (both predate the standard and are kept deliberately — the panels are
+all there, the page just reads differently):
+
+| Sheet | Layout | Why |
+|---|---|---|
+| `patra-ref.png` | tall, two columns (1 2 / 3 4 / 5 6 / 7 8) | the tall page shape Patra was designed on; keep it |
+| `jadi-ref.png` | tall stacked (3 / 2 / 2) | Jadi's sheet was always the tall one; the extra height suits a woman drawn wide and stooped |
 
 **Slot reducers:** if a character genuinely has no kit, slot 7 carries what the *scene* carries
 (chairs, ledgers, lamps) — an empty slot is a wasted panel.
@@ -86,13 +95,42 @@ Replace `<the detail>` with the character's slot-5 subject. Feed the closest exi
 **style reference only**, and say so in the prompt — otherwise the new character inherits the old
 character's face.
 
+## 6.1 Alt sheets — the second page (optional, for characters who need one)
+
+When a character has states, expressions and staging that the eight slots cannot hold, add
+**`<name>-alt.png`** beside the model sheet and list it in the character sheet:
+
+```
+**Alt sheet:** [`ira-sutar-alt.png`](ira-sutar-alt.png) — alternate states, expressions, staging
+and silhouette (spec §7)
+**Alt panels:** default state · ceremony-day state · five expressions · macro hands · satchel
+tipped out · crowd staging · waiting-room staging · three silhouettes
+```
+
+Alt-sheet slots are **lettered A, B, C…** (never numbered — the eight numbered slots belong to the
+model sheet). The house alt pattern, as first drawn for Ira:
+
+| Slot | Panel |
+|---|---|
+| A | Default state, full length (the one every page uses) |
+| B | One variant state, full length (costume state, weather, ceremony, arc variant) |
+| C | An expression row — five head studies, one of them an expression not used yet |
+| D | Macro of the character's single most important physical detail, at drawing resolution |
+| E | Alternative/expanded kit — the bag tipped out |
+| F–G | Two staging panels: the character inside their actual world, one crowded and warm, one institutional and cold |
+| H | The **silhouette test**, run literally: three solid black shapes — standing, working, walking away |
+
+An alt sheet is discovered automatically: drop the file, add the two lines, rebuild — the art page
+grows an **Alt sheet** section with its own lettered chips and click-to-zoom plate.
+
 ## 6. How it reaches the site
 
 `python3 website/build.py` scans every `chapters/*/characters/*-ref.png` and builds, for each one:
 
 - a **thumbnail card** on `website/characters/index.html`;
 - a **gallery page** `website/characters/<name>-art.html` — the full sheet as a click-to-zoom plate,
-  plus a labelled crop of each of the eight slots;
+  the slot list as numbered chips, the character's **Drawing brief**, and (when one exists) the
+  **alt sheet** below it with lettered chips;
 - and a back-link strip on the character's sheet page.
 
 Crops are generated into `website/characters/art/<name>-<slot>.png` by the build (ImageMagick) so the

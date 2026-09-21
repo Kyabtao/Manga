@@ -396,6 +396,28 @@ def ref_of(src_md):
     ref = src_md[:-3] + "-ref.png"
     return ref if os.path.exists(os.path.join(ROOT, ref)) else None
 
+def alt_of(src_md):
+    """The optional alt sheet (<name>-alt.png) — variants, expressions, staging, silhouette."""
+    alt = src_md[:-3] + "-alt.png"
+    return alt if os.path.exists(os.path.join(ROOT, alt)) else None
+
+def alt_panels(src_md):
+    """Panel list for an alt sheet — from the sheet's `**Alt panels:**` line, if present."""
+    lines = open(os.path.join(ROOT, src_md), encoding="utf-8").read().split("\n")
+    for i, line in enumerate(lines):
+        m = re.match(r"^\*\*Alt panels:\*\*\s*(.*)$", line)
+        if not m:
+            continue
+        parts = [m.group(1)]
+        for nxt in lines[i + 1:]:
+            s = nxt.strip()
+            if not s or re.match(r"^(\*\*[^*]+:\*\*|#|\||-{3,})", s):
+                break
+            parts.append(s)
+        joined = " ".join(" ".join(parts).split())
+        return [x.strip() for x in re.split(r"\s*[·|]\s*", joined) if x.strip()]
+    return []
+
 def display_name(src_md):
     return posixpath.basename(src_md)[:-3].replace("-", " ").title()
 
@@ -452,8 +474,10 @@ def ref_card(src_md, site_rel):
             '<a class="refopen" href="%s-art.html">'
             '<img src="%s" loading="lazy" alt="%s — model sheet">'
             '<span class="refopen-tag">Open art page →</span></a>'
-            '<figcaption><b>Model sheet</b> — %d panels. Press the art to see it full size.'
-            '</figcaption></figure>' % (base, img, display_name(src_md), len(sheet_panels(src_md))))
+            '<figcaption><b>Model sheet</b> — %d panels%s. Press the art to see it full size.'
+            '</figcaption></figure>'
+            % (base, img, display_name(src_md), len(sheet_panels(src_md)),
+               " + alt sheet" if alt_of(src_md) else ""))
 
 def build_character_art(src_md, ref, names):
     """`characters/<name>-art.html` — the clickable model-sheet gallery page."""
@@ -465,6 +489,21 @@ def build_character_art(src_md, ref, names):
     panels = sheet_panels(src_md)
     chips = "".join('<span class="panelchip"><i>%d</i>%s</span>' % (i + 1, esc(p))
                     for i, p in enumerate(panels))
+    alt = alt_of(src_md)
+    alt_html = ""
+    if alt:
+        alt_img = site_url(alt, site_rel)
+        alt_list = alt_panels(src_md)
+        alt_chips = "".join('<span class="panelchip"><i>%s</i>%s</span>' % (chr(ord("A") + i), esc(x))
+                            for i, x in enumerate(alt_list))
+        alt_html = ('<h2>Alt sheet</h2>'
+                    '<p class="lede">Variants, expressions, staging and the silhouette test — the '
+                    'second page, used when a scene needs a state the model sheet does not carry.</p>'
+                    '<figure class="sheetart">'
+                    '<img class="zoomable" src="%s" alt="%s alt sheet" tabindex="0">'
+                    '<figcaption>Press to open full size; the viewer behaves the same way.</figcaption>'
+                    '<div class="zoomhint"><span>🔍 click to zoom</span></div></figure>'
+                    '<div class="panels">%s</div>' % (alt_img, display_name(src_md), alt_chips))
     brief = sheet_section(src_md)
     brief_html = ('<h2>Drawing brief</h2><div class="brief">%s</div>'
                   % blocks(brief.split("\n"), res)) if brief else ""
@@ -484,12 +523,12 @@ def build_character_art(src_md, ref, names):
             '<figcaption>Press the sheet to open it full size · scroll to zoom · drag to move · '
             'Esc to close</figcaption>'
             '<div class="zoomhint"><span>🔍 click to zoom</span></div></figure>'
-            '<div class="panels">%s</div>%s%s'
+            '<div class="panels">%s</div>%s%s%s'
             '<p class="pagelinks-note">Full written sheet, canon rules and card-game line: '
             '<a href="%s.html">%s</a></p>'
             % (display_name(src_md).upper(), chnum, sheet_panel_lede(panels), img,
                display_name(src_md), esc(" · ".join(panels)),
-               chips, brief_html, links, base, display_name(src_md)))
+               chips, alt_html, brief_html, links, base, display_name(src_md)))
     html = page("%s — art" % display_name(src_md), site_rel, body,
                 crumb='<a href="../index.html">Home</a> / <a href="index.html">Characters</a> / '
                       '<a href="%s.html">%s</a> / Art' % (base, display_name(src_md)))

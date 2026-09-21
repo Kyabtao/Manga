@@ -4,8 +4,8 @@
 **Kind:** Kshudra · **Age:** very old — older than the binding, older than the school's charter
 **Function:** Keeper of the Mendery archive. The only other person alive who knows the name on the
 Roll of Hands.
-**Ref sheet:** [`nandi-ref.png`](nandi-ref.png) — 5 panels (front · side · back · face · detail)
-**Ref sheet panels:** front · side · back · face · detail (file-dust hands over a torn leaf)
+**Ref sheet:** [`nandi-ref.png`](nandi-ref.png) — 8 panels (the house standard)
+**Ref sheet panels:** front · side · back · face · detail (file-dust hands lifting a knot-scribed leaf into lamplight) · hands (open, thick-knuckled, grit in the creases) · kit (archive twine, tied blank quires, tally-stick, key ring, shuttered hand lamp, brush, stone weight, candle stub) · action (on the step at a high shelf — the quires come down, lamp low)
 
 ---
 
