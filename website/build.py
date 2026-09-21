@@ -64,6 +64,20 @@ class Resolver:
         out = posixpath.relpath(new, self.site_dir or ".")
         return out + ("#" + frag if frag else "")
 
+def site_url(repo_path, site_rel, as_image=True):
+    """Site URL for a file addressed by its REPO path (not by a markdown-relative href).
+
+    Site pages live one directory deeper than the repo root the server is started in, so a repo
+    path needs one extra `..` per directory of the page. Generated cards and plates use this;
+    markdown bodies use Resolver, which takes markdown-relative hrefs instead.
+    """
+    target = posixpath.normpath(repo_path)
+    if not as_image and target in SRC2SITE:
+        new = SRC2SITE[target]
+    else:
+        new = "../" + target
+    return posixpath.relpath(new, posixpath.dirname(site_rel) or ".")
+
 def inline(md, res=None):
     codes = []
     def stash(m):
@@ -433,8 +447,7 @@ def ref_card(src_md, site_rel):
     if not ref:
         return ""
     base = posixpath.basename(src_md)[:-3]
-    res = Resolver(src_md, site_rel)
-    img = res("../" + ref)
+    img = site_url(ref, site_rel)
     return ('<figure class="refcard">'
             '<a class="refopen" href="%s-art.html">'
             '<img src="%s" loading="lazy" alt="%s — model sheet">'
@@ -448,7 +461,7 @@ def build_character_art(src_md, ref, names):
     site_rel = "characters/%s-art.html" % base
     chnum = src_md.split("/")[1].split("-")[1]
     res = Resolver(src_md, site_rel)
-    img = res("../" + ref)
+    img = site_url(ref, site_rel)
     panels = sheet_panels(src_md)
     chips = "".join('<span class="panelchip"><i>%d</i>%s</span>' % (i + 1, esc(p))
                     for i, p in enumerate(panels))
@@ -502,11 +515,11 @@ def build_characters():
             build_character_art(src, ref, names)
             art_pages += 1
             base = posixpath.basename(src)[:-3]
-            rel = posixpath.relpath("../" + ref, "characters")
+            rel = site_url(ref, "characters/index.html")
             card = ('<div class="char">'
                     '<a class="charthumb" href="%s-art.html" title="Open %s\'s model sheet">'
                     '<img src="%s" loading="lazy" alt="%s model sheet thumbnail"></a>'
-                    '<div class="charmeta"><a class="charname" href="%s">%s</a>'
+                    '<div class="charmeta"><a class="charname" href="%s.html">%s</a>'
                     '<a class="charart" href="%s-art.html">%d-panel art ↗</a></div></div>'
                     % (base, name, rel, name, base, name, base, len(sheet_panels(src))))
         else:
