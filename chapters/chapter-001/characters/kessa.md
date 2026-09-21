@@ -6,6 +6,8 @@
 **Sector:** Agnikhand (Ash Sector), Ashfall Basin Under-Market
 **Age:** unknown (Kshudra live long; she has "counted four Unspoolings")
 **Occupation:** pawnbroker / **debt-appraiser** — runs the stall **The Knot & Nail**
+**Ref sheet:** [`kessa-ref.png`](kessa-ref.png) — 5 panels (front · side · back · face · hands)
+**Ref sheet panels:** front · side · back · face · hands (catching a knotted tally-cord)
 
 ---
 

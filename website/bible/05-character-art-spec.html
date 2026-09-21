@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>05-character-art-spec · THREADBORN</title>
+<link rel="stylesheet" href="../assets/site.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+<a class="brand" href="../index.html">THREADBORN <span>सुत्रजात</span></a>
+<nav><a class="" href="../index.html">Home</a><a class="" href="../read/index.html">Read</a><a class="" href="../bible/00-overview.html">Bible</a><a class="" href="../characters/index.html">Characters</a><a class="" href="../world/glossary.html">World</a><a class="" href="../about.html">About</a><div class="nav-chapters"><button class="nav-ch-btn" aria-expanded="false">Chapters ▾</button><div class="nav-ch-dropdown" hidden><a href="../read/chapter-001/index.html">Chapter 001 <span>10 pages · complete</span></a><a href="../read/chapter-002/index.html">Chapter 002 <span>10 pages · complete</span></a><a href="../read/chapter-003/index.html">Chapter 003 <span>10 pages · complete</span></a><a href="../read/chapter-004/index.html">Chapter 004 <span>10 pages · complete</span></a><a href="../read/chapter-005/index.html">Chapter 005 <span>10 pages · complete</span></a><a href="../read/chapter-006/index.html">Chapter 006 <span>10 pages · complete</span></a><a href="../read/chapter-007/index.html">Chapter 007 <span>10 pages · complete</span></a><a href="../read/chapter-008/index.html">Chapter 008 <span>10 pages · complete</span></a><a href="../read/chapter-009/index.html">Chapter 009 <span>10 pages · complete</span></a><a href="../read/chapter-010/index.html">Chapter 010 <span>10 pages · complete</span></a></div></div></nav>
+</div></header>
+<div class="crumb wrap"><a href="../index.html">Home</a> / Series bible</div>
+<main class="wrap ">
+
+<h1>Character Art Spec — the standard model sheet</h1>
+<p><strong>Status:</strong> canon. Every named recurring character gets one, and every one looks the same. <strong>Applies to:</strong> <code>chapters/&lt;chapter&gt;/characters/&lt;name&gt;-ref.png</code> — the file beside the sheet, in the chapter of that character's <strong>first appearance</strong>, forever (see README <em>Structure conventions</em>).</p>
+<hr>
+<h2>1. The rule</h2>
+<blockquote><p><strong>A character is not finished until their model sheet exists.</strong> A <code>&lt;name&gt;.md</code> sheet without a <code>&lt;name&gt;-ref.png</code> beside it is an unfinished character.</p></blockquote>
+<p>The reason is production, not decoration: this series draws the same face across hundreds of pages, generated page by page. The ref sheet is the <strong>only</strong> thing that keeps a character one person. It is also the first thing the website shows when a reader clicks a character — <em>press the art, see the art</em> (<code>website/characters/&lt;name&gt;-art.html</code>, built automatically from the file).</p>
+<p>Set by <strong>Ira Sutar</strong> (<code>chapter-001/characters/ira-sutar-ref.png</code>) — front · side · back · face · working hands — and kept by every sheet since.</p>
+<hr>
+<h2>2. Required panels</h2>
+<p><strong>Eight slots, in this order, left-to-right and top-to-bottom.</strong> Extras go <strong>after</strong> slot 8.</p>
+<div class="tw"><table><thead><tr><th>#</th><th>Slot</th><th>What must be in it</th></tr></thead><tbody><tr><td>1</td><td><strong>Front</strong></td><td>Full length, whole body in frame, relaxed stance, arms visible. The silhouette test lives here: cover the face — is this person still recognisable?</td></tr><tr><td>2</td><td><strong>Side</strong></td><td>Full length, three-quarter or true profile. Depth, posture, how the clothes hang and move.</td></tr><tr><td>3</td><td><strong>Back</strong></td><td>Full length, from behind. Hair, coat back, belt, bundles — the view the audience gets when the character is walking away.</td></tr><tr><td>4</td><td><strong>Face</strong></td><td>Head and shoulders. Eyes, marks, asymmetry, exact hairline. The panel that fixes the drawing for every later page.</td></tr><tr><td>5</td><td><strong>The detail</strong></td><td>Close-up of the one thing that matters most on this character — a mark, a stitch, a scar, a tell, a prop they are never without.</td></tr><tr><td>6</td><td><strong>Hands</strong></td><td>Both hands. In a story about debt and mending, hands are the argument; never skip this slot.</td></tr><tr><td>7</td><td><strong>Kit</strong></td><td>Their carried objects laid out flat, like a table after they empty their pockets. Every recurring prop is in this panel.</td></tr><tr><td>8</td><td><strong>Action</strong></td><td>The same design in use, under pressure — mid-work, mid-reading, mid-standing-in-a-doorway. Proof the model sheet survives a scene.</td></tr><tr><td>9+</td><td><strong>Anything else</strong></td><td>Optional extras after slot 8: extra costume state, an alternate hand, a second expression, a seasonal/arc variant. Add them; never renumber the eight.</td></tr></tbody></table></div>
+<p><strong>Slot reducers:</strong> if a character genuinely has no kit, slot 7 carries what the <em>scene</em> carries (chairs, ledgers, lamps) — an empty slot is a wasted panel.</p>
+<hr>
+<h2>3. Drawing rules (house)</h2>
+<ul><li><strong>No text in art.</strong> No lettering, signage, labels, stamps or readable numbers anywhere in the sheet. Documents, signs, seals and slates are <strong>blank or knot-script only</strong>. This is a standing constraint across the whole repo (see <code>AUDIT.md</code>).</li><li><strong>They are mid-story, not models.</strong> Costume state must match the sheet's own text: mends, stains, ash, salt, ink, wear. Agnikhand's ash is on everyone who lives there.</li><li><strong>No new costume.</strong> The ref sheet illustrates the character sheet; it never invents canon. If a panel needs something the <code>&lt;name&gt;.md</code> does not describe, fix the sheet first, then the art.</li><li><strong>Palette:</strong> follow <code>style-guide.md</code> for the character's Sector — Agnikhand is black basalt, ash-grey, ember orange, bruised purple. Debt-marks are thin dark lines <em>on skin</em>, never glowing tattoos; thread is drawn as physical filament, never abstract sparkle.</li><li><strong>Consistency across the eight panels</strong> beats beauty in any single panel. Same face, same build, same mends, same props in all eight.</li><li><strong>Neutral ground.</strong> Plan mid-grey, minimal clutter, no environment art; the page art carries the world, the sheet carries the design.</li><li><strong>Silhouette test</strong> (from <code>style-guide.md</code>) applies to every named character: recognisable as a solid black shape.</li></ul>
+<h2>4. File rules</h2>
+<ul><li><strong>Name:</strong> <code>&lt;sheet-name&gt;-ref.png</code> — exactly the markdown sheet's filename plus <code>-ref</code>. <code>nandi.md</code> → <code>nandi-ref.png</code>. Nothing else is auto-detected by the site.</li><li><strong>Placement:</strong> the chapter folder of <strong>first appearance</strong>. Later chapters link back; they never copy.</li><li><strong>Shape:</strong> portrait or tall; the house sizes are 768 × 1376 and 848 × 1264. Stay between 1.2 MB and 3 MB (same band as page art).</li><li><strong>Committed to git</strong> with the character sheet, in the same commit as the sheet's prose.</li></ul>
+<h2>5. Generation prompt</h2>
+<p>Start from the reusable block in <code>style-guide.md</code>, then append:</p>
+<pre><code>Vertical character model sheet, painted dark-fantasy webtoon style, neutral mid-grey studio ground,
+eight clean bordered panels in reading order: 1 full-length front, 2 full-length side, 3 full-length
+back, 4 head-and-shoulders face, 5 close-up of &lt;the detail&gt;, 6 both hands, 7 kit laid out flat,
+8 the design in action. Consistent character design across every panel, same face and costume in all
+eight, costume state per the character sheet, thin panel borders, small decorative circled panel
+numerals. NO text, NO lettering, NO signage, NO stamps, NO watermark, NO speech bubbles.</code></pre>
+<p>Replace <code>&lt;the detail&gt;</code> with the character's slot-5 subject. Feed the closest existing ref sheet as a <strong>style reference only</strong>, and say so in the prompt — otherwise the new character inherits the old character's face.</p>
+<h2>6. How it reaches the site</h2>
+<p><code>python3 website/build.py</code> scans every <code>chapters/*/characters/*-ref.png</code> and builds, for each one:</p>
+<ul><li>a <strong>thumbnail card</strong> on <code>website/characters/index.html</code>;</li><li>a <strong>gallery page</strong> <code>website/characters/&lt;name&gt;-art.html</code> — the full sheet as a click-to-zoom plate, plus a labelled crop of each of the eight slots;</li><li>and a back-link strip on the character's sheet page.</li></ul>
+<p>Crops are generated into <code>website/characters/art/&lt;name&gt;-&lt;slot&gt;.png</code> by the build (ImageMagick) so the gallery is light. Delete them and rebuild any time; they are derived, never edited by hand.</p>
+<p><strong>Adding a character:</strong> write <code>&lt;name&gt;.md</code>, drop <code>&lt;name&gt;-ref.png</code> beside it, add the <code>**Ref sheet:**</code> line listing the panel order, then re-run the build. Nothing else to wire up.</p>
+</main>
+<footer class="wrap"><p>THREADBORN — सुत्रजात · a from-scratch webtoon manga · built from the markdown canon in
+<a href="../about.html">the repo</a>. EN + Hindi. Chapters 001–010 complete · model sheets for every
+named character · a trading card game after chapter 500.</p></footer>
+</body>
+</html>

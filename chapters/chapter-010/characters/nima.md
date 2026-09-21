@@ -6,6 +6,8 @@ sheet); first on panel in Chapter 010, Page 003 (room nine, as the Office's read
 terrace — one forearm, two taps, in the dark, and sent home.
 **Function:** Reader-second of the Reckoning Office. The girl the school made and never finished, now
 seated at the instrument that indexes her own people.
+**Ref sheet:** [`nima-ref.png`](nima-ref.png) — 5 panels (front · side · back · face · detail)
+**Ref sheet panels:** front · side · back · face · detail (wrist turned inward — the school's braid under an Office cuff)
 
 ---
 

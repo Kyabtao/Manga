@@ -113,6 +113,8 @@ copy of the crease-writs, and the mother is four nights down a list of forty-one
 | Rekhak Vahni | 001–006 | Swore the Office's drafted sentence under a held stop; the deposit writes itself into his own ledger |
 | Nandi | 004, 008, 010 | Named as the reader; to be heard in room nine; her archive instruction produced the Book |
 | The Inspector | 002, 003, 007–010 | The Office's mild, administrative face; names the blank a *translation* |
+
+**The Inspector has a full sheet now** (Ch. 009): [`characters/inspector.md`](characters/inspector.md) — 8-panel model sheet `inspector-ref.png` (front · side · back · face · hands clasped behind him · the coiled chain and blank grey seal · kit · doorway at first bell). Mild, hands behind the back, never named.
 | The grey clerk | 001, 005, 008, 010 | Reads the procedure, files the objection, takes the Book |
 | The principal | Never on panel | Requisitioned the Book with a private hand's signature |
 | The mother | Never on panel | Her note under the last knot; the unnamed knot on the register's last line |

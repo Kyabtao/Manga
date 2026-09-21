@@ -7,6 +7,8 @@
 **Age:** 41 (drawn older; Manav Fray earliest, and he has been spending since nineteen)
 **Occupation:** **Debt-Reckoner** — audits Sutra-marks and debt-ledgers for the Council
 **Mark location:** Over the left eye → **Sight** type. Power put into *knowing*.
+**Ref sheet:** [`rekhak-vahni-ref.png`](rekhak-vahni-ref.png) — 5 panels (front · side · back · face · kit)
+**Ref sheet panels:** front · side · back · face · kit (ledger-slate, counting-chain, the crimson-sealed page)
 
 ---
 

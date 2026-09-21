@@ -19,11 +19,12 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | Field | Value |
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
-| **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
+| **Branch** | `arena/01a0c1d2-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **None — Ch. 001–010 all COMPLETE** (script + Hindi + cast + world + art) · **Ch. 011 not started** |
 | **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · Ch. 009: Hindi 10/10, cast 10, glossary + locations · Ch. 010: Hindi 10/10, cast 10, glossary + locations |
 | **NEXT page to build** | **Ch. 011 Page 001** — create the chapter skeleton (four subfolders + `.gitkeep`) first, then plan the page from the Next-page brief below |
-| **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) — **OPEN** (targets `main`; Ch. 003–010). Merge pending. |
+| **Open PR** | **[Kyabtao/Manga#5](https://github.com/Kyabtao/Manga/pull/5)** (this branch — character-art standard). PR #1–#4 merged into `main`. |
+| **Character art** | **House standard set** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action). 9 model sheets, all with art pages on the site. Bhan and the Inspector got theirs this session; the 7 older sheets carry 5 panels and want slots 7–8 at the next art pass. |
 
 ### Next-page brief (Chapter 011 · Page 001)
 **The chapter folder does not exist yet.** Before writing, create `chapters/chapter-011/` with the four
@@ -277,6 +278,7 @@ series-bible/            The canon. Read before writing anything.
   03-the-nine-sectors.md Regions, each with a different law of pulling
   04-card-game-notes.md  The TCG design, carried forward from Chapter 1
   style-guide.md         Art direction + reusable image-prompt block
+  05-character-art-spec.md  THE model-sheet standard — 8 panels, every character
 
 chapters/
   chapter-001/            COMPLETE — 10 pages (see chapter-summary.md)
@@ -300,7 +302,10 @@ Every chapter follows the same `story/ characters/ other/ images/` layout.
 - **One folder per chapter**, always the four subfolders above, created empty (with `.gitkeep`) before
   the chapter starts — see `chapters/chapter-002/`.
 - **Character sheets live in the chapter of first appearance, forever.** Later chapters' `cast-` files
-  link back to the original sheet instead of copying it. Refs sit beside their sheet as `<sheet>-ref.png`.
+  link back to the original sheet instead of copying it. Refs sit beside their sheet as `<sheet>-ref.png`
+  — **every named recurring character has one**, to the panel order in `series-bible/05-character-art-spec.md`
+  (front · side · back · face · detail · hands · kit · action). A sheet without a ref is an unfinished
+  character; the site turns each ref into a click-to-zoom art page.
 - **`cast-page-NNN.md`** = everyone on that page + object card-lines. **`<name>.md`** = full sheet.
 - **`chapter-summary.md` sits at the chapter root** (not in `other/`): the close-out document with
   synopsis, canon rules established, open threads and the bulk-cast ledger.
@@ -327,6 +332,13 @@ python3 -m http.server 8000       # serve the REPO ROOT, then open /website/ (ro
   column beside the script; on narrow screens a floating **🖼 Art** button opens a full-screen overlay
   (Esc or tap to close; without JS it degrades to opening the art in a new tab).
 - Pages link to the **original** images under `chapters/…` by relative path — one copy of every asset.
+- **Character art pages:** every `*-ref.png` gets `website/characters/<name>-art.html` — a click-to-zoom
+  model-sheet plate with the sheet's panel list, a **Drawing brief** reprinted from the character sheet,
+  and prev/next navigation round the cast. The sheet page shows a **Model sheet** card that opens it, the
+  cast index links every thumbnail straight to it, and `Art: [<name>-ref.png]` lines in `cast-` files
+  resolve to the art page too. The zoom viewer (wheel / +− / double-click / pinch, Esc to close) lives in
+  `website/assets/site.js`.
+- Whole repo assets only: no crops or derived images are committed — the art pages show the full sheet.
 - Re-run the build after finishing any page; commit the refreshed HTML with the page commit.
 
 # 🛠️ WORKFLOW (how each page is made)
@@ -335,5 +347,7 @@ python3 -m http.server 8000       # serve the REPO ROOT, then open /website/ (ro
 2. **Translate** — mirror it in `story/page-NNN.hi.md`.
 3. **Cast** — log every character in `characters/`, with a card-game line.
 4. **World** — log places & terms in `other/`.
-5. **Art** — render `images/page-NNN.png` from `style-guide.md`'s prompt block.
+5. **Art** — render `images/page-NNN.png` from `style-guide.md`'s prompt block. Any new named
+   character needs their **model sheet** (`<name>-ref.png`, 8 panels per
+   `05-character-art-spec.md`) in the same commit as their `<name>.md`.
 6. **Track** — update this README's CURRENT POSITION; commit; push; refresh PR.

@@ -9,6 +9,8 @@ Sectors; Agnikhand tolerates them the way it tolerates smoke)
 **Occupation:** contract broker for principals who cannot or will not appear
 **Mark location:** none. Where a Sutra-mark should be, there is a **smooth scar of absence** over the
 heart. Do not draw it in Chapter 1; it is a later reveal.
+**Ref sheet:** [`patra-ref.png`](patra-ref.png) — 5 panels (front · side · back · face · detail)
+**Ref sheet panels:** front · side · back · face · detail (the belt of blank name-tags by candlelight)
 
 ---
 

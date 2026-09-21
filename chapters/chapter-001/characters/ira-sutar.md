@@ -6,6 +6,8 @@
 **Sector:** Agnikhand (Ash Sector), Ashfall Basin
 **Age:** 15
 **Mark location:** Palm → projection type. **Sewn shut.**
+**Ref sheet:** [`ira-sutar-ref.png`](ira-sutar-ref.png) — 5 panels (front · side · back · face · hands)
+**Ref sheet panels:** front · side · back · face · hands (both palms, needle and thread)
 
 ---
 

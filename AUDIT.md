@@ -9,13 +9,40 @@
 
 | | |
 |---|---|
-| **Critical findings** | **0** (run 5) — Hindi complete for Ch. 001–010 (94.4–98.3% Devanagari; floor 80%) |
+| **Critical findings** | **0** (run 6) — Hindi complete for Ch. 001–010 (94.4–98.3% Devanagari; floor 80%) |
 | **Major findings** | **1 open** (run 5) — **art-style split:** Ch. 001–005 were generated in an earlier, off-style pass (semi-modern props, occasional readable Latin lettering). ~10+ images to regenerate. Not fixable by edit. |
-| **Minor findings** | **3 open** — image dimension variation, cast-file format/depth drift, तकुआ/तकली normalisation |
+| **Minor findings** | **4 open** (run 6) — image dimension variation, cast-file format/depth drift, तकुआ/तकली normalisation, 7 model sheets still short of the 8-panel standard |
 | **Fixed in run 5** | 133 missing `Camera:`/`कैमरा:` labels (Ch. 004–005) · 19 pages given notes sections (EN+HI) · Ch. 001–002 headings normalised · Ch. 004 p008 page-type line · 28 obsolete `.gitkeep` files · README's false "PR #3 merged" claim |
 | **Structural integrity** | **PASS** — 100/100 EN scripts, 100/100 HI scripts, 100/100 images, 100/100 cast files, 10/10 summaries, 20/20 `other/` files, 0 junk |
 | **Continuity integrity** | **PASS** — mother never on panel, Loom never speaks, chain-stop budget accounted for in every chapter that states one |
 | **Merge state** | **PR #3 merged into `main` this run** (user instruction, after audit) |
+
+## Audit run 6 — 2026-09-21 (character-art standard + clickable model sheets)
+
+Requested scope: *"alt-image mention and like Ira other characters image format — front side back face
+cut and hand image; same way always design the character; and in character details we can click on art
+and see character arts."* Two deliverables: **a codified model-sheet standard** and **an art viewer on
+the site**.
+
+### Delivered
+
+| # | Finding | Fix |
+|---|---|---|
+| 1 | **No written standard for character ref sheets** — seven sheets existed, in two different styles, with nothing saying which panels are required. | `series-bible/05-character-art-spec.md` — canon: **8 panels, in order** (front · side · back · face · detail · hands · kit · action), drawing rules (no text in art, mid-story costume state, no new costume, Agnikhand palette, silhouette test), file/placement rules, a generation prompt, and how refs reach the site. |
+| 2 | **Two named recurring characters had no visual sheet at all** — Bhan (19 cast-file appearances, Ch. 002–008) and the Inspector (10 appearances, Ch. 008–010; every cast file said *"No full sheet"*). | **Both sheets written and drawn**, to the full 8-panel standard: `chapter-002/characters/bhan.md` + `bhan-ref.png`, `chapter-009/characters/inspector.md` + `inspector-ref.png`, generated against Rekhak's sheet as a style reference so the house look holds. |
+| 3 | **Cast files hard-coded "no sheet" claims** for both characters, and Bhan's rows without a back-link. | 31 cast files updated: `Full sheet (Ch. 00X):` links for Bhan (19) and the Inspector (11); the ten *"No full sheet; drawn from Ch. 008 Page 001"* lines now read *Design locked from Ch. 008 Page 001*. |
+| 4 | **Ref sheets were not reachable as art** — the site showed a thumbnail, and clicking the markdown `Art: [<name>-ref.png]` link opened a bare PNG out of context. | New generated page per ref: `website/characters/<name>-art.html` — click-to-zoom plate, panel list, **Drawing brief** (the sheet's own art-continuity section reprinted), prev/next through the cast. Sheet pages get a **Model sheet** card, the cast index links every thumbnail to art, and every `Art:` line in the cast files resolves to the art page. |
+| 5 | **No way to inspect a sheet at drawing resolution in the browser.** | Full-screen zoom viewer in `website/assets/site.js` (zero dependencies): wheel / `+` `-` / double-click / two-finger pinch, drag and one-finger pan, `0` fit, `1` 100%, Esc or backdrop to close; keyboard-openable sheets (`tabindex`, Enter/Space); degrades to a plain image without JS. |
+| 6 | Every sheet now declares its own panel list in canon. | `**Ref sheet:**` + `**Ref sheet panels:**` lines added to all nine sheets; the site reads them for chips, captions and card badges (*5-panel art* / *8-panel art*). |
+
+### Still open after run 6
+
+- **Seven sheets predate the standard** (Ira, Kessa, Patra, Rekhak, Nandi, Jadi, Nima): all have
+  front · side · back · face, and all but Rekhak have a hands/detail slot, but **none has the kit and
+  action slots**. Their art pages say so out loud. Extending them is a 7-sheet art job for the next
+  pass — no rewrite of the prose is needed, only slots 7–8, and the `**Ref sheet panels:**` line.
+- The run-5 **Ch. 001–005 style split** remains the repo's biggest art item, unchanged by this run.
+- Model sheets are drawn in one pass each; nothing here re-renders a page.
 
 ## Audit run 5 — 2026-09-19 (FULL audit: story → image, every folder, then merge)
 

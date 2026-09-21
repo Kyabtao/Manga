@@ -4,6 +4,8 @@
 **Kind:** Kshudra · **Age:** very old — older than the binding, older than the school's charter
 **Function:** Keeper of the Mendery archive. The only other person alive who knows the name on the
 Roll of Hands.
+**Ref sheet:** [`nandi-ref.png`](nandi-ref.png) — 5 panels (front · side · back · face · detail)
+**Ref sheet panels:** front · side · back · face · detail (file-dust hands over a torn leaf)
 
 ---
 

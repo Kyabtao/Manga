@@ -9,3 +9,4 @@ Everyone on the page.
 Full sheet (Ch. 001): [`../../chapter-001/characters/ira-sutar.md`](../../chapter-001/characters/ira-sutar.md)
 
 ## Bhan — भान
+Full sheet (Ch. 002): [`../../chapter-002/characters/bhan.md`](../../chapter-002/characters/bhan.md)

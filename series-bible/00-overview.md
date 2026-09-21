@@ -62,6 +62,7 @@ The card game does not need inventing — it is already the world's physics.
 | `03-the-nine-sectors.md` | Regions, laws of pulling, factions |
 | `04-card-game-notes.md` | TCG design carried forward from day one |
 | `style-guide.md` | Art direction + reusable image-prompt language |
+| `05-character-art-spec.md` | **Character model sheets — the 8-panel house standard** (front · side · back · face · detail · hands · kit · action), file rules, and how they reach the site |
 
 ---
 

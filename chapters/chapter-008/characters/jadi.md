@@ -3,6 +3,8 @@
 **First appearance:** Chapter 008, Page 005 (the doorway of the Knot & Nail)
 **Kind:** Kshudra · **Age:** seventy-odd — enrolled at twelve, forty-four years ago
 **Function:** First pupil of the School of the Braided Thread. Keeper of the roster. The root.
+**Ref sheet:** [`jadi-ref.png`](jadi-ref.png) — 5 panels (front · side · back · face · detail)
+**Ref sheet panels:** front · side · back · face · detail (the left palm — grey braid, crimson second strand)
 
 ---
 

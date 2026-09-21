@@ -40,18 +40,22 @@ _BOLD = re.compile(r"\*\*([^*]+)\*\*")
 _EM = re.compile(r"(?<!\*)\*([^*\n]+)\*(?!\*)")
 
 class Resolver:
-    """Rewrites relative hrefs inside a source markdown file to site URLs."""
+    """Rewrites relative hrefs inside a source markdown file to site URLs.
+
+    `as_image=True` (used for inline images) keeps a raw file raw: a link to a character's
+    -ref.png becomes that character's art page, but an *embedded* -ref.png stays the image.
+    """
     def __init__(self, src_repo, site_rel):
         self.src_dir = posixpath.dirname(src_repo)
         self.site_dir = posixpath.dirname(site_rel)
-    def __call__(self, href):
+    def __call__(self, href, as_image=False):
         if href.startswith(("http://", "https://", "#", "mailto:")):
             return href
         path, _, frag = href.partition("#")
         if not path:
             return href
         target = posixpath.normpath(posixpath.join(self.src_dir, path))
-        if target in SRC2SITE:
+        if target in SRC2SITE and not (as_image and target in REF_REPO_PATHS):
             new = SRC2SITE[target]
         elif os.path.exists(os.path.join(ROOT, target)) and not target.endswith(".md"):
             new = "../" + target          # repo files are served one level above website/
@@ -68,7 +72,8 @@ def inline(md, res=None):
     s = _CODE.sub(stash, md)
     s = esc(s)
     if res:
-        s = _IMG.sub(lambda m: '<img src="%s" alt="%s" loading="lazy">' % (res(m.group(2)), m.group(1)), s)
+        s = _IMG.sub(lambda m: '<img src="%s" alt="%s" loading="lazy">'
+                     % (res(m.group(2), as_image=True), m.group(1)), s)
         s = _LNK.sub(lambda m: '<a href="%s">%s</a>' % (res(m.group(2)), m.group(1)), s)
     else:
         s = _IMG.sub(lambda m: '<img src="%s" alt="%s" loading="lazy">' % (m.group(2), m.group(1)), s)
@@ -192,6 +197,15 @@ for ch in CHAPTERS:
     SRC2SITE["chapters/%s/chapter-summary.md" % ch] = "read/%s/index.html" % ch
 SRC2SITE["chapters/chapter-001/other/locations.md"] = "world/locations.html"
 SRC2SITE["chapters/chapter-001/other/glossary.md"] = "world/glossary.html"
+# Character model sheets link to their art page rather than to a raw PNG, so every existing
+# `Art: [<name>-ref.png]` line in a cast file lands on the gallery for free.
+REF_REPO_PATHS = set()
+for _ch in CHAPTERS:
+    for _f in sorted(glob.glob(os.path.join(ROOT, "chapters", _ch, "characters", "*-ref.png"))):
+        _base = posixpath.basename(_f)[:-len("-ref.png")]
+        _repo = "chapters/%s/characters/%s-ref.png" % (_ch, _base)
+        SRC2SITE[_repo] = "characters/%s-art.html" % _base
+        REF_REPO_PATHS.add(_repo)
 
 # --------------------------------------------------------------------------- template
 NAV = [
@@ -247,7 +261,8 @@ def page(title, site_rel, body, sidebar="", lang="en", crumb=""):
 %s
 </main>
 <footer class="wrap"><p>THREADBORN — सुत्रजात · a from-scratch webtoon manga · built from the markdown canon in
-<a href="%sabout.html">the repo</a>. EN + Hindi. Chapter 1 complete.</p></footer>
+<a href="%sabout.html">the repo</a>. EN + Hindi. Chapters 001–010 complete · model sheets for every
+named character · a trading card game after chapter 500.</p></footer>
 </body>
 </html>
 """ % (lang, esc(title), root, root, nav,
@@ -362,21 +377,149 @@ def build_bible():
                     crumb='<a href="../index.html">Home</a> / Series bible')
         write(site_rel, html)
 
+def ref_of(src_md):
+    """The model sheet that sits beside a character sheet, repo-relative, or None."""
+    ref = src_md[:-3] + "-ref.png"
+    return ref if os.path.exists(os.path.join(ROOT, ref)) else None
+
+def display_name(src_md):
+    return posixpath.basename(src_md)[:-3].replace("-", " ").title()
+
+def sheet_section(src_md, prefixes=("## Appearance", "## Visual sheet")):
+    """Pull one section out of a character sheet so the art page can reprint it."""
+    lines = open(os.path.join(ROOT, src_md), encoding="utf-8").read().split("\n")
+    for i, line in enumerate(lines):
+        low = line.strip().lower()
+        if re.match(r"^## [^#]", line.strip()) and any(low.startswith(p.lower()) for p in prefixes):
+            j = i + 1
+            while j < len(lines) and not re.match(r"^## [^#]", lines[j].strip()):
+                j += 1
+            return "\n".join(lines[i + 1:j]).strip()
+    return ""
+
+DEFAULT_PANELS = ["front", "side", "back", "face", "detail", "hands", "kit", "action"]
+
+def sheet_panels(src_md):
+    """Panel list for a model sheet — from the sheet's own `**Ref sheet panels:**` line.
+    Continuation lines are allowed (and joined), so long panel lists stay readable in markdown."""
+    lines = open(os.path.join(ROOT, src_md), encoding="utf-8").read().split("\n")
+    for i, line in enumerate(lines):
+        m = re.match(r"^\*\*Ref sheet panels:\*\*\s*(.*)$", line)
+        if not m:
+            continue
+        parts = [m.group(1)]
+        for nxt in lines[i + 1:]:
+            s = nxt.strip()
+            if not s or re.match(r"^(\*\*[^*]+:\*\*|#|\||-{3,})", s):
+                break
+            parts.append(s)
+        joined = " ".join(" ".join(parts).split())
+        return [x.strip().lower() for x in re.split(r"\s*[·|]\s*", joined) if x.strip()]
+    return list(DEFAULT_PANELS)
+
+def sheet_panel_lede(panels):
+    """One honest sentence about the panels this model sheet actually has."""
+    n = len(panels)
+    if n >= len(DEFAULT_PANELS):
+        return "the eight required panels \u2014 front \u00b7 side \u00b7 back \u00b7 face \u00b7 detail \u00b7 hands \u00b7 kit \u00b7 action"
+    have = [p.split(" (")[0].strip() for p in panels]
+    missing = [s for s in DEFAULT_PANELS if s not in have]
+    return ("%d panels \u2014 %s. Carried over from the first art pass; still to add at the next "
+            "one: %s" % (n, " \u00b7 ".join(panels), ", ".join(missing)))
+
+def ref_card(src_md, site_rel):
+    """The model-sheet card that opens a character's art page (or None if they have no ref)."""
+    ref = ref_of(src_md)
+    if not ref:
+        return ""
+    base = posixpath.basename(src_md)[:-3]
+    res = Resolver(src_md, site_rel)
+    img = res("../" + ref)
+    return ('<figure class="refcard">'
+            '<a class="refopen" href="%s-art.html">'
+            '<img src="%s" loading="lazy" alt="%s — model sheet">'
+            '<span class="refopen-tag">Open art page →</span></a>'
+            '<figcaption><b>Model sheet</b> — %d panels. Press the art to see it full size.'
+            '</figcaption></figure>' % (base, img, display_name(src_md), len(sheet_panels(src_md))))
+
+def build_character_art(src_md, ref, names):
+    """`characters/<name>-art.html` — the clickable model-sheet gallery page."""
+    base = posixpath.basename(src_md)[:-3]
+    site_rel = "characters/%s-art.html" % base
+    chnum = src_md.split("/")[1].split("-")[1]
+    res = Resolver(src_md, site_rel)
+    img = res("../" + ref)
+    panels = sheet_panels(src_md)
+    chips = "".join('<span class="panelchip"><i>%d</i>%s</span>' % (i + 1, esc(p))
+                    for i, p in enumerate(panels))
+    brief = sheet_section(src_md)
+    brief_html = ('<h2>Drawing brief</h2><div class="brief">%s</div>'
+                  % blocks(brief.split("\n"), res)) if brief else ""
+    i = names.index(base)
+    prevn = names[i - 1] if i > 0 else names[-1]
+    nextn = names[(i + 1) % len(names)]
+    links = ('<div class="pagelinks"><a class="btn" href="%s-art.html">← %s</a>'
+             '<a class="btn" href="index.html">All cast</a>'
+             '<a class="btn next" href="%s-art.html">%s →</a></div>'
+             % (prevn, display_name(prevn + ".md"), nextn, display_name(nextn + ".md")))
+    body = ('<h1>%s <em>— model sheet</em></h1>'
+            '<p class="lede">Chapter %s · first appearance. The drawing reference for every page '
+            'this character is on — %s, in the house panel order, per '
+            '<a href="../bible/05-character-art-spec.html">the character art spec</a>.</p>'
+            '<figure class="sheetart">'
+            '<img class="zoomable" src="%s" alt="%s model sheet — %s" tabindex="0">'
+            '<figcaption>Press the sheet to open it full size · scroll to zoom · drag to move · '
+            'Esc to close</figcaption>'
+            '<div class="zoomhint"><span>🔍 click to zoom</span></div></figure>'
+            '<div class="panels">%s</div>%s%s'
+            '<p class="pagelinks-note">Full written sheet, canon rules and card-game line: '
+            '<a href="%s.html">%s</a></p>'
+            % (display_name(src_md).upper(), chnum, sheet_panel_lede(panels), img,
+               display_name(src_md), esc(" · ".join(panels)),
+               chips, brief_html, links, base, display_name(src_md)))
+    html = page("%s — art" % display_name(src_md), site_rel, body,
+                crumb='<a href="../index.html">Home</a> / <a href="index.html">Characters</a> / '
+                      '<a href="%s.html">%s</a> / Art' % (base, display_name(src_md)))
+    write(site_rel, html)
+    return site_rel
+
 def build_characters():
-    sheets = [(k, v) for k, v in SRC2SITE.items() if v.startswith("characters/") and v != "characters/index.html"]
+    sheets = [(k, v) for k, v in SRC2SITE.items()
+              if v.startswith("characters/") and v != "characters/index.html"
+              and k.endswith(".md")]
+    sheets.sort(key=lambda kv: kv[1])
+    names = [posixpath.basename(src)[:-3] for src, _ in sheets]
     cards = []
-    for src, site_rel in sorted(sheets, key=lambda kv: kv[1]):
-        html = page(posixpath.basename(src)[:-3], site_rel, render_md(src, site_rel),
+    art_pages = 0
+    for src, site_rel in sheets:
+        ref = ref_of(src)
+        body = ref_card(src, site_rel) + render_md(src, site_rel)
+        html = page(posixpath.basename(src)[:-3], site_rel, body,
                     crumb='<a href="../index.html">Home</a> / <a href="index.html">Characters</a>')
         write(site_rel, html)
-        ref = src[:-3] + "-ref.png"
-        thumb = ('<img src="%s" loading="lazy" alt="">' % posixpath.relpath("../" + ref, "characters")) \
-            if os.path.exists(os.path.join(ROOT, ref)) else ""
-        name = posixpath.basename(src)[:-3].replace("-", " ").title()
-        cards.append('<a class="char" href="%s">%s<b>%s</b></a>' % (posixpath.basename(site_rel), thumb, name))
+        name = display_name(src)
+        if ref:
+            build_character_art(src, ref, names)
+            art_pages += 1
+            base = posixpath.basename(src)[:-3]
+            rel = posixpath.relpath("../" + ref, "characters")
+            card = ('<div class="char">'
+                    '<a class="charthumb" href="%s-art.html" title="Open %s\'s model sheet">'
+                    '<img src="%s" loading="lazy" alt="%s model sheet thumbnail"></a>'
+                    '<div class="charmeta"><a class="charname" href="%s">%s</a>'
+                    '<a class="charart" href="%s-art.html">%d-panel art ↗</a></div></div>'
+                    % (base, name, rel, name, base, name, base, len(sheet_panels(src))))
+        else:
+            card = ('<div class="char"><a class="charname plain" href="%s">%s</a>'
+                    '<span class="charart off">no ref sheet yet</span></div>'
+                    % (posixpath.basename(site_rel), name))
+        cards.append(card)
     html = page("Characters", "characters/index.html",
                 '<h1>Cast</h1><p class="lede">Full sheets with art-continuity rules and card-game lines. '
-                'Per-page cast lists live on each reader page.</p><div class="chars">%s</div>' % "".join(cards),
+                '<b>Press any sheet to open its model-sheet art page</b> — the eight panels every page is '
+                'drawn from (front · side · back · face · detail · hands · kit · action).</p>'
+                '<p class="meta">%d character sheets · %d model sheets.</p>'
+                '<div class="chars">%s</div>' % (len(sheets), art_pages, "".join(cards)),
                 crumb='<a href="../index.html">Home</a> / Characters')
     write("characters/index.html", html)
 

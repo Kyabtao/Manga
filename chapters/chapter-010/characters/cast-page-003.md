@@ -15,7 +15,8 @@ Named in Ch. 009 Page 004, on panel from Ch. 010 Page 003. Kshudra, nineteen, en
 ## The duty clerk — ड्यूटी लिपिक (वाचनालय)
 No full sheet; the vestibule and room-nine clerk. Flat, procedural, never unkind — the Office's voice with a pen in it.
 ## The Inspector — निरीक्षक
-No full sheet; drawn from Ch. 008 Page 001. Mild, administrative, hands behind his back; never raises his voice and never needs to.
+Full sheet (Ch. 009): [`../../chapter-009/characters/inspector.md`](../../chapter-009/characters/inspector.md)
+Design locked from Ch. 008 Page 001; model sheet below. Mild, administrative, hands behind his back; never raises his voice and never needs to.
 
 ---
 

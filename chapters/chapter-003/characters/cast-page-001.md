@@ -18,5 +18,6 @@ Full sheet (Ch. 001): [`../../chapter-001/characters/rekhak-vahni.md`](../../cha
 Full sheet (Ch. 001): [`../../chapter-001/characters/patra.md`](../../chapter-001/characters/patra.md)
 
 ## Bhan — भान
+Full sheet (Ch. 002): [`../../chapter-002/characters/bhan.md`](../../chapter-002/characters/bhan.md)
 
 ## Lekh — लेख
