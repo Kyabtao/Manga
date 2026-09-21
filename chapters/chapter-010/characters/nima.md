@@ -7,7 +7,7 @@ terrace — one forearm, two taps, in the dark, and sent home.
 **Function:** Reader-second of the Reckoning Office. The girl the school made and never finished, now
 seated at the instrument that indexes her own people.
 **Ref sheet:** [`nima-ref.png`](nima-ref.png) — 8 panels (the house standard)
-**Ref sheet panels:** front · side · back · face · detail (the wrist turned inward — the school's strand under an Office cuff) · hands (thumb callus, two old burns, no ink) · kit (Office chain, blank slate sheet, chit box, blunt stylus, belt, tin cup, grey cord) · action (at the desk — a slab held turned away, the chair opposite empty)
+**Ref sheet panels:** front · side · back · face · detail (the wrist turned inward — the school's strand under an Office cuff) · hands (thumb callus, two old burns, no ink) · kit (blank slate tablet, bone stylus, Office counting chain, blank-dial brass instrument, clay oil lamp, sleeve band, blank paper, coiled cord) · action (at the wooden desk by oil lamp — a slab held turned away, the chair opposite empty)
 
 ---
 

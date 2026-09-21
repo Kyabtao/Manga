@@ -11,11 +11,27 @@
 |---|---|
 | **Critical findings** | **0** (run 6) — Hindi complete for Ch. 001–010 (94.4–98.3% Devanagari; floor 80%) |
 | **Major findings** | **1 open** (run 5) — **art-style split:** Ch. 001–005 were generated in an earlier, off-style pass (semi-modern props, occasional readable Latin lettering). ~10+ images to regenerate. Not fixable by edit. |
-| **Minor findings** | **3 open** (run 8) — plus **Nima's sheet off-canon** (modern props, long braid): regenerate, see run 8 — image dimension variation, cast-file format/depth drift, तकुआ/तकली normalisation. *(The 8-panel gap closed in run 7.)* |
+| **Minor findings** | **3 open** (run 9) — Nima's sheet closed in run 9; Ch. 001 pages 001–005 rebuilt, 006–010 + Ch. 002–005 next — image dimension variation, cast-file format/depth drift, तकुआ/तकली normalisation. *(The 8-panel gap closed in run 7.)* |
 | **Fixed in run 5** | 133 missing `Camera:`/`कैमरा:` labels (Ch. 004–005) · 19 pages given notes sections (EN+HI) · Ch. 001–002 headings normalised · Ch. 004 p008 page-type line · 28 obsolete `.gitkeep` files · README's false "PR #3 merged" claim |
 | **Structural integrity** | **PASS** — 100/100 EN scripts, 100/100 HI scripts, 100/100 images, 100/100 cast files, 10/10 summaries, 20/20 `other/` files, 0 junk |
 | **Continuity integrity** | **PASS** — mother never on panel, Loom never speaks, chain-stop budget accounted for in every chapter that states one |
 | **Merge state** | **PR #3 merged into `main` this run** (user instruction, after audit) |
+
+## Audit run 9 — 2026-09-21 (Nima closed; Ch. 001 page art rebuilt)
+
+### Delivered
+
+| # | Item | Result |
+|---|---|---|
+| 1 | **Nima's model sheet regenerated** (run 8's only open art item). | Four passes to get there. Pass 1: modern props gone, but the face panel was dropped and the ground came back with red splatter. Pass 2: blocked by moderation. Pass 3: clean but the kit held two pocket watches. Pass 4 (targeted panel-7 fix): kit is now slate · stylus · Office counting chain · clay oil lamp · sleeve band · blank paper · coiled rope · featureless brass seal · plain brass weight, **no timepieces and no mug**. Pass 5 (targeted panel-5 fix): the school's strand now reads as a fine braid lying *under* the skin of the forearm, not a cord tied round it. **Sheet passes.** |
+| 2 | **Ch. 001 page art rebuilt — pages 001–005.** These were the run-5 style-split pages (right beats, off-style world). | Regenerated one page at a time from the script's own panel list, with the **character sheets attached as references**: 001 (Loom + processional + the stitch reel), 002 (Unspooling Court → Under-Market → loupe macro), 003 (Kessa's two diagrams + the Reckoner's cold stair), 004 (the two empty columns + the painted borrowed lines + the collapsed chain), 005 (the ash-free terraces → the Office of heads-down clerks → the broker's blank three lines). All five now carry Agnikhand's basalt/ash/ember palette and **no readable lettering anywhere** — every slate, ledger, banner, seal and form is blank or knot-script. |
+| 3 | **Known defect logged, not hidden.** | Ch. 001 Page 005's final panel draws Patra twice in the same room (the plate, not the panel list, is at fault). It is a duplication artifact, not a canon conflict; the page is still a large improvement on the old off-style art. Logged here for a later touch-up. |
+
+### Still open after run 9
+
+- **Ch. 001 pages 006–010** — the rest of the chapter's old art (broker's room, the sixty hour-knots, the kneeling read, the falsified audit, the roof finale). Prompts are written from each page's own panel list; blocked only by the ten-images-per-turn generation cap.
+- **Ch. 002–005 page art** — ~40 pages, same defect class, same method (per-page script beats + character sheets as references).
+- Alt sheets exist for Ira only; the convention is ready when another character needs one.
 
 ## Audit run 8 — 2026-09-21 (art QA on the recut sheets + the grounding rule)
 
