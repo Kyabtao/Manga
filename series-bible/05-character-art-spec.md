@@ -99,8 +99,9 @@ future page the wrong world.
 - **Name:** `<sheet-name>-ref.png` — exactly the markdown sheet's filename plus `-ref`. `nandi.md` →
   `nandi-ref.png`. Nothing else is auto-detected by the site.
 - **Placement:** the chapter folder of **first appearance**. Later chapters link back; they never copy.
-- **Shape:** portrait or tall; the house sizes are 768 × 1376 and 848 × 1264. Stay between 1.2 MB and
-  3 MB (same band as page art).
+- **Shape:** whatever the eight panels need — wide grids (Ira 1376 × 768, Rekhak 1264 × 843) and tall
+  stacks (Patra 704 × 1484, Nandi 720 × 1456) are both house-legal. **Page art is the opposite: always
+  portrait** (`style-guide.md` → *Canvas*). Stay between 1.2 MB and 3 MB.
 - **Committed to git** with the character sheet, in the same commit as the sheet's prose.
 
 ## 5. Generation prompt

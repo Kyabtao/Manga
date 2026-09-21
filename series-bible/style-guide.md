@@ -71,3 +71,30 @@ NO text, NO speech bubbles, NO lettering, NO watermark.
 | Reveal / hook | 4–5 (one large panel dominates) |
 
 **Page 1 of any chapter always ends on a hook panel.** No exceptions.
+
+## Canvas
+
+**Page art is always portrait, taller than it is wide** — the webtoon scrolls vertically, and a
+landscape page cannot be read in it. House target 768 × 1376 (ratio ≈ 1.8); ratios up to ~2.5 are
+fine. A page that comes back landscape is regenerated, never rotated or cropped.
+
+Model sheets are exempt (`05-character-art-spec.md`): there the eight panels decide the shape, so a
+sheet may be wide (Ira 1376 × 768) or tall (Patra 704 × 1484).
+
+## Page-art QA gate — before a page is called done
+
+Every page passes these five, checked **against that page's own script**, at full resolution:
+
+1. **Shape** — portrait (h > w). Landscape = regenerate.
+2. **Panel count** — within ±2 of the script's `## PANEL n` list, and the hook panel is present.
+3. **Beats** — walk the script's panel list in order. Each panel's stated camera subject must be the
+   thing the drawing is actually of. A beautiful panel of the wrong subject is a failed page.
+4. **Props and world** — nothing from the §3.1 blocklist in `05-character-art-spec.md` (electric
+   light, mugs, plastic, watches, modern furniture, printed signage…). Every slate, ledger, banner,
+   form and seal is **blank or knot-script**.
+5. **Canon markers** — debt-marks in-panel whenever power is spent, thread drawn as physical filament
+   (never abstract sparkle or aura), Agnikhand palette (basalt / ash / ember / bruised purple), and
+   the character sheets followed for face, build, costume state and mends.
+
+Record the verdict with the page. **"Regenerated" is a claim that needs a panel-list check, not a
+feeling** — runs 5, 7 and 9 each reported pages complete that this gate fails on inspection.

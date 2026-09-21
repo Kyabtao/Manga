@@ -36,6 +36,13 @@ NO text, NO speech bubbles, NO lettering, NO watermark.</code></pre>
 <h2>Panel budget per page</h2>
 <div class="tw"><table><thead><tr><th>Page type</th><th>Panels</th></tr></thead><tbody><tr><td>Standard</td><td>6–7</td></tr><tr><td>Action-heavy</td><td>8–9 (smaller, faster)</td></tr><tr><td>Reveal / hook</td><td>4–5 (one large panel dominates)</td></tr></tbody></table></div>
 <p><strong>Page 1 of any chapter always ends on a hook panel.</strong> No exceptions.</p>
+<h2>Canvas</h2>
+<p><strong>Page art is always portrait, taller than it is wide</strong> — the webtoon scrolls vertically, and a landscape page cannot be read in it. House target 768 × 1376 (ratio ≈ 1.8); ratios up to ~2.5 are fine. A page that comes back landscape is regenerated, never rotated or cropped.</p>
+<p>Model sheets are exempt (<code>05-character-art-spec.md</code>): there the eight panels decide the shape, so a sheet may be wide (Ira 1376 × 768) or tall (Patra 704 × 1484).</p>
+<h2>Page-art QA gate — before a page is called done</h2>
+<p>Every page passes these five, checked <strong>against that page's own script</strong>, at full resolution:</p>
+<ol><li><strong>Shape</strong> — portrait (h &gt; w). Landscape = regenerate.</li><li><strong>Panel count</strong> — within ±2 of the script's <code>## PANEL n</code> list, and the hook panel is present.</li><li><strong>Beats</strong> — walk the script's panel list in order. Each panel's stated camera subject must be the thing the drawing is actually of. A beautiful panel of the wrong subject is a failed page.</li><li><strong>Props and world</strong> — nothing from the §3.1 blocklist in <code>05-character-art-spec.md</code> (electric light, mugs, plastic, watches, modern furniture, printed signage…). Every slate, ledger, banner, form and seal is <strong>blank or knot-script</strong>.</li><li><strong>Canon markers</strong> — debt-marks in-panel whenever power is spent, thread drawn as physical filament (never abstract sparkle or aura), Agnikhand palette (basalt / ash / ember / bruised purple), and the character sheets followed for face, build, costume state and mends.</li></ol>
+<p>Record the verdict with the page. <strong>"Regenerated" is a claim that needs a panel-list check, not a feeling</strong> — runs 5, 7 and 9 each reported pages complete that this gate fails on inspection.</p>
 </main>
 <footer class="wrap"><p>THREADBORN — सुत्रजात · a from-scratch webtoon manga · built from the markdown canon in
 <a href="../about.html">the repo</a>. EN + Hindi. Chapters 001–010 complete · model sheets for every

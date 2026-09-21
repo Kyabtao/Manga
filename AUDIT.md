@@ -9,13 +9,135 @@
 
 | | |
 |---|---|
-| **Critical findings** | **0** (run 6) — Hindi complete for Ch. 001–010 (94.4–98.3% Devanagari; floor 80%) |
-| **Major findings** | **1 open** (run 5) — **art-style split:** Ch. 001–005 were generated in an earlier, off-style pass (semi-modern props, occasional readable Latin lettering). ~10+ images to regenerate. Not fixable by edit. |
-| **Minor findings** | **3 open** (run 9) — Nima's sheet closed in run 9; Ch. 001 pages 001–005 rebuilt, 006–010 + Ch. 002–005 next — image dimension variation, cast-file format/depth drift, तकुआ/तकली normalisation. *(The 8-panel gap closed in run 7.)* |
+| **Critical findings** | **0** (run 10) — Hindi complete for Ch. 001–010 (letters-only floor 80%: min 93.3% / median 97.4%) |
+| **Major findings** | **3 open** (run 10) — page art failing its own script: **Ch. 005 p004** (wrong beats — lava cave and glowing gem against "The First Pull" at the counter), **Ch. 003 p010** (wrong shape + invented content), **Ch. 006 p010** (landscape, partial beats, chain panel missing). Plus the run-5 style split still to finish: Ch. 001 p006–010, then Ch. 002–005. |
+| **Minor findings** | **3 open** (run 10) — cast-file card-line drift (78/100 files), image dimension variation (20 sizes), the Hindi-floor tool missing from the repo. Nima's sheet closed and the 8-panel gap closed in runs 7–9. |
 | **Fixed in run 5** | 133 missing `Camera:`/`कैमरा:` labels (Ch. 004–005) · 19 pages given notes sections (EN+HI) · Ch. 001–002 headings normalised · Ch. 004 p008 page-type line · 28 obsolete `.gitkeep` files · README's false "PR #3 merged" claim |
 | **Structural integrity** | **PASS** — 100/100 EN scripts, 100/100 HI scripts, 100/100 images, 100/100 cast files, 10/10 summaries, 20/20 `other/` files, 0 junk |
 | **Continuity integrity** | **PASS** — mother never on panel, Loom never speaks, chain-stop budget accounted for in every chapter that states one |
 | **Merge state** | **PR #3 merged into `main` this run** (user instruction, after audit) |
+
+## Audit run 10 — 2026-09-21 (full sweep + page-art verification by sample)
+
+Scope: whole repo after run 9 (Nima closed, Ch. 001 pages 001–005 rebuilt). Method: automated sweep of
+every folder, every image and every script **plus a visual read of nine pages at full resolution**,
+each checked against its own panel list.
+
+### 0. Result in one line
+
+Structure, Hindi, continuity guard-rails and the site: **clean, with numbers**. Page art: **three pages
+fail their own scripts**, and the sample rate says the "Ch. 006–010 are one consistent production"
+verdict (run 5) cannot be relied on.
+
+| | |
+|---|---|
+| **Critical** | **0** |
+| **Major (open)** | **3 page-art defects** — Ch. 003 p010 (wrong shape + invented content), Ch. 006 p010 (wrong shape, partial beats), Ch. 005 p004 (wrong beats entirely) |
+| **Minor (open)** | cast-file card-line drift (78/100 files), image dimension variation (20 distinct sizes), Nandi's kit brush |
+| **Fixed this run** | *Canvas* rule + **page-art QA gate** written into `style-guide.md`; sheet-shape rule in `05-character-art-spec.md` corrected to match reality; regeneration prompts written for all three failing pages |
+| **Verified** | 100/100 EN · 100/100 HI · 100/100 pages · 100/100 cast · 10/10 summaries · 20/20 `other/` · 9 sheets + 1 alt · 0 junk · 0 duplicate images · 16,066 site links / 0 broken · build reproducible (rebuild = no diff) |
+
+### 1. Structural sweep — PASS
+
+| Check | Result |
+|---|---|
+| Chapters | 10, each with `story/ characters/ other/ images/` + `chapter-summary.md` |
+| Files per chapter | EN 10 · HI 10 · images 10 · cast 10 · other 2 — **no gaps, no extras, in every chapter** |
+| Naming | 0 off-convention filenames; 0 obsolete `.gitkeep`; 0 junk (`.DS_Store`, `*.orig`, `tmp-*`) |
+| Sheets in the right chapter | 9 sheets + 1 alt, each in the chapter of first appearance |
+| Repo weight | 110 images, 1.66–2.73 MB each (nothing over 3 MB); `chapters/` ≈ 252 MB |
+
+### 2. Image sweep
+
+| Check | Result |
+|---|---|
+| PNG validity | 110/110 valid by magic number + IHDR decode |
+| Duplicates (SHA-256) | **0** |
+| Landscape **page** art | **2** — `ch003/p010` and `ch006/p010`, both 1408 × 768. A vertical webtoon cannot read these; the QA gate now fails them on shape alone. |
+| Blank / unfinished bands | Detected by a flat-row scan (8 × 220 profile per page, uniform-run detector): **0 pages** with a dead band over 8% of height. The suspected grey void on Ch. 001 p001 is the page's own margin, not missing art. |
+| Dimensions | **20 distinct sizes.** Largest group 768 × 1376 (55 files). Ch. 001 pages 006–010 are the extremes (352 × 2928, ratio 8.3) — they are the *old* art still queued for rebuild. Standardisation stays open, and the rebuilds shrink the list from the outlier end. |
+| Palette screen | A cool-hue histogram screen flagged 12 pages at 11–25% cool pixels — all canon night / night-terrace scenes (bruised purple sky). **Screened, not a finding**; impression-based palette audits are not reliable here. |
+
+### 3. Visual sample — nine pages read at full resolution against their own scripts
+
+| Page | Verdict | Evidence |
+|---|---|---|
+| Ch. 001 p001 (rebuilt) | ✅ | Loom over the basin, the queue, the alley mend, Ira's face, the taut boy, the palm, the stitch close. **The taut-boy panel was checked against the script and passes**: Ch. 001 p001 Panel 5 says *"arms thrown wide, a bright taut orange thread bursting from his palm… crowd recoils. Embers."* It reads oddly out of context and is on-script. |
+| Ch. 001 p002 (rebuilt) | ✅ | Unspooling Court → processional → stair → Under-Market → Kessa with loupe → macro hand under the loupe (stitch visible) → the two at the counter. Palette and world hold; slate blank. |
+| Ch. 001 p005 (rebuilt) | ✅ | Ash-free terraces, the clerks' room, the broker, the blank three-line form, the arm-macro with the crimson-sealed page. **Run 9's logged defect confirmed and it is mild**: the blond broker figure appears twice in the lower panels — a duplication artifact, not a canon conflict. |
+| Ch. 006 p002, Ch. 008 p001, Ch. 009 p001, Ch. 010 p001 | ✅ | Knotted script page and portrait; first-bell arrival; the served paper; the basement annex and the tally — each consistent with its script. |
+| **Ch. 005 p004** | ❌ **Wrong beats** | Script: *"The First Pull"* — the Knot & Nail counter in the afternoon, **the first mend**: Rekhak gone, the torn dock-worker's mark, macro of the braided thread, the sleeve rolled, no itch, the market queue returns, Ira's palm in equilibrium, the lockbox hook. Art: a **lava basalt cavern**, a **glowing gemstone**, a **gem appraiser**, glowing ore passed hand to hand, an ember burst. None of it is on the page, in the chapter, or in the series' power vocabulary. |
+| **Ch. 003 p010** | ❌ **Wrong shape + wrong content** | Script: 7 panels — the Knot & Nail after, Kessa's verdict, the box between them, the dock at dusk, the roof at night, the palm, the basin sleeping. Art: landscape 4-column grid, ~12 panels, an **appraiser's workshop with a magic crystal in a chest**, a **stair with a luminous ritual circle**, a **golden winged-eye emblem** — the chapter finale's emotional beats are absent. |
+| **Ch. 006 p010** | ❌ **Wrong shape + partial beats** | Script: 7 panels (morning, the mend, the chain, the Council Stair, the letter, Ira finds the letter, the lockbox hook). Art: landscape 4-column grid; the sign, the mender and the letter are present, but the panels are arranged horizontally, the **chain panel is missing**, and the world reads as a warm bazaar rather than the chapter's ash-and-paper Office. |
+
+**Defect rate: 3 of 9 sampled pages.** Two of the three sit in chapters earlier runs reported verified,
+which is the finding of this audit: **page claims in this log have been asserted, not panel-checked.**
+
+### 4. Hindi — PASS (metric stated, because the previous number is not reproducible)
+
+| Metric | Result |
+|---|---|
+| Devanagari share of all non-space characters | min 77.5% (Ch. 001 p001) · median 86.0% |
+| **Devanagari share of letters only** (the historical 80%-floor metric) | **min 93.3% · median 97.4% · max 98.5% — nothing below the floor** |
+
+The 77.5% figure counts markdown syntax and punctuation; the floor still passes comfortably. But the
+tool that held this gate (`gen_support.py`, credited in run 5) **does not exist in the repo**, so the
+gate has been unenforceable since run 5. Recommend re-adding it as a three-line check, or dropping the
+claim.
+
+### 5. Continuity guard-rails — PASS
+
+- **Mother never on panel:** every match is either a standing rule line (*"Mother never on panel"*) or a
+  reference to *her file* — no panel description puts her in frame.
+- **Loom never speaks:** zero Loom dialogue lines across all 100 scripts.
+- **Chain-stop budget:** stated once per chapter where the arc requires it; no duplicate spend.
+
+### 6. Site — PASS
+
+- 16,066 local links over 343 pages, **0 broken**.
+- `python3 website/build.py` on the committed tree produces **no diff** — the committed HTML matches the
+  markdown canon exactly (reproducible build).
+- 9 art pages, 8 numbered chips each, plus Ira's 8 lettered alt chips; cast-index thumbnails and cast-file
+  `Art:` links all resolve to art pages.
+
+### 7. Corrected in the record this run
+
+| Claim | Status |
+|---|---|
+| Run 5: *"Ch. 006–010 read as one consistent production"* | **Not supported.** Ch. 006 p010 fails on shape and beats; the claim needs the nine-page sample re-run over the whole 100 before it can be restored. |
+| Run 5/7: *"Ch. 005 verified"* / fix lists naming Ch. 005 and Ch. 007 pages | **Ch. 005 p004 is off-beat**, which no run has recorded. Named fixes on other pages of those chapters may well hold; the *chapter-level* clean bill does not. |
+| Run 9: Ch. 001 p005 *"broker drawn twice"* | **Confirmed** (see sample table). |
+| Run 9: Ch. 001 001–005 rebuilt to house style | **Holds for the five pages** (p001–p004 pass; p005 passes with the logged duplication). |
+| Run 9: Nima's sheet closed | **Holds.** Read at full resolution: 8 distinct panels, numeral order 1–8, short braid pinned flat, the school's strand under the skin, kit = slate · stylus · counting chain · brass instrument · **clay oil lamp** · sleeve band · blank paper · cord — no timepiece, no mug, no lamp shade. |
+
+### 8. Regeneration prompts (written, not yet run — image budget)
+
+Each page is generated from its own script's panel list, with the character sheets attached as
+references, portrait canvas, no lettering anywhere, §3.1 blocklist in force.
+
+- **`chapters/chapter-005/images/page-004.png`** — 7 panels, portrait: the Knot & Nail counter in the
+  afternoon with Rekhak's cup gone; **the first mend** (torn dock-worker's mark, needle, the mark
+  *listening*); macro of the ash-grey shadowless braided thread moving through the seam; the dock worker
+  rolling his sleeve, the seam invisible, no itch; the market news spreading and the filing queue
+  returning; Ira's open palm with the thread contained, in equilibrium; hook — Kessa's hand on the
+  lockbox lid, seven objects inside. Attach `ira-sutar-ref.png`, `kessa-ref.png`, `bhan-ref.png`.
+- **`chapters/chapter-003/images/page-010.png`** — 7 panels, portrait, **chapter finale**: the stall
+  after, Kessa's verdict, the lockbox between them, the dock at dusk, the roof at night under the Loom,
+  the palm close, the basin sleeping as the final wide. Attach `ira-sutar-ref.png`, `kessa-ref.png`.
+- **`chapters/chapter-006/images/page-010.png`** — 7 panels, portrait: morning in the basement annex,
+  the mend, the **compliance chain close-up**, the Council Stair, the letter close-up, Ira finding the
+  letter, hook — macro of the lockbox. Attach `ira-sutar-ref.png`, `kessa-ref.png`, `nandi-ref.png`.
+
+### 9. Next actions
+
+| # | Priority | Item |
+|---|---|---|
+| 1 | **Major** | Regenerate the three pages above (prompts in §8). |
+| 2 | **Major** | Finish the style rebuild: Ch. 001 pages 006–010 (old art, ratios up to 8.3), then Ch. 002–005. |
+| 3 | **Major** | Give the remaining 91 pages the §3 sample treatment, nine at a time — the QA gate in `style-guide.md` is the checklist. |
+| 4 | Minor | Cast-file card-line drift: 78/100 cast files carry no card-line block. Either backfill for the TCG ledger or retire the convention in the README. |
+| 5 | Minor | Re-add the Hindi floor check as a script, or drop the claim from the audit. |
+| 6 | Minor | Image dimensions: standardise on 768 × 1376 opportunistically, as pages are regenerated anyway. |
 
 ## Audit run 9 — 2026-09-21 (Nima closed; Ch. 001 page art rebuilt)
 
