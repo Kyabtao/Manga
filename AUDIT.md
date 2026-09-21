@@ -11,11 +11,50 @@
 |---|---|
 | **Critical findings** | **0** (run 6) — Hindi complete for Ch. 001–010 (94.4–98.3% Devanagari; floor 80%) |
 | **Major findings** | **1 open** (run 5) — **art-style split:** Ch. 001–005 were generated in an earlier, off-style pass (semi-modern props, occasional readable Latin lettering). ~10+ images to regenerate. Not fixable by edit. |
-| **Minor findings** | **3 open** (run 7) — image dimension variation, cast-file format/depth drift, तकुआ/तकली normalisation. *(The 8-panel gap closed in run 7.)* |
+| **Minor findings** | **3 open** (run 8) — plus **Nima's sheet off-canon** (modern props, long braid): regenerate, see run 8 — image dimension variation, cast-file format/depth drift, तकुआ/तकली normalisation. *(The 8-panel gap closed in run 7.)* |
 | **Fixed in run 5** | 133 missing `Camera:`/`कैमरा:` labels (Ch. 004–005) · 19 pages given notes sections (EN+HI) · Ch. 001–002 headings normalised · Ch. 004 p008 page-type line · 28 obsolete `.gitkeep` files · README's false "PR #3 merged" claim |
 | **Structural integrity** | **PASS** — 100/100 EN scripts, 100/100 HI scripts, 100/100 images, 100/100 cast files, 10/10 summaries, 20/20 `other/` files, 0 junk |
 | **Continuity integrity** | **PASS** — mother never on panel, Loom never speaks, chain-stop budget accounted for in every chapter that states one |
 | **Merge state** | **PR #3 merged into `main` this run** (user instruction, after audit) |
+
+## Audit run 8 — 2026-09-21 (art QA on the recut sheets + the grounding rule)
+
+The nine recut/alt sheets from run 7 were opened at full resolution and read against their own panel
+lines. Eight pass. **One sheet is off-canon and is the run's only open art item.**
+
+| Sheet | Verdict |
+|---|---|
+| Ira (8 + alt) | **Pass.** Stitched right palm, cut-finger gloves, mismatched eyes; alt sheet adds states, five expressions, macro palm, kit tipped out, two staging panels and the silhouette test as an actual drawn panel. |
+| Kessa | **Pass.** Loupe down over one eye in the detail panel, tally-cord count in hands, strongbox/balance/ash-ink kit, counter action. |
+| Patra | **Pass.** Blank tags, translucent hem by lamplight, blank contract, doorway action; tall two-column layout kept as recorded. |
+| Rekhak | **Pass.** Sight-mark and neck-lines, counting-chain through the fingers, crimson-sealed page in the kit, the kneeling read as action. |
+| Bhan, Inspector | **Pass** (both drawn from scratch this session). |
+| Nandi | **Pass**, with one flag: slot 7's kit includes a *brush* alongside twine, quires, shelf-hook, lamp and chalk. Brushes for cleaning quires are period-plausible; left as drawn, noted rather than cut. |
+| **Nima** | **FAIL — open.** The sheet carries off-canon props: an **electric-style desk lamp** with a shade and stem, a **metal tumbler/mug**, rubber bands and a modern-looking desk and chair in the action panel, and her hair is drawn as a **long braid down her back** where canon says a *short braid pinned flat*. The Office world here also reads contemporary rather than the paper-and-oil Office of Ch. 008–010. **Regenerate** — this is the same defect class as the Ch. 001–005 page-art split. |
+
+### Fixed this run
+
+| # | Item | Fix |
+|---|---|---|
+| 1 | The defect above keeps recurring, in page art and now in a sheet, with nothing written down that names it. | `05-character-art-spec.md` **§3.1 Pre-industrial grounding** — explicit **blocklist** (electric light, desk lamps, mugs, rubber bands, plastic, watches, printed signage, modern office furniture, industrial hardware, hoodies/backpacks) and the period replacements (clay oil lamps, candles, hand-lanterns, wood, crates, quires, slate). Rule: a modern object means *regenerate*, never crop. |
+| 2 | Two sheet failures produced while recutting had no rule behind them. | Spec now says: **no panel captions** (circled numerals only) and **eight distinct slots** — a repeated or dropped slot is a failed sheet, regenerated rather than filed. Both were hit and thrown away this session. |
+| 3 | Kessa's sheet placed the loupe over the *left* eye; every drawing of her, old sheet included, puts it over the other one. | Canon line rewritten to *one eye covered and the uncovered eye doing the work* — which is what the art has always done — instead of silently contradicting the art. |
+| 4 | Alt sheets were specified as lettered but the first one is drawn with numerals. | Spec records the reconciliation: the **site** letters alt slots A–H; numerals inside `-alt.png` are harmless because the eight numbered slots only ever mean the ref sheet. |
+
+### Verified
+
+- Build is reproducible: re-running `website/build.py` on the committed tree produces **no diff** —
+  every committed HTML file matches the markdown canon exactly.
+- 16,064 local links over 343 pages, **0 broken**; art pages: 9 × 8 numbered chips, plus Ira's 8
+  lettered alt chips.
+- Sheet metadata matches the art on all nine: `**Ref sheet panels:**` order is detail (5) then hands (6)
+  in every case, matching the drawn sheets.
+
+### Still open after run 8
+
+- **Nima's model sheet** — blocked only by the ten-images-per-turn generation cap in the session that
+  found it; the corrected prompt is written and the sheet is the next art action.
+- Ch. 001–005 page-art style split (run 5) — unchanged, still the repo's largest art item.
 
 ## Audit run 7 — 2026-09-21 (bring the back catalogue up to the standard)
 

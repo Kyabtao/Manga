@@ -56,6 +56,10 @@ all there, the page just reads differently):
 - **No text in art.** No lettering, signage, labels, stamps or readable numbers anywhere in the sheet.
   Documents, signs, seals and slates are **blank or knot-script only**. This is a standing constraint
   across the whole repo (see `AUDIT.md`).
+- **No panel captions.** The eight slots are marked with small circled numerals only — never printed
+  titles under the panels (*FRONT VIEW*, *KIT*). A sheet that comes back captioned is regenerated.
+- **Eight distinct slots.** No slot repeats another and none is dropped: a sheet with two back views
+  and no portrait is regenerated, not filed.
 - **They are mid-story, not models.** Costume state must match the sheet's own text: mends, stains,
   ash, salt, ink, wear. Agnikhand's ash is on everyone who lives there.
 - **No new costume.** The ref sheet illustrates the character sheet; it never invents canon. If a
@@ -69,6 +73,26 @@ all there, the page just reads differently):
   world, the sheet carries the design.
 - **Silhouette test** (from `style-guide.md`) applies to every named character: recognisable as a
   solid black shape.
+
+## 3.1 Pre-industrial grounding — the one rule art keeps breaking
+
+Agnikhand is ash, oil light, hand tools, paper and thread. The single most repeated failure in this
+repo (Ch. 001–005 page art, and one model sheet) is **modern props drawn into a pre-industrial world**.
+
+**Blocklist — none of these may appear on a model sheet or a page, in any panel:**
+
+electric light, desk or lamps with shades and cords, LED/fluorescent fixtures · metal tumblers, mugs
+with handles, vacuum flasks, packaged or branded goods · rubber bands, plastic, zip fasteners, moulded
+synthetic buttons, velcro · wristwatches, pocket watches, printed or stamped signage and paper with
+readable print · modern office furniture (bent-tube desks, swivel chairs, filing cabinets with rails),
+window frames with float glass and aluminium, cranes, water towers, industrial tanks · hoodies,
+backpacks, sneakers.
+
+**Replacements:** clay oil lamps with a wick and flame, candles, hand-lanterns; wooden benches, stools,
+tables and shelves; crates, barrels, sacks, quires, slate and chalk; iron, brass, stoneware, cloth.
+
+If the render drifts anyway, **regenerate rather than crop**: a modern object in a sheet teaches every
+future page the wrong world.
 
 ## 4. File rules
 
@@ -122,6 +146,10 @@ model sheet). The house alt pattern, as first drawn for Ira:
 
 An alt sheet is discovered automatically: drop the file, add the two lines, rebuild — the art page
 grows an **Alt sheet** section with its own lettered chips and click-to-zoom plate.
+
+The site letters the slots **A–H** in reading order. The first alt sheet (`ira-sutar-alt.png`) carries
+plain numerals in the art itself; that is harmless — they are on a *different file* from the model
+sheet, and the eight numbered slots of `05-character-art-spec.md` only ever mean the ref sheet.
 
 ## 6. How it reaches the site
 

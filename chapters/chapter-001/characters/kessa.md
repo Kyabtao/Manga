@@ -17,8 +17,10 @@
 - **Hands:** enormous for her body — scarred, knuckled, gentle anyway. They are the first thing drawn.
 - **Eyes:** large Kshudra cat eyes that catch light. **One is always covered by the loupe** once she
   starts appraising — so she literally sees the world two ways. Use this in panels.
-- **Loupe:** jeweller's loupe on a cord; pushed up on her brow when idle, flipped down over the left eye
-  when working.
+- **Loupe:** jeweller's loupe on a cord; pushed up on her brow when idle, flipped down over **one** eye
+  when working. Canon is *one eye covered and the uncovered eye doing the work*, not which eye: the
+  ref sheet's front-on portrait puts it on the viewer's left, and the open eye stays on the panel's
+  light side.
 - **Clothes:** layered pawned coats, mended with mismatched thread (she wears her own trade). A string
   of knotted tally-thread at her belt.
 - **Silhouette test:** tiny broad body + huge hands + loupe cord.
