@@ -10,7 +10,7 @@
 | | |
 |---|---|
 | **Critical findings** | **0** (run 10) — Hindi complete for Ch. 001–010 (letters-only floor 80%: min 93.3% / median 97.4%) |
-| **Major findings** | **3 open** (run 10) — page art failing its own script: **Ch. 005 p004** (wrong beats — lava cave and glowing gem against "The First Pull" at the counter), **Ch. 003 p010** (wrong shape + invented content), **Ch. 006 p010** (landscape, partial beats, chain panel missing). Plus the run-5 style split still to finish: Ch. 001 p006–010, then Ch. 002–005. |
+| **Major findings** | **1 open** (run 10, updated) — the run-5 **style split**: Ch. 001 p006–010 still on the old pass (ratios up to 8.3), then Ch. 002–005; and 91 pages have not yet had the §3 sample treatment. **~~Ch. 005 p004, Ch. 003 p010, Ch. 006 p010~~ → fixed and verified in the same session (§8); landscape page art now zero.** |
 | **Minor findings** | **3 open** (run 10) — cast-file card-line drift (78/100 files), image dimension variation (20 sizes), the Hindi-floor tool missing from the repo. Nima's sheet closed and the 8-panel gap closed in runs 7–9. |
 | **Fixed in run 5** | 133 missing `Camera:`/`कैमरा:` labels (Ch. 004–005) · 19 pages given notes sections (EN+HI) · Ch. 001–002 headings normalised · Ch. 004 p008 page-type line · 28 obsolete `.gitkeep` files · README's false "PR #3 merged" claim |
 | **Structural integrity** | **PASS** — 100/100 EN scripts, 100/100 HI scripts, 100/100 images, 100/100 cast files, 10/10 summaries, 20/20 `other/` files, 0 junk |
@@ -110,10 +110,31 @@ claim.
 | Run 9: Ch. 001 001–005 rebuilt to house style | **Holds for the five pages** (p001–p004 pass; p005 passes with the logged duplication). |
 | Run 9: Nima's sheet closed | **Holds.** Read at full resolution: 8 distinct panels, numeral order 1–8, short braid pinned flat, the school's strand under the skin, kit = slate · stylus · counting chain · brass instrument · **clay oil lamp** · sleeve band · blank paper · cord — no timepiece, no mug, no lamp shade. |
 
-### 8. Regeneration prompts (written, not yet run — image budget)
+### 8. The three failing pages — REGENERATED AND VERIFIED (same session)
 
-Each page is generated from its own script's panel list, with the character sheets attached as
-references, portrait canvas, no lettering anywhere, §3.1 blocklist in force.
+Each page was generated from its own script's panel list, portrait canvas, character sheets attached
+as references, no lettering anywhere, §3.1 blocklist in force. **All three now pass the QA gate.**
+
+*Generator note, logged because it nearly caused a silent error:* the three images came back with
+their content attached to **swapped filenames** — the render of Ch. 003's finale was written to
+`ch005-p004.png` and vice versa. Nothing about the files identified which was which, so the mapping
+was decided **by reading each image against its page's panel list**, and only then installed:
+
+| File installed | Content verified | QA gate |
+|---|---|---|
+| `ch003/images/page-010.png` | stall after the confession (empty cup, open lockbox, Ira at the threshold) · Kessa tying a new knot and pushing the closed box across · the box between Kessa's scarred hands and Ira's gloves · Bhan at the dock, sleeve rolled, mend + charcoal mark + the looped second thread · Ira on the roof under the turning Loom, palm open · extreme close of the stitched palm · the basin asleep at night, wide hook | **Pass** — 7 beats in order, hook last, 768 × 1376 portrait, palette and characters on-model, no text. *Note: panel 4's second thread-loop is drawn subtly rather than emphasised.* |
+| `ch005/images/page-004.png` | afternoon counter with the left cup, Ira's palm open · **the first mend** on the dock worker's forearm at the counter · macro of the braided thread through the needle into the mark · the worker rolling his sleeve, puzzled, not pained · the market alley **queue forming for mending** · Ira's open palm in lamplight, clean, thread held · macro hook of the lockbox under Kessa's hand | **Pass** — matches *"The First Pull"* panel for panel; the cave, the glowing gem and the gem appraiser are gone. |
+| `ch006/images/page-010.png` | the stall opening in falling ash · the routine mend · **Rekhak walking his rounds with the counting chain through his fingers** (the missing panel, now present) · the letter at the foot of the Council Stair, both waxes touching · the letter unopened with grey and crimson wax · Ira stooping to pick it up at dawn, the strand reaching toward the crimson wax · macro hook — the unopened letter beside the closed lockbox under Kessa's hand | **Pass** — 7 beats, hook last, portrait. Seals carry **knot-script emblems, not letters** (allowed by the standing rule). |
+
+**Result: landscape page art in the repo is now zero**, and the three ch./p. entries that failed the
+sample are closed:
+
+- **Ch. 005 p004** — was *wrong beats entirely*; now the first-mend page its script describes.
+- **Ch. 003 p010** — was *landscape + invented content*; now the quiet chapter finale, portrait.
+- **Ch. 006 p010** — was *landscape, chain panel missing*; now portrait with the chain panel present.
+
+All three are 768 × 1376 — i.e. they shrink the dimension-outlier list from the top as well as the
+wrong-art list.
 
 - **`chapters/chapter-005/images/page-004.png`** — 7 panels, portrait: the Knot & Nail counter in the
   afternoon with Rekhak's cup gone; **the first mend** (torn dock-worker's mark, needle, the mark
@@ -132,7 +153,7 @@ references, portrait canvas, no lettering anywhere, §3.1 blocklist in force.
 
 | # | Priority | Item |
 |---|---|---|
-| 1 | **Major** | Regenerate the three pages above (prompts in §8). |
+| 1 | ~~Major~~ | ~~Regenerate the three pages above~~ — **done and verified (§8).** |
 | 2 | **Major** | Finish the style rebuild: Ch. 001 pages 006–010 (old art, ratios up to 8.3), then Ch. 002–005. |
 | 3 | **Major** | Give the remaining 91 pages the §3 sample treatment, nine at a time — the QA gate in `style-guide.md` is the checklist. |
 | 4 | Minor | Cast-file card-line drift: 78/100 cast files carry no card-line block. Either backfill for the TCG ledger or retire the convention in the README. |
