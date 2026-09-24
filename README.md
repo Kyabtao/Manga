@@ -24,7 +24,7 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · Ch. 009: Hindi 10/10, cast 10, glossary + locations · Ch. 010: Hindi 10/10, cast 10, glossary + locations |
 | **NEXT page to build** | **Ch. 011 Page 001** — create the chapter skeleton (four subfolders + `.gitkeep`) first, then plan the page from the Next-page brief below |
 | **NEXT art to fix** | **Ch. 001 rebuilt 001–010 (verified); Ch. 002 pages 001–006 + **007** + **009** rebuilt and verified — §8d. Run 11 also found and closed a page the old landscape-only check could not see: `ch006/page-007.png` was **1024 × 1024 with entirely wrong content** (cavern, stone tablet, glowing green thread) — replaced with a portrait 768 × 1376 render that passes the gate. **Next: Ch. 002 p008 and p010** (prompts + reject reasons written in `AUDIT.md` §8d), then Ch. 003 p001–p009, Ch. 004, Ch. 005 — **30 pages**, running ~3–4 accepted renders a turn at the reject rate §8d records. **Non-portrait page art in the repo is zero. Checklist: the page-art QA gate in `series-bible/style-guide.md`** (shape · panel count · beats · props · canon markers). The gate's automatable half now runs as `python3 tools/audit.py`. |
-| **Open PR** | **None open — open a new one from `arena/01a0d19e-manga`.** PR #1–#5 merged into `main` (#5 merged 2026-09-24). |
+| **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. Bhan and the Inspector were drawn from scratch; the seven older sheets were extended to the full standard. Ira also has an **alt sheet** (`ira-sutar-alt.png`). Nima's sheet was regenerated clean. **Page-art rebuild:** Ch. 001 **001–010 done** (run 10 §8b); **Ch. 002 001–006 (§8c) + 007 + 009 (§8d) done**; Ch. 006 p007 rebuilt (§8d). Next: **Ch. 002 p008, p010**, then Ch. 003–005. Verified against the gate in `series-bible/style-guide.md`; run `python3 tools/audit.py` for the automatable half. |
 
 ### Next-page brief (Chapter 011 · Page 001)
@@ -108,7 +108,8 @@ answered letter is still unread by him.
   `arena/…-manga` branch; update the field when it changes). Commit, then
   `git push origin <that branch>`.
 - One PR per branch. A merged PR does not follow a new branch: when the session branch changes, open a
-  new PR from it (PR #1–#5 are all merged; the branch named above currently has none open). After
+  new PR from it ([PR #6](https://github.com/Kyabtao/Manga/pull/6) is open from this branch; PR #1–#5
+  are merged). After
   pushing, the open PR updates automatically — do **not** open a second PR from the same branch.
 - If the local clone looks fresh (HEAD at "Initial commit", files untracked), that is expected in a
   new sandbox: `git add -A && git commit && git push` and the PR will pick everything up.
