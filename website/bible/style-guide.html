@@ -38,6 +38,8 @@ NO text, NO speech bubbles, NO lettering, NO watermark.</code></pre>
 <p><strong>Page 1 of any chapter always ends on a hook panel.</strong> No exceptions.</p>
 <h2>Canvas</h2>
 <p><strong>Page art is always portrait, taller than it is wide</strong> — the webtoon scrolls vertically, and a landscape page cannot be read in it. House target 768 × 1376 (ratio ≈ 1.8); ratios up to ~2.5 are fine. A page that comes back landscape is regenerated, never rotated or cropped.</p>
+<p><strong>"Portrait" means <code>height &gt; width</code> strictly, and the check is <code>h &lt;= w</code> → regenerate.</strong> Run 11 found a page at <strong>1024 × 1024</strong> that had passed every previous run's check, because that check tested for <em>landscape</em> (<code>w &gt; h</code>) and a square is neither. A square page fails the same way a landscape one does — it does not scroll. Check the ratio, not the shape's name.</p>
+<p><em>Six tiers is acceptable when two beats share a frame</em> (run 11, Ch. 002 p009: beats 2 and 3 read as one wide panel). <strong>Seven beats in six tiers passes; seven beats in six tiers with one beat missing fails.</strong></p>
 <p>Model sheets are exempt (<code>05-character-art-spec.md</code>): there the eight panels decide the shape, so a sheet may be wide (Ira 1376 × 768) or tall (Patra 704 × 1484).</p>
 <h2>Page-art QA gate — before a page is called done</h2>
 <p>Every page passes these five, checked <strong>against that page's own script</strong>, at full resolution:</p>

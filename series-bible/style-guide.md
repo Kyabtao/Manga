@@ -78,6 +78,15 @@ NO text, NO speech bubbles, NO lettering, NO watermark.
 landscape page cannot be read in it. House target 768 × 1376 (ratio ≈ 1.8); ratios up to ~2.5 are
 fine. A page that comes back landscape is regenerated, never rotated or cropped.
 
+**"Portrait" means `height > width` strictly, and the check is `h <= w` → regenerate.** Run 11 found
+a page at **1024 × 1024** that had passed every previous run's check, because that check tested for
+*landscape* (`w > h`) and a square is neither. A square page fails the same way a landscape one
+does — it does not scroll. Check the ratio, not the shape's name.
+
+*Six tiers is acceptable when two beats share a frame* (run 11, Ch. 002 p009: beats 2 and 3 read as
+one wide panel). **Seven beats in six tiers passes; seven beats in six tiers with one beat missing
+fails.**
+
 Model sheets are exempt (`05-character-art-spec.md`): there the eight panels decide the shape, so a
 sheet may be wide (Ira 1376 × 768) or tall (Patra 704 × 1484).
 

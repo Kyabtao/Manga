@@ -1,21 +1,143 @@
 # THREADBORN — FULL REPO AUDIT
 
-**Date:** 2026-09-19 · **Branch:** `arena/01a0b63a-manga` · **Scope:** chapters 001–008, website, tooling
-**Auditor:** Arena agent · **Method:** automated sweep + manual image inspection
+**Date:** 2026-09-24 · **Branch:** `arena/01a0d19e-manga` · **Scope:** chapters 001–010, website, tooling
+**Auditor:** Arena agent · **Method:** `tools/audit.py` (reproducible) + full-resolution visual reads
+
+> **Run 11 is the current run — see §R11 below.** Runs 5–10 are preserved as history; several of
+> their *verified* claims were corrected by later runs, and run 11 corrects one more. Read §7 and
+> §R11.7 before trusting any chapter-level clean bill from an earlier run.
 
 ---
 
-## 0. Headline
+## 0. Headline (run 11)
 
 | | |
 |---|---|
-| **Critical findings** | **0** (run 10) — Hindi complete for Ch. 001–010 (letters-only floor 80%: min 93.3% / median 97.4%) |
-| **Major findings** | **1 open** (run 10 + 8b) — the run-5 **style split** is now **closed for Ch. 001** (pages 001–010 all rebuilt and verified, §8b); what remains is **Ch. 002–005**, and the 91 pages that have not yet had the §3 sample treatment. **~~Ch. 005 p004, Ch. 003 p010, Ch. 006 p010~~ → fixed and verified in the same session (§8); landscape page art now zero.** |
-| **Minor findings** | **3 open** (run 10) — cast-file card-line drift (78/100 files), image dimension variation (20 sizes), the Hindi-floor tool missing from the repo. Nima's sheet closed and the 8-panel gap closed in runs 7–9. |
-| **Fixed in run 5** | 133 missing `Camera:`/`कैमरा:` labels (Ch. 004–005) · 19 pages given notes sections (EN+HI) · Ch. 001–002 headings normalised · Ch. 004 p008 page-type line · 28 obsolete `.gitkeep` files · README's false "PR #3 merged" claim |
-| **Structural integrity** | **PASS** — 100/100 EN scripts, 100/100 HI scripts, 100/100 images, 100/100 cast files, 10/10 summaries, 20/20 `other/` files, 0 junk |
-| **Continuity integrity** | **PASS** — mother never on panel, Loom never speaks, chain-stop budget accounted for in every chapter that states one |
-| **Merge state** | **PR #3 merged into `main` this run** (user instruction, after audit) |
+| **Critical findings** | **0** — Hindi complete Ch. 001–010; letters-only Devanagari min 89.7% / median 95.9% / max 97.7%, floor 80% |
+| **Major findings** | **1 open** — the **style rebuild**: Ch. 001 (all 10) and Ch. 002 p001–p007, p009 are done; **30 pages remain** (Ch. 002 p008 + p010, Ch. 003 p001–p009, Ch. 004 ×10, Ch. 005 ×9). Reject reasons and regenerations prompts for the two Ch. 002 pages are written in §8d. |
+| **Major found & closed this run** | **`ch006/page-007.png` was 1024 × 1024 with entirely wrong content** — a cavern, a glowing stone tablet and green magical thread, in a chapter set in a market stall. It had passed every previous run because the canvas check tested for *landscape* (`w > h`) and a square is neither. **Rebuilt portrait, 7 beats, verified (§8d).** |
+| **Minor findings** | **2 open** — cast-file card-line drift (**85/100** files, up from the 78 run 10 reported because the count is now measured, not estimated), image dimension variation (16 distinct sizes; 12 page images still over ratio 2.5). |
+| **Minor closed this run** | The Hindi-floor tool missing from the repo → **`tools/audit.py`**, a committed, reproducible gate. README branch field stale → corrected. Ch. 001 had no chain-stop budget line → added, grandfathering its three stops. |
+| **Structural integrity** | **PASS** — 100 EN · 100 HI · 100 images · 100 cast · 10 summaries · 20 `other/` · 0 junk · 0 off-convention filenames |
+| **Script integrity** | **PASS** — 700 panels, all numbered 1..n; stated panel count == actual in all 100; `Camera:`/`कैमरा:` on every panel EN and HI; notes + card sections 100/100; EN/HI panel parity 100/100 |
+| **Continuity integrity** | **PASS** — Loom dialogue 0; chain-stop budget line present in **10/10** summaries; 3 mother-in-`Camera:` lines returned for manual read, all confirmed as references, not framing |
+| **Site integrity** | **PASS** — 16,066 local links over 342 pages, 0 broken; build reproducible (rebuild = byte-identical HTML) |
+| **Merge state** | PR #1–#5 all merged into `main` (#5 on 2026-09-24). **No PR currently open** on the session branch. |
+
+Numbers in this table that are machine-checkable come from `python3 tools/audit.py`. Numbers that
+need eyes (beats, canon markers, lettering-in-art) come from a full-resolution read recorded in §8d.
+
+## Audit run 11 — 2026-09-24 (the audit becomes a tool; the canvas check gets fixed)
+
+Scope: whole repo, ten chapters, after run 10 and PR #5. Two things changed the method this run:
+
+1. **The gate is now code.** `tools/audit.py` (stdlib only) re-derives every number a previous run
+   asserted by hand — structure, junk, image canvas/duplicates/weight, the Hindi floor, script
+   sections and EN/HI parity, continuity guard-rails, cast card-lines, site reproducibility and
+   links, and the README's branch field. `python3 tools/audit.py`, exit 0/1/2.
+2. **Pages were read at full resolution again**, and this run's sample was chosen *by suspicion
+   rather than at random* — starting with the pages whose dimensions no previous run had explained.
+
+### R11.1 What the machine gate found
+
+| Gate | Result |
+|---|---|
+| Structure | **PASS** — 10 chapters × (10 EN · 10 HI · 10 png · 10 cast · 2 other · 1 summary), page numbers pair EN↔HI↔image↔cast in every chapter |
+| Naming / junk | **PASS** — 0 junk, 0 `.gitkeep`, 0 off-convention filenames |
+| Images | **110 PNG, all valid, 0 duplicates** (sha-256), all inside the 1.2–3.0 MB band (1.58–2.56 MB) |
+| **Canvas rule** | **1 FAIL → `ch006/page-007.png` 1024 × 1024.** See §R11.2. All other page art portrait. |
+| Hindi floor | **PASS** — 100/100 files over 80% letters-only Devanagari; min 89.7% (Ch. 001 p001), median 95.9%, max 97.7% |
+| Scripts | **PASS** — 700 panels; PANEL numbering 1..n in all 100; stated count == actual in all 100; `Camera:`/`कैमरा:` on 100/100 EN and HI; notes + card sections 100/100; EN/HI panel parity 100/100 |
+| Continuity | Loom dialogue **0**. Chain-stop budget line **10/10** after this run's fix. Mother-in-`Camera:`: 3 hits returned, all read and confirmed as *references* (the lockbox file, the blank strand recognising a melody, a second crimson line in the fold) — **none puts her in frame** |
+| Cast card-lines | **15/100** (measured). Open, see §R11.5 |
+| Site | **16,066 local links over 342 HTML pages — 0 broken**; `build.py` rebuild produced **byte-identical** HTML (sha-256 per file) |
+| Docs | README branch field said `arena/01a0c1d2-manga`, git said `arena/01a0d19e-manga` → **fixed** |
+
+### R11.2 The square page — the finding of this run
+
+`chapters/chapter-006/images/page-007.png` was **1024 × 1024** — not landscape, therefore never
+caught by a check written as `w > h` → regenerate. Runs 5, 7, 9 and 10 each swept the images and
+each reported it clean.
+
+Read at full resolution against its own script, it also **had nothing to do with the page**:
+
+| | |
+|---|---|
+| Script (7 beats) | the stall working normally; Rekhak's rounds with the chain humming; the blank strand reaching toward the echo; Ira hearing the four notes; evening with Kessa; Kessa tying the knot and drawing out the charter; hook — the lockbox with **eight objects** |
+| Art that was installed | a **cavern of black rock**, a **glowing green stone tablet**, hieroglyph-like glyphs, jagged green magical thread, bare-shouldered figures in an underground temple — **a different genre** |
+
+None of the seven beats is present. It is the same defect class as run 10's Ch. 005 p004 (a lava
+cavern and a gem appraiser) and Ch. 003 p010 — which is to say the *third* page in this class, and
+the first one that the dimension sweep should have caught but did not.
+
+**Two fixes, both now in canon:**
+
+- `style-guide.md` — the canvas rule now says the check is **`h <= w` → regenerate**, and names the
+  square page that slipped through. "Portrait" is a ratio test, not a shape's name.
+- `tools/audit.py` — the canvas gate is coded as `h <= w`, so no future run can repeat the miss.
+
+### R11.3 The page rebuilt (§8d, same session)
+
+`ch006/page-007.png` regenerated from its own panel list, portrait, refs attached, then read at full
+resolution:
+
+| Pass | Verdict |
+|---|---|
+| v1 | **Rejected — came back landscape 1376 × 768.** Canvas rule. (Prompts now lead with the canvas.) |
+| v2 | **Rejected — lettering.** The hook panel's paper tag read *"Posting order"*, and the charter Kessa reads was legible cursive. Every beat was otherwise correct: the queue, Rekhak's chain with its **one blackened link**, the blank strand reaching, the four ember motes, the evening two-shot across the counter, the tally-cord knot, the lockbox with eight objects. |
+| v3 | **Pass** — a **targeted edit** of v2 (the §8c method) blanking the tag and turning the charter into knot-script glyphs. Re-read in full: 7 beats in order, hook last, portrait 768 × 1376, Agnikhand palette, characters on-model, **no lettering anywhere**. **Installed.** |
+
+### R11.4 Ch. 002 — the rebuild advances
+
+Two pages installed this run, both 768 × 1376, both read in full against their panel lists:
+
+| Page | Verdict |
+|---|---|
+| **p007** | **Pass** — 7 tiers: the guttering stall-row lamps with eyes lowered; Patra offering the slip with both hands and the crimson seal on-model; the slip in the cut-finger gloves with abstract ledger strokes; both seated on crates negotiating; Bhan on the dock road at the night-shift bell; the forearm tear mid-mend under the hooded lantern; hook — the commission slip open at its column. **Logged deviation:** the tear is drawn warm-lit rather than the house flat dark line; the mend reads as a mend and not as an injury. |
+| **p009** | **Pass** — **six tiers carrying seven beats** (beats 2 and 3 read as one wide panel: the chit on the knee *and* the voice from behind the boards), which the gate allows. The locked shutter at night, Ira seated reading aloud to the boards, the kit opened on the crate, the rubbing macro showing a seam **unpicked rather than cut** (the page's thesis, correctly drawn), the lantern low, hook — the shutter boards at lock-height with the lock turning from inside. **No lettering.** |
+| p008 | **Rejected** — three defects: Ira wears a **hood** (off-model; she does not wear one), the chit-boy's slate is a **modern metal clipboard**, and the mend is drawn as a **graphic open wound** (blood, redness) where the house rule is a thin flat dark line on unbroken skin. v2 re-rendered to the same panel list with all three named as absolutes. |
+| p010 | **Rejected** — **legible Latin lettering**: the word *"Payment"* typeset on the slip in tier 2, plus a signature-style scrawl. An instant fail under the no-lettering rule. v2 re-rendered with the rule promoted to "no words of any alphabet, no signatures, no emblems on seals". |
+
+**Both v2 renders are on disk in `work/` and have not yet been read.** They are the first action of
+the next turn; prompts and reject reasons are recorded so the work is not repeated from scratch.
+
+### R11.5 Cast card-line drift — measured, and worse than reported
+
+Run 10 said *78/100 cast files carry no card-line block*. The machine gate measures **85/100**
+(fenced blocks with the `a / b / c / d / e` card shape): Ch. 001 has **10/10**, Ch. 002 has 5/10,
+and **Ch. 003–010 have 0/10 each**. The convention was honoured in the first chapter and quietly
+dropped. This is a TCG-ledger input, so it is a real gap rather than cosmetic — but it is also
+~850 lines of writing, so it stays **open and minor**, and the README no longer implies otherwise.
+
+### R11.6 Image dimensions
+
+**110 images, 16 distinct sizes** (run 10 reported 20 — the rebuilds are shrinking the list from the
+outlier end as predicted). **67/100 page images are now on the house 768 × 1376.** Twelve page
+images still exceed ratio 2.5 — the old extreme-ratio art (up to 5.36, i.e. Ch. 004 p003 at
+448 × 2400). They are logged, not failed: they portrait, they read, and they are already in the
+rebuild queue. Sheets stay exempt.
+
+### R11.7 Corrected in the record this run
+
+| Claim | Status |
+|---|---|
+| Run 10: *"landscape page art in the repo is now zero"* | **True but insufficient.** Zero landscape — and one **square** page, which the check was not looking for. The claim is now stated as *non-portrait page art is zero*, and the check is `h <= w`. |
+| Run 10 §2: *"dimensions — 20 distinct sizes"* | **Now 16**, four collapsed by the Ch. 002 rebuilds. |
+| Run 10 §5: *"chain-stop budget accounted for in every chapter that states one"* | **Now 10/10 state one.** Ch. 001 had three stops and no budget line; it now carries one that grandfathers them, so no later chapter can spend against Ch. 001's stops. |
+| Run 10 §4: *"the tool that held this gate does not exist in the repo"* | **Closed** — `tools/audit.py`. |
+| Run 10 §3: *"defect rate 3 of 9 sampled pages"* | **Now 4 of 12 sampled across runs 10–11** (Ch. 005 p004, Ch. 003 p010, Ch. 006 p010, Ch. 006 p007). The run-10 conclusion stands and is strengthened: **sample rates this high mean no chapter has a clean bill until every page in it has been read.** |
+
+### R11.8 Next actions
+
+| # | Priority | Item |
+|---|---|---|
+| 1 | **Major** | Read `work/ch002-p008-v2.png` and `work/ch002-p010-v2.png` at full resolution; install the ones that pass, regenerate the ones that do not. Then continue the rebuild: Ch. 003 p001–p009, Ch. 004 ×10, Ch. 005 ×9 — **30 pages** after the two. |
+| 2 | **Major** | Give the remaining ~88 pages the visual treatment, a chapter at a time, so the defect-rate estimate stops being an extrapolation from a sample. |
+| 3 | Minor | Backfill card-line blocks in the 85 cast files that lack them (Ch. 002 ×5, Ch. 003–010 ×10 each), or retire the convention explicitly in the README. |
+| 4 | Minor | Standardise the 12 remaining over-ratio pages to 768 × 1376 as they are rebuilt anyway. |
+| 5 | Housekeeping | Run `python3 tools/audit.py` before every "done". Delete `work/` (scratch renders) or add it to `.gitignore` — it is not canon. |
+
+---
 
 ## Audit run 10 — 2026-09-21 (full sweep + page-art verification by sample)
 
@@ -229,7 +351,37 @@ frame bottom.
 Ch. 005 p001–p003 and p005–p010 — **32 pages**, at ~4–6 accepted renders per turn with the reject rate
 this batch showed.
 
-### 9. Next actions
+### 8d. Run 11 — Ch. 002 p007 + p009 installed; Ch. 006 p007 rebuilt (same session)
+
+Three pages installed, all 768 × 1376, all read in full against their own panel lists before install.
+Five renders were spent and **four rejected**; the reject list is the record.
+
+| File installed | Content verified against its own panel list | Gate |
+|---|---|---|
+| `chapter-002/images/page-007.png` | dusk stall-row with guttering lamps and lowered eyes · Patra offering the slip with both hands, crimson seal unbroken · the slip in Ira's cut-finger gloves, abstract ledger strokes only · both seated on crates negotiating · Bhan on the dock road at the night-shift bell, tired not angry · the forearm tear mid-mend under the hooded lantern · hook — the commission slip open at its column on the crate lid | **Pass** — 7 beats in order, hook last, portrait, no lettering. *Logged: the tear is drawn warm-lit rather than the house flat dark line; it reads as a mend, not an injury.* |
+| `chapter-002/images/page-009.png` | the shut stall at night from the crate's side, no lamp · **beats 2 and 3 as one wide panel** — the chit on the knee at the two waxes and the voice from behind the boards · Ira's kit opened on the crate with the rubbing · the rubbing macro: a seam **unpicked, not cut** · lantern low, the boards dark · hook — the boards at lock-height with the lock turning from inside | **Pass** — **six tiers / seven beats**, allowed (two beats share a frame); thesis drawn correctly; no lettering. |
+| `chapter-006/images/page-007.png` | the stall working with a long queue · Rekhak on his rounds, chain running with **one blackened link**, leaning toward the stall · the blank strand reaching under the skin toward the echo · the four notes as ember motes · evening, Kessa behind the counter and Ira across it · the tally-cord knot and the charter drawn from the lockbox under the loupe · hook — the open box, **eight objects**, box full | **Pass** — 7 beats, hook last, portrait, Agnikhand palette, on-model, no lettering. Replaces the 1024 × 1024 cavern page (§R11.2). |
+
+**Rejects — four, all caught before install:**
+
+| Reject | Defect | Rule it broke |
+|---|---|---|
+| `ch006-p007` v1 | came back **landscape 1376 × 768** | canvas rule |
+| `ch006-p007` v2 | **legible English** — *"Posting order"* on the lockbox tag, cursive on the charter | no lettering anywhere |
+| `ch002-p008` v1 | Ira in a **hood** (off-model), a **modern metal clipboard**, and the mend drawn as a **graphic open wound** | character model / §3.1 blocklist / house injury rule |
+| `ch002-p010` v1 | **legible Latin** — the word *"Payment"* on the slip in tier 2, plus a signature scrawl | no lettering anywhere |
+
+**Repairs:** `ch006-p007` v3 was produced as a **targeted edit** of v2 (blank the tag, convert the
+charter to knot-script glyphs) rather than a fresh render — the §8c method, and the right one when a
+single defect sits inside an otherwise-correct page. `ch002-p008` and `ch002-p010` were re-rendered
+fresh to their own panel lists with the named defects promoted to absolutes; **both v2 renders are in
+`work/`, unread**, and are the first action of the next turn.
+
+**Method note, carried forward:** the seven-beat count only holds when a prompt demands *seven uniform
+full-width tiers* — confirmed for the third batch running. Six tiers carrying seven beats is accepted
+(p009) provided no beat is dropped; six tiers with a beat missing is a fail.
+
+### 9. Next actions *(run 10's list — superseded by §R11.8; kept as history)*
 
 | # | Priority | Item |
 |---|---|---|
