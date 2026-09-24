@@ -205,12 +205,28 @@ reject list is the useful part of this entry.
 | p005 v1 | the prompt's own wording — *"Rekhak knot-script… abstract knot-script"* — **rendered as text inside panel 3** | no lettering anywhere |
 | p006 v1 | came back **landscape** (1264 × 843) | canvas rule |
 
-**Pending from this batch:** `page-005` (prompt rewritten; the v1 art is unusable) and `page-006`
-(regenerate portrait — v1's content was correct but the canvas was not). Both blocked only by the
-ten-renders-per-turn limit.
+**Both pages rebuilt to completion (§8c closed).** `page-005` and `page-006` are installed, both
+**768 × 1376** portrait, both read in full before install. Seven further renders were spent: p005 v1
+rejected, v2 accepted; p006 took four renders plus one targeted edit. The reject list is the record:
 
-**Still to rebuild after Ch. 002:** Ch. 002 p005–p010, Ch. 003 p001–p009, Ch. 004 p001–p010,
-Ch. 005 p001–p003 and p005–p010 — **34 pages**, at ~4–6 accepted renders per turn with the reject rate
+| Reject | Defect | Rule it broke |
+|---|---|---|
+| p005 v2-render 1 | **~10 panels instead of 7**; the chain-fist macro (Panel 6) dropped | panel count / beats |
+| p006 render 1 | Spindle pillar drawn as a small glow, not the steady column; no dark link in the hook | canon markers |
+| p006 render 2 | **8 panels** — an extra portrait of Rekhak duplicating Panel 3's beat | panel count / beats |
+| p006 render 3 | **6 panels** — the release panel (Panel 6) dropped; still no dark link | panel count / beats |
+
+The fifth p006 render was correct on every beat **except** the Oath-Link — the bottom-panel chain came
+back all brass. It was repaired with a **targeted image edit** on the accepted page (one blackened link
+added to the bottom chain), then the edited page was re-read in full: 7 panels, characters, palette and
+the crimson smear unchanged, no lettering anywhere. **Method note:** the seven-panel count only held
+when the prompt demanded *seven uniform full-width tiers* — mixed-height tier layouts drifted to 6, 8
+and 10 panels. **Minor deviations logged, not hidden:** Panel 6 shows the release (chain re-running)
+but omits the auditor's quarter-turn-back; Panel 3 draws the still chain across the coat rather than at
+frame bottom.
+
+**Still to rebuild after Ch. 002:** Ch. 002 p007–p010, Ch. 003 p001–p009, Ch. 004 p001–p010,
+Ch. 005 p001–p003 and p005–p010 — **32 pages**, at ~4–6 accepted renders per turn with the reject rate
 this batch showed.
 
 ### 9. Next actions
@@ -218,7 +234,7 @@ this batch showed.
 | # | Priority | Item |
 |---|---|---|
 | 1 | ~~Major~~ | ~~Regenerate the three pages above~~ — **done and verified (§8).** |
-| 2 | **Major** | Finish the style rebuild: ~~Ch. 001~~ done (§8b); **Ch. 002 pages 001–004 done and verified (§8c)**; next **Ch. 002 p005–p006** (prompts written) then p007–p010, Ch. 003 p001–p009, Ch. 004, Ch. 005 — **34 pages**, at ~4–6 accepted renders a turn. |
+| 2 | **Major** | Finish the style rebuild: ~~Ch. 001~~ done (§8b); **Ch. 002 pages 001–006 done and verified (§8c)**; next **Ch. 002 p007–p010**, then Ch. 003 p001–p009, Ch. 004, Ch. 005 — **32 pages**, at ~4–6 accepted renders a turn. |
 | 3 | **Major** | Give the remaining 91 pages the §3 sample treatment, nine at a time — the QA gate in `style-guide.md` is the checklist. |
 | 4 | Minor | Cast-file card-line drift: 78/100 cast files carry no card-line block. Either backfill for the TCG ledger or retire the convention in the README. |
 | 5 | Minor | Re-add the Hindi floor check as a script, or drop the claim from the audit. |
