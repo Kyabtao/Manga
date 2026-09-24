@@ -6,6 +6,8 @@
 **Sector:** Agnikhand (Ash Sector), Ashfall Basin Under-Market
 **Age:** unknown (Kshudra live long; she has "counted four Unspoolings")
 **Occupation:** pawnbroker / **debt-appraiser** — runs the stall **The Knot & Nail**
+**Ref sheet:** [`kessa-ref.png`](kessa-ref.png) — 8 panels (the house standard)
+**Ref sheet panels:** front · side · back · face · detail (the loupe flipped down over her eye) · hands (palms up and down, a bead pushed along the tally-cord) · kit (strongbox, loupe, balance and weights, tally-stick, ash-ink, chit dish, blank pawnie ticket, lamp) · action (at the counter, reading a customer's marks through the loupe)
 
 ---
 
@@ -15,8 +17,10 @@
 - **Hands:** enormous for her body — scarred, knuckled, gentle anyway. They are the first thing drawn.
 - **Eyes:** large Kshudra cat eyes that catch light. **One is always covered by the loupe** once she
   starts appraising — so she literally sees the world two ways. Use this in panels.
-- **Loupe:** jeweller's loupe on a cord; pushed up on her brow when idle, flipped down over the left eye
-  when working.
+- **Loupe:** jeweller's loupe on a cord; pushed up on her brow when idle, flipped down over **one** eye
+  when working. Canon is *one eye covered and the uncovered eye doing the work*, not which eye: the
+  ref sheet's front-on portrait puts it on the viewer's left, and the open eye stays on the panel's
+  light side.
 - **Clothes:** layered pawned coats, mended with mismatched thread (she wears her own trade). A string
   of knotted tally-thread at her belt.
 - **Silhouette test:** tiny broad body + huge hands + loupe cord.

@@ -20,6 +20,7 @@ Full sheet (Ch. 001): [`../../chapter-001/characters/patra.md`](../../chapter-00
 > light in every panel he occupies; face and name still don't hold; art keeps him a shade out of focus.
 
 ## BHAN — भान
+Full sheet (Ch. 002): [`bhan.md`](bhan.md)
 Third tear, fresh; the doubled wage arrived *before he asked*. His face is done being patient and has
 started doing arithmetic. He still believes "nothing touched it" — keep that belief intact until
 Page 008's lantern-proof lands on him, not on the reader first.

@@ -13,6 +13,7 @@ Full sheet (Ch. 001): [`../../chapter-001/characters/ira-sutar.md`](../../chapte
 > Ends the page as the slate's second client.
 
 ## BHAN — भान
+Full sheet (Ch. 002): [`bhan.md`](bhan.md)
 Belief breaks as arithmetic, not anger (*"Then somebody's been holding me still."*). Names the nightly
 "safety inspection" he had thought was kindness and hands over the two-wax chit. Asleep at the bollard
 by Panel 5 — double shifts take their tax.

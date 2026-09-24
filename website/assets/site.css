@@ -105,10 +105,63 @@ figure.art figcaption{margin-top:10px; font-size:12.5px; color:var(--ash-dim)}
 .tile.big span{display:block; padding:0 12px 12px; color:var(--ash-dim); font-size:13px}
 .chars{display:grid; grid-template-columns:repeat(auto-fill,minmax(220px,1fr)); gap:16px; margin-top:22px}
 .char{display:block; background:var(--basalt2); border:1px solid var(--line); border-radius:12px;
-  overflow:hidden; color:var(--ash)}
-.char img{width:100%; aspect-ratio:16/9; object-fit:cover; object-position:top}
-.char b{display:block; padding:10px 12px; letter-spacing:.06em}
-.char:hover{border-color:var(--ember); text-decoration:none}
+  overflow:hidden; color:var(--ash); transition:border-color .15s}
+.char:hover{border-color:var(--ember)}
+.char img{display:block; width:100%; aspect-ratio:16/9; object-fit:cover; object-position:top}
+.charmeta{display:flex; align-items:center; gap:10px; padding:10px 12px}
+.charname{font-weight:700; letter-spacing:.06em; color:var(--paper)}
+.charname.plain{display:block; padding:12px}
+.charart{margin-left:auto; font-size:12px; letter-spacing:.04em; color:var(--ember-soft);
+  border:1px solid var(--line); border-radius:999px; padding:3px 9px; white-space:nowrap}
+.charart:hover{background:var(--panel); text-decoration:none}
+.charart.off{color:var(--ash-dim); border-style:dashed}
+
+/* character model-sheet card on a character sheet page */
+.refcard{margin:0 0 22px; background:var(--basalt2); border:1px solid var(--line);
+  border-radius:12px; overflow:hidden}
+.refopen{display:grid; place-items:center; position:relative; background:#191b20;
+  min-height:220px; padding:14px 0}
+/* the whole plate, whatever shape the sheet is — wide (Ira) or tall (Patra) */
+.refopen img{display:block; width:auto; max-width:calc(100% - 28px); max-height:440px;
+  object-fit:contain; border-radius:8px; box-shadow:0 10px 30px rgba(0,0,0,.45)}
+.refopen-tag{position:absolute; right:12px; bottom:12px; background:rgba(20,21,25,.86);
+  border:1px solid var(--line); border-radius:999px; padding:7px 14px; font-size:13px; color:var(--ember-soft)}
+.refopen:hover .refopen-tag{background:var(--ember); color:#1a1208; border-color:var(--ember)}
+.refcard figcaption{padding:10px 14px; font-size:13px; color:var(--ash-dim); border-top:1px solid var(--line)}
+.refcard figcaption b{color:var(--paper)}
+
+/* character art gallery page */
+.sheetart{margin:22px 0 14px; background:var(--basalt2); border:1px solid var(--line);
+  border-radius:12px; padding:14px; position:relative}
+.sheetart img{display:block; width:100%; max-width:620px; margin:0 auto; border-radius:8px;
+  cursor:zoom-in; box-shadow:0 18px 50px rgba(0,0,0,.5)}
+.sheetart figcaption{margin-top:12px; font-size:12.5px; color:var(--ash-dim); text-align:center}
+.zoomhint{position:absolute; top:26px; right:26px; background:rgba(20,21,25,.86);
+  border:1px solid var(--line); border-radius:999px; padding:6px 12px; font-size:12px; color:var(--ash-dim);
+  pointer-events:none}
+.panels{display:flex; flex-wrap:wrap; gap:8px; margin:8px 0 6px}
+.panelchip{display:inline-flex; align-items:center; gap:8px; background:var(--panel);
+  border:1px solid var(--line); border-radius:999px; padding:5px 12px 5px 6px; font-size:13px; color:var(--ash)}
+.panelchip i{font-style:normal; font-size:11px; font-weight:700; color:#1a1208; background:var(--ember-soft);
+  border-radius:999px; width:18px; height:18px; display:inline-flex; align-items:center; justify-content:center}
+.brief h2{margin-top:26px}
+.pagelinks-note{color:var(--ash-dim); font-size:13.5px}
+
+/* full-screen zoom viewer (site.js) */
+.lightbox{position:fixed; inset:0; z-index:60; background:rgba(8,7,6,.94); display:none;
+  touch-action:none; overflow:hidden}
+body.lightboxopen .lightbox{display:block}
+body.lightboxopen{overflow:hidden}
+.lightbox img{position:absolute; top:0; left:0; transform-origin:0 0; cursor:grab; max-width:none;
+  border-radius:4px; box-shadow:0 24px 70px rgba(0,0,0,.6); user-select:none}
+.lightbox img.dragging{cursor:grabbing}
+.lightbox .lbbar{position:fixed; left:0; right:0; bottom:0; display:flex; align-items:center; gap:10px;
+  justify-content:center; padding:12px; background:linear-gradient(transparent,rgba(8,7,6,.85)); flex-wrap:wrap}
+.lightbox .lbbar button{background:var(--basalt2); border:1px solid var(--line); color:var(--ash);
+  border-radius:999px; padding:8px 14px; font:600 13px/1 inherit; cursor:pointer}
+.lightbox .lbbar button:hover{border-color:var(--ember); color:var(--ember-soft)}
+.lightbox .lbtitle{position:fixed; top:0; left:0; right:0; padding:12px 16px; font-size:13px;
+  color:var(--ash-dim); background:linear-gradient(rgba(8,7,6,.85),transparent); pointer-events:none}
 .row{display:flex; align-items:center; gap:16px; padding:16px 18px; margin:12px 0; background:var(--basalt2);
   border:1px solid var(--line); border-radius:12px; color:var(--ash)}
 .row b{color:var(--paper); font-size:17px; min-width:120px}

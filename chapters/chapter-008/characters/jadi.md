@@ -3,6 +3,8 @@
 **First appearance:** Chapter 008, Page 005 (the doorway of the Knot & Nail)
 **Kind:** Kshudra · **Age:** seventy-odd — enrolled at twelve, forty-four years ago
 **Function:** First pupil of the School of the Braided Thread. Keeper of the roster. The root.
+**Ref sheet:** [`jadi-ref.png`](jadi-ref.png) — 8 panels (the house standard; drawn in the tall stacked layout)
+**Ref sheet panels:** front · side · back · face · detail (the left palm — grey braid, crimson second strand) · hands (right steady and square against left flattened and marked) · kit (mending cord, notched tally-stick, folding stool, blank sheets tied with cord, hand lamp, dark cloth, candle stub, purse) · action (the cellar-doorway lesson — three seated pupils, knots counted off on her fingers)
 
 ---
 

@@ -73,6 +73,8 @@ the truth and entirely true.
 | Chit-boy | extra, no return promise | 002 p008 | (no dialogue; stylus hover) |
 | The cat on Guthli's ledge | one appearance | 002 p009 | (no dialogue; obviously) |
 
+**Bhan has a full sheet now** (Ch. 002, the chapter that names him): [`characters/bhan.md`](characters/bhan.md) — 8-panel model sheet `bhan-ref.png` (front · side · back · face · the re-sewn left forearm · hands · kit · action), with the left-forearm rule and the salt-and-ash texture locked there.
+
 ## Chapter 003 setup
 
 **Title:** *The Hand That Opens* / *वह हाथ जो खोलता है* · Arc I — The Unspooling.

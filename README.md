@@ -19,11 +19,13 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | Field | Value |
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
-| **Branch** | `arena/01a0b63a-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
+| **Branch** | `arena/01a0c1d2-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **None — Ch. 001–010 all COMPLETE** (script + Hindi + cast + world + art) · **Ch. 011 not started** |
 | **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · Ch. 009: Hindi 10/10, cast 10, glossary + locations · Ch. 010: Hindi 10/10, cast 10, glossary + locations |
 | **NEXT page to build** | **Ch. 011 Page 001** — create the chapter skeleton (four subfolders + `.gitkeep`) first, then plan the page from the Next-page brief below |
-| **Open PR** | [Kyabtao/Manga#3](https://github.com/Kyabtao/Manga/pull/3) — **OPEN** (targets `main`; Ch. 003–010). Merge pending. |
+| **NEXT art to fix** | **Ch. 001 rebuilt 001–010 (verified); Ch. 002 pages 001–006 rebuilt and verified — §8c closed.** `ch002/page-005.png` and `page-006.png` are installed at 768 × 1376; the pair's reject list and the one targeted dark-link edit are recorded in `AUDIT.md` §8c. **Next: Ch. 002 p007–p010**, then Ch. 003 p001–p009, Ch. 004 and Ch. 005 — **32 pages**, running ~4–6 accepted renders a turn at the reject rate §8c records. **Landscape page art in the repo is zero. Checklist: the page-art QA gate in `series-bible/style-guide.md`** (shape · panel count · beats · props · canon markers). |
+| **Open PR** | **[Kyabtao/Manga#5](https://github.com/Kyabtao/Manga/pull/5)** (this branch — character-art standard). PR #1–#4 merged into `main`. |
+| **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. Bhan and the Inspector were drawn from scratch; the seven older sheets were extended from front · side · back · face to the full standard. Ira also has an **alt sheet** (`ira-sutar-alt.png` — states, expressions, staging, silhouette). Nima's sheet was then regenerated clean (spec §3.1 caught a desk lamp, a mug and two pocket watches across passes). **Page-art rebuild:** Ch. 001 pages **001–005** are new and were **verified page-by-page in run 10** (p005 carries run 9's logged duplication); **006–010 were rebuilt and verified this session (run 10 §8b)** — the chapter is now fully on the current pass. Next: **Ch. 002–005**. **Three pages elsewhere were broken and are now fixed — see *NEXT art to fix*.** |
 
 ### Next-page brief (Chapter 011 · Page 001)
 **The chapter folder does not exist yet.** Before writing, create `chapters/chapter-011/` with the four
@@ -277,6 +279,7 @@ series-bible/            The canon. Read before writing anything.
   03-the-nine-sectors.md Regions, each with a different law of pulling
   04-card-game-notes.md  The TCG design, carried forward from Chapter 1
   style-guide.md         Art direction + reusable image-prompt block
+  05-character-art-spec.md  THE model-sheet standard — 8 panels, every character
 
 chapters/
   chapter-001/            COMPLETE — 10 pages (see chapter-summary.md)
@@ -300,7 +303,10 @@ Every chapter follows the same `story/ characters/ other/ images/` layout.
 - **One folder per chapter**, always the four subfolders above, created empty (with `.gitkeep`) before
   the chapter starts — see `chapters/chapter-002/`.
 - **Character sheets live in the chapter of first appearance, forever.** Later chapters' `cast-` files
-  link back to the original sheet instead of copying it. Refs sit beside their sheet as `<sheet>-ref.png`.
+  link back to the original sheet instead of copying it. Refs sit beside their sheet as `<sheet>-ref.png`
+  — **every named recurring character has one**, to the panel order in `series-bible/05-character-art-spec.md`
+  (front · side · back · face · detail · hands · kit · action). A sheet without a ref is an unfinished
+  character; the site turns each ref into a click-to-zoom art page.
 - **`cast-page-NNN.md`** = everyone on that page + object card-lines. **`<name>.md`** = full sheet.
 - **`chapter-summary.md` sits at the chapter root** (not in `other/`): the close-out document with
   synopsis, canon rules established, open threads and the bulk-cast ledger.
@@ -327,6 +333,13 @@ python3 -m http.server 8000       # serve the REPO ROOT, then open /website/ (ro
   column beside the script; on narrow screens a floating **🖼 Art** button opens a full-screen overlay
   (Esc or tap to close; without JS it degrades to opening the art in a new tab).
 - Pages link to the **original** images under `chapters/…` by relative path — one copy of every asset.
+- **Character art pages:** every `*-ref.png` gets `website/characters/<name>-art.html` — a click-to-zoom
+  model-sheet plate with the sheet's panel list, a **Drawing brief** reprinted from the character sheet,
+  and prev/next navigation round the cast. The sheet page shows a **Model sheet** card that opens it, the
+  cast index links every thumbnail straight to it, and `Art: [<name>-ref.png]` lines in `cast-` files
+  resolve to the art page too. The zoom viewer (wheel / +− / double-click / pinch, Esc to close) lives in
+  `website/assets/site.js`.
+- Whole repo assets only: no crops or derived images are committed — the art pages show the full sheet.
 - Re-run the build after finishing any page; commit the refreshed HTML with the page commit.
 
 # 🛠️ WORKFLOW (how each page is made)
@@ -335,5 +348,7 @@ python3 -m http.server 8000       # serve the REPO ROOT, then open /website/ (ro
 2. **Translate** — mirror it in `story/page-NNN.hi.md`.
 3. **Cast** — log every character in `characters/`, with a card-game line.
 4. **World** — log places & terms in `other/`.
-5. **Art** — render `images/page-NNN.png` from `style-guide.md`'s prompt block.
+5. **Art** — render `images/page-NNN.png` from `style-guide.md`'s prompt block. Any new named
+   character needs their **model sheet** (`<name>-ref.png`, 8 panels per
+   `05-character-art-spec.md`) in the same commit as their `<name>.md`.
 6. **Track** — update this README's CURRENT POSITION; commit; push; refresh PR.

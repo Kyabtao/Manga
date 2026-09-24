@@ -6,6 +6,10 @@
 **Sector:** Agnikhand (Ash Sector), Ashfall Basin
 **Age:** 15
 **Mark location:** Palm → projection type. **Sewn shut.**
+**Ref sheet:** [`ira-sutar-ref.png`](ira-sutar-ref.png) — 8 panels (the house standard)
+**Alt sheet:** [`ira-sutar-alt.png`](ira-sutar-alt.png) — alternate states, expressions, staging and silhouette (spec §7)
+**Ref sheet panels:** front · side · back · face · detail (the stitched right palm) · hands (cut-finger gloves, needle and thread) · kit (needle-roll, thread, thimble, shears, chalk, purse, blank brass tag, candle) · action (mending at a doorstep by hand-lamp)
+**Alt panels:** default state · ceremony-day state · five expressions · macro hands · satchel tipped out · crowd staging · waiting-room staging · three silhouettes
 
 ---
 

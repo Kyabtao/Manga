@@ -12,7 +12,8 @@ Full sheet (Ch. 008): [`../../chapter-008/characters/jadi.md`](../../chapter-008
 ## Kessa — केसा
 Full sheet (Ch. 001): [`../../chapter-001/characters/kessa.md`](../../chapter-001/characters/kessa.md)
 ## The Inspector — निरीक्षक
-No full sheet; drawn from Ch. 008 Page 001. Mild, administrative, hands behind his back.
+Full sheet (Ch. 009): [`inspector.md`](inspector.md)
+Design locked from Ch. 008 Page 001; model sheet below. Mild, administrative, hands behind his back.
 ## The grey clerk — धूसर लिपिक
 No full sheet; the young Office clerk of Ch. 008–009. Damp coat, honest, rehearsed sentences.
 
