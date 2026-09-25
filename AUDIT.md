@@ -275,6 +275,52 @@ asks better. Rekhak's recorded readings and the readers-for-money are **named he
 the chapter**, to be spent later. Four notes silent thirteen days. **Ch. 011 chain-stop budget: ONE,
 still held unspent.**
 
+### R13.12 Chapter 011 Page 006 — the list; the measurement
+
+Page 006 — *the list; the measurement* — complete on every track:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-006.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-006.hi.md` | **97.2%** letters-only Devanagari |
+| Cast | `characters/cast-page-006.md` | 8 entries, every one with a card-line block |
+| World | `other/glossary.md` +5 terms · `other/locations.md` +1 entry | grown in step |
+| Art | `images/page-006.png` | 768 × 1376, 0.0% green/cyan, dead band 4.7%, **built and screened with the page** — content UNREAD |
+
+The survey closes at the water-butt — *"Numbers go in tonight."* A book closing. That is all it takes to
+turn a subtraction into a list of addresses, and a claimant is paid by the address.
+
+**Nima is used.** She is told to hold and she holds another person's hands while someone else reads.
+She does not look at Ira once. *"She is good at it. She has been good at it for years, which was always
+the trouble — a girl who is good with her hands in this basin gets asked for them."* **Ira does nothing
+on that panel and the page must show her doing nothing.**
+
+Kessa **does not refuse — she prices it.** She names the cost out loud: every reading under the schedule
+is read aloud, so a reading names twenty-two hands straight into an Office book. Ira's answer is the
+first way anybody has found past the read-aloud condition — *"Not under the schedule. At night. With
+the book shut."* Kessa opens her hand.
+
+Then the reading fails, and this is the payoff of shadowless thread. Nandi gets **kind: basin. Year:
+nineteen.** and then nothing: *"There is a year in it. There is no hand in it."* The instrument that has
+never once been wrong is held up against work it cannot see. **That is why no list has ever held the
+mother's people — not cunning, not hiding, just thread that will not hold a hand.**
+
+Ira finds the instrument that would work — *"Not by reading — by measuring"* — and the clock that kills
+it: twenty-two people, one night. The chain-stop is brought within reach and **shown not to fit**: *"It
+stops a chain. It does not stop a list."* That is why the budget survives this page, stated as a flat
+fact rather than anguish.
+
+**REVEAL (hook):** Nandi lays her hand down beside one of the twenty-two lengths without being asked.
+*"That one is mine."* She is one of the mother's people. This **retroactively explains** the two times
+she declined to name a hand (Pages 003 and 005) without contradicting them, and it does **not** settle
+whether she knew the Page 003 entry was a lie — it makes both readings worse. **She has been reading the
+Office's register aloud every morning while unenrolled herself, which means the Office has been hearing
+her.** Her card line's debt tendency is updated: *none — she was never entered.*
+
+Continuity: four notes silent fourteen days, and the page says so explicitly so the reader stops waiting
+for rescue from that quarter. Rekhak and the readers-for-money remain unspent. **Ch. 011 chain-stop
+budget: ONE, still held unspent.**
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

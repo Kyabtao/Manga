@@ -20,54 +20,58 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 011 — Pages 001–005 DONE** (EN + Hindi + cast + world + art for all five) · Pages 006–010 not started · Ch. 001–010 COMPLETE
-| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · **Ch. 011: pages 001–005 complete** (Hindi 97.4 / 97.0 / 97.3 / 96.9 / 97.3, cast with card-lines, glossary + locations, **all five page images built and screened**) · 105 pages total in canon
-| **NEXT page to build** | **Ch. 011 Page 006** — from the Next-page brief below. Do **not** re-create the chapter folder and do **not** add `.gitkeep` files.
+| **Chapter in progress** | **Ch. 011 — Pages 001–006 DONE** (EN + Hindi + cast + world + art for all six) · Pages 007–010 not started · Ch. 001–010 COMPLETE
+| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · **Ch. 011: pages 001–006 complete** (Hindi 97.4 / 97.0 / 97.3 / 96.9 / 97.3 / 97.2, cast with card-lines, glossary + locations, **all six page images built and screened**) · 106 pages total in canon
+| **NEXT page to build** | **Ch. 011 Page 007** — from the Next-page brief below. Do **not** re-create the chapter folder and do **not** add `.gitkeep` files.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 011 · Page 006)
+### Next-page brief (Chapter 011 · Page 007)
 
-**Pages 001–005 are written.** Read them before starting.
+**Pages 001–006 are written.** Read them before starting.
 
-Page 005 ended on eight words: *"The survey reaches the end of the alley tomorrow."* Page 006 is that
-tomorrow, and it has three jobs.
+Page 006 ended with the clock: twenty-two people, one night, and a chain-stop that **stops a chain but
+not a list.** Page 007 is the night, and it has three jobs and one cost.
 
-1. **The numbers go in, and the twenty-two become addresses.** Doors with hands in them, hands with no
-   entry — the survey has been doing that subtraction one door at a time all week, and when it closes
-   the result is a list of houses where people were taught and nobody is enrolled. That list is exactly
-   what a claimant is paid for. Ira has until tonight, and every instrument she built this chapter — the
-   register, the declarations, the teaching in the open square — is the machinery producing it.
-2. **The only instrument left is the one the Office cannot audit.** The glossary already has it: the
-   tally-thread is *the only record of the school the Office cannot audit*, and Kessa's lockbox holds the
-   mother's fold of cloth, a hand's width of thread and a blank note. **Take them to Nandi for a
-   reading.** Nandi can identify any knot's kind, year and hand, and she has never been wrong. Two
-   problems must be made concrete on the page: the mother's work is **shadowless thread** (does Nandi
-   have anything to read?), and the schedule's condition means every reading is **read aloud** — naming
-   twenty-two people straight into an Office record. Ira would be using the Office's instrument to find
-   her mother's pupils and hand the Office the list.
-3. **Nima is used.** She was told she would hold when she was told to hold. On this page she is told.
-   Do not rescue her and do not let her grandstand: the point is that the machinery is working exactly
-   as written, on a girl Ira has known for years, and Ira has to watch it.
+1. **Nima's purchase pays out.** Being entered put her inside the count. She knows which doors the
+   survey flagged, because she has spent the afternoon holding the hands of everyone the Office is
+   processing, and she brings that to Ira's counter after dark. **The thing she paid for with her hands
+   is the thing that saves twenty-two people.** Do not let her forgive the Office and do not let Ira
+   thank her at length — she is not doing it for Ira.
+2. **The night's work: twenty-two entries, and not one name on any of them.** Ira measures (a hand's
+   width of thread against a living hand), Nandi reads (kind, year, and no hand, because the mother's
+   thread will not hold one), and Ira writes. The entry is the mother's own method: **a hand's width of
+   thread, a year, and no name.** It is lawful under clause two, which asks for the owner's word and
+   never asks who the owner is. Twenty-two people become entered — and therefore unclaimable — without
+   becoming a list of names anybody can be paid for.
+3. **The cost, stated plainly.** Ira lied once on Page 002 and Page 003 established that it cost her
+   nothing. Tonight she lies twenty-two times, and **Nandi is standing beside her**, because the
+   read-aloud condition is the condition and there is no clerk here but Nandi is still reading. Whatever
+   Nandi knew or did not know about the Page 003 entry, by morning she knows exactly what kind of keeper
+   she works for. That is the page's real event, and it must not be resolved into forgiveness or
+   accusation.
 
-Carry in: **Kessa gave a date and no name** — Page 006 is where Ira finally asks her the better
-question, and Kessa should be the one to name the cost of the reading out loud; **Nandi's silence** about
-the Page 003 lie, which a reading of the mother's own work would either expose or settle;
-**Rekhak's recorded readings** and the readers-for-money, now that the row knows a reading can be
-bought; the **chain-stop budget**, still held unspent — Page 006 should bring it within reach without
-spending it, because four pages remain; and the **four notes**, silent fourteen days.
+Leave the entries **vulnerable**, because three pages remain: a nameless entry is only as good as the
+Office's willingness to accept it, and the row now knows that **readers-for-money** will name any hand
+you pay for (Rekhak's deposit was recorded by one of them). Page 008 should have something left to
+threaten.
 
-Tone: this is the chapter's narrowest corridor. Everything is a form, a count or a reading. The pressure
-should come from the clock and from arithmetic, never from anyone raising their voice.
+Carry in: **the chain-stop, still unspent** — Page 007 should not spend it, because the entries are this
+night's answer; **Kessa**, who opened the box and is owed the outcome; the **four notes**, silent
+fifteen days; and the fact that every one of these twenty-two people was taught in the open, in
+daylight, by a woman who is not on anybody's roll.
 
-### Superseded brief (Chapter 011 · Page 005) — kept for reference
+Tone: this is the chapter's longest night and it should be drawn as work — lamps burning down, hands
+measured, ink, thread, counting. No speeches. Ira says less and less as the night goes on.
 
-The brief page 005 was built from: the first **false declaration**, and the keeper's lawful answer to it
-— she refuses nothing and calls for a **reading** (clause two has no line for *no*); **Nima discovers
-the specific cost of being on the roll** (*you are the line; the line is what lets us borrow you*); and
-Ira sees that the second school and the survey are the same instrument pointed opposite ways. **Built as
-Page 005; see §R13.11.**
+### Superseded brief (Chapter 011 · Page 006) — kept for reference
+
+The brief page 006 was built from: the **survey closes** and the twenty-two become a **list of
+addresses**; **Nima is used** — she is told to hold, and Ira watches; Ira asks **Kessa** the better
+question and Kessa names the cost of the reading out loud; the reading **fails**, because there is no
+hand in the mother's thread; and Ira finds the instrument (measure, don't read) and the clock that
+kills it. **Built as Page 006; see §R13.12.**
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.

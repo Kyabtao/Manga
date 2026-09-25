@@ -78,3 +78,10 @@ teaching rows of the second school, people sitting in open daylight with thread 
 anybody could walk past; beyond them the survey's markers, counted doors running from the fourth step
 toward the water-butt. **The same geometry, pointed in opposite directions.** It is not a new place —
 it is the place where the two counts finally look like one instrument.
+
+## THE WATER-BUTT AT NIGHT — रात में पानी-पीपा
+
+Where the survey closes. The grey clerk shuts the book on the last counted door and the counting women
+pack up their tallies behind him, and a subtraction that has been accumulating since Monday becomes a
+list of addresses on its way to the Office. Nothing happens here. That is the point: **a book closing is
+all it takes** to turn a sum into a list, and a claimant is paid by the address.
