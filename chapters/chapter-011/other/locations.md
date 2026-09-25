@@ -85,3 +85,11 @@ Where the survey closes. The grey clerk shuts the book on the last counted door 
 pack up their tallies behind him, and a subtraction that has been accumulating since Monday becomes a
 list of addresses on its way to the Office. Nothing happens here. That is the point: **a book closing is
 all it takes** to turn a sum into a list, and a claimant is paid by the address.
+
+## THE BACK ROOM AT NIGHT — रात में पिछला कमरा
+
+The stall's back room turned into a night counter: lamps burning down, a queue along the wall, the
+mother's fold in a pawnbroker's lap, a reader in pinned sleeves, and a keeper cutting thread against
+living hands until dawn. For one night it is the only counter in the basin where the Office's roll is
+written without the Office present — and at dawn the Office comes to it anyway, slate under its arm,
+to copy what it cannot refuse.

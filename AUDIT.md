@@ -321,6 +321,51 @@ Continuity: four notes silent fourteen days, and the page says so explicitly so 
 for rescue from that quarter. Rekhak and the readers-for-money remain unspent. **Ch. 011 chain-stop
 budget: ONE, still held unspent.**
 
+### R13.13 Chapter 011 Page 007 — the entries; the word
+
+Page 007 — *the entries; the word* — complete on every track:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-007.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-007.hi.md` | **97.6%** letters-only Devanagari |
+| Cast | `characters/cast-page-007.md` | 8 entries, every one with a card-line block |
+| World | `other/glossary.md` +5 terms · `other/locations.md` +1 entry | grown in step |
+| Art | `images/page-007.png` | 768 × 1376, **built and screened with the page** — content UNREAD |
+
+**Nima's purchase pays out.** She stands in the doorway and does not come inside, still in the
+Office's grey coat and will not take it off, and recites the flagged doors from memory: *"I'm not
+doing it for you. You put me in the book. A line in the book gets used. So use me."* Four sentences,
+no forgiveness, no gratitude.
+
+**The night's work, shown once in full** (measure, cut, read, write — on an old riveter): nine of the
+twenty-two come in person and their word is real; **thirteen do not come** — the mother's teaching
+kept them out of rooms with books in them — and Ira enters them anyway, at thread alone. For thirteen,
+*"entered at the owner's word"* is written about a word that was never asked for and never said.
+
+**The lie is a translation.** The years are the mother's own count and are true; read as
+enrollment-years they are impossible — *"the basin's roll is not old enough for these years"* — so
+every entry is **false on its face and true anyway**. This is Page 002's lie (*a true entry nobody
+made*) twenty-two times. The thread-year/roll-year discrepancy is **deliberately unresolved**: how old
+is the teaching?
+
+**The cost is real time.** Nandi reads all twenty-two in aloud, pausing exactly once (*"How many
+more?" / "Eleven."*), and at the end of the night she reads her **own** entry — *"Entered at the
+owner's word,"* her word being the four words from Page 006. After tonight the question is no longer
+whether she knew about Page 003; it is what a person is who reads this in and keeps reading. Kessa
+stands all night and keeps custody — one length at a time, the fold comes back to her; the Office
+copies the keeper's book, never the pawnbroker's box.
+
+Hook, played as procedure: the grey clerk at dawn copies the impossible years because the Office
+cannot disown its own rule — the lesson Ira taught it on Tuesday, in the square. *"By the time he
+finishes copying, the list of addresses in his other hand is already wrong."* And the smallest
+caption names Page 008's threat: *"Twenty-two hands entered. Not one name. Somewhere in the basin
+this morning, a claimant is already asking what a name costs."*
+
+Continuity: the chain-stop stays in the drawer and is not shown. Four notes silent fifteen days.
+Rekhak and the readers-for-money remain unspent — named again in the hook, spent next page. **Ch. 011
+chain-stop budget: ONE, still held unspent.**
+
 ### R13.7 Next actions
 
 | # | Priority | Item |
