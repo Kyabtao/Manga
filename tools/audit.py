@@ -78,11 +78,24 @@ def check_structure():
         nums = lambda lst, pat: sorted(re.search(pat, os.path.basename(x)).group(1) for x in lst)
         e, h, i, k = nums(en, r"page-(\d+)\.md"), nums(hi, r"page-(\d+)\.hi\.md"), \
             nums(im, r"page-(\d+)\.png"), nums(ca, r"cast-page-(\d+)\.md")
-        ok = len(en) == len(hi) == len(im) == len(ca) == 10 and len(ot) == 2 and len(sm) == 1
-        ok = ok and e == h == i == k
-        out.append((name, len(en), len(hi), len(im), len(ca), len(ot), len(sm), "PASS" if ok else "FAIL"))
-        if not ok:
-            fail(f"structure {name}: en{len(en)} hi{len(hi)} img{len(im)} cast{len(ca)} other{len(ot)} sum{len(sm)} nums={e}/{h}/{i}/{k}")
+        # A chapter is either IN PROGRESS (1-9 pages) or COMPLETE (10). Both must have every page
+        # present in all four tracks and identically numbered — a half-written page is the failure
+        # mode this gate exists to catch. Only a complete chapter owes other/ x2 and a summary.
+        paired = (e == h == i == k) and len(e) > 0
+        complete = len(en) == 10 and len(ot) == 2 and len(sm) == 1
+        if not paired:
+            fail(f"structure {name}: page numbers do not pair across tracks "
+                 f"en{sorted(e)} hi{sorted(h)} img{sorted(i)} cast{sorted(k)}")
+        elif complete:
+            out.append((name, len(en), len(hi), len(im), len(ca), len(ot), len(sm), "complete"))
+        elif len(en) < 10:
+            out.append((name, len(en), len(hi), len(im), len(ca), len(ot), len(sm),
+                        f"in progress {len(en)}/10"))
+            if len(ot) == 0:
+                fail(f"structure {name}: no other/ files (locations + glossary) for a started chapter")
+        else:
+            fail(f"structure {name}: {len(en)} pages but other={len(ot)} summary={len(sm)} "
+                 f"— a complete chapter needs 10/10/10/10 + 2 + 1")
     return out
 
 
@@ -300,8 +313,10 @@ def main():
     w("# THREADBORN audit gate — machine report")
     w("")
     w(f"- branch: `{branch}` (README field: `{readm_branch}`)")
-    w(f"- chapters: {len(st)} · files per chapter EN/HI/IMG/CAST/OTHER/SUM: "
-      + ", ".join(f"{r[0][-3:]}={r[1]}/{r[2]}/{r[3]}/{r[4]}/{r[5]}/{r[6]}" for r in st[:3]) + " …")
+    done = sum(1 for r in st if r[7] == "complete")
+    wip = [(r[0], r[7]) for r in st if r[7] != "complete"]
+    w(f"- chapters: {len(st)} ({done} complete"
+      + (f", in progress: {', '.join(f'{a}={b}' for a, b in wip)}" if wip else "") + ")")
     w(f"- junk/off-convention: {junk[0]}/{junk[1]}")
     w(f"- images: {len(rows)} png · duplicates {len(dupes)} · page art on house canvas {house}/{pages}")
     ratios = sorted({r[3] for r in rows if r[4]})

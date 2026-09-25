@@ -20,73 +20,63 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **None — Ch. 001–010 all COMPLETE** (script + Hindi + cast + world + art) · **Ch. 011 not started** |
-| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · Ch. 009: Hindi 10/10, cast 10, glossary + locations · Ch. 010: Hindi 10/10, cast 10, glossary + locations |
-| **NEXT page to build** | **Ch. 011 Page 001** — create the chapter skeleton (four subfolders + `.gitkeep`) first, then plan the page from the Next-page brief below |
-| **NEXT art to fix** | **⛔ STOP — art content cannot be verified in this environment.** The agent that did runs 11–12 **cannot see images** (`read_file` on a PNG returns no image content). **Run 11's art verdicts are withdrawn** — see the correction banner at the top of `AUDIT.md` and §R12.2. Three pages were installed on that withdrawn evidence: `ch002/p007`, `ch002/p009`, `ch006/p007` — **shape-verified 768 × 1376, content UNVERIFIED.** `ch006/p007`'s predecessor was a confirmed 1024 × 1024 square, so that swap is a verified shape fix; the other two were gambles on art nobody has seen. **Next action is a human read**, highest priority first: `ch004/images/page-010.png` (11.1% green/cyan where the script calls for ash and basalt — top of `python3 tools/art_screen.py --rank`). Then the three installs. Then resume the rebuild (Ch. 002 p008/p010, Ch. 003–005 — 30 pages) with every render marked **unread** until a reader signs it off. |
+| **Chapter in progress** | **Ch. 011 — Page 001 DONE** (EN + Hindi + cast + world + art candidate) · Pages 002–010 not started · Ch. 001–010 COMPLETE
+| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · **Ch. 011: page 001 complete** (EN 97.4% Devanagari, cast with card-lines, glossary + locations, art candidate **UNREAD**) · 101 pages total in canon
+| **NEXT page to build** | **Ch. 011 Page 002** — from the Next-page brief below. The chapter folder exists; do **not** re-create it. Note: the brief says to add `.gitkeep` files — **don't**; `.gitkeep` is flagged as junk by `tools/audit.py` (run 5 removed 28 of them).
+| **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) **new this turn, unread candidates:** `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png`, `chapters/chapter-011/images/page-001.png` (ch011 p001 is installed and passes the machine screen — 768 × 1376, 0.0% green/cyan — but has never been looked at). Ranking tool: `python3 tools/art_screen.py --rank`. |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 011 · Page 001)
-**The chapter folder does not exist yet.** Before writing, create `chapters/chapter-011/` with the four
-standard subfolders (`story/ characters/ other/ images/`) and `.gitkeep` files, as every chapter
-before it did.
+### Next-page brief (Chapter 011 · Page 002)
 
-Chapter 010 ended with the Office doing what it does best: it did not chase a woman it could not find,
-it **priced her door.** The bounty's claimant sold the hatch, the chute, the nights and half the ninth
-terrace's hands, was entered as **party of record**, and the Office posted a **grey lamp on a pole** at
-the alley mouth at dusk. On the step lay the knot the mother lifted out of the register — and beside
-it a **second knot in an untrained hand.** That is where Chapter 011 opens, and both halves of the
-chapter should be in the air on page one:
+**The chapter folder exists and Page 001 is written.** Do not re-create the chapter, and read
+`chapters/chapter-011/story/page-001.md` before starting.
 
-1. **Who tied it.** The mother is teaching again, in the open, without permission, and the school has
-   its first pupil it has never met. This is the second school's rival and its mirror, and Ira should
-   find out about it the way she finds out about everything — through a knot and a queue.
-2. **The survey.** First bell, the Office walks the alley entry by entry, hand by hand, from the fourth
-   step to the water-butt, with the keeper of the register obliged to attend. Every person who was ever
-   enrolled through that hatch is now a line in somebody's book, and the arithmetic of forty years is
-   finally legible from outside.
+Page 001 ends with a fact and a clock. The fact: the second knot on the step is tied in **shadowless
+thread** — the same thread as the cut-end in Kessa's lockbox and the stitch in Ira's palm — so the
+mother is teaching in the open *with Ira's own thread*, and she put it in Ira's hand deliberately,
+"so that I would know it before the Office does." The clock: the survey is walking the alley from the
+fourth step to the water-butt, entry by entry, and it is moving **toward** the Mendery step. It will
+reach the step, and when it does the two knots on it are evidence in an Office book.
 
-The live threads to carry in: **clause four's timer** on the licence (it lapses if the keeper fails to
-produce); the translation room's **invented entries** (the copyist who turned a fee into a knot) and
-Rekhak's recorded readings; **Nima's condition** — the day she is told to put a hand on that stand she
-will refuse out loud, in the room, and the Office will test it; **Nandi's condition** — every entry
-read aloud with the keeper, which makes the school's readings public business; **Jadi's counting
-lesson** now loose in three households; and **Kessa's tally-thread**, still the only copy of anything
-the school has said that cannot be audited.
+Page 002 has to spend both.
 
-Tone for the opener: after ten chapters of paperwork, Chapter 011 should begin with *hands* — a queue
-that is no longer only claimants, an alley with a lamp on a pole, and a knot on a step that somebody
-tied on purpose so that Ira would know she is not the only teacher in Agnikhand.
+1. **The step is surveyed.** The grey clerk reaches the Mendery step and asks what is on it. Ira has
+   exactly one lawful move and she has used it before: an owner can enter their own hand, at their own
+   word, with no fee and no reward. She cannot enter a knot whose owner she does not know — so she has
+   to **claim the second knot as her own work** in front of the Office, which is a lie of a kind the
+   register has no box for, or let it be taken in. Give her the choice on-panel and make her take it.
+2. **Kessa and the cut-end.** The hook's other half must be answered in the same page: Ira takes the
+   knot to the counter and asks the question Kessa has never asked in forty years — *what was it cut
+   from?* Kessa has kept a hand's width of shadowless thread under her counter since before Ira was
+   born and has never required an answer. This is the chapter's best scene and it should not be
+   deferred.
+3. **Nima's bargain is tested.** The standing thread is explicit — *the day she is told to put a hand
+   on that stand she will refuse out loud, in the room, and the Office will test it.* The survey is a
+   stand without a room. Have the Office ask her to hold a hand in the alley, in daylight, with the
+   whole row watching.
 
-### Superseded brief (Chapter 009 · Page 001) — kept for reference
-**The chain-stop budget is overdue.** It was held unspent across Chapters 006, 007 and 008.
-Chapter 009 opened its budget and spent it on Page 006.
+Carry in: **clause four's timer** (spoken aloud now — it lapses if the place of keeping fails to
+produce); **Nandi's condition** (every entry read aloud with the keeper, which is why the Office can
+hear the school at all); **Jadi's counting lesson** loose in three households and changing the shape
+of the queue; **Rekhak's recorded readings** and the translation room's invented entries (a copyist
+turned a fee into a knot); **Kessa's tally-thread**, still the only uncopyable record; and the
+**chain-stop budget**, which Ch. 011 holds unspent.
 
-Chapter 008 ended on a slate: a compliance chain read a braided palm, returned both years at once,
-and a clerk wrote one word — **unreadable** — and underlined it twice. *There is no procedure for
-that, which means by morning there will be one.* That is Chapter 009's opening problem. The Office
-does not retaliate; it *codifies.* A new instrument will exist by the first bell, and it will be
-aimed not at Ira but at the thing she cannot protect: **Jadi's hand is the proof of concept and
-the only braided palm the Office can put on a slate.**
+Tone: Page 001 began on hands and ended on thread. Page 002 should be the page where the keeper
+learns that she is also the pupil — the mother taught somebody with Ira's thread, which means the
+school has a second teacher, and the second teacher is better at this than Ira is.
 
-The page's shape: the new procedure arrives at the stall as paperwork, not force — a grey clerk
-with a slate and a second, worse word. Ira has three days of breathing room at most and three
-problems stacked behind each other: Nandi is in custody and has not been charged; clause four's
-timer on the licence is still running; and the mother is four nights down a list of forty-one.
-Kessa's counter-position: *he can have the books, I keep the reading* — the tally-thread is the
-only copy of the crease-writs, and it makes her, not Ira, the piece on the board the Office has
-not noticed yet.
+### Superseded brief (Chapter 011 · Page 001) — kept for reference
 
-The **chain-stop lands here**, and it should cost Rekhak rather than Ira: he is the basin's only
-chain-reader and the only person who can explain what a braid does to a compliance instrument —
-which means the Office will require him to swear to it. A held-stop oath on that subject is a
-deposit waiting to happen, and he has one lie already on his ledger.
-
-Continuity: Ira's stitch is **open** with a live channel; Jadi wears the school's first braid;
-the Mendery has a clerk on a crate every second bell; the Roll of Hands and Jadi's roster of
-forty-one are both with the mother; Loom never speaks; mother never on panel; the principal's
-answered letter is still unread by him.
+The brief this page was built from: Chapter 010 ended with the Office pricing the mother's *door*
+rather than hunting her — a grey lamp posted at the alley mouth, and on the Mendery's step the knot
+the mother lifted out of the register, beside it a **second knot in an untrained hand.** Chapter 011
+opens on **who tied it**: the mother teaching again, in the open, without permission, and the survey
+walking the alley entry by entry, hand by hand, from the fourth step to the water-butt, with the
+keeper of the register obliged to attend. *Begin with hands — a queue that is no longer only
+claimants, an alley with a lamp on a pole, and a knot on a step that somebody tied on purpose so that
+Ira would know she is not the only teacher in Agnikhand.* **Built as Page 001; see §R13.1.**
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
@@ -291,7 +281,7 @@ chapters/
     other/     locations.md, glossary.md
     images/    page-001..010.png
   chapter-002 .. chapter-010/  COMPLETE — same layout, 10 pages each (EN + Hindi + art)
-  chapter-011/            next — skeleton created before writing starts
+  chapter-011/            IN PROGRESS — page 001 complete (EN + HI + cast + world + art); 002–010 to go
 
 website/                  generated reading site (committed) — build.py + assets/ are the sources
 tools/
@@ -305,8 +295,10 @@ Every chapter follows the same `story/ characters/ other/ images/` layout.
 
 ### Structure conventions (audit-approved — keep these)
 
-- **One folder per chapter**, always the four subfolders above, created empty (with `.gitkeep`) before
-  the chapter starts — see `chapters/chapter-002/`.
+- **One folder per chapter**, always the four subfolders above, created before the chapter starts —
+  see `chapters/chapter-002/`. **Do not add `.gitkeep` files.** They were removed as junk in run 5 and
+  `tools/audit.py` fails the run if any reappear; note that the Next-page brief below still mentions
+  them and that instruction is stale.
 - **Character sheets live in the chapter of first appearance, forever.** Later chapters' `cast-` files
   link back to the original sheet instead of copying it. Refs sit beside their sheet as `<sheet>-ref.png`
   — **every named recurring character has one**, to the panel order in `series-bible/05-character-art-spec.md`

@@ -50,6 +50,98 @@ need eyes (beats, canon markers, lettering-in-art) come from a full-resolution r
 > **Standing rule, added to `style-guide.md` this run:** a page may be called *verified* only by a
 > reader who can actually see it, named in the record. A dimension check is not a content check.
 
+## Audit run 13 — 2026-09-25 (Chapter 011 opens; the gate learns about work in progress)
+
+Scope: pick up R12.6 with the one item that does not need eyes. Vision was re-tested at the start of
+this run and is **still absent** — `read_file` on a PNG returns no image content. So this run wrote
+story instead of adjudicating art, and held every render it produced as an **unread candidate**.
+
+### R13.1 Chapter 011 Page 001 — written
+
+**Arc III — The Second School.** Chapter title *The Fourth Step* / *चौथा पायदान*. The chapter folder
+was created (four subfolders, **no `.gitkeep`** — see R13.3) and page 001 is complete on every track:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `chapters/chapter-011/story/page-001.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `chapters/chapter-011/story/page-001.hi.md` | **97.4%** letters-only Devanagari (floor 80; chapter median is 96.0) |
+| Cast | `characters/cast-page-001.md` | 9 entries, **every one carries a card-line block** — see R13.4 |
+| World | `other/glossary.md` + `other/locations.md` | 17 terms, 6 locations |
+| Art | `images/page-001.png` | 768 × 1376, screen passes (0.0% green/cyan) — **UNREAD, no content verdict** |
+
+The page opens on hands and ends on thread: two knots on the step, a queue that is no longer only
+claimants, the survey walking the alley from the fourth step to the water-butt with the keeper obliged
+to attend her own survey, Nandi's condition turning forty years of the school's reading into public
+business, and the hook — the second knot is tied in **shadowless thread**, the same thread as the
+cut-end in Kessa's lockbox and the stitch in Ira's palm.
+
+Continuity carried: mother never on panel and never speaks (her presence is a knot, a thread and a
+hand at the foot of a page); Loom never speaks; four notes silent since Ch. 008 p009 and now counted
+at nine days; clause four's timer spoken aloud by the Office for the first time; Nima carries the
+card-tray and is not yet tested. **Ch. 011 chain-stop budget: ONE, held unspent on page 001.**
+
+### R13.2 The gate could not hold a work-in-progress chapter
+
+`tools/audit.py` hard-required 10 files of each type per chapter, so the moment a chapter existed with
+one page it failed the run. That would have punished exactly the behaviour the project wants. Changed
+to a two-state rule:
+
+- **In progress (1–9 pages)** — every page must be present in all four tracks with identical
+  numbering (a half-written page is the real failure mode); `other/` must exist; no summary required.
+- **Complete (10)** — 10/10/10/10 + `other/` ×2 + `chapter-summary.md`.
+
+Pairing across EN ↔ HI ↔ image ↔ cast stays a hard failure in both states, as does an empty chapter
+folder. Verified: the gate correctly **failed** the empty `chapter-011/` before page 001 was written,
+and now reports `chapter-011=in progress 1/10` with no hard failures.
+
+### R13.3 A contradiction in the README, found and fixed
+
+The README's structure conventions and the Ch. 011 next-page brief both say to seed a new chapter with
+`.gitkeep` files. Run 5 removed 28 of them as junk and `tools/audit.py` fails any run that reintroduces
+one — so following the README would have broken the build. Convention corrected to *"**Do not add
+`.gitkeep` files**"*, with the stale instruction flagged inline for whoever reads the brief next.
+
+### R13.4 Card-lines, at least where new work happens
+
+Cast card-line coverage is **15/100** overall (R11.5) and backfilling 85 files is still open. Every
+new cast file written from here carries them, including the unnamed extras — Ch. 011 p001's cast has
+nine entries and nine card-line blocks, so the ledger stops growing its deficit even though the debt
+is not yet paid.
+
+### R13.5 Art produced this run — all unread
+
+| File | Screen result | Installed? |
+|---|---|---|
+| `chapters/chapter-011/images/page-001.png` | 768 × 1376, 0.0% green/cyan, dead band 9.1% (warn) | **Yes** — a new page needs an image for the gate's EN↔HI↔image↔cast pairing. **Content unverified.** |
+| `work/ch002-p008-v3.png` | 768 × 1376, 4.9% green/cyan | **No.** Held for human review rather than installed over art nobody has judged. |
+| `work/ch002-p010-v3.png` | 768 × 1376, 0.0% green/cyan | **No.** Same reason. |
+
+This is the policy R12.5 asks for, applied: render, measure, rank, and do not call anything done.
+Deliberately **not** installed — swapping unverified art over existing art is precisely the run-11
+mistake, and both existing pages are already 768 × 1376, so the swap would buy nothing measurable.
+
+### R13.6 Gate state
+
+`tools/audit.py` → **11 chapters (10 complete, `chapter-011` in progress 1/10) · no hard failures**
+· 707 panels · Camera parity 101/100 · notes + card sections 101/100 · EN/HI parity 101/100 ·
+Hindi min 89.7 / median 96.0 / max 97.7 · Loom dialogue 0 · chain-stop lines 10/10 (Ch. 011 declares
+its budget in-page and in the cast, not yet in a chapter summary, which it does not have yet).
+
+`tools/art_screen.py` → 101 pages, **0 hard failures**; `ch004/page-010.png` still tops the human
+review ranking at 11.1%.
+
+### R13.7 Next actions
+
+| # | Priority | Item |
+|---|---|---|
+| 1 | **Major** | **Human reads the art queue** (R12.4 + R13.5). Nothing else can close a content question. |
+| 2 | **Major** | Write **Ch. 011 Page 002** from the brief now in the README: the step is surveyed, Kessa is asked what the cut-end was cut from, and Nima is asked to hold a hand in the alley. |
+| 3 | **Major** | Finish Ch. 011 (pages 002–010), then the chapter summary — which is what puts its chain-stop budget line into the gate. |
+| 4 | Minor | Backfill card-line blocks in the 85 cast files that lack them. |
+| 5 | Minor | 12 page images still over ratio 2.5. |
+
+---
+
 ## Audit run 12 — 2026-09-25 (the audit that could not see; the screen that can measure)
 
 Scope: the same ten chapters. Trigger: *"Next"* — pick up R11.8 item 1 (read the two unread Ch. 002
