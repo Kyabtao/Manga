@@ -93,3 +93,11 @@ mother's fold in a pawnbroker's lap, a reader in pinned sleeves, and a keeper cu
 living hands until dawn. For one night it is the only counter in the basin where the Office's roll is
 written without the Office present — and at dawn the Office comes to it anyway, slate under its arm,
 to copy what it cannot refuse.
+
+## THE THRESHOLD — दहलीज़
+
+The stall's one step down into the alley. A keeper's geography holds that everything comes to the
+counter — the whole design of a counter — and on the evening of Ch. 011 Page 008 that design meets its
+exception: thirteen silent figures holding half-cuts of grey thread, not crossing, not leaving. The
+step has been the boundary between the record and the street for nine years. The fourth step is the
+keeper's, downward, into the open where her mother taught — by her own lamp, carried out.

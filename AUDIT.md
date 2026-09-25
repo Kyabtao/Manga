@@ -366,6 +366,51 @@ Continuity: the chain-stop stays in the drawer and is not shown. Four notes sile
 Rekhak and the readers-for-money remain unspent — named again in the hook, spent next page. **Ch. 011
 chain-stop budget: ONE, still held unspent.**
 
+### R13.14 Chapter 011 Page 008 — bought and paid for; the threshold
+
+Page 008 — *bought and paid for; the threshold* — complete on every track:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-008.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-008.hi.md` | **97.5%** letters-only Devanagari |
+| Cast | `characters/cast-page-008.md` | 9 entries, every one with a card-line block |
+| World | `other/glossary.md` +5 terms · `other/locations.md` +1 entry | grown in step |
+| Art | `images/page-008.png` | 768 × 1376, **built and screened with the page** — content UNREAD |
+
+**The morning reading with the Office standing in it.** The clerk follows his own copy and finds what
+he copied — not one hand — and Nandi hands him the larger fact unperturbed: *"You have been copying
+basin thread for years, clerk. You knew that before I said it."*
+
+**The purchase fails honestly.** The arithmetic claimant (Pages 004, 005, now 008) buys a
+**reader-for-money** — the first city instrument on-panel in the chapter, brass thumb-ring, lens on a
+cord, fee-book in knot-script. The verdict he buys is *kind: basin, year: true, hand: none* — true of
+every length of basin thread in existence, so it proves nothing and indicts nothing. Ira's counter:
+*"Read the forty-one."* And the page's coldest line: *"He has sold you the news that thread is thread.
+For a fee, he will say it again."* The readers-for-money canon is **spent** — it turns out the mother's
+material defeats corruption without being asked to.
+
+**The pivot is the load-bearing move.** The clerk cannot refuse the entries after Page 005's
+precedent — so he accepts and **collects** them: *"The basin's count runs short this month. Entered
+hands may be required."* The shield and the chain are one object. Nima's bill comes due in her own
+voice — *"Now you have twenty-two more hands where mine are"* — and when the clerk tries to count his
+losses, his best suspect is untouchable by the Office's own construction: *"If the Office wants to ask
+me, it asks in writing."*
+
+**The telling, discovered not shown.** The fold comes back light by thirteen — halves taken between
+dark and dawn, the fold tied off again **in Kessa's own knot, done properly**. Kessa is not afraid;
+she is acknowledged: *"One other person has ever had the fold in her hands, keeper."* By dusk the
+alley is full — thirteen silent figures with half-cuts in their fists, keeping the teaching, not
+entering a room with a book in it.
+
+Hook: *"They are not waiting for the book, keeper. They are waiting for you."* And the smallest
+caption: *"I pick up the lamp."* The fourth step is the keeper's.
+
+Continuity: chain-shaped problem now on the table in words; the chain-stop stays in the drawer and is
+not drawn. Four notes silent sixteen days. Rekhak deliberately left off-panel and unspent — the
+purchased reader fills the city-reading slot without burning him. **Ch. 011 chain-stop budget: ONE,
+still held unspent.**
+
 ### R13.7 Next actions
 
 | # | Priority | Item |
