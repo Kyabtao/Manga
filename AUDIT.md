@@ -203,6 +203,40 @@ budget: ONE, still held unspent.**
 Tool note: `tools/art_screen.py` crashed when handed a directory instead of a file. Added a one-line
 guard so stray directory arguments are ignored rather than raising `IsADirectoryError`.
 
+### R13.10 Chapter 011 Page 004 — the precedent; the count
+
+Page 004 — *the precedent; the count* — complete on every track:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-004.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-004.hi.md` | **96.9%** letters-only Devanagari |
+| Cast | `characters/cast-page-004.md` | 8 entries, every one with a card-line block |
+| World | `other/glossary.md` +6 terms · `other/locations.md` +1 entry | grown in step |
+| Art | `images/page-004.png` | 768 × 1376, 0.0% green/cyan, dead band 4.7%, **built and screened with the page** — content UNREAD |
+
+The gap the clerk left in clause four is **walked into**. A counting woman — the one whose hand stopped
+mid-count on Page 003 — brings her own knots to be entered at her own word. She is not a villain and
+not a fool; she wants the thing clause two was built to give, and getting it is what breaks it. Ira
+understands mid-stroke and **keeps writing**, because the woman in front of her has done nothing wrong.
+*"Yesterday clause two was the only shield this basin had against the bounty. Today it is a door, and I
+am the one who showed the whole row where the latch is."*
+
+**Nima's cost lands.** Offered the choice — hold for the count and stay undeclared, or be entered as a
+hand — she sets the tray down, leaves it down, and chooses to be written: *"I'd rather be a line in
+your book than a pair of hands you can borrow whenever the count is short."* The clerk writes it
+without comment. Played as a girl paying in the only currency she has, not as triumph.
+
+Hook: Ira measures. Thread against felt, on a counter, with her hands — the gesture the series has
+always given her. **Forty-one names on the roll, sixty-three lengths in the felt, twenty-two hands this
+basin has never written down**, taught in the open, in daylight, by a woman on nobody's roll. Sixty-three
+deliberately echoes the sixty hour-knots of Chapter 001.
+
+Continuity: Nandi is present and **silent all page** — whether she knew the entry she read back was a
+lie stays open, and the page does not settle it; Kessa watches and says nothing; the watching claimant
+is the page's only threat and gets no dialogue; four notes silent twelve days. **Ch. 011 chain-stop
+budget: ONE, still held unspent.**
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

@@ -62,3 +62,11 @@ Small, black-basalt, Kshudra-made, one keyhole and no visible key. Lined with **
 held the shadowless cut-end for fifteen years and, on Page 003, holds the second knot beside it for the
 first time. Under the loupe the felt turns out to be the most talkative object in the basin: it keeps
 the impression of every length of thread that has ever lain in it.
+
+## THE DECLARATION QUEUE — घोषणा-कतार
+
+The Mendery counter's line on the morning after the survey. Three people with folds of cloth holding
+their own knots, waiting to declare their own hands; behind them the claimants, who came for the bounty
+and are learning a better trade by watching. It is the alley's third shape in four days — claimants,
+then hands wanting to be counted, then declarations — and it is the fastest-changing thing in the
+basin.
