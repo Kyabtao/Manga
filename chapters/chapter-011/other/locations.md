@@ -40,3 +40,17 @@ is cheaper and reaches more hands. Its cushion is still on the subject's chair, 
 A butt on a brick stand at the alley's far end, older than the lamp and younger than the hatch. The
 survey will end here. Half the ninth terrace's hands have drawn water from it, and every one of them
 went through the hatch first.
+
+## THE STALL INTERIOR, SHUTTERS HALF DOWN — ठेले के भीतर, आधे शटर
+
+The Knot & Nail after the survey has passed: shutters half down against the daylight, one oil lamp on
+the counter, Kessa's loupe down over one eye. On Page 002 the lockbox is opened here and holds two
+things instead of one for the first time in forty years. It is the only room in the basin where the
+question *what was it cut from?* can be asked out loud.
+
+## THE ALLEY AS A PUBLIC ROOM — सार्वजनिक कमरा बनी गली
+
+What the survey makes of the hatch alley. Because the Office asks Nima to hold a hand outdoors, in
+daylight, with three counting women, two claimants and a stall-keeper at every shutter listening, her
+refusal becomes public business — and is then written down. The Office did not need room nine for
+this; it needed an audience, and the alley supplied one for free.

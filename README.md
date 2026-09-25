@@ -20,63 +20,55 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 011 — Page 001 DONE** (EN + Hindi + cast + world + art candidate) · Pages 002–010 not started · Ch. 001–010 COMPLETE
-| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · **Ch. 011: page 001 complete** (EN 97.4% Devanagari, cast with card-lines, glossary + locations, art candidate **UNREAD**) · 101 pages total in canon
-| **NEXT page to build** | **Ch. 011 Page 002** — from the Next-page brief below. The chapter folder exists; do **not** re-create it. Note: the brief says to add `.gitkeep` files — **don't**; `.gitkeep` is flagged as junk by `tools/audit.py` (run 5 removed 28 of them).
-| **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) **new this turn, unread candidates:** `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png`, `chapters/chapter-011/images/page-001.png` (ch011 p001 is installed and passes the machine screen — 768 × 1376, 0.0% green/cyan — but has never been looked at). Ranking tool: `python3 tools/art_screen.py --rank`. |
+| **Chapter in progress** | **Ch. 011 — Pages 001–002 DONE** (EN + Hindi + cast + world + art for both) · Pages 003–010 not started · Ch. 001–010 COMPLETE
+| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · **Ch. 011: pages 001–002 complete** (Hindi 97.4% / 97.0%, cast with card-lines, glossary + locations, **both page images built and screened**) · 102 pages total in canon
+| **NEXT page to build** | **Ch. 011 Page 003** — from the Next-page brief below. Do **not** re-create the chapter folder and do **not** add `.gitkeep` files.
+| **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 011 · Page 002)
+### Next-page brief (Chapter 011 · Page 003)
 
-**The chapter folder exists and Page 001 is written.** Do not re-create the chapter, and read
-`chapters/chapter-011/story/page-001.md` before starting.
+**Pages 001 and 002 are written.** Read them before starting.
 
-Page 001 ends with a fact and a clock. The fact: the second knot on the step is tied in **shadowless
-thread** — the same thread as the cut-end in Kessa's lockbox and the stitch in Ira's palm — so the
-mother is teaching in the open *with Ira's own thread*, and she put it in Ira's hand deliberately,
-"so that I would know it before the Office does." The clock: the survey is walking the alley from the
-fourth step to the water-butt, entry by entry, and it is moving **toward** the Mendery step. It will
-reach the step, and when it does the two knots on it are evidence in an Office book.
+Page 002 ends with two debts falling due at once. **Kessa owes an answer** — she admitted on the page
+that the question is now *in the room* and that she will have to answer it, and she is not a woman who
+says that and then doesn't. And **Ira owes the register the truth** — she entered a knot as her own
+work under clause two, and a lie in a register is a live thing: it will be read aloud, because Nandi's
+condition requires every entry to be read out loud with the keeper, in the same words, at the same
+time.
 
-Page 002 has to spend both.
+Page 003 should spend both, and it should be the page where the survey finishes.
 
-1. **The step is surveyed.** The grey clerk reaches the Mendery step and asks what is on it. Ira has
-   exactly one lawful move and she has used it before: an owner can enter their own hand, at their own
-   word, with no fee and no reward. She cannot enter a knot whose owner she does not know — so she has
-   to **claim the second knot as her own work** in front of the Office, which is a lie of a kind the
-   register has no box for, or let it be taken in. Give her the choice on-panel and make her take it.
-2. **Kessa and the cut-end.** The hook's other half must be answered in the same page: Ira takes the
-   knot to the counter and asks the question Kessa has never asked in forty years — *what was it cut
-   from?* Kessa has kept a hand's width of shadowless thread under her counter since before Ira was
-   born and has never required an answer. This is the chapter's best scene and it should not be
-   deferred.
-3. **Nima's bargain is tested.** The standing thread is explicit — *the day she is told to put a hand
-   on that stand she will refuse out loud, in the room, and the Office will test it.* The survey is a
-   stand without a room. Have the Office ask her to hold a hand in the alley, in daylight, with the
-   whole row watching.
+1. **Kessa answers, or Kessa does something better.** *What was it cut from?* The honest answer is that
+   she does not know — she has had the thread forty years and never asked, and she chose not to. What
+   she *can* give Ira is the cut-end's provenance: where it came into her hands, from whom, and on what
+   day. Give her a real answer to a different question than the one asked. That is her voice.
+2. **The lie is read aloud.** The survey reaches the water-butt and the day's entries are read back —
+   Nandi reads, Ira repeats. Ira has to say *"Owner: the keeper. I tied it"* out loud, in the alley, in
+   her own voice, with the row listening. This is the same machinery that forced her to say *not the
+   founder* on the record in Chapter 010, turned on her own entry.
+3. **Clause four cashes.** The survey is finished and the place of keeping has produced. Either the
+   licence holds or it lapses, and the page should say which on-panel. If it holds, say what it cost.
 
-Carry in: **clause four's timer** (spoken aloud now — it lapses if the place of keeping fails to
-produce); **Nandi's condition** (every entry read aloud with the keeper, which is why the Office can
-hear the school at all); **Jadi's counting lesson** loose in three households and changing the shape
-of the queue; **Rekhak's recorded readings** and the translation room's invented entries (a copyist
-turned a fee into a knot); **Kessa's tally-thread**, still the only uncopyable record; and the
-**chain-stop budget**, which Ch. 011 holds unspent.
+Carry in: **Nima's refusal is now an entry** — the Office wrote it down rather than punishing it, so
+her wage and her declaration are both in question; **the counting women** have stopped being a queue
+and started being a witness; **Rekhak's recorded readings** and the translation room's invented
+entries; **Kessa's tally-thread**, still the only uncopyable record; and the **chain-stop budget**,
+which Ch. 011 still holds unspent.
 
-Tone: Page 001 began on hands and ended on thread. Page 002 should be the page where the keeper
-learns that she is also the pupil — the mother taught somebody with Ira's thread, which means the
-school has a second teacher, and the second teacher is better at this than Ira is.
+Tone: Page 001 began on hands, Page 002 ended on thread. Page 003 is the page where the keeper hears
+her own lie in her own voice — and it should be quieter than that sounds.
 
-### Superseded brief (Chapter 011 · Page 001) — kept for reference
+### Superseded brief (Chapter 011 · Page 002) — kept for reference
 
-The brief this page was built from: Chapter 010 ended with the Office pricing the mother's *door*
-rather than hunting her — a grey lamp posted at the alley mouth, and on the Mendery's step the knot
-the mother lifted out of the register, beside it a **second knot in an untrained hand.** Chapter 011
-opens on **who tied it**: the mother teaching again, in the open, without permission, and the survey
-walking the alley entry by entry, hand by hand, from the fourth step to the water-butt, with the
-keeper of the register obliged to attend. *Begin with hands — a queue that is no longer only
-claimants, an alley with a lamp on a pole, and a knot on a step that somebody tied on purpose so that
-Ira would know she is not the only teacher in Agnikhand.* **Built as Page 001; see §R13.1.**
+The brief page 002 was built from: page 001 ended with the second knot proven to be **shadowless
+thread** and with the survey walking toward the Mendery step. Page 002 had to spend both — the step is
+surveyed and Ira, having clause two but no owner to name, enters the knot as her own work (the first
+lie in her register); the Office asks **Nima** to hold a hand and she sets the tray down and refuses
+out loud in the alley, which the clerk writes down rather than punishes; and Ira asks **Kessa** the
+question she has never asked — *what was it cut from?* — getting a delay, not an answer. **Built as
+Page 002; see §R13.8.**
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.

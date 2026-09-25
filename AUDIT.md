@@ -122,21 +122,57 @@ mistake, and both existing pages are already 768 × 1376, so the swap would buy 
 
 ### R13.6 Gate state
 
-`tools/audit.py` → **11 chapters (10 complete, `chapter-011` in progress 1/10) · no hard failures**
-· 707 panels · Camera parity 101/100 · notes + card sections 101/100 · EN/HI parity 101/100 ·
-Hindi min 89.7 / median 96.0 / max 97.7 · Loom dialogue 0 · chain-stop lines 10/10 (Ch. 011 declares
-its budget in-page and in the cast, not yet in a chapter summary, which it does not have yet).
+*(state after page 002)* `tools/audit.py` → **11 chapters (10 complete, `chapter-011` in progress
+2/10) · no hard failures** · 714 panels · Camera parity 102/100 · notes + card sections 102/100 ·
+EN/HI parity 102/100 · Hindi min 89.7 / median 96.0 / max 97.7 (Ch. 011: 97.4 and 97.0) · Loom
+dialogue 0 · chain-stop lines 10/10 (Ch. 011 declares its budget in-page and in the cast, not yet in a
+chapter summary, which it does not have yet) · 16,652 local links / 0 broken · build reproducible.
 
 `tools/art_screen.py` → 101 pages, **0 hard failures**; `ch004/page-010.png` still tops the human
 review ranking at 11.1%.
+
+### R13.8 Chapter 011 Page 002 — written, with its image
+
+User instruction this run: *"Next and make sure build image also."* Read as: continue the chapter, and
+stop treating the page image as an optional add-on. It is workflow step 5 and it ships with the page.
+
+Page 002 — *the step is surveyed* — complete on every track, as page 001 was:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-002.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-002.hi.md` | **97.0%** letters-only Devanagari |
+| Cast | `characters/cast-page-002.md` | 8 entries, every one with a card-line block |
+| World | `other/glossary.md` +7 terms · `other/locations.md` +2 entries | chapter-scoped canon grown in step |
+| Art | `images/page-002.png` | 768 × 1376, 0.0% green/cyan, **built and screened with the page** — content UNREAD |
+
+What happens: the survey reaches the Mendery step and asks what is on it; Ira holds one lawful
+instrument — clause two, an owner's own word — and no owner to name, so she enters the second knot as
+her own work, which is **the first lie in her own register**; the Office asks Nima to hold a hand and
+she sets the card-tray down and refuses out loud in the alley, and the clerk *writes the refusal down*
+rather than punishing it; Ira asks Kessa what the cut-end was cut from and gets a delay instead of an
+answer. Hook: in the open lockbox, the cut-end and the second knot lie side by side under the loupe —
+same gauge, same twist, both shadowless, both finishing in the same whorl. **Two ends of one thread,
+forty years apart.**
+
+**The image was built with the page, not after it.** Both Ch. 011 pages were rendered, screened
+(768 × 1376, 0.0% green/cyan each) and installed in the same pass as their scripts, then the site was
+rebuilt and the wiring checked end to end — the PNGs are referenced from `page-00N.html`,
+`page-00N.hi.html` and `read/chapter-011/index.html`, and all serve 200. Page 002's screen also
+detected **7 panels**, the first page in the repo to register the script's true count under the
+advisory detector (median across the repo is 4).
+
+Continuity held: mother never on panel; Loom never speaks; four notes now silent ten days; clause four
+still running; Nima's refusal is an *entry*, not a rebellion, which is worse. **Ch. 011 chain-stop
+budget: ONE, still held unspent.**
 
 ### R13.7 Next actions
 
 | # | Priority | Item |
 |---|---|---|
 | 1 | **Major** | **Human reads the art queue** (R12.4 + R13.5). Nothing else can close a content question. |
-| 2 | **Major** | Write **Ch. 011 Page 002** from the brief now in the README: the step is surveyed, Kessa is asked what the cut-end was cut from, and Nima is asked to hold a hand in the alley. |
-| 3 | **Major** | Finish Ch. 011 (pages 002–010), then the chapter summary — which is what puts its chain-stop budget line into the gate. |
+| 2 | **Major** | ~~Write Ch. 011 Page 002~~ — **done (§R13.8).** Next: **Ch. 011 Page 003** — the survey reaches the water-butt and finishes; Kessa answers *what was it cut from?* with the provenance she actually has; and Ira's lie is **read aloud** by the machinery of Nandi's own condition. |
+| 3 | **Major** | Finish Ch. 011 (pages 003–010), then the chapter summary — which is what puts its chain-stop budget line into the gate. |
 | 4 | Minor | Backfill card-line blocks in the 85 cast files that lack them. |
 | 5 | Minor | 12 page images still over ratio 2.5. |
 
