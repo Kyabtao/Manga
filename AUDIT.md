@@ -237,6 +237,44 @@ lie stays open, and the page does not settle it; Kessa watches and says nothing;
 is the page's only threat and gets no dialogue; four notes silent twelve days. **Ch. 011 chain-stop
 budget: ONE, still held unspent.**
 
+### R13.11 Chapter 011 Page 005 — the false declaration; the subtraction
+
+Page 005 — *the false declaration; the subtraction* — complete on every track:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-005.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-005.hi.md` | **97.3%** letters-only Devanagari |
+| Cast | `characters/cast-page-005.md` | 7 entries, every one with a card-line block |
+| World | `other/glossary.md` +5 terms · `other/locations.md` +1 entry | grown in step |
+| Art | `images/page-005.png` | 768 × 1376, 0.0% green/cyan, dead band 4.7%, **built and screened with the page** — content UNREAD |
+
+The arithmetic claimant comes back with a fold of knots that are not his and speaks the form's sentence
+in the form's order. **He is not a villain — he watched a woman declare her own hands and worked out
+what that is worth, which is the same arithmetic Ira has been doing all week.** Ira looks for the line
+in her own clause that lets her refuse: *"Clause two. A hand may be entered at its owner's word.
+Nothing in it about the word being true. Nothing in it about the keeper asking."* She wrote it so the
+Office could not refuse an honest woman; she did not write a way to refuse a dishonest man, and cannot
+add one, because the Office holds the copy.
+
+So she **refuses nothing and calls for a reading** — the schedule's condition, imposed on Nandi as a
+humiliation, aimed back at the Office. Nandi gives kind and year, then stops short of the name she could
+have given: *"Hand: not this one's."* The grey clerk ratifies against his own side without expression:
+*"Reading stands. Entry refused: declaration and reading do not agree."* **This is the cleanest thing
+Ira does all chapter and it costs her nothing, which is what should bother her.**
+
+Nima's bill arrives. Enrolled hands may be *required* when the count runs short: *"You are the line.
+The line is what lets us borrow you."* Not stupid, does not cry, does not grandstand — she sets the tray
+down and counts.
+
+Hook: doors with hands in them, hands with no entry. Three counts laid out on a counter and twenty-two
+lengths set apart at the bottom of the frame. *"The survey reaches the end of the alley tomorrow."*
+
+Continuity: Kessa is deliberately **absent** — she gave a date and no name and has nothing until Ira
+asks better. Rekhak's recorded readings and the readers-for-money are **named here for the first time in
+the chapter**, to be spent later. Four notes silent thirteen days. **Ch. 011 chain-stop budget: ONE,
+still held unspent.**
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

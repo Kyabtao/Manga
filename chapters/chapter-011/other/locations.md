@@ -70,3 +70,11 @@ their own knots, waiting to declare their own hands; behind them the claimants, 
 and are learning a better trade by watching. It is the alley's third shape in four days — claimants,
 then hands wanting to be counted, then declarations — and it is the fastest-changing thing in the
 basin.
+
+## THE TERRACE WALL — छत की मेड़
+
+The low wall above the basin where Ira stands on Page 005 and sees the chapter's shape: below her the
+teaching rows of the second school, people sitting in open daylight with thread in their hands in lines
+anybody could walk past; beyond them the survey's markers, counted doors running from the fourth step
+toward the water-butt. **The same geometry, pointed in opposite directions.** It is not a new place —
+it is the place where the two counts finally look like one instrument.
