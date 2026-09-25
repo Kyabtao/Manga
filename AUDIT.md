@@ -166,6 +166,43 @@ Continuity held: mother never on panel; Loom never speaks; four notes now silent
 still running; Nima's refusal is an *entry*, not a rebellion, which is worse. **Ch. 011 chain-stop
 budget: ONE, still held unspent.**
 
+### R13.9 Chapter 011 Page 003 — the survey closes; the provenance
+
+Page 003 — *the survey closes; the provenance* — complete on every track:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-003.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-003.hi.md` | **97.3%** letters-only Devanagari |
+| Cast | `characters/cast-page-003.md` | 8 entries, every one with a card-line block |
+| World | `other/glossary.md` +7 terms · `other/locations.md` +1 entry and one amended | grown in step |
+| Art | `images/page-003.png` | 768 × 1376, 0.0% green/cyan, **built and screened with the page** — content UNREAD |
+
+The survey closes at the water-butt — eleven doors, one morning, forty years counted. The entries are
+read back and **Ira says her own lie out loud**, and the point is that it costs her nothing: ten
+chapters of learning to speak to clerks without flinching is exactly the skill that makes it easy.
+Clause four is discharged, and the clerk's second sentence is the page's coldest beat — *"It stands
+because the keeper produced an object on the step. It does not say the object was hers."* He is not
+threatening her; he is leaving a hole on the record.
+
+Kessa then answers **a different question than the one she was asked**: not *what*, not *who* — *when*.
+Fifteen years (canon: Ch. 005 p008), the day they bound her, a fold of cloth, a hand's width of thread,
+and a **blank note**. She says out loud why she never asked: a pawnbroker who asks loses the thing she
+was told to keep.
+
+Hook: the grey felt in the lockbox keeps impressions — same width, same length, pressed in and lifted
+out, more than there is light to count, one older than Ira and one from this week. **She has not been
+handing out thread; she has been cutting lengths off one piece for forty years, and Kessa's box has
+been the measure the whole time.**
+
+Continuity: the counting women are the chorus and one of them stops mid-count — the only reaction in
+the page; Nima's tray is back in her hands but the refusal stands as an entry; four notes now silent
+eleven days; mother off panel, her presence a date, a length and a blank note. **Ch. 011 chain-stop
+budget: ONE, still held unspent.**
+
+Tool note: `tools/art_screen.py` crashed when handed a directory instead of a file. Added a one-line
+guard so stray directory arguments are ignored rather than raising `IsADirectoryError`.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

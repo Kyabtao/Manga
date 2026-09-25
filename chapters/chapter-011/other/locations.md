@@ -38,8 +38,9 @@ is cheaper and reaches more hands. Its cushion is still on the subject's chair, 
 ## THE WATER-BUTT — पानी की बौड़ी
 
 A butt on a brick stand at the alley's far end, older than the lamp and younger than the hatch. The
-survey will end here. Half the ninth terrace's hands have drawn water from it, and every one of them
-went through the hatch first.
+survey **ends here** on Page 003: eleventh door, late afternoon, one hand flat on the brick. Half the
+ninth terrace's hands have drawn water from it, and every one of them went through the hatch first —
+which is what makes it the right place to close a count of forty years.
 
 ## THE STALL INTERIOR, SHUTTERS HALF DOWN — ठेले के भीतर, आधे शटर
 
@@ -54,3 +55,10 @@ What the survey makes of the hatch alley. Because the Office asks Nima to hold a
 daylight, with three counting women, two claimants and a stall-keeper at every shutter listening, her
 refusal becomes public business — and is then written down. The Office did not need room nine for
 this; it needed an audience, and the alley supplied one for free.
+
+## THE LOCKBOX, OPEN — खुली तिजोरी
+
+Small, black-basalt, Kshudra-made, one keyhole and no visible key. Lined with **old grey felt**. It has
+held the shadowless cut-end for fifteen years and, on Page 003, holds the second knot beside it for the
+first time. Under the loupe the felt turns out to be the most talkative object in the basin: it keeps
+the impression of every length of thread that has ever lain in it.

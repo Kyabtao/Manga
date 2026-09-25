@@ -177,6 +177,7 @@ def screen(path):
 
 def main():
     args = [a for a in sys.argv[1:] if not a.startswith("--")]
+    args = [a for a in args if os.path.isfile(a)]   # ignore stray directories passed by hand
     rank = "--rank" in sys.argv
     js = "--json" in sys.argv
     files = args or sorted(glob.glob(ROOT + "/chapters/chapter-*/images/page-???.png"))
