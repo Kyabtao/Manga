@@ -107,3 +107,23 @@ Every page passes these five, checked **against that page's own script**, at ful
 
 Record the verdict with the page. **"Regenerated" is a claim that needs a panel-list check, not a
 feeling** — runs 5, 7 and 9 each reported pages complete that this gate fails on inspection.
+
+### Who may call a page verified — READ THIS BEFORE SIGNING ANYTHING OFF
+
+Checks 1, 2 and part of 4 are mechanical and can be run by a script: `python3 tools/art_screen.py`
+does shape, weight, dead bands and palette, and prints panel count as advisory (it is measured to
+undercount this art style — see its header).
+
+**Checks 3 (*beats*) and 5 (*canon markers*) require a reader who can actually see the image.** No
+exceptions, and no substitutes:
+
+- **A dimension check is not a content check.** Knowing a page is 768 × 1376 tells you nothing about
+  what is drawn on it. Run 11 installed three pages at 768 × 1376 and called them verified; the
+  agent had no vision, and every content claim it made was withdrawn in run 12.
+- **If you cannot see the image, say so.** Render candidates, measure them, rank them, and mark every
+  output as **unread**. Do not write "7 beats in order, hook last" about a file you have not opened.
+- **Name the reader in the record.** A verdict in `AUDIT.md` must say who looked at it — a person, or
+  a model with vision in that session. "Verified" with no name behind it is the failure mode §7,
+  §R11.7 and §R12.2 all exist to document.
+- **An off-palette screen is not a content verdict.** `art_screen.py --rank` ranks candidates for
+  human review; it cannot distinguish an off-world forest from a canon jade bead.

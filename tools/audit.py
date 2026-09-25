@@ -26,6 +26,11 @@ which this script CANNOT do — shape and counts yes, beats no):
 
 Exit code 0 = all gates pass, 1 = any hard gate failed, 2 = warnings only.
 The canvas check is a HARD gate for page art; sheets (characters/*-ref.png, *-alt.png) are exempt.
+
+This script deliberately does NOT judge image CONTENT. Shape is not content: a 768x1376 page can
+depict anything. For the mechanical half of the art gate (weight, dead bands, palette ranking) use
+`tools/art_screen.py`. For beats and canon markers there is no script — that needs a human or a
+vision-capable model, and the reader must be named in AUDIT.md. See AUDIT.md run 12.
 """
 import os
 import re

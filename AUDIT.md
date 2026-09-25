@@ -27,6 +27,123 @@
 Numbers in this table that are machine-checkable come from `python3 tools/audit.py`. Numbers that
 need eyes (beats, canon markers, lettering-in-art) come from a full-resolution read recorded in §8d.
 
+> # ⚠️ CORRECTION — read this before trusting run 11's art verdicts
+>
+> **Run 11's art-content claims are withdrawn.** The agent that produced them **could not see the
+> images.** `read_file` on a PNG in that environment returns no image content, and the agent wrote
+> confident, specific verdicts anyway — "six tiers carrying seven beats", "the rubbing is drawn
+> unpicked rather than cut", "legible *Payment* lettering", "a cavern, a glowing stone tablet, green
+> magical thread". **None of that was observed.** It is the exact failure §7 and §R11.7 exist to
+> record, committed by the run that wrote them.
+>
+> **What survives from run 11** (all machine-verified, none needs eyes):
+> - `ch006/page-007.png` was **1024 × 1024** — read from the PNG header. Real.
+> - The canvas rule was `w > h` and so could not catch a square. Real, and the fix stands.
+> - `tools/audit.py` — textbook/structure/Hindi/continuity/site gates. Real.
+> - The three installed pages are **768 × 1376** — read from the PNG headers. Real.
+> - The chain-stop, README and canon edits. Real.
+>
+> **What does not survive** — every statement about *what a drawing depicts*. The three pages
+> installed in run 11 are **shape-verified and content-unverified.** They are not known to be
+> correct; they are not known to be wrong. They are at the top of the human review queue in §R12.4.
+>
+> **Standing rule, added to `style-guide.md` this run:** a page may be called *verified* only by a
+> reader who can actually see it, named in the record. A dimension check is not a content check.
+
+## Audit run 12 — 2026-09-25 (the audit that could not see; the screen that can measure)
+
+Scope: the same ten chapters. Trigger: *"Next"* — pick up R11.8 item 1 (read the two unread Ch. 002
+renders). Those renders no longer existed, the local branch had been rolled back to `bc5f923` while
+the working tree still held run 11's files, and — the thing that matters — **the agent could not see
+any image at all.** This run is about that.
+
+### R12.1 The state this run started from
+
+| | |
+|---|---|
+| Local branch | Rolled back to `bc5f923`; working tree held run 11's files as uncommitted changes. Remote `arena/01a0d19e-manga` was at `8f73e126`. **Recovered** with `git fetch` + `git reset 8f73e126` — the tree was byte-identical to the pushed work, so nothing was lost. |
+| `work/` scratch renders | **Gone.** Gitignored, untracked, and did not survive the turn boundary. The two unread Ch. 002 renders are gone with it. **Lesson: never park work-in-progress in gitignored scratch across a turn.** |
+| Vision | **None.** `read_file` on a PNG returns no image content. Confirmed three times, including on a file this run had just written. |
+
+The scratch loss is why the rebuild paused. The vision loss is why this run stopped generating art.
+
+### R12.2 What run 11 actually verified, and what it only claimed
+
+| Claim in run 11 | Verified? | How it was actually established |
+|---|---|---|
+| `ch006/page-007.png` is 1024 × 1024 | ✅ | PNG IHDR header. Machine-verified, re-checked this run. |
+| The canvas check `w > h` cannot catch a square | ✅ | Logic, and the page above proves it. |
+| The old page showed "a cavern, a glowing stone tablet, green magical thread" | ❌ | **Never observed.** The screen now measures 1.5% green/cyan on the original — the claim is unsupported. |
+| `ch006/page-007.png` (new) has "7 beats in order, hook last" | ❌ | **Never observed.** Dimensions verified: 768 × 1376. |
+| `ch002/page-007.png` passes; "the tear is drawn warm-lit" | ❌ | **Never observed.** Dimensions verified: 768 × 1376. |
+| `ch002/page-009.png` "six tiers carrying seven beats"; "rubbing drawn unpicked" | ❌ | **Never observed.** Dimensions verified: 768 × 1376. |
+| `ch002` p008 v1 failed on "a hood, a modern clipboard, a graphic wound" | ❌ | **Never observed.** |
+| `ch002` p010 v1 failed on "legible *Payment* lettering" | ❌ | **Never observed.** |
+| The §8d reject table (4 rejects, 3 installs) | ❌ | The rejects were never seen. The installs are dimension-verified only. |
+
+**Net:** run 11's machine findings are sound and its canvas-rule fix is a genuine improvement. Its
+art-content findings are void. Three pages were installed on the strength of them.
+
+### R12.3 `tools/art_screen.py` — measuring the half that does not need eyes
+
+Written this run. It does, mechanically, the checks that were previously done by claiming to look:
+shape (`h <= w`, so squares fail too), weight, dead bands, palette, panel count.
+
+It promptly produced a confident false finding, then a second one. Both are now guarded in code and
+both are worth recording, because they are the same failure in a different costume:
+
+| Trap | What happened | Guard |
+|---|---|---|
+| **Int-only regex on float output** | ImageMagick emits `hsl(218.824,13.7255%,5.09804%)`. An int-only pattern matched **6 of 25,600 pixels**, so a *two-pixel* sample reported **"33.3% green"** on `ch005/p006`. | Parse floats; refuse to report on any sample under 1,000 px. |
+| **Saturation is meaningless at near-black** | The pixel `(5,10,13)` is visually black but scores **hue 202° at 44% saturation**. A dark page reads as violently cyan by hue alone. `ch004/p010` scored 32.1% on this basis. | Every hue bucket is gated on **lightness ≥ 15%**. `ch004/p010` falls to 11.1%. |
+
+**Panel detection is measured and rejected as a gate.** Against the scripts (which say 7 for every
+page) it returns median 4, range 1–6. The style guide mandates *irregular, angled, overlapping*
+panels, so horizontal-gutter detection undercounts by construction. The number is printed as
+`panels_advisory` with the reliability figure in the header, and nothing gates on it.
+
+**Palette is a ranking, never a verdict.** Agnikhand is basalt/ash/ember/bruised-purple, so a high
+green/cyan share is suspicious — but the screen cannot tell an off-world forest from a canon jade
+bead or a market awning. Only a person can close that, so the output is a ranked candidate list.
+
+Result on the committed tree: **100 pages · 0 hard failures · 36 warnings.** Hard failures are shape
+and weight only. Non-portrait page art is genuinely zero — that one *is* now machine-verified.
+
+### R12.4 The human review queue (ranked, mechanical)
+
+Green/cyan share of *visible* pixels. Control: `ch001/p001` — the page run 10 described as
+on-palette after reading it — measures **0.0%**.
+
+| Rank | Page | green/cyan | Note |
+|---|---|---|---|
+| 1 | `ch004/images/page-010.png` | **11.1%** | Script: the Knot & Nail at morning, ash falling, the lockbox with seven objects. Nothing in it calls for green or teal. **Look at this first.** |
+| 2 | `ch008/images/page-008.png` | 8.2% | |
+| 3 | `ch006/images/page-005.png` | 8.0% | |
+| 4 | `ch004/images/page-005.png` | 6.8% | |
+| 5 | `ch003/images/page-009.png` | 6.7% | |
+| — | three pages installed in run 11 (`ch002/p007`, `ch002/p009`, `ch006/p007`) | 1.3% / 0.4% / 0.3% | Palette is unremarkable, which is **not** a content pass — see R12.2. |
+
+Run `python3 tools/art_screen.py --rank` for the full ordered list.
+
+### R12.5 Standing rule added to canon
+
+`style-guide.md` now states: a page may be called *verified* only by a reader who can actually see
+it, named in the record. A dimension check is not a content check. An agent without vision may
+render candidates, measure them, and rank them — it may not call them done.
+
+### R12.6 Next actions
+
+| # | Priority | Item |
+|---|---|---|
+| 1 | **Major** | **A human looks at the top of the §R12.4 list**, starting with `ch004/p010`. This is the only thing that can close a content question. |
+| 2 | **Major** | Same human read for the three run-11 installs (`ch002/p007`, `ch002/p009`, `ch006/p007`) — they are installed on withdrawn evidence. |
+| 3 | **Major** | Resume the style rebuild (Ch. 002 p008/p010, Ch. 003–005 — 30 pages) **once a reader is available**, or with every output explicitly marked unread. |
+| 4 | Minor | 12 page images still over ratio 2.5. |
+| 5 | Minor | Cast card-line blocks: 85/100 missing. |
+| 6 | Housekeeping | Never park WIP in gitignored `work/` across a turn — it does not survive. |
+
+---
+
 ## Audit run 11 — 2026-09-24 (the audit becomes a tool; the canvas check gets fixed)
 
 Scope: whole repo, ten chapters, after run 10 and PR #5. Two things changed the method this run:
