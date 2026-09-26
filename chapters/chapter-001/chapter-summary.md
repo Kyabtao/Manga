@@ -3,6 +3,9 @@
 **Status:** COMPLETE — 10 pages (001–010), EN + Hindi scripts, 10 page images, 4 full character sheets,
 10 cast files, locations + glossary grown in-step.
 **Arc:** I — The Unspooling · **Sector:** Agnikhand · **Open PR for this work:** Kyabtao/Manga#2
+**Chain-stop budget:** *not yet codified* — the per-chapter budget convention is introduced in
+Chapter 002. Chapter 001 spent **three stops** (Pages 004, 008, 009 — all Rekhak) before any budget
+existed; they are grandfathered and no later chapter may spend against them.
 
 ---
 
