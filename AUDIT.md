@@ -494,6 +494,37 @@ Rekhak unspent and off-panel all chapter — a decision, recorded in the summary
 stays open. Ira's *zero, and climbing* never explained. **Chapter 011 complete: 10/10 pages, all five
 tracks, summary filed.**
 
+### R13.17 Cast card-line backfill — DONE, 110/110
+
+The standing Minor item — *cast card-line backfill (85 files missing)* — is closed. All 110 cast files
+(`chapters/chapter-0NN/characters/cast-page-0NN.md`, chapters 001–011) now carry the mandatory card-line
+fenced block (`Name / Kind / Sector / Thread colour / Debt tendency / Signature ability / One-line hook`)
+per `series-bible/04-card-game-notes.md`, and the gate reads **cast card-line blocks: 110/110 (missing
+0)**.
+
+What was done, chapter by chapter (one commit each):
+
+| Chapter | Files | Entries lined | Grounding |
+|---|---|---|---|
+| 002 | 5 | 17 | Established sheets + page notes (Patra = Preta per his sheet; the Auditors, the Chit-Boy, the ledge cat) |
+| 003 | 10 | 35 | Files were heading-only stubs; hooks from each page's beats |
+| 004 | 10 | 29 | Stubs; hooks from page types (*The Weight of Thread*) |
+| 005 | 10 | 32 | Stubs; Guthli/Pira per the Ch. 002 blocks |
+| 006 | 10 | 29 | Stubs; **Nandi at her pre-reveal tendency** (*light, paid in kind*) — Ch. 011 later updates it |
+| 007 | 10 | 28 | Stubs; the licence, the crease-writ, the Roll of Hands |
+| 008 | 10 | 27 | Stubs; **Jadi grounded from her sheet in this chapter** (Kshudra, thread grown under skin, 44 years) |
+| 009 | 10 | 44 | Stubs; the Inspector **aligned to his canonical card line** after one deviating first pass (fix commit) |
+| 010 | 10 | 51 | Stubs; Nima per her home sheet; queue characters as collectives |
+| **Total** | **85** | **292** | |
+
+Method note: the gate's own metric is per-file (any fenced block with ≥4 slashes); the work was done to
+the stricter §R13.4 standard — **every entry** in every file carries a line, including one-panel extras.
+Honesty note: for chapters 003–010 the files were stubs, so page hooks were distilled from each page's
+beats and established sheets; recurring mains use their canonical field values throughout.
+
+Remaining agent-watchable work is now only the twelve over-ratio pages (warnings, human-adjacent —
+re-rendering would overwrite unread art). Everything else Major is human-only (§R12.4).
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

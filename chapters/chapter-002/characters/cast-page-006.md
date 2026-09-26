@@ -6,6 +6,12 @@ Character sheets live in the chapter of first appearance — Chapter 002's cast 
 ---
 
 ## REKHAK VAHNI — रेखक वह्नि  (PAGE LEAD)
+
+```
+Rekhak Vahni / Manav / Agnikhand / cold-white Sight thread / deep debt /
+Audit: reveal target's Kind, thread colour and debt level; each use adds 2 debt to self /
+"…In the palm, I saw nothing else." — sworn on the held stop; the oath-link rides his chain from here.
+```
 Full sheet (Ch. 001): [`../../chapter-001/characters/rekhak-vahni.md`](../../chapter-001/characters/rekhak-vahni.md)
 
 > **Page 006 note:** swears the commissioned hour on the **held stop** — Chapter 2's one chain-stop,
@@ -16,6 +22,12 @@ Full sheet (Ch. 001): [`../../chapter-001/characters/rekhak-vahni.md`](../../cha
 > words, whenever she chooses to look.
 
 ## IRA SUTAR — इरा सुतार  (one-panel cutaway)
+
+```
+Ira Sutar / Manavkin / Agnikhand / colourless thread / zero debt /
+Mend: cancel target debt instead of paying it /
+"Nothing is not neutral."
+```
 Full sheet (Ch. 001): [`../../chapter-001/characters/ira-sutar.md`](../../chapter-001/characters/ira-sutar.md)
 
 > **Page 006 note:** Panel 5 only: the bell-cutaway. She feels nothing (the Loom never speaks) but reads
@@ -23,6 +35,12 @@ Full sheet (Ch. 001): [`../../chapter-001/characters/ira-sutar.md`](../../chapte
 > does not yet know an oath exists, let alone that it is addressed to her eyes.
 
 ## THE THREE AUDITORS — तीन परीक्षक  (EXTRAS — last appearance this chapter)
+
+```
+The Three Auditors / Manav / the terraces / grey, unspent / none — they spend the Office's /
+Sit: hear a sworn hour and mark the record /
+"One watched the release instead of the record."
+```
 Grey, seated, nameless, waist-up maximum. This page differentiates them by millimetres only: Auditor
 Two's knuckle, Auditor Three's closing finger and — the plant — **Auditor Three watching the release
 instead of the record**. No tick, ring or second glance beyond that; no return this chapter.

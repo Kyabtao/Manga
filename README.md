@@ -22,7 +22,7 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
 | **Chapter in progress** | **NONE — Chapter 011 is COMPLETE** (pages 001–010, all five tracks, chapter-summary written) · Ch. 001–011 all COMPLETE
 | **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · **Ch. 011: COMPLETE — pages 001–010** (Hindi 97.4 / 97.0 / 97.3 / 96.9 / 97.3 / 97.2 / 97.6 / 97.5 / 97.5 / 97.6, every cast entry card-lined, glossary + locations, `chapter-summary.md` written, **all ten page images built and screened**) · **110 pages total in canon**
-| **NEXT page to build** | **None — no chapter is in progress.** Outstanding work: the human art queue (AUDIT §R12.4 — Ch. 002–005 style rebuild + full-resolution QA, incl. all ten Ch. 011 pages UNREAD), cast card-line backfill (85 files), and Chapter 012 when it is briefed.
+| **NEXT page to build** | **None — no chapter is in progress.** Outstanding work: the human art queue (AUDIT §R12.4 — Ch. 002–005 style rebuild + full-resolution QA, incl. all ten Ch. 011 pages UNREAD) and Chapter 012 when it is briefed. ~~Cast card-line backfill~~ **DONE — 110/110 cast files card-lined** (see AUDIT §R13.17).
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
@@ -38,7 +38,7 @@ the full record.
 
 **Chapter 012 is not yet briefed.** When it is, a new "Next-page brief" section goes here and this
 note moves under it. Until then the top of the work queue is the human art queue (§R12.4), the cast
-card-line backfill (85 files outstanding), and the twelve over-ratio pages.
+the twelve over-ratio pages (the last agent-watchable item, warnings only).
 
 ### Superseded brief (Chapter 011 · Page 010 — the finale) — kept for reference
 
