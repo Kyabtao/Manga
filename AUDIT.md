@@ -411,6 +411,47 @@ not drawn. Four notes silent sixteen days. Rekhak deliberately left off-panel an
 purchased reader fills the city-reading slot without burning him. **Ch. 011 chain-stop budget: ONE,
 still held unspent.**
 
+### R13.15 Chapter 011 Page 009 — the fourth step; thread answers thread
+
+Page 009 — *the fourth step; thread answers thread* — complete on every track:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-009.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-009.hi.md` | **97.5%** letters-only Devanagari |
+| Cast | `characters/cast-page-009.md` | 9 entries, every one with a card-line block |
+| World | `other/glossary.md` +5 terms · `other/locations.md` +1 entry | grown in step |
+| Art | `images/page-009.png` | 768 × 1376, **built and screened with the page** — content UNREAD |
+
+**The fourth step, heavy not triumphant.** Nine years of counter-design broken by its keeper's own
+foot — one step down, lamp out, into the open where her mother taught. *"A counter's design:
+everything comes to it... It was never wrong because I never once stepped over it. One step is all
+the design takes to break. I am the one who built it. Of course it is my foot."* The upturned crate
+is the mother's only prop; Ira will never know if it is the one she stood on, and the page refuses to
+resolve it: *"That is what it is to be taught by somebody who never wrote anything down."*
+
+**The reading in the open works.** Nandi comes out unasked — *"The schedule puts me at the big book at
+dawn. It does not say the rest of the day is mine to keep shut."* — and reads the twenty-two into the
+alley; a fist goes up for every line, the half answering the book. Thread answers thread: no name
+said, no name needed, nobody paid. The twenty-two stop being a list by becoming a roomful. The
+off-schedule objection dies on the Office's own precedent (*first morning of the survey, in the
+square*), refereed by the purchased reader in four words: *"A reading is a reading. I charge for mine.
+She does not. That does not stop it being one."*
+
+**The requisition is read OVER the reading** — same voice, same volume, no hurry: *"The basin's count
+runs short. Entered hands stand required for the count at morning. The roll will be called."* The
+Office never competes; it counterpoints. Nima hears the verbs repeating: *"Required. He said
+*required* the way they said *hold*."* Both things stand.
+
+**The chain's last link drops in a caption:** thread answers thread — so the roll-call does not need
+names. *"It has the other halves."* Entered, then required, then called by thread — built all chapter
+out of the keeper's own protection. Mirror close, exact: Page 008 ended *"I pick up the lamp"*; Page
+009 ends *"I put the lamp where it always stands, and I open the drawer."*
+
+Continuity: Kessa holds the stall and the box. The chain-stop is NOT spent — the page ends at the open
+drawer, object unseen; the spending is Page 010's. Four notes silent seventeen days, given one caption
+and laid to rest. Rekhak stays off-panel. **Ch. 011 chain-stop budget: ONE, unspent, drawer open.**
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

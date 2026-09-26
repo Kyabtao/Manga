@@ -20,55 +20,53 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 011 — Pages 001–008 DONE** (EN + Hindi + cast + world + art for all eight) · Pages 009–010 not started · Ch. 001–010 COMPLETE
-| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · **Ch. 011: pages 001–008 complete** (Hindi 97.4 / 97.0 / 97.3 / 96.9 / 97.3 / 97.2 / 97.6 / 97.5, cast with card-lines, glossary + locations, **all eight page images built and screened**) · 108 pages total in canon
-| **NEXT page to build** | **Ch. 011 Page 009** — from the Next-page brief below. Do **not** re-create the chapter folder and do **not** add `.gitkeep` files.
+| **Chapter in progress** | **Ch. 011 — Pages 001–009 DONE** (EN + Hindi + cast + world + art for all nine) · Page 010 + `chapter-summary.md` outstanding · Ch. 001–010 COMPLETE
+| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · **Ch. 011: pages 001–009 complete** (Hindi 97.4 / 97.0 / 97.3 / 96.9 / 97.3 / 97.2 / 97.6 / 97.5 / 97.5, cast with card-lines, glossary + locations, **all nine page images built and screened**) · 109 pages total in canon
+| **NEXT page to build** | **Ch. 011 Page 010 — the chapter finale**, plus `chapter-summary.md` (both together close the chapter). Do **not** re-create the chapter folder and do **not** add `.gitkeep` files.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 011 · Page 009)
+### Next-page brief (Chapter 011 · Page 010 — the finale)
 
-**Pages 001–008 are written.** Read them before starting.
+**Pages 001–009 are written.** Read them before starting. This page closes the chapter, and closing
+the chapter means **two files, not one**: `story/page-010.md` (plus its `.hi.md` and cast page) **and
+`chapters/chapter-011/chapter-summary.md`** — the gate treats the chapter as incomplete without the
+summary.
 
-Page 008 ended on a hand and a lamp: thirteen silent figures holding the alley, and the keeper
-picking up her light. Page 009 is the step down, and it has three jobs.
+Page 009 ended on an open drawer. Three jobs:
 
-1. **The fourth step happens.** Ira crosses her own threshold — nine years of counter-geography
-   broken by its keeper, out into the open where her mother taught. This is the chapter title landing
-   on-panel. Play it as geography and weight, not defiance: she carries the lamp because whatever
-   happens in the alley happens by her light. Do not rush it; the alley holds its breath.
-2. **The reading in the open.** The thirteen want the other thing the register does, and the answer
-   is publication: the entries read aloud in the open, at dusk, by Nandi — readings are evidence, the
-   Office insisted on that itself, so the basin demands its reading where everyone can hear it. A
-   reading outside the schedule is the Office's dilemma made audible: if unscheduled readings don't
-   count, the Office disowns the instrument it insisted on; if they do count, the whole basin hears
-   twenty-two hands made unclaimable. **This is also the school's own method applied to the record**
-   — taught in the open, read in the open.
-3. **The requisition arrives mid-reading.** The count runs short; entered hands may be required. The
-   clerk (or his superior's paper) comes to the alley with the order — the Office collecting what the
-   keeper protected them into. The page should end with the order and the lamp facing each other:
-   **the chain-shaped problem at arm's reach, and the chain-stop one drawer away.** Do not spend it
-   on Page 009 unless the page demands it — the spending is Page 010's if the geometry holds, and the
-   chapter close needs its room.
+1. **The spending decision — the chapter's ONE chain-stop.** The drawer is open; the object is finally
+   shown, named, and used or refused. What it is has been protected for nine years and must be worth
+   the protectiveness: it stops a chain — entered, required, called by thread — and it has stopped
+   every chain it was ever offered. Decide what spending it *costs* (one use, ever, and whatever it
+   leaves behind), and whether Ira spends it or closes the drawer and pays the count with twenty-two
+   present hands instead. Either is defensible; the chapter must choose.
+2. **The roll-call at morning.** The count runs short; the roll is called; the twenty-two cannot
+   answer names — and the Office's answer is roll-call by thread, the other halves. Whatever the
+   chain-stop does, it acts on *this*: the requisition chain at the moment it closes. Nandi is there
+   reading the call — the schedule's reader, reading the Office's own summons, into which her own
+   nameless line was entered. The grey clerk closes the chapter as he opened it: procedurally.
+3. **The close.** What stands at the end: sixty-three hands on a roll the Office keeps, an open
+   school in an alley that is not a room, a reader who chose, a lender's coat, a custody that never
+   left the box, and a mother nine years unspoken-to who took her people's halves back overnight.
+   The four notes (silent eighteen days) may arrive or may not — if they do, keep them to thread,
+   never words. End the chapter on the smallest possible image, the way Pages 005–009 all did.
 
-Carry in: **the mother** — nine years silent, and she was ten feet from the counter; her presence can
-reach maximum density without ever being on panel (thread, knots, a teaching-rope, the halves that
-travel overnight); **Nima**, whose coat and whose warning are both now policy; **Kessa**, who may
-follow the keeper out or hold the stall; the **purchased reader**, who may still be in the basin and
-is now a wildcard — his readings are honest and for sale; and the **four notes**, silent seventeen
-days.
+Carry in: the **purchased reader** (fee unspent — a wildcard the finale may use once); **Kessa's
+fold**, thirteen lighter and tied in her knot; **Nima**, whose *required* is the first call answered;
+and the **fourth step** — whatever happens, happens in the open, by the keeper's own lamp.
 
-Tone: the quietest page of the chapter. Everything has already been decided; this is people walking
-nine feet and the world rearranging around the walk. No raised voices anywhere.
+Tone: morning, not dusk. The chapter has been gathering people for four pages; the finale spends
+them. No raised voices anywhere in the chapter — least of all here.
 
-### Superseded brief (Chapter 011 · Page 008) — kept for reference
+### Superseded brief (Chapter 011 · Page 009) — kept for reference
 
-The brief page 008 was built from: the **morning reading with the Office standing in it** (the clerk
-finds what he copied — not one hand); **the purchase** (a reader-for-money, and *hand: none* — true of
-all basin thread, so useless); **the pivot** (entered hands may be required — the shield is the
-chain); and **the telling** (the fold light by thirteen; the alley full by dusk; *"I pick up the
-lamp"*). **Built as Page 008; see §R13.14.**
+The brief page 009 was built from: **the fourth step** (the keeper crosses her own threshold with the
+lamp — the title lands on-panel); **the reading in the open** (thread answers thread; a roomful, not
+a list); and **the requisition mid-reading** (*the roll will be called*), ending on the realization
+that the Office does not need names — **it has the other halves** — and the open drawer.
+**Built as Page 009; see §R13.15.**
 
 ### Format decisions (user-confirmed — do not relitigate)
 - Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.

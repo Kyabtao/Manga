@@ -101,3 +101,11 @@ counter — the whole design of a counter — and on the evening of Ch. 011 Page
 exception: thirteen silent figures holding half-cuts of grey thread, not crossing, not leaving. The
 step has been the boundary between the record and the street for nine years. The fourth step is the
 keeper's, downward, into the open where her mother taught — by her own lamp, carried out.
+
+## THE OPEN SCHOOL — खुला विद्यालय
+
+The alley itself, as the mother used it: not a room, never a room — no book in it unless a keeper
+carries one out. One night in Ch. 011 it holds an upturned crate, a lamp, the big book, and a
+half-circle of fists answering the reading line by line. A secret read aloud stops being a handle,
+and the queue from the declaration days comes back as an audience. The Office's answer — a
+requisition, read over the reading — stands too. Both things stand.
