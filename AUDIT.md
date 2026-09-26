@@ -452,6 +452,48 @@ Continuity: Kessa holds the stall and the box. The chain-stop is NOT spent — t
 drawer, object unseen; the spending is Page 010's. Four notes silent seventeen days, given one caption
 and laid to rest. Rekhak stays off-panel. **Ch. 011 chain-stop budget: ONE, unspent, drawer open.**
 
+### R13.16 Chapter 011 Page 010 — the pledge; the count not taken — CHAPTER CLOSED
+
+Page 010 — *the pledge; the count not taken* — complete on every track, and with it **Chapter 011 is
+COMPLETE** (`chapter-summary.md` written in the same commit):
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-010.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-010.hi.md` | **97.6%** letters-only Devanagari |
+| Cast | `characters/cast-page-010.md` | 9 entries, every one with a card-line block |
+| World | `other/glossary.md` +5 terms · `other/locations.md` +1 entry | grown in step |
+| Summary | `chapter-summary.md` | synopsis, page-by-page, open threads, binding canon rules, bulk-cast ledger |
+| Art | `images/page-010.png` | 768 × 1376, **built and screened with the page** — content UNREAD |
+
+**The chain-stop is spent.** The chapter's one kept thing is named at last: **the Loom's last knot** —
+pledged at the counter in the Freedom Year by someone who gave no name and never came back, kept nine
+years, never read, never explained. *"It is the last thing my mother ever brought me."* The Loom never
+speaks — its final utterance was this knot, said in thread, and it fits every hand: a chain containing
+a link that fits everything cannot pull. One home, ever.
+
+**The morning count.** Forty-one names called and answered; Nima first of the entered (*"Present.
+Wearing the coat, clerk. Mark it properly this time."*); the twenty-two called by length, and the
+Office must ask the keeper to run the measuring — the chapter's trap closing exactly as designed,
+since the keeper built the only instrument that could. She neither refuses nor measures: she ties the
+knot into the count-cord. The purchased reader certifies for two coppers — *"Kind: all. Year: all.
+Hand: all."* — and the clerk writes the Office's defeat as procedure: **"Count not taken. The count
+will be taken when the roll is whole."** *"The Office does not lose. It postpones."*
+
+**The cost is the visit.** The knot leaves with the requisition into the Office's chest — spent, gone.
+The empty fold comes back to Kessa — *"All of it, keeper. You owe me the cloth."* — and forty years of
+custody discharge in one flat sentence. Nandi closes the big book off-schedule, for the first time in
+her life, with both pinned sleeves, and says nothing. At dusk the crate-lamp is burning lit by nobody
+Ira asked, Nima teaches under it in the lender's coat, and the keeper's only line on the page —
+permission, blessing and surrender in four words — closes the chapter: **"Leave the lamp burning."**
+Smallest caption, the mother's method inherited: *"Nobody writes anything down."*
+
+Continuity: chain-stop budget **ONE — SPENT** (no budget carried out of Ch. 011). Four notes silent
+eighteen days, carried. The second knot in the untrained hand (Ch. 010's hook) deliberately unresolved.
+Rekhak unspent and off-panel all chapter — a decision, recorded in the summary. The p003 lie-question
+stays open. Ira's *zero, and climbing* never explained. **Chapter 011 complete: 10/10 pages, all five
+tracks, summary filed.**
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

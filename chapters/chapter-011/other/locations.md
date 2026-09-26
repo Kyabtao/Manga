@@ -109,3 +109,12 @@ carries one out. One night in Ch. 011 it holds an upturned crate, a lamp, the bi
 half-circle of fists answering the reading line by line. A secret read aloud stops being a handle,
 and the queue from the declaration days comes back as an audience. The Office's answer — a
 requisition, read over the reading — stands too. Both things stand.
+
+## THE SQUARE AT MORNING — सुबह का चौक
+
+The same stone the declarations happened on, holding the count: the clerk with slate and count-cord,
+the counting women, the big book, and a basin that did not go home after the night's reading. Here
+forty-one names were called and answered, twenty-two were called by length and uncollected, and a
+knot that fits every hand went into the cord in front of everyone. The requisition left for the
+Office's chest with the knot in it; the count left with a date. The square does not celebrate. It
+watched what the pledge cost, and it went quiet.
