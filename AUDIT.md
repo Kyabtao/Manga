@@ -525,7 +525,7 @@ beats and established sheets; recurring mains use their canonical field values t
 Remaining agent-watchable work is now only the twelve over-ratio pages (warnings, human-adjacent —
 re-rendering would overwrite unread art). Everything else Major is human-only (§R12.4).
 
-### R13.18 Over-ratio standardisation — 10 of 12 rebuilt; 2 pending
+### R13.18 Over-ratio standardisation — DONE, all 12 rebuilt
 
 The last agent-performable queue item. All twelve ratio>2.5 pages are being re-rendered from their own
 seven-panel lists onto the house canvas (768×1376), per the run-11 rebuild precedent: **the old renders
@@ -544,14 +544,16 @@ is claimed. This run rebuilt ten of twelve before the per-turn image-generation 
 | ch005 p006 | 560×1888 (3.37) | 768×1376 ✓ | `4b727dd` |
 | ch006 p003 | 464×2320 (5.00) | 768×1376 ✓ (dead 11.8%, advisory) | `cedca67` |
 | ch006 p006 | 464×2320 (5.00) | 768×1376 ✓ | `cedca67` |
-| **ch008 p005** | 560×1888 (3.37) | **PENDING — next turn** (gen cap) | — |
-| **ch009 p008** | 592×1792 (3.03) | **PENDING — next turn** (gen cap) | — |
+| ch008 p005 | 560×1888 (3.37) | 768×1376 ✓ | `1144bf8` |
+| ch009 p008 | 592×1792 (3.03) | 768×1376 ✓ | `1144bf8` |
 
-Effect: page art on house canvas **77/110 → 87/110**; over-ratio warnings **12 → 2**; all ten screens
-report 0 hard failures (dead-band advisories logged above, non-gating per standing rule; panel counts
-advisory only). Anchor checks gated every commit; the mid-turn reset struck once more (before the ch001
-commit) and was recovered by soft reset onto the pushed line — no force, nothing lost. The ch008/ch009
-pair completes this item next turn.
+**COMPLETE.** Effect: page art on house canvas **77/110 → 89/110** (the remaining 21 off-canvas pages
+are old art queued for the human style rebuild, not ratio failures); **over-ratio warnings 12 → 0** —
+the gate's warning block is empty for the first time in the repo's history. All twelve screens report
+0 hard failures (dead-band advisories logged above, non-gating per standing rule; panel counts advisory
+only). Anchor checks gated every commit; the mid-turn reset struck twice more during this item (a
+parallel line before the ch001 commit; a full re-clone at the next turn start) and was recovered both
+times by resetting onto the pushed line — no force, nothing lost.
 
 ### R13.7 Next actions
 
