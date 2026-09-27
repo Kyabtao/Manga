@@ -555,6 +555,36 @@ only). Anchor checks gated every commit; the mid-turn reset struck twice more du
 parallel line before the ch001 commit; a full re-clone at the next turn start) and was recovered both
 times by resetting onto the pushed line — no force, nothing lost.
 
+### R13.19 Chapter 012 opened — the brief; Page 001 — the definition; the fifth note
+
+With the agent queue empty (§R13.17, §R13.18), work advanced the standing way: **Chapter 012 — *The
+Whole Roll* / पूरी पंजी** — opened under the same chosen-while-blocked regime as Ch. 011 (art QA remains
+human-only). Page 001 is complete on every track:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-001.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-001.hi.md` | **97.5%** letters-only Devanagari |
+| Cast | `characters/cast-page-001.md` | 7 entries, every one with a card-line block |
+| World | `other/glossary.md` (+6 terms) · `other/locations.md` (+1) | chapter files created |
+| Art | `images/page-001.png` | 768 × 1376, **built and screened with the page** — content UNREAD |
+
+The page: the Office stops banging on doors and **posts a definition** — *the roll is whole when every
+hand taught by the school stands entered* — which makes the school's success into the Office's leverage
+(*"wholeness is a plug"; "Whole means we stop"*). The count returns to **Rekhak**, whose first finding
+breaks the Office's instrument on the record: the Loom's knot spent by the basin has stopped the
+counting-cord from inside the chest — *the count is by mouth now, and twenty-two of the sixty-three
+have no names.* The blank note finally leaves Kessa's box and is read aloud: **"Do not enrol me"** is
+the owner's standing no, on file, older than the roll — clause two contains nothing about the word
+being *yes*. At dusk the four notes return after eighteen days **and add a fifth** — and on the step, a
+knot tied the old way: *"It is not a song. It is directions."* Smallest caption: **"Year nineteen."**
+
+Continuity: three new unrolled hands (unnamed on purpose); the empty fold stays Kessa's, the note
+becomes Ira's (custody transferred by name); chain-stop budget Ch. 012: ONE, unspent. The notes-silent
+count is **over** — silence broke at dusk on this page. Repo note: the mid-turn reset struck a sixth
+time (full re-clone, local back to the branch point) at turn start; recovered by hard reset onto the
+pushed line before any work began — no force, nothing lost.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

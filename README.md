@@ -20,14 +20,42 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **NONE — Chapter 011 is COMPLETE** (pages 001–010, all five tracks, chapter-summary written) · Ch. 001–011 all COMPLETE
-| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · **Ch. 011: COMPLETE — pages 001–010** (Hindi 97.4 / 97.0 / 97.3 / 96.9 / 97.3 / 97.2 / 97.6 / 97.5 / 97.5 / 97.6, every cast entry card-lined, glossary + locations, `chapter-summary.md` written, **all ten page images built and screened**) · **110 pages total in canon**
-| **NEXT page to build** | **None — no chapter is in progress.** Outstanding work: the human art queue (AUDIT §R12.4 — Ch. 002–005 style rebuild + full-resolution QA, incl. all ten Ch. 011 pages UNREAD) and Chapter 012 when it is briefed. ~~Twelve over-ratio pages~~ **DONE — all 12 rebuilt** on the house canvas (§R13.18). Nothing agent-side remains in the queue. ~~Cast card-line backfill~~ **DONE — 110/110 cast files card-lined** (see AUDIT §R13.17).
+| **Chapter in progress** | **Ch. 012 — *The Whole Roll* — Page 001 DONE** (EN + Hindi + cast + world + art) · Pages 002–010 not started · Ch. 001–011 COMPLETE
+| **Pages completed** | Ch. 001–011: **all complete** (110 pages, EN + Hindi) · **Ch. 012: page 001 complete** (Hindi 97.5, cast card-lined, glossary + locations, **image built and screened**) · 111 pages total in canon
+| **NEXT page to build** | **Ch. 012 Page 002** — from the Next-page brief below. Do **not** re-create the chapter folder and do **not** add `.gitkeep` files.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Chapter 011 — CLOSED
+### Next-page brief (Chapter 012 · Page 002)
+
+**Page 001 is written.** Read it before starting.
+
+Page 001 ended on a knot tied the old way — *not a song; directions* — and the number **year nineteen**.
+Page 002 is the following of them, and it has three jobs.
+
+1. **The keeper leaves the basin, and leaving is a decision with costs.** Who keeps the stall (Kessa —
+   but the note goes *with* Ira, and Kessa should name what that means: the tether travels)? Who keeps
+   the lamp (Nima)? Who notices the keeper is gone (Rekhak — the count's adversary absent while the
+   Office's definition does its work)? Do not let the departure be easy or infinite: the directions are
+   in the basin's own foundations, or near enough that the page can walk there and back inside a day.
+2. **The knot is followed literally.** Old-style shadowless thread, tied to nothing on the step — let it
+   unroll or point; the walk should read as work, not quest. Dawn light. Nobody follows her (or one
+   somebody does — the purchased reader is honest at any fee, and somebody is paying for eyes this
+   week).
+3. **The first door is found and it rewrites a fact.** Where do you put a school that predates every
+   list? Somewhere the Office already owns and never counted. The door should be small, old, and
+   *inside something the basin thinks it knows* — the shock is not remoteness, it is proximity. End the
+   page at the door, unopened.
+
+Carry in: the **note on file** in Ira's pocket (shield and tether); **three new unrolled hands** and
+Nima's morning circle; the **dead cord** (the count is by mouth and cannot be completed); the **fifth
+note** — the mother is *asking*, which is new; chain-stop ONE unspent; and the chapter's rule from the
+brief: her no is both shield and tether — the shield was spent last page, the tether starts pulling now.
+
+Tone: a walk. The quietest open the series has had. Everything decided already; this is geography.
+
+### Chapter 011 — CLOSED### Chapter 011 — CLOSED
 
 *The Fourth Step* is complete on every track: 10 pages (EN + Hindi), 10 cast files with full card
 lines on every entry, world files grown in step (+45 glossary terms, +9 locations), 10 images built
