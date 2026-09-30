@@ -20,47 +20,47 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 012 — *The Whole Roll* — Page 002 DONE** (EN + Hindi + cast + world + art) · Pages 003–010 not started · Ch. 001–011 COMPLETE
-| **Pages completed** | Ch. 001–011: **all complete** (110 pages, EN + Hindi) · **Ch. 012: pages 001–002 complete** (Hindi 97.5 / 97.2, cast card-lined, glossary + locations, **images built and screened**) · 112 pages total in canon
-| **NEXT page to build** | **Ch. 012 Page 003** — from the Next-page brief below. Walk continuity: the note rides in Ira's inside pocket; the step-knot stays tied; the coat is at the gallery mouth.
+| **Chapter in progress** | **Ch. 012 — *The Whole Roll* — Page 003 DONE** (EN + Hindi + cast + world + art) · Pages 004–010 not started · Ch. 001–011 COMPLETE
+| **Pages completed** | Ch. 001–011: **all complete** (110 pages, EN + Hindi) · **Ch. 012: pages 001–003 complete** (Hindi 97.5 / 97.2 / 96.9, cast card-lined, glossary + locations, **images built and screened**) · 113 pages total in canon
+| **NEXT page to build** | **Ch. 012 Page 004** — from the Next-page brief below. Walk continuity: the warrant went back unwritten; the ask is owed; chain-stop ONE still unspent; the year-knot is unread.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 012 · Page 003)
+### Next-page brief (Chapter 012 · Page 004)
 
-**Page 002 is written.** Read it before starting. It ended at the first door — no lock, no bar, no
-seal, filed *void, no hands* — hand raised, the paid coat arriving at the gallery mouth. Smallest
-caption: *"Knock, keeper."*
+**Page 003 is written.** Read it before starting. It ended inside the archive: the warrant unwritten
+(*today's report is a drain-mend*), the school's roll full of rods — the twenty-two on it by length —
+the oldest year-knot unread, the hook swept and empty, and the price on the table. Smallest caption:
+*"Ask him, keeper."*
 
-Page 003 is the knock, and it has three jobs.
+Page 004 is the ask, and it has three jobs.
 
-1. **The door answers, but nobody answers it.** The mother can never be on panel, so the door opens
-   onto lamplit emptiness — an archive, not a classroom: the school kept its own roll all along, in
-   thread, its own way, filed as nothing like everything else in here. Rods of knots, season on
-   season, the oldest rod's first knot carrying the founding year (unreadable to Ira — she is not a
-   reader of year-knots; park that for Nandi or the nameless). The archive's one anomaly: a hook near
-   the door, freshly swept, empty — the size and style of the step-knot. The step-knot was tied
-   *from here*, recently, by hands with reasons. Her channel widens: writing, then directions, now
-   presence — still never a face, never a voice.
-2. **Rekhak crosses the threshold.** He is paid for exactness and the exact thing is happening in
-   front of him. Play it lawful and quiet: he announces his warrant at the mouth, and then — because
-   the door has no lock and the keeper does not forbid him — he sees inside too. The Office's eyes
-   enter the school invited by honesty. What he does with sight he was paid for is the chapter's
-   middle hinge; do not resolve it this page. End the page on his choice unmade or just made.
-3. **The rolls cannot be read by the protagonist.** The school's archive is knots, not letters; the
-   twenty-two nameless are on it by length and shape. Ira can hold a braid and cancel a debt — she
-   cannot read a roll. Name the need on the page: the archive requires a reader, and the candidates
-   are the Office's own reader-of-record standing in the doorway, and the people who never had names
-   to lose. That tension is Page 004's engine.
+1. **The ask, properly made.** Rekhak cannot be bought; he can be asked — in the Office's own grammar,
+   by someone with standing. Decide what a proper ask IS (a spoken request in the Office's formula? a
+   line entered in the keeper's own register? a fee that binds, not coin?) and what it costs *Ira* —
+   the price should bind her to something she will regret or lean on later. His chain has stayed cold
+   two pages; if the reading needs his Audit, the ONE chain-stop of the chapter is in play at last —
+   and if it does not, keep it unspent and let him read by craft alone.
+2. **The reading — and the verdict he cannot withhold.** The school's roll, read by length, aloud,
+   rods to the lamp — the basin's nameless hearing their own records kept better than the basin ever
+   kept them. And then the professional sentence Rekhak cannot NOT give once asked properly: **the
+   school's roll is whole.** Every hand the school taught stands on it. Let the detonation be armed
+   in his mouth and stop there.
+3. **Which roll did the Office mean?** Ira assembles it this page, quietly, in caption — the
+   Office's definition never said *whose* roll — and chooses NOT to fire it yet. End the page with the
+   sentence loaded and a destination forming (the clerk; the list-post; Room Nine — her pick). The
+   page's hook is restraint: the basin's most dangerous sentence is now legal tender, and she is the
+   only one holding it.
 
 Carry in: the **note on file** in the inside pocket (shield spent, tether pulling); the **cover story
-dead** (*mending a drain* died at the door); **chain-stop ONE unspent**; the three new hands at the
-morning circle, unnamed; and the chapter's arithmetic — every day the keeper is gone, the roll gets
-less whole. Tone: the quiet continues, but it is a different quiet now — inside-quiet. Oil lamp, wet
-stone, thread. The door was never hiding. It was filed. Now it is open.
+dead** (*drain-mend* survives as the report's technical truth only); the **year-knot** still unread
+(Nandi is owed a look at it — do not let Ira solve it alone); the **swept hook** empty; **chain-stop
+ONE**; the three new hands unnamed at the circle; and the arithmetic — every day the keeper is gone,
+the Office's roll gets less whole, which is exactly what makes the school's whole roll dangerous.
+Tone: lamplight and procedure. The quiet continues; the sentences are getting heavier.
 
-### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
+### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
 
 *The Fourth Step* is complete on every track: 10 pages (EN + Hindi), 10 cast files with full card
 lines on every entry, world files grown in step (+45 glossary terms, +9 locations), 10 images built

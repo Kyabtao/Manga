@@ -615,6 +615,37 @@ an honest witness saw what is actually there, which is Page 003's engine. Repo n
 turn start (full re-clone to the branch point); recovered by hard reset onto the pushed line, anchors
 verified, nothing lost.
 
+### R13.21 Chapter 012, Page 003 — the knock; the archive; the ask that is owed
+
+Page 003 shipped complete on every track, image built with the page:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-003.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-003.hi.md` | letters-only Devanagari, floors cleared (see gate) |
+| Cast | `characters/cast-page-003.md` | 3 entries (Ira, Rekhak, the Mother-as-presence), every one with a card-line block |
+| World | `other/glossary.md` (+3 terms) · `other/locations.md` (+1: the archive) | updated |
+| Art | `images/page-003.png` | 768 × 1376, built and screened with the page (0 hard, 0 warnings) — content UNREAD |
+
+The page: the knock answers, but nobody answers it — a door filed as nothing answers by not stopping
+you, and the horror is maintenance (oiled hinge, trimmed lamp, swept stone). Inside: **the archive** —
+the school kept its own roll all along, in thread, its own way; the twenty-two the Office calls
+nameless have been on it by length for years (*"your twenty-two have been enrolled all along"*);
+the oldest rod begins with a **year-knot** Ira cannot read (Nandi's craft — parked, per plan); and by
+the door, the **swept hook** — the step-knot was tied from here, recently; the mother's channel
+widens from writing to directions to presence, still never a face, never a voice. **Rekhak enters
+lawfully** (warrant announced, no lock, nobody hiding — *"that is what should worry you"*), his chain
+stays cold (budget intact; he reads by craft, not Audit), and the page's hinge is just made: the
+warrant goes back **unwritten** — *today's report is a drain-mend* — and the reading of the school's
+roll is priced at **an ask, properly made**. Detonation armed but not thrown: what he does not say
+this page is that the school's roll is *whole*, and the Office's definition never said *whose* roll.
+Hook mirrors Page 002: **"Ask him, keeper."**
+
+Continuity: chain-stop ONE, unspent; mother never on panel, never speaks (maintenance only); Loom
+absent; note in the inside pocket; step-knot still tied; the three new hands unnamed, uncounted.
+Repo note: reset #9 struck at turn start (full re-clone to the branch point); recovered by hard reset
+onto the pushed line, anchors verified, nothing lost.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

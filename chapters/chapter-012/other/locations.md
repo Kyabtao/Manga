@@ -35,3 +35,13 @@ the Office's maintenance seals, season over season — except where the wall goe
 door it has never once sealed. The gallery mouth takes thin daylight; it is also where an honest coat
 arrives at the exact moment a cover story dies. The school's neighbourhood since before the roll: the
 one place in the basin filed as nothing.
+
+## THE ARCHIVE — अभिलेख-कक्ष
+
+Behind the first door: a low rock-cut chamber running along the channel's wall, racked floor to
+ceiling with hundreds of slim thread-wound rods, season on season — dust thick on the deep racks,
+clean on the near ones. The school kept its own roll all along, in thread, its own way, filed as
+nothing like everything else in here. One oil lamp, lit, trimmed, full: somebody maintains a room
+that does not exist. By the door, an iron hook at shoulder height — knot-scars of years on its curve,
+swept clean this week, empty now: the step-knot was tied from here. The oldest rack's lowest rod
+begins with a year-knot nobody in the room can read.
