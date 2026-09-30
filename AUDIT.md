@@ -585,6 +585,36 @@ count is **over** — silence broke at dusk on this page. Repo note: the mid-tur
 time (full re-clone, local back to the branch point) at turn start; recovered by hard reset onto the
 pushed line before any work began — no force, nothing lost.
 
+### R13.20 Chapter 012, Page 002 — the walk; the first door
+
+Page 002 shipped complete on every track, image built with the page:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-002.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Hindi | `story/page-002.hi.md` | **97.2%** letters-only Devanagari |
+| Cast | `characters/cast-page-002.md` | 7 entries, every one with a card-line block |
+| World | `other/glossary.md` (+4 terms) · `other/locations.md` (+3 places, First Door entry rewritten to *seen*) | updated |
+| Art | `images/page-002.png` | 768 × 1376, built and screened with the page (0 hard, 0 warnings) — content UNREAD |
+
+The page: the quietest open in the series — a walk, not a quest. The stall keeps (Kessa names the
+carrying: *the tether travels*); the lantern goes back to the school under the Office's watching lamp
+(the roll gets less whole while the keeper is gone); the step-knot is read literally and **left tied**
+(*untied, it is only thread*); the Office buys eyes — a day-warrant to Rekhak, whose fee runs on
+exactness (*"mouths are fed, eyes are cheaper"*); the rim road carries one walker and one grey coat at
+an interval that never changes; and behind the low gate the sluice gallery holds the page's money
+shot — a wall of seasons of Office seals that have always gone **around** one small door, never across,
+the log plate reading *void, no hands*: the only true line the Office ever filed. No lock, no bar, no
+seal; one old knot-mark on the lintel (no whorl — the maker's-mark question stays open). It was never
+hiding. It was filed. Hook: **"Knock, keeper."** — with the paid coat arriving exactly on time to see it.
+
+Continuity: chain-stop budget Ch. 012 still ONE, unspent; mother never on panel, never speaks (her only
+channel is the knot already delivered); Loom absent (chest shut, one cord-end at the seam); the three
+new hands unnamed, unentered, uncounted; the cover story *mending a drain* dies at the door by design —
+an honest witness saw what is actually there, which is Page 003's engine. Repo note: reset #8 struck at
+turn start (full re-clone to the branch point); recovered by hard reset onto the pushed line, anchors
+verified, nothing lost.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |
