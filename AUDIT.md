@@ -715,6 +715,35 @@ Process note: the README brief update initially failed (mistitled section lookup
 drafted for a p006 slot); caught by the exception, glossary/locations had landed, README re-applied
 correctly and verified. Lesson stands: verify the write landed, not the attempt.
 
+### R13.24 Chapter 012, Page 006 — Room Nine; the third paper; the filed refusal
+
+Page 006 shipped complete on every track, image built with the page:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-006.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Cast | `characters/cast-page-006.md` | 3 entries (Ira, the Grey Clerk, the Count-through-the-wall), every one card-lined |
+| World | `other/glossary.md` (+3) | updated (Room Nine itself remains defined in Ch. 011's locations, per the file's deferral convention) |
+| Art | `images/page-006.png` | 768 x 1376, house ratio, screened 0 hard failures / 0 warnings — content UNREAD |
+
+The page: nine feet by eleven, one lamp, no audience. She attends of record and does not sit
+(*seating is posture, and posture is testimony* — the cushion has waited since the survey). The
+count-through-the-wall gives the race its first audible beat: a name, a line, then the held pause
+where a name should be — the twenty-two made audible as slowness. The third paper: the amendment
+(*the roll means the Office's roll*) could not be posted in public, so it needs a private room and
+the survey settlement's hook — postings touching the count co-sign with the register. Her counter is
+a filing: **"the register does not countersign corrections to papers that do not err"** — forcing him
+to declare his own posting wrong or leave it. He leaves it — and files her refusal in his own book:
+*keepers err; rolls open; the Office is patient.* The trap has no door because it is a trap that
+waits. The chain hangs dead on its stand all interview — grammar is the only thing left in the
+building that pulls; that is why he needed her hand. Hook: **"Sign nothing, keeper."**
+
+Continuity: chain-stop ONE, unspent (the dangling IS the beat); mother never on panel, never speaks,
+no touch; Loom absent; register under her arm all page; step-knot still tied; ask-log's first line
+stands; year-knot still unread; three hands mid-thread (heard only as the count stumbling). Repo
+note: reset #11 struck at turn start (full re-clone to the branch point); recovered by hard reset
+onto the pushed line, anchors verified, nothing lost.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

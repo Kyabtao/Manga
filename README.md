@@ -20,50 +20,45 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 012 — *The Whole Roll* — Page 005 DONE** (EN + cast + world + art) · Pages 006-010 not started · Ch. 001-011 COMPLETE
-| **Pages completed** | Ch. 001-011: **all complete** (110 pages, EN + Hindi) · **Ch. 012: pages 001-005 complete** (001-003 bilingual; 004-005 English-only; cast card-lined; **images built and screened**) · 115 pages total in canon
-| **NEXT page to build** | **Ch. 012 Page 006** — from the Next-page brief below. English-only. Carry-in: the summons (Room Nine, tomorrow, first bell); the race (mouth-count vs school, three hands mid-thread); chain-stop ONE unspent.
+| **Chapter in progress** | **Ch. 012 — *The Whole Roll* — Page 006 DONE** (EN + cast + world + art) · Pages 007-010 not started · Ch. 001-011 COMPLETE
+| **Pages completed** | Ch. 001-011: **all complete** (110 pages, EN + Hindi) · **Ch. 012: pages 001-006 complete** (001-003 bilingual; 004-006 English-only; cast card-lined; **images built and screened**) · 116 pages total in canon
+| **NEXT page to build** | **Ch. 012 Page 007** — from the Next-page brief below. English-only. Carry-in: the amendment left armed on Room Nine's table; her refusal filed in HIS book; the count heard stumbling at the nameless; chain-stop ONE unspent.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 012 · Page 006)
+### Next-page brief (Chapter 012 · Page 007)
 
-**Page 005 is written.** Read it before starting. It ended in the square: the definition read back
-verbatim, the reading of record added, the clerk's hand risen and dropped (*posted means posted*),
-and the paper that came out of the coat was a summons — Room Nine, tomorrow, first bell. Smallest
-caption: *"Bring your own law, keeper."*
+**Page 006 is written.** Read it before starting. It ended at Room Nine's door: the amendment left
+armed on the table, her refusal filed in HIS book (*keepers err; rolls open*), the chain dead on its
+stand, and the smallest caption: *"Sign nothing, keeper."*
 
-Page 006 is Room Nine, and it has three jobs.
+Page 007 is the walk home, and it has three jobs.
 
-1. **She attends, of record, and does not sit.** She brings the register — the keeper answers a
-   summons with her own law — and the note rides in the inside pocket. Room Nine as fixed in Ch. 011:
-   nine by eleven, one table, two chairs, a high window, the portable chain on its low brass stand,
-   the cushion still on the subject's chair. Procedural fencing: the clerk tries to make the room
-   the Office's (seating is posture); she turns every question into a filing. No audience now — the
-   grammar has to do all the work, which is the point of the room.
-2. **The clerk's real move: the amendment needs her hand.** Mid-interview he produces the next
-   paper — an amendment to the definition (*the roll means the Office's roll*) — and it cannot be
-   posted without the keeper of the register's counter-signature (ground it in the survey settlement:
-   postings touching the count co-sign with the register). The trap: sign and the basin's reading
-   dies lawfully; refuse and the refusal is of record in a room with no witnesses. Her way out is to
-   refuse without refusing: the register does not countersign corrections to papers that do not err
-   — which forces him to either admit error on his own record or withdraw. End with the amendment
-   on the table, unsigned, and the interview's true shape visible: the Office cannot post its way
-   out without her.
-3. **The chain dangles.** The portable chain sits on its brass stand the whole interview; the cushion
-   waits; the clerk's eyes go to both. Play the beat the chapter has earned: the chain cannot pull
-   while the Loom's knot rides in the chest — the Office's own trophy — so even in Room Nine the
-   hardware is dead and only paper works. That is WHY he needs her signature: grammar is the only
-   thing left in the building that pulls. Chain-stop budget: ONE, unspent; the dangling is the point.
+1. **Ira leaves the paper on Room Nine's table, and the Office lets her.** No theatrics: she stands,
+   names the amendment's fatal grammar one last time (*an amendment concedes the reading was
+   arguable — the basin watched his hand drop*), and walks. The clerk does not stop her, because the
+   trap was never the amendment: reveal in the last panels what he actually wanted from the interview
+   — the counter-signature refusal is now of record, witnessed by the room, and THAT is what he
+   needed: her refusal, filed. She signed nothing; he wrote everything.
+2. **The race tightens on the walk home.** Midday to dusk: the mouth-count has begun somewhere in
+   the Office (rooms of clerks reading sixty-three hands aloud, twenty-two of them nameless — play
+   it as sound through a wall), and the school's three hands are teaching under a basin's worth of
+   watching eyes. One beat of the count overtaking, one beat of the school answering. Do not
+   resolve the race; let the reader feel both clocks running.
+3. **Home, and the two files.** The stall at dusk: Kessa, the box, the empty fold — and Ira with two
+   papers in one pocket (her mother's no, and the summons), plus one she refused. End the page on
+   what she does with the refused paper: she does not burn it. She files it — in the register, in
+   the archive of her own — because refused-paper-of-record is the only kind of thing that can be
+   thrown back at an Office later. Hook: the register is becoming a second Office, and she knows it.
 
 Carry in: the **note on file** (inside pocket); the **ask-log** (her line, first); the **year-knot**
-still unread (Nandi is owed it — the window is closing); the **swept hook** empty; the **step-knot**
-still tied; the **race** (mouth-count begun; three hands mid-thread — one beat of it, heard through
-a wall or seen at dusk, not resolved). Tone: nine by eleven feet, one lamp, no audience. English-only
-throughout (R13.22).
+still unread (Nandi is owed it — the window is closing; consider giving Nandi the rods next chapter);
+the **swept hook** empty; the **step-knot** still tied; **chain-stop ONE unspent** (Room Nine's
+portable chain sat on its stand all interview — the dangling stayed dangling). Tone: procedure
+unwinding; two clocks; one dusk. English-only throughout (R13.22).
 
-### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
+### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
 
 *The Fourth Step* is complete on every track: 10 pages (EN + Hindi), 10 cast files with full card
 lines on every entry, world files grown in step (+45 glossary terms, +9 locations), 10 images built
