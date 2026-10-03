@@ -1,0 +1,120 @@
+# Chapter 011 — Locations
+
+## THE HATCH ALLEY, WITH THE LAMP — खिड़की-गली, लालटेन सहित
+
+The same alley the school used for forty years, and it has been given an address. A **grey lamp on a
+pole** stands at the alley mouth, burning in daylight, on the hook where the school's brass lantern
+hung. Two neighbouring stalls keep their shutters down — not ordered to, simply unwilling to be seen
+from a lit doorway. The alley runs from the hatch to the water-butt: forty paces, eleven doors. Ash
+settles on the lamp-shade and nobody wipes it.
+
+## THE MENDERY STEP — मेंडरी की सीढ़ी
+
+Four steps up from the alley, worn pale at the centre. On the morning of Page 001 it holds two knots
+tied into the same scrap of register paper: the one the mother lifted out of the register and
+returned, and a second one in an untrained hand. It is the only step in the basin that belongs to the
+keeper and is surveyed by the Office at the same time.
+
+## THE SURVEY LINE, FOURTH STEP TO THE WATER-BUTT — सर्वेक्षण-रेखा
+
+Not a place but a measurement of one. The grey clerk walks it once, entry by entry, hand by hand,
+with a folding slate and a folding stool; the keeper stands where he can see her hands. Everything
+enrolled through the hatch in forty years becomes a line in somebody's book along this forty paces.
+The water-butt is the end of it because that is where the alley ends.
+
+## THE COUNTER AT FIRST BELL — पहली घंटी पर काउटर
+
+The Mendery counter, and the queue in front of it has changed. Three women from Jadi's counting
+lesson hold their hands out to each other, counting aloud; behind them two men rehearse a claimant's
+posture. The register lies open on the counter with the bounty sheet face-down beneath it. One
+counter, one pen, one licence with a timer on it.
+
+## ROOM NINE — कमरा नौ
+
+Nine feet by eleven. One table, two chairs, a high window, the portable chain on its low brass stand.
+Not visited on Page 001 — the Office has brought the room's *method* out into the alley instead, which
+is cheaper and reaches more hands. Its cushion is still on the subject's chair, waiting.
+
+## THE WATER-BUTT — पानी की बौड़ी
+
+A butt on a brick stand at the alley's far end, older than the lamp and younger than the hatch. The
+survey **ends here** on Page 003: eleventh door, late afternoon, one hand flat on the brick. Half the
+ninth terrace's hands have drawn water from it, and every one of them went through the hatch first —
+which is what makes it the right place to close a count of forty years.
+
+## THE STALL INTERIOR, SHUTTERS HALF DOWN — ठेले के भीतर, आधे शटर
+
+The Knot & Nail after the survey has passed: shutters half down against the daylight, one oil lamp on
+the counter, Kessa's loupe down over one eye. On Page 002 the lockbox is opened here and holds two
+things instead of one for the first time in forty years. It is the only room in the basin where the
+question *what was it cut from?* can be asked out loud.
+
+## THE ALLEY AS A PUBLIC ROOM — सार्वजनिक कमरा बनी गली
+
+What the survey makes of the hatch alley. Because the Office asks Nima to hold a hand outdoors, in
+daylight, with three counting women, two claimants and a stall-keeper at every shutter listening, her
+refusal becomes public business — and is then written down. The Office did not need room nine for
+this; it needed an audience, and the alley supplied one for free.
+
+## THE LOCKBOX, OPEN — खुली तिजोरी
+
+Small, black-basalt, Kshudra-made, one keyhole and no visible key. Lined with **old grey felt**. It has
+held the shadowless cut-end for fifteen years and, on Page 003, holds the second knot beside it for the
+first time. Under the loupe the felt turns out to be the most talkative object in the basin: it keeps
+the impression of every length of thread that has ever lain in it.
+
+## THE DECLARATION QUEUE — घोषणा-कतार
+
+The Mendery counter's line on the morning after the survey. Three people with folds of cloth holding
+their own knots, waiting to declare their own hands; behind them the claimants, who came for the bounty
+and are learning a better trade by watching. It is the alley's third shape in four days — claimants,
+then hands wanting to be counted, then declarations — and it is the fastest-changing thing in the
+basin.
+
+## THE TERRACE WALL — छत की मेड़
+
+The low wall above the basin where Ira stands on Page 005 and sees the chapter's shape: below her the
+teaching rows of the second school, people sitting in open daylight with thread in their hands in lines
+anybody could walk past; beyond them the survey's markers, counted doors running from the fourth step
+toward the water-butt. **The same geometry, pointed in opposite directions.** It is not a new place —
+it is the place where the two counts finally look like one instrument.
+
+## THE WATER-BUTT AT NIGHT — रात में पानी-पीपा
+
+Where the survey closes. The grey clerk shuts the book on the last counted door and the counting women
+pack up their tallies behind him, and a subtraction that has been accumulating since Monday becomes a
+list of addresses on its way to the Office. Nothing happens here. That is the point: **a book closing is
+all it takes** to turn a sum into a list, and a claimant is paid by the address.
+
+## THE BACK ROOM AT NIGHT — रात में पिछला कमरा
+
+The stall's back room turned into a night counter: lamps burning down, a queue along the wall, the
+mother's fold in a pawnbroker's lap, a reader in pinned sleeves, and a keeper cutting thread against
+living hands until dawn. For one night it is the only counter in the basin where the Office's roll is
+written without the Office present — and at dawn the Office comes to it anyway, slate under its arm,
+to copy what it cannot refuse.
+
+## THE THRESHOLD — दहलीज़
+
+The stall's one step down into the alley. A keeper's geography holds that everything comes to the
+counter — the whole design of a counter — and on the evening of Ch. 011 Page 008 that design meets its
+exception: thirteen silent figures holding half-cuts of grey thread, not crossing, not leaving. The
+step has been the boundary between the record and the street for nine years. The fourth step is the
+keeper's, downward, into the open where her mother taught — by her own lamp, carried out.
+
+## THE OPEN SCHOOL — खुला विद्यालय
+
+The alley itself, as the mother used it: not a room, never a room — no book in it unless a keeper
+carries one out. One night in Ch. 011 it holds an upturned crate, a lamp, the big book, and a
+half-circle of fists answering the reading line by line. A secret read aloud stops being a handle,
+and the queue from the declaration days comes back as an audience. The Office's answer — a
+requisition, read over the reading — stands too. Both things stand.
+
+## THE SQUARE AT MORNING — सुबह का चौक
+
+The same stone the declarations happened on, holding the count: the clerk with slate and count-cord,
+the counting women, the big book, and a basin that did not go home after the night's reading. Here
+forty-one names were called and answered, twenty-two were called by length and uncollected, and a
+knot that fits every hand went into the cord in front of everyone. The requisition left for the
+Office's chest with the knot in it; the count left with a date. The square does not celebrate. It
+watched what the pledge cost, and it went quiet.

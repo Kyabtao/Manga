@@ -1,0 +1,32 @@
+# Chapter 012 — Glossary
+
+New terms and usages introduced in this chapter. Terms first coined in Chapter 011 are reused per
+`chapter-011/other/glossary.md`.
+
+| Term | हिन्दी | Meaning |
+|---|---|---|
+| **"The roll is whole when…"** | "पंजी तभी पूरी जब…" | The Office's definition, posted on the list-post (Ch. 012 Page 001): every hand taught by the school of the braided thread must stand entered before the count can be taken. A definition instead of a raid — the Office edits what words mean and lets arithmetic do the rest. |
+| **Wholeness is a plug** | पूर्णता एक ढक्कन है | The trap inside the definition. A school that teaches is a roll that never fills, so a whole roll means the school stops teaching. The Office has made *waiting* the punishment — Nima: *"Whole means we stop."* |
+| **The cord is dead** | रस्सी मरी हुई है | The Loom's last knot, spent by the basin to stop one requisition, rides in the Office's chest — and a chain containing it cannot pull. The Office's counting-cord is broken by its own trophy, so the count must be run by mouth, line by line, name by name. |
+| **The no on file** | दर्ज इस्तेफ़ा | The blank note, read at last: *"Do not enrol me."* Clause two enters a hand at its owner's word — and the owner's standing word, on file since before the roll, is no. The only document in the basin that can stop the keeper's own law. Both shield and tether. |
+| **The fifth note** | पाँचवाँ स्वर | Nine years of a four-note sentence; eighteen days of silence; then a fifth note that turns the sentence into a question — answered not in sound but in a knot tied the old way on the keeper's step. The mother's first request in Ira's life. *It is not a song. It is directions.* |
+| **Year nineteen** | वर्ष उन्नीस | The thread-year that does not fit the basin's roll — first read by Nandi on Ch. 011 Page 006, now the closing number of Ch. 012's opening page and the destination of the directions. The teaching is older than any list the Office keeps. |
+| **"Mending a drain"** | "नाला मरम्मत" | Nima's cover story (Ch. 012 Page 002) — *if anyone asks, you are mending a drain.* The best kind of lie: literally true when spoken, true by arrival at the low gate, and false only at the door. It dies because an honest witness sees what is actually there. |
+| **"Honest at any fee"** | "किसी भी मेहनताने पर ईमानदार" | Rekhak Vahni's warrant (Page 002): *I report what I see. Exactly.* His fee runs on exactness, which makes him the Office's only honest arithmetic — and the basin's most dangerous witness, because exactness does not bend to whoever pays. |
+| **"No hands"** | "बिना हाथ" | The filing that hid a school (Page 002): the seal-log plate behind the low gate reads *void, no hands*, renewed every season in the Office's own hand. A place with no hands is on no roll — the only true line the Office ever filed, and the loophole the school has lived in since before the roll. |
+| **"The tether travels"** | "सुतली साथ चलती है" | Kessa's law of carrying (Page 002): *a pledge in a pocket still pulls.* Custody was never the paper — it is the pull. The note rides in Ira's inside pocket, and the weight walks with her. |
+| **The school's roll** | "विद्यालय की अपनी पंजी" | The archive behind the first door (Ch. 012 Page 003): hundreds of thread-wound rods, season on season — the school kept its own roll all along, in thread, its own way, filed as nothing. The twenty-two the Office calls nameless have been on it by length for years. Nobody has ever needed the Office to remember who it taught. |
+| **Year-knot** | "वर्ष-गाँठ" | A knot-grammar that records a year (Page 003): the oldest rod in the school's archive begins with one — dense, deliberate, the old school's hand. Ira can see that it is a year and cannot read it; exactly one person in the basin has ever pulled a year out of a knot and kept the reading (Nandi, Ch. 011 Page 006). The craft died everywhere except wherever this thread was cut. |
+| **"An ask, properly made"** | "एक पूछ, ठीक-ठाक तरीक़े से" | Rekhak's price (Page 003): exactness does not forgive for free. He will not sell the reading — but he will be *asked*, in the Office's own grammar, by whoever has standing to ask. He cannot be bought; he has just told the keeper what buying him looks like. |
+
+## Terms from Page 004 onward (English-only)
+
+From Page 004 the chapter ships English-only by user instruction (AUDIT R13.22); new terms are
+recorded in this two-column table.
+
+| Term | Meaning |
+|---|---|
+| **Of record** | The Office's grammar for an act that outlives its actor (Page 004): an ask is an entry, or it is talk. Entries outlive the people who make them — that is the entire point of a record, and the entire price. |
+| **The ask-log** | The record of who asked the Office's reader to read (Page 004). The fee for a proper reading is not coin: the asker becomes *a line in somebody's count* — someday somebody reads who asked. Ira is the log's first and only line. |
+| **"Whole as of the last finished teaching"** | Rekhak's caveat on the verdict (Page 004): the school's roll is whole up to the last knot tied in; three hands are mid-thread — windings past the knots, not yet tied. Wholeness is a moving number, and the school's entries have been the mother's handwriting all along. |
+| **"He never said whose roll"** | The assembly (Page 004): the Office's definition — *the count will be taken when the roll is whole* — never named the Office's roll. The school's roll is whole; read plainly, in the Office's own grammar, the postponement is over and the count is owed now. The basin's most dangerous sentence, built out of the Office's own paper. |
