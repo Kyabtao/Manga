@@ -18,3 +18,15 @@ New terms and usages introduced in this chapter. Terms first coined in Chapter 0
 | **The school's roll** | "विद्यालय की अपनी पंजी" | The archive behind the first door (Ch. 012 Page 003): hundreds of thread-wound rods, season on season — the school kept its own roll all along, in thread, its own way, filed as nothing. The twenty-two the Office calls nameless have been on it by length for years. Nobody has ever needed the Office to remember who it taught. |
 | **Year-knot** | "वर्ष-गाँठ" | A knot-grammar that records a year (Page 003): the oldest rod in the school's archive begins with one — dense, deliberate, the old school's hand. Ira can see that it is a year and cannot read it; exactly one person in the basin has ever pulled a year out of a knot and kept the reading (Nandi, Ch. 011 Page 006). The craft died everywhere except wherever this thread was cut. |
 | **"An ask, properly made"** | "एक पूछ, ठीक-ठाक तरीक़े से" | Rekhak's price (Page 003): exactness does not forgive for free. He will not sell the reading — but he will be *asked*, in the Office's own grammar, by whoever has standing to ask. He cannot be bought; he has just told the keeper what buying him looks like. |
+
+## Terms from Page 004 onward (English-only)
+
+From Page 004 the chapter ships English-only by user instruction (AUDIT R13.22); new terms are
+recorded in this two-column table.
+
+| Term | Meaning |
+|---|---|
+| **Of record** | The Office's grammar for an act that outlives its actor (Page 004): an ask is an entry, or it is talk. Entries outlive the people who make them — that is the entire point of a record, and the entire price. |
+| **The ask-log** | The record of who asked the Office's reader to read (Page 004). The fee for a proper reading is not coin: the asker becomes *a line in somebody's count* — someday somebody reads who asked. Ira is the log's first and only line. |
+| **"Whole as of the last finished teaching"** | Rekhak's caveat on the verdict (Page 004): the school's roll is whole up to the last knot tied in; three hands are mid-thread — windings past the knots, not yet tied. Wholeness is a moving number, and the school's entries have been the mother's handwriting all along. |
+| **"He never said whose roll"** | The assembly (Page 004): the Office's definition — *the count will be taken when the roll is whole* — never named the Office's roll. The school's roll is whole; read plainly, in the Office's own grammar, the postponement is over and the count is owed now. The basin's most dangerous sentence, built out of the Office's own paper. |

@@ -11,7 +11,7 @@ full-resolution visual read. Run from anywhere:
 Checks (see series-bible/style-guide.md "Page-art QA gate" for the visual half,
 which this script CANNOT do — shape and counts yes, beats no):
 
-  1  structure    10 chapters x (10 EN + 10 HI + 10 png + 10 cast + 2 other + summary), pairing by number
+  1  structure    10 chapters x (10 EN + 10 png + 10 cast + 2 other + summary), pairing by number; HI optional per page (R13.22)
   2  naming/junk  convention filenames only; no .DS_Store/.orig/.bak/tmp-*/.gitkeep
   3  images       PNG magic + IHDR, sha-256 duplicates, canvas rule (page art portrait, ratio <= 2.5),
                   weight band 1.2-3.0 MB
@@ -78,10 +78,11 @@ def check_structure():
         nums = lambda lst, pat: sorted(re.search(pat, os.path.basename(x)).group(1) for x in lst)
         e, h, i, k = nums(en, r"page-(\d+)\.md"), nums(hi, r"page-(\d+)\.hi\.md"), \
             nums(im, r"page-(\d+)\.png"), nums(ca, r"cast-page-(\d+)\.md")
-        # A chapter is either IN PROGRESS (1-9 pages) or COMPLETE (10). Both must have every page
-        # present in all four tracks and identically numbered — a half-written page is the failure
-        # mode this gate exists to catch. Only a complete chapter owes other/ x2 and a summary.
-        paired = (e == h == i == k) and len(e) > 0
+        # A chapter is either IN PROGRESS (1-9 pages) or COMPLETE (10). Every page must be present in
+        # EN/IMG/CAST with identical numbers, and every HI page must pair with an EN page — but since
+        # the user's English-only instruction (AUDIT R13.22, from Ch. 012 p004), Hindi is OPTIONAL per
+        # page: the bilingual catalog (Ch. 001-011, Ch. 012 pp. 001-003) is retained as shipped.
+        paired = (set(h) <= set(e)) and (e == i == k) and len(e) > 0
         complete = len(en) == 10 and len(ot) == 2 and len(sm) == 1
         if not paired:
             fail(f"structure {name}: page numbers do not pair across tracks "
@@ -186,7 +187,7 @@ def check_hindi():
 
 # ---------------------------------------------------------------- 5 scripts
 def check_scripts():
-    stats = {"panels": 0, "camera_ok": 0, "sections": 0, "parity": 0}
+    stats = {"panels": 0, "camera_ok": 0, "sections": 0, "parity": 0, "en_total": 0}
     for p in sorted(glob.glob(ROOT + "/chapters/chapter-*/story/page-???.md")):
         t = rd(p)
         nums = [int(n) for n in re.findall(r"^##\s*PANEL\s+(\d+)", t, re.M)]
@@ -205,7 +206,11 @@ def check_scripts():
         else:
             fail(f"missing notes/card sections: {os.path.relpath(p, ROOT)}")
         hi = p[:-3] + ".hi.md"
-        ht = rd(hi) if os.path.exists(hi) else ""
+        if not os.path.exists(hi):
+            stats["en_total"] += 1
+            continue  # EN-only page: Hindi optional per user instruction (AUDIT R13.22)
+        stats["en_total"] += 1
+        ht = rd(hi)
         hnums = len(re.findall(r"^##\s*पैनल", ht, re.M))
         hcam = len(re.findall(r"\*\*कैमरा:\*\*", ht))
         if hnums == len(nums) and hcam == len(nums):
@@ -324,7 +329,7 @@ def main():
     w(f"- hindi letters-only Devanagari: min {min(hi)[0]:.1f}% · median {statistics.median(x[0] for x in hi):.1f}% "
       f"· max {max(hi)[0]:.1f}% · floor {HINDI_FLOOR}%")
     w(f"- scripts: {sc['panels']} panels · Camera parity {sc['camera_ok']}/100 · notes+card sections {sc['sections']}/100 "
-      f"· EN/HI parity {sc['parity']}/100")
+      f"· EN/HI parity (bilingual pages) {sc['parity']}/{sc['en_total']}")
     w(f"- continuity: Loom dialogue {len(loom)} · mother-in-Camera manual-confirm {len(mother)} · "
       f"chain-stop lines {sum(1 for v in chain.values() if v)}/{len(chain)}")
     w(f"- cast card-line blocks: {have}/100 (missing {len(missing)})")

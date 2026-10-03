@@ -646,6 +646,46 @@ absent; note in the inside pocket; step-knot still tied; the three new hands unn
 Repo note: reset #9 struck at turn start (full re-clone to the branch point); recovered by hard reset
 onto the pushed line, anchors verified, nothing lost.
 
+### R13.22 English-only from Ch. 012 p004 — convention change + Page 004 — the ask; the verdict
+
+**Convention change, user-instructed this turn:** the user directed that everything be written in
+English and, when shown the Devanagari track, that nothing be written in the non-Latin script
+("don't write in Chinese" — the user reads Devanagari as such). Ruling applied: **from Chapter 012
+Page 004 the series ships English-only.** The bilingual catalog (Chapters 001-011 and Ch. 012 pp.
+001-003, Hindi floors 89.7/96.0/97.7, min 89.7) is **retained as shipped** — no destructive edits.
+Tooling adjusted to match, with the gate's honesty preserved:
+
+| Change | Where | Effect |
+|---|---|---|
+| HI optional per page (every HI page must pair with an EN page; EN/IMG/CAST pair exactly) | `tools/audit.py` `check_structure` | EN-only pages no longer fail pairing; a stray HI page without its EN page still fails |
+| EN/HI panel parity checked only where the HI file exists; report shows bilingual pages / EN pages | `tools/audit.py` `check_scripts` | report line now reads `EN/HI parity (bilingual pages) 113/114` |
+| Hindi links rendered only when the HI source exists (sidebar + reader toggle) | `website/build.py` | no broken links on EN-only pages |
+
+**Page 004** shipped complete on every track, image built with the page:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-004.md` | 7 panels, `Camera:` on every panel, notes + card sections present — **first English-only page** |
+| Cast | `characters/cast-page-004.md` | 3 entries (Ira, Rekhak, the Mother-as-handwriting), every one with a card-line block |
+| World | `other/glossary.md` | +4 terms, new English-only table (of record; the ask-log; the caveat; the assembly) |
+| Art | `images/page-004.png` | 768 x 1376, house ratio 1.79, 0 hard failures; **one non-gating advisory: flat band 9.3% of height** (precedent: shipped advisories 10.9-11.8% in R13.18) — content UNREAD |
+
+The page: the ask, properly made — entered of record in the Office's grammar, marked with the asker's
+thumb; the fee named (*the ask-log is a record, and records get read — you become a line in
+somebody's count*); the reading aloud, by length and turn, no names needed; Rekhak's caveat (*whole
+as of the last finished teaching* — three hands mid-thread, which keeps the chapter's clock alive and
+lands the page's one mother-touch: the school's entries have been her handwriting all along); the
+verdict, flat as weather — **the school's roll is whole**; and the assembly built in public: *he
+never said whose roll* — the postponement is over, the count is owed now. Nothing leaves the archive
+but the sentence. Hook: **"Read it back to them, keeper."**
+
+Continuity: chain-stop ONE, unspent (chain cold all page); mother never on panel, never speaks;
+Loom absent; note in the inside pocket; step-knot still tied. Repo note: reset #10 struck at turn
+start (full re-clone); recovered by hard reset onto the pushed line, anchors verified, nothing lost.
+Process note: the first application of the `check_structure` edit silently failed to land (file
+showed the old `paired` line after a reported-success edit); re-applied and verified by grep —
+lesson recorded: after any tool edit, grep the changed line before gating.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |
