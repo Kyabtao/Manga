@@ -744,6 +744,40 @@ stands; year-knot still unread; three hands mid-thread (heard only as the count 
 note: reset #11 struck at turn start (full re-clone to the branch point); recovered by hard reset
 onto the pushed line, anchors verified, nothing lost.
 
+### R13.25 Chapter 012, Page 007 — the walk home; two clocks; a second Office
+
+Page 007 shipped complete on every track, image built with the page:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-007.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Cast | `characters/cast-page-007.md` | 7 entries (Ira, Rekhak, the Count, Nima, the Three New Hands, Kessa, the Dusk Readers), every one card-lined |
+| World | `other/glossary.md` (+5) | updated (no new locations — all places established) |
+| Art | `images/page-007.png` | 768 x 1376, house ratio, screened 0 hard failures / 0 warnings — content UNREAD |
+
+The page: a decompression that does not go slack — two clocks running all page. Out of Room Nine with
+the thesis (*I signed nothing; he wrote everything*) converted into the page's discovery: a filed
+refusal is a shut door, and shut doors open from either side later. Rekhak at the gate says the race
+plain, in passing (*exact at the end; one speed*). The count moves upstairs for the air and becomes
+the basin's afternoon soundtrack — a name, a line, a stumble at each of the twenty-two, the Office's
+honesty reading emptiness aloud in public. The school answers by continuing: the circle bigger than
+ever under the grey lamp, the three mid-thread hands INSIDE it now, holding other hands badly, watched
+like sand in a glass. The dusk readers keep the posted paper alive (*a posted thing read daily cannot
+die*). Home: Kessa reads the day off Ira's face (*boxes first, wars after*), and the counter at
+lamp-low does the payoff — three papers out of one pocket (the note; the summons; the amendment copy,
+*for the keeper's files*: he gave her the weapon and kept the receipt), filed into the register's
+archive pocket. The register crosses the chapter's line: **a second Office — keep it better.**
+
+Continuity: chain-stop ONE, unspent (no chain on-page); mother never on panel, never speaks (her
+note visible as knot-marks and a whorl at Panel 7 distance, then filed); Loom absent; the amendment
+ORIGINAL remains armed on Room Nine's table — she carries a clerk-provided copy; the step-knot still
+tied; the ask-log first line stands; the year-knot still unread (Page 008's business). Repo note:
+**reset #13 struck MID-TURN** (between the cast-file write and the docs pass) and the interrupted
+tree was incomplete (no `tools/`; branch-point state with stray untracked files). Recovered by the
+standing fetch + hard reset onto the pushed line; the cast file survived (untracked), but the
+already-screened Page 007 render was swept and was **re-rendered from the same panel list** (v2) and
+re-screened clean. Original v1 render is not preserved — recorded here per the honesty rule.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

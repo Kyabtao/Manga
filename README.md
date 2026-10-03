@@ -20,45 +20,44 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 012 — *The Whole Roll* — Page 006 DONE** (EN + cast + world + art) · Pages 007-010 not started · Ch. 001-011 COMPLETE
-| **Pages completed** | Ch. 001-011: **all complete** (110 pages, EN + Hindi) · **Ch. 012: pages 001-006 complete** (001-003 bilingual; 004-006 English-only; cast card-lined; **images built and screened**) · 116 pages total in canon
-| **NEXT page to build** | **Ch. 012 Page 007** — from the Next-page brief below. English-only. Carry-in: the amendment left armed on Room Nine's table; her refusal filed in HIS book; the count heard stumbling at the nameless; chain-stop ONE unspent.
+| **Chapter in progress** | **Ch. 012 — *The Whole Roll* — Page 007 DONE** (EN + cast + world + art) · Pages 008-010 not started · Ch. 001-011 COMPLETE
+| **Pages completed** | Ch. 001-011: **all complete** (110 pages, EN + Hindi) · **Ch. 012: pages 001-007 complete** (001-003 bilingual; 004-007 English-only; cast card-lined; **images built and screened**) · 117 pages total in canon
+| **NEXT page to build** | **Ch. 012 Page 008** — from the Next-page brief below. English-only. Carry-in: the register-as-second-Office; the year-knot UNREAD and owed to Nandi; the amendment armed on Room Nine's table; chain-stop ONE unspent.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 012 · Page 007)
+### Next-page brief (Chapter 012 · Page 008)
 
-**Page 006 is written.** Read it before starting. It ended at Room Nine's door: the amendment left
-armed on the table, her refusal filed in HIS book (*keepers err; rolls open*), the chain dead on its
-stand, and the smallest caption: *"Sign nothing, keeper."*
+**Page 007 is written.** Read it before starting. It ended at the stall counter, lamp-low: three
+papers out of one pocket, the register opened flat, its archive pocket taking in a no, an ask, a
+reading, and a refusal. Smallest caption: *"A second Office, keeper. Keep it better."*
 
-Page 007 is the walk home, and it has three jobs.
+Page 008 is Nandi and the year-knot, and it has three jobs.
 
-1. **Ira leaves the paper on Room Nine's table, and the Office lets her.** No theatrics: she stands,
-   names the amendment's fatal grammar one last time (*an amendment concedes the reading was
-   arguable — the basin watched his hand drop*), and walks. The clerk does not stop her, because the
-   trap was never the amendment: reveal in the last panels what he actually wanted from the interview
-   — the counter-signature refusal is now of record, witnessed by the room, and THAT is what he
-   needed: her refusal, filed. She signed nothing; he wrote everything.
-2. **The race tightens on the walk home.** Midday to dusk: the mouth-count has begun somewhere in
-   the Office (rooms of clerks reading sixty-three hands aloud, twenty-two of them nameless — play
-   it as sound through a wall), and the school's three hands are teaching under a basin's worth of
-   watching eyes. One beat of the count overtaking, one beat of the school answering. Do not
-   resolve the race; let the reader feel both clocks running.
-3. **Home, and the two files.** The stall at dusk: Kessa, the box, the empty fold — and Ira with two
-   papers in one pocket (her mother's no, and the summons), plus one she refused. End the page on
-   what she does with the refused paper: she does not burn it. She files it — in the register, in
-   the archive of her own — because refused-paper-of-record is the only kind of thing that can be
-   thrown back at an Office later. Hook: the register is becoming a second Office, and she knows it.
+1. **The rods never leave the archive — so Nandi comes to the rods.** How she is asked (and by whom)
+   is the page's opening problem: Ira cannot order a woman the Office ruined; Kessa brokers or Nandi
+   names her own terms in the Office's grammar — a reading for a reading, or for standing. Getting
+   her through the low gate unwatched (or watched, and what that costs) is a beat, not a fight.
+2. **The reading, and the grammar ancestry.** Nandi lifts the oldest rod, reads the first knot — and
+   the year-grammar is the Office's own year-grammar in an older hand. The school counts years the
+   way the Office counts years, because **the Office learned to count here.** The registry's grammar
+   descends from the school's; the two books are one grammar gone to clerkhood. Let Nandi, the
+   basin's only other professional reader, say it with a craftsman's horror: *this is my grammar's
+   grandmother.* Do not over-explain what it means yet — one caption of consequence maximum.
+3. **The second knot down: the founder's whorl.** Below the year-knot, the first hand the school
+   ever taught is wound on the rod — and where a name would go, a maker's-mark: **a whorl.** The
+   same mark as the mother's note. End there — the discovery made, not decoded. (The decoding —
+   whose whorl, what the mother is *for* — is Page 009's business.)
 
-Carry in: the **note on file** (inside pocket); the **ask-log** (her line, first); the **year-knot**
-still unread (Nandi is owed it — the window is closing; consider giving Nandi the rods next chapter);
-the **swept hook** empty; the **step-knot** still tied; **chain-stop ONE unspent** (Room Nine's
-portable chain sat on its stand all interview — the dangling stayed dangling). Tone: procedure
-unwinding; two clocks; one dusk. English-only throughout (R13.22).
+Carry in: the **register as second Office** (the new fact she operates under); the **amendment**
+armed on Room Nine's table; the **race** (the count stumbling; the school tying no one in yet); the
+**note** now filed in the register's archive pocket (she carries the register, so she carries the
+note — say this once); **chain-stop ONE unspent**; the **swept hook** empty; the **step-knot** still
+tied. Tone: dawn light in a wet stone room; two professional readers and a grammar older than both.
+English-only throughout (R13.22).
 
-### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
+### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
 
 *The Fourth Step* is complete on every track: 10 pages (EN + Hindi), 10 cast files with full card
 lines on every entry, world files grown in step (+45 glossary terms, +9 locations), 10 images built
