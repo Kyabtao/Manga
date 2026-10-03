@@ -686,6 +686,35 @@ Process note: the first application of the `check_structure` edit silently faile
 showed the old `paired` line after a reported-success edit); re-applied and verified by grep —
 lesson recorded: after any tool edit, grep the changed line before gating.
 
+### R13.23 Chapter 012, Page 005 — the firing; the read-back; the summons
+
+Page 005 shipped complete on every track, image built with the page (first English-only turn pair;
+no HI file produced, per R13.22):
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-005.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Cast | `characters/cast-page-005.md` | 7 entries (Ira, the Grey Clerk, Rekhak silent, Kessa, Nima, the Three New Hands, the Basin as an entry), every one card-lined |
+| World | `other/glossary.md` (+3) · `other/locations.md` (+1: the list-post) | updated |
+| Art | `images/page-005.png` | 768 x 1376, house ratio, screened 0 hard failures / 0 warnings — content UNREAD |
+
+The page: the definition read back verbatim in public, at posting speed, in the Office's own
+weather-voice; the reading of record added — *the school's roll is whole, as of the last finished
+teaching* — with Rekhak present and silent (his silence reads exactly right, and the square reads
+it); the clerk's counter (*the Office's roll, obviously*) failing against a basin that heard the
+posting; his hand rising to take the paper down and dropping — **posted means posted**, and taking
+it down unmakes every paper the Office ever posted; the clock turning in public — the race between a
+mouth-count and a school, three mid-thread faces suddenly worth everything to both sides; and the
+paper moving: **he came with both papers** (the amendment never drafted in public; the summons always
+in the coat). Hook: **"Bring your own law, keeper."**
+
+Continuity: chain-stop ONE, unspent (no chain on-panel); mother never on panel, never speaks — no
+touch this page, her machinery operated in public; Loom absent; Rekhak given no line by design; note
+in the inside pocket; step-knot still tied; ask-log's first line stands; year-knot still unread.
+Process note: the README brief update initially failed (mistitled section lookup — a p007-shaped brief
+drafted for a p006 slot); caught by the exception, glossary/locations had landed, README re-applied
+correctly and verified. Lesson stands: verify the write landed, not the attempt.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |
