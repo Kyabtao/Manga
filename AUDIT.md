@@ -778,6 +778,34 @@ standing fetch + hard reset onto the pushed line; the cast file survived (untrac
 already-screened Page 007 render was swept and was **re-rendered from the same panel list** (v2) and
 re-screened clean. Original v1 render is not preserved — recorded here per the honesty rule.
 
+### R13.26 Chapter 012, Page 008 — Nandi and the year-knot; the grandmother; the founder's whorl
+
+Page 008 shipped complete on every track, image built with the page:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-008.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Cast | `characters/cast-page-008.md` | 5 entries (Ira, Nandi, Kessa, the Mother-as-kept-room, the Grey Coat), every one card-lined |
+| World | `other/glossary.md` (+4) | updated |
+| Art | `images/page-008.png` | 768 x 1376, house ratio, screened 0 hard failures / 0 warnings — content UNREAD (Nandi's ref art: `chapter-006/characters/nandi-ref.png`, first use this chapter) |
+
+The page: Nandi names her price — *when your school next ties a hand in, it ties mine* (*then it
+takes pupils*: the Office's most ruined reader applying to become the school's oldest pupil); the
+open walk past the paid coat (*sneaking is a confession*); the kept room read like a ledger (lamp
+cut, sweep fresh, hook empty — the mother's only presence); the cradle-hold ruin never touched
+(*the Office cut my count, not my hands*). Then the double reveal, dry as a ledger: **the oldest
+rod's year-grammar is the Office's own year-grammar in an older hand, from before the Office's year
+one** — *this is my grammar's grandmother; the school was not hiding from the Office's books; the
+Office's books were cut from the school's* — and the first hand the school ever taught is signed
+where a name would go with **the founder's whorl**: the mark on the note filed in Ira's register.
+Discovery made, not decoded. The chapter's smallest-caption ladder continues:
+*Ask her, keeper.*
+
+Continuity: chain-stop ONE, unspent (no chain; Nandi reads by craft alone); mother never on panel,
+never speaks (maintenance only); Loom absent; register under Ira's arm with the filed note inside;
+amendment original still armed on Room Nine's table; step-knot still tied; ask-log first line
+stands; the three mid-thread hands remain untied (the race runs off-page).
+
 ### R13.7 Next actions
 
 | # | Priority | Item |
