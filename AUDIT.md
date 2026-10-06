@@ -806,6 +806,34 @@ never speaks (maintenance only); Loom absent; register under Ira's arm with the 
 amendment original still armed on Room Nine's table; step-knot still tied; ask-log first line
 stands; the three mid-thread hands remain untied (the race runs off-page).
 
+### R13.27 Chapter 012, Page 009 — thread answering thread; the decoding
+
+Page 009 shipped complete on every track, image built with the page:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-009.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Cast | `characters/cast-page-009.md` | 4 entries (Ira, Kessa, the Mother-as-answer, the Count), every one card-lined |
+| World | `other/glossary.md` (+4) | updated |
+| Art | `images/page-009.png` | 768 x 1376, house ratio, screened 0 hard failures / 0 warnings — content UNREAD |
+
+The page: the untie (Page 003's *I will not be the one to untie it* paid off — the asking shape
+requires it); the asking shape taught once and used once (a turn — *who signs the whorl*; a loop
+left open — *will you stand*); the night's wait with the count stumbling over the rooftops; and at
+dawn, the mother's biggest appearance in nine chapters, in two knots and a long end: the direction
+retied, and beside it **an entry-knot left loose**, its long end running down-lane to the school's
+roll. Kessa's verdict carries the page's thesis: *tightened, it holds forever — her knots do not
+come undone. Loose is a condition, keeper. Nobody tightens it but the book that counts her fair.*
+The circle closes (the coat writes; Nandi's *grammar is not gossip*; the amendment armed), and the
+endgame stands inventoried. The imperative ladder's penultimate rung: **"Tie her in, keeper."**
+
+Continuity: chain-stop ONE, unspent; mother never on panel, never speaks (thread only); Loom
+absent; register present at the step (whorl filed inside, never opened there); amendment original
+still armed on Room Nine's table; three mid-thread hands remain untied — now the last piece before
+wholeness moves; the count runs all night and stalls at the twenty-two. Repo note: reset #15 struck
+at turn start (full re-clone); recovered by hard reset onto the pushed line, anchors verified,
+nothing lost.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

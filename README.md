@@ -20,50 +20,48 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 012 — *The Whole Roll* — Page 008 DONE** (EN + cast + world + art) · Pages 009-010 not started · Ch. 001-011 COMPLETE
-| **Pages completed** | Ch. 001-011: **all complete** (110 pages, EN + Hindi) · **Ch. 012: pages 001-008 complete** (001-003 bilingual; 004-008 English-only; cast card-lined; **images built and screened**) · 118 pages total in canon
-| **NEXT page to build** | **Ch. 012 Page 009** — from the Next-page brief below. English-only. Carry-in: the founder's whorl seen twice; Nandi's price named (a tying-in); the imperative *ask her, keeper*; chain-stop ONE unspent.
+| **Chapter in progress** | **Ch. 012 — *The Whole Roll* — Page 009 DONE** (EN + cast + world + art) · Page 010 not started · Ch. 001-011 COMPLETE
+| **Pages completed** | Ch. 001-011: **all complete** (110 pages, EN + Hindi) · **Ch. 012: pages 001-009 complete** (001-003 bilingual; 004-009 English-only; cast card-lined; **images built and screened**) · 119 pages total in canon
+| **NEXT page to build** | **Ch. 012 Page 010 — CHAPTER FINALE** — from the Next-page brief below. English-only. On completion: `chapter-summary.md` is due (completeness rule), then the chapter closes at 10/10.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 012 · Page 009)
+### Next-page brief (Chapter 012 · Page 010 — CHAPTER FINALE)
 
-**Page 008 is written.** Read it before starting. It ended in the archive: the year-grammar is the
-Office's own, in an older hand — *the Office learned to count here* — and the school's first entry is
-signed with the founder's whorl, the same mark as the note in Ira's register. Smallest caption:
-*"Ask her, keeper."*
+**Page 009 is written.** Read it before starting. It ended on the step at dawn: the entry-knot left
+loose, the long end running down-lane, and the smallest caption *"Tie her in, keeper."*
 
-Page 009 is the decoding, and it has three jobs.
+Page 010 closes the chapter, and it has three jobs.
 
-1. **The ask, and how a silent woman answers.** The mother never speaks and is never on panel — so
-   the ask must travel her channels: the step-knot grammar, the knot-script, the kept room. Ira
-   asks her question in thread (at the step? at the hook? tied and left in the archive?), and the
-   answer comes the way directions came: a shape, not a sentence. Decide what the answer IS and let
-   it be physical — thread answering thread.
-2. **What the whorl decodes to.** The founder signed the first entry; the note on file signs with
-   the same mark. Reveal, without her ever appearing: the mother is the school — its founder or its
-   living head — and she filed her no against the Office's roll forty years ago because SHE is the
-   grammar the Office counts in, and she will not be counted by what grew out of her. She has been
-   maintaining the school's roll in secret ever since: the newest entries in her hand, the lamp, the
-   sweep. The one question the basin has been asking (*who teaches the teacher?*) resolves: nobody
-   teaches her. Nobody taught her. She is where the thread starts.
-3. **The cost of knowing.** Nandi now knows what Ira knows; the coat reported the tally-keeper's
-   entry; and the count is still stumbling through the Office's afternoon. The page should feel the
-   circle closing on the mother's silence: two more readers, one of them paid to be exact. End the
-   page with the chapter's endgame visible: the school's roll, whole but for three mid-thread hands;
-   the Office's roll, unread at the twenty-two; and between them, the woman who signed the grammar
-   both books count in. Hook: her answer's shape should name the price of the next page — she will
-   stand for the count, or she will not, or (best) her thread-answer is a condition: *count the
-   school's roll, and I will stand in it.*
+1. **The tying-in.** The school's act, performed properly: the three mid-thread hands finish
+   teaching and are tied in (Nandi's price comes due the same hour — *when the school ties a hand
+   in, it ties mine*), and then the founder's loose entry is tightened — by the school's hand, at
+   the archive, the long end finally met by the roll. The mother never appears; the knot tightening
+   IS her entrance. Whether Ira ties it, Kessa, or Nandi is a choice to make on the page — but the
+   roll must gain its founder, and the whorl must enter the book.
+2. **The consequence lands on the Office the same day.** The school's roll is whole — now with its
+   founder on it. The definition, posted and alive, read plainly, means the postponement is over —
+   and this time the basin knows it, the count knows it, and the clerk knows it. Give the Office its
+   beat: the count reaches the twenty-two and STOPS — publicly, at the list-post, by the clerk's own
+   mouth: the roll cannot be taken while the founder's no stands on file. The trap has to be named
+   by its builder to close.
+3. **Close the chapter on the register and the step.** The final beats: the register — a second
+   Office — takes its place as the basin's counter-book (the no, the ask, the reading, the refusal,
+   and now a roll that outranks the Office's own); and the step at dusk — the direction knot intact,
+   the entry tight at last, the fifth note gone from the air: the four-note sentence whole again,
+   nine years of it, nothing left hanging except year nineteen. Smallest caption closes the ladder:
+   *The roll is whole, keeper.* (Save *year nineteen* for the chapter-summary's last line if it
+   fits better there — it is the arc's forward clock.)
 
-Carry in: the **register as second Office** (the note filed inside — the whorl she compares against);
-**Nandi's price** (a tying-in, owed by the school, not by Ira); the **race** (three hands
-mid-thread); the **amendment** armed on Room Nine's table; **chain-stop ONE unspent**; the
-**step-knot** still tied (or finally answered). Tone: thread answering thread; the chapter's secrets
-finishing their last turns. English-only throughout (R13.22).
+Carry in: **chain-stop ONE unspent** (the chapter keeps its unspent budget — the Office never gets
+its hardware moment); the **amendment** still armed on Room Nine's table (the clerk's silence IS
+his defeat); the **year-knot** read; the **archive** kept. Tone: a chapter ending the way a knot
+ends — pulled tight, no slack, nothing left to tie. On completion, write `chapter-summary.md`
+(per-chapter source of truth: whole-chapter beats, clocks, threads forward — the next chapter's
+engine is the count the Office cannot take and the founder standing in it). English-only (R13.22).
 
-### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
+### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
 
 *The Fourth Step* is complete on every track: 10 pages (EN + Hindi), 10 cast files with full card
 lines on every entry, world files grown in step (+45 glossary terms, +9 locations), 10 images built
