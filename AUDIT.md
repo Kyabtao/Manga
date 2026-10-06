@@ -834,6 +834,38 @@ wholeness moves; the count runs all night and stalls at the twenty-two. Repo not
 at turn start (full re-clone); recovered by hard reset onto the pushed line, anchors verified,
 nothing lost.
 
+### R13.28 Chapter 012, Page 010 — the finale — and CHAPTER 012 CLOSED (10/10)
+
+Page 010 shipped complete on every track, image built with the page, and the chapter closed with its
+summary filed:
+
+| Track | File | State |
+|---|---|---|
+| EN script | `story/page-010.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| Cast | `characters/cast-page-010.md` | 7 entries (Ira, Nima, Nandi, Kessa, the Grey Clerk, the Three New Hands, the Mother-as-entrance), every one card-lined |
+| World | `other/glossary.md` (+3) · `other/locations.md` (+1: the step, after) | updated |
+| **Close-out** | `chapter-summary.md` | **filed** — synopsis, page-by-page, open threads, binding canon rules, bulk-cast ledger (house structure per Ch. 011) |
+| Art | `images/page-010.png` | 768 x 1376, house ratio, screened 0 hard failures / 0 warnings — content UNREAD |
+
+The page: taught, walked, tied, entered, named, filed, whole. The lesson finishes (*they hold; that
+is the whole of the lesson; the rest is years*); the school walks in the open with the basin after
+it; Nima's hands tie the three in and then Nandi, price paid to the hour (*enter me whole*); and the
+founder's entry is tightened by the last hand it was waiting for — the daughter's. The whorl enters
+beside the year, and the chapter's thesis lands once: **the school does not enrol; it ties in** — the
+difference is the whole chapter. The clerk names the trap by its builder's mouth and stops the clock:
+**the count is suspended, not postponed.** The register takes the street's paper (*so was the box,
+keeper*); the step at dusk keeps the direction and loses the loose entry to the book; the four-note
+sentence is whole again. The smallest-caption ladder lands flat: **"The roll is whole, keeper."** —
+and the arc's clock, unspoken on-panel, goes to the summary's last line: *year nineteen.*
+
+**Chapter 012 stands COMPLETE: 10/10 pages, all five tracks, every image built and screened with its
+page — the first chapter finished entirely under the build-with-image pipeline.** Chain-stop budget:
+ONE, unspent to the end (the Office never got its hardware moment). The three entered hands remained
+unnamed to the last. Repo note: reset #15 struck at the previous turn start; this turn's anchor held
+(`ea9cca9`) — fifteen resets, fifteen recoveries, all at the anchor. Process note: a markdown slip in
+the finale's notes section (stray blockquote markers from a mid-draft paste) was caught and fixed
+before commit; the image screened clean on first pass.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |

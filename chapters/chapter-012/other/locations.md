@@ -52,3 +52,10 @@ The basin's one newspaper (Page 005): a wooden post in the square where the Offi
 at eye height, knot-marks and seals on Office stock. On Page 005 it is read back to its poster in
 front of the basin — the definition verbatim, then one entry added to the record — and it becomes the
 only posted paper in living memory that a clerk's hand rose to take down and could not.
+
+## THE STEP, AFTER — पायदान, बाद में
+
+The Mendery step at chapter's end: the direction knot intact (retied on Page 009, never untied
+again), the loose entry's space swept clean — the entry lives in the book now — and one night with
+the four-note sentence whole. The only step in the basin that answered a question in thread and got
+two knots back.

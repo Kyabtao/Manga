@@ -20,48 +20,43 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 012 — *The Whole Roll* — Page 009 DONE** (EN + cast + world + art) · Page 010 not started · Ch. 001-011 COMPLETE
-| **Pages completed** | Ch. 001-011: **all complete** (110 pages, EN + Hindi) · **Ch. 012: pages 001-009 complete** (001-003 bilingual; 004-009 English-only; cast card-lined; **images built and screened**) · 119 pages total in canon
-| **NEXT page to build** | **Ch. 012 Page 010 — CHAPTER FINALE** — from the Next-page brief below. English-only. On completion: `chapter-summary.md` is due (completeness rule), then the chapter closes at 10/10.
+| **Chapter in progress** | **None — Ch. 012 — *The Whole Roll* — COMPLETE (10/10, summary filed)** · Ch. 001-012 COMPLETE
+| **Pages completed** | **Ch. 001-012: all complete — 120 pages in canon** (Ch. 001-011 bilingual EN+Hindi; Ch. 012 bilingual pp. 001-003, English-only pp. 004-010 per R13.22; every page card-lined; every image built and screened) · every chapter has a filed chapter-summary
+| **NEXT page to build** | **Ch. 013 Page 001** — from the Next-chapter seed below (title and brief to be set when the chapter opens). Carry-in from Ch. 012's close-out: the suspended count; the armed amendment; year nineteen; the counter-book.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 012 · Page 010 — CHAPTER FINALE)
+### Next-chapter seed (Chapter 013 — not yet opened)
 
-**Page 009 is written.** Read it before starting. It ended on the step at dawn: the entry-knot left
-loose, the long end running down-lane, and the smallest caption *"Tie her in, keeper."*
+**Chapter 012 — *The Whole Roll* — is COMPLETE.** Read `chapters/chapter-012/chapter-summary.md`
+before opening anything new; it is the source of truth for every thread below.
 
-Page 010 closes the chapter, and it has three jobs.
+The basin the next chapter wakes into: the Office's count is **suspended, not postponed** — an
+admission named by the clerk's own mouth in front of the whole square; the founder stands entered on
+the school's roll with her no still on file against the Office's; the amendment (*the roll means the
+Office's roll*) sits armed and unsigned in Room Nine; the register — the basin's second Office — is
+nine days old and taking the street's paper; and the number that closed the arc's clock, unspoken
+on-panel, is **year nineteen**.
 
-1. **The tying-in.** The school's act, performed properly: the three mid-thread hands finish
-   teaching and are tied in (Nandi's price comes due the same hour — *when the school ties a hand
-   in, it ties mine*), and then the founder's loose entry is tightened — by the school's hand, at
-   the archive, the long end finally met by the roll. The mother never appears; the knot tightening
-   IS her entrance. Whether Ira ties it, Kessa, or Nandi is a choice to make on the page — but the
-   roll must gain its founder, and the whorl must enter the book.
-2. **The consequence lands on the Office the same day.** The school's roll is whole — now with its
-   founder on it. The definition, posted and alive, read plainly, means the postponement is over —
-   and this time the basin knows it, the count knows it, and the clerk knows it. Give the Office its
-   beat: the count reaches the twenty-two and STOPS — publicly, at the list-post, by the clerk's own
-   mouth: the roll cannot be taken while the founder's no stands on file. The trap has to be named
-   by its builder to close.
-3. **Close the chapter on the register and the step.** The final beats: the register — a second
-   Office — takes its place as the basin's counter-book (the no, the ask, the reading, the refusal,
-   and now a roll that outranks the Office's own); and the step at dusk — the direction knot intact,
-   the entry tight at last, the fifth note gone from the air: the four-note sentence whole again,
-   nine years of it, nothing left hanging except year nineteen. Smallest caption closes the ladder:
-   *The roll is whole, keeper.* (Save *year nineteen* for the chapter-summary's last line if it
-   fits better there — it is the arc's forward clock.)
+Candidate engines (pick and title when the chapter opens):
 
-Carry in: **chain-stop ONE unspent** (the chapter keeps its unspent budget — the Office never gets
-its hardware moment); the **amendment** still armed on Room Nine's table (the clerk's silence IS
-his defeat); the **year-knot** read; the **archive** kept. Tone: a chapter ending the way a knot
-ends — pulled tight, no slack, nothing left to tie. On completion, write `chapter-summary.md`
-(per-chapter source of truth: whole-chapter beats, clocks, threads forward — the next chapter's
-engine is the count the Office cannot take and the founder standing in it). English-only (R13.22).
+1. **The Office's next move against an uncountable basin** — the suspension cannot hold forever; a
+   machine that cannot count may start instead taking, and Room Nine's chain is dead but a chest
+   with a dead knot in it still locks.
+2. **The counter-book's first crisis** — the street brings the register its paper, and one day it
+   brings a paper the keeper cannot refuse: a claim that forces the second Office to rule against
+   the first one's interest, in the first one's grammar, in public.
+3. **Year nineteen** — the arc's clock runs forward: what the school was before the basin, what the
+   founder's grammar counted before there were counts, and the door the directions pointed through
+   now standing entered on a roll.
 
-### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
+Standing constraints for anything opened: English-only (R13.22); mother never on panel, never speaks
+(thread and acts only); Loom never speaks; the three entered hands stay unnamed; chain-stop budget
+resets with the chapter; every page ships with its image, cast file, and card lines; audit before
+"done".
+
+### Chapter 012 — COMPLETE### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
 
 *The Fourth Step* is complete on every track: 10 pages (EN + Hindi), 10 cast files with full card
 lines on every entry, world files grown in step (+45 glossary terms, +9 locations), 10 images built
