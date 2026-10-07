@@ -1542,3 +1542,41 @@ per-chapter contact sheets (ImageMagick) and read against their own scripts, plu
 **R13.22 breach (self-committed in fcaa082) cleaned:** `chapter-013/other/locations.md` headings stripped of their Devanagari glosses (transliterated: kaunter/dusra kaaryaalaya; band jhiree); ch013 swept clean — zero Devanagari in any ch013 file.
 
 **Gate after wave:** audit exit 0 · 132 png · duplicates 0 · 19,955 links / 0 broken · reproducible True · hard failures none · house canvas 95/121 (recorded). Known advisory: grey-clerk-ref.png weighs 1.13 MB, just under the 1.2 MB band (weight note is non-gating; sheet is canvas-exempt).
+
+### R13.32 Chapter 013 Page 002 — *the ruling* — DONE: three jobs landed, one defect caught and fixed before install
+
+**Page.** `chapter-013/story/page-002.md` — 7 panels, Camera: on all; the ruling (enforceable but
+unbindable — the Office's grammar against the Office's paper), Kessa's appraisal (the paper is real;
+what it claims does not exist), the costs by dusk (inspection demand on the school's room + amendment
+file sent for, armed not fired), the queue choosing (three leave; the rest lay their paper flat where
+the square can watch), the keeper's certificate (honour it or defy a record by name), the foreman's
+honour off-panel (paid against paper), and the limit set the same hour (a keep is not a mint — one
+certificate per disputed debt, no interest, void at the count's end, every one signed with the
+keeper's name). Imperative ladder run: *Count it, then.*
+
+**Cast + world.** `cast-page-002.md` (6 entries, all card-lined — Ira, Kessa, Rekhak, the Claimant,
+the Foreman (off-panel), the Landlord (a name on the docket, never on-panel), + the Three Entered
+Hands as armour-not-vulnerability — note: entry count 6 with the hands card = 7 blocks); glossary +4
+terms (enforceable but unbindable / keeper's certificate / inspection demand / a keep is not a mint).
+
+**Art.** `images/page-002.png` — 768×1376 (house canvas), 0 screen warnings. v1 READ found one hard
+defect (the lease on FIRE in the appraisal panel — script requires the paper inspected intact beside
+the flame); fixed by targeted edit (v2), re-read CLEAN. Residual soft flags (non-gating, human
+queue): faint pseudo-script squiggles on the certificate and inspection-notice papers (illegible —
+same recorded class), crowd-Kessa variance in the queue panels. Casting on-ref (ira/kessa/rekhak
+refs passed into generation).
+
+**Continuity held.** Chain-stop ONE unspent; mother off-panel, no thread; Loom absent; the three
+entered hands unnamed (armour this page); amendment armed (file sent for, nothing fired); inventory
+count rolls (granary sealed; lamp-oil now in scope — spent as Page 003's landing beat, not this
+page's); Office hatch stays shut; Kessa's box stays shut, hand on the lid.
+
+**Gate after page:** audit exit 0 · 133 png · duplicates 0 · 20,028 links / 0 broken · reproducible
+True · hard failures none · house canvas 96/122 · ch013 in progress 2/10. R13.22: page, cast,
+glossary, and README brief all swept clean of Devanagari.
+
+**README housekeeping this run:** NEXT row → Page 003 (brief written: the inspection — the count
+cannot read the room; the three hands present and unnamed; the lamp-oil lands on the counter's own
+light); repaired pre-existing corrupted heading run (`### Chapter 012 — COMPLETE### …` ×12 on one
+line, in HEAD since before this branch's audit runs) and the stale "Chapter 012 is not yet briefed"
+note — Ch. 012 is complete; its close-out pointer now reads `chapter-012/chapter-summary.md`.

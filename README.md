@@ -20,41 +20,45 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 013 — *The Second Office* — Page 001 DONE** (EN + cast + world + art, READ-verified) · Pages 002-010 not started · Ch. 001-012 COMPLETE
-| **Pages completed** | **Ch. 001-012: all complete — 120 pages** · **Ch. 013: page 001 complete** (English-only; cast card-lined; glossary + locations; image built, screened, and vision-verified) · 121 pages total in canon
-| **NEXT page to build** | **Ch. 013 Page 002** — the lease ruling: how the register rules on a paper sealed against the nameless; the stamp question ripens; the inventory count rolls on. English-only. Chain-stop ONE unspent.
+| **Chapter in progress** | **Ch. 013 — *The Second Office* — Pages 001-002 DONE** (EN + cast + world + art, READ-verified) · Pages 003-010 not started · Ch. 001-012 COMPLETE
+| **Pages completed** | **Ch. 001-012: all complete — 120 pages** · **Ch. 013: pages 001-002 complete** (English-only; cast card-lined; glossary + locations; images built, screened, and vision-verified) · 122 pages total in canon
+| **NEXT page to build** | **Ch. 013 Page 003** — the inspection: the Office's inventory grammar arrives at the school's alley room, and finds a room that keeps its own books. English-only. Chain-stop ONE unspent.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 132 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R13.31); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 013 · Page 002)
+### Next-page brief (Chapter 013 · Page 003)
 
-**Page 001 is written.** Read it before starting. It ended with the lease flat under the lamp, the
-register open beside it, and the smallest caption *"Rule it, keeper."*
+**Page 002 is written.** Read it before starting. It ended with the limit entered of record — one
+certificate per disputed debt, no interest, void at the count's end — the inspection notice at the
+lamp's edge, and the smallest caption *"Count it, then."*
 
-Page 002 is the ruling, and it has three jobs.
+Page 003 is the inspection, and it has three jobs.
 
-1. **The register rules — and the ruling must be a third thing.** Not grant (a lawful key to the
-   school's door), not refuse (bias on the record): Ira rules the lease ENFORCEABLE BUT UNBINDABLE —
-   the paper binds *names*, the tenancy holds *hands*, and the school's three are on no roll the
-   Office can read; possession by knot, entry by knot, and the register so finds. The Office's own
-   grammar, used to make their paper helpless. Kessa's line should crown it: an appraisal of the
-   lease as collateral — the paper is genuine; what it claims does not exist.
-2. **The costs, immediately.** The clerk's response by dusk (a notice? an inspection demand? the
-   amendment dusted off?), the landlord revealed as a front or a fool (never on-panel — a name on
-   the docket), and the queue's reaction: the basin learns what rulings cost when a bigger paper
-   disagrees with them.
-3. **The stamp question ripens.** The claimant from Page 001 returns for his answer — the register
-   cannot stamp, but it can CERTIFY: a keeper's certificate that a debt is disputed pending the
-   count, entered of record. The foreman must honour it or defy a record. He honours it — and the
-   basin learns the counter-book can mint credit. The second Office grows teeth; set the limit the
-   same page (Kessa: a keep is not a mint, keeper).
+1. **The count arrives — and cannot read the room.** The Office's surveyor (never named; inventory
+   grammar, a seal, a tally-slate) comes to count the school's alley room under the inspection
+   demand. The room keeps its own books: knots, not stock. What the surveyor's grammar can count —
+   furniture, fuel, doors — the room has exactly enough of; what the grammar cannot count is the
+   room's whole point. Do not let the surveyor gloat or threaten; the menace is the clipboard.
+2. **The three hands are present and unnamed.** The entered hands are IN the room during the count —
+   present, visible, cooperative, and impossible to enter on the slate: hands without names cannot be
+   inventoried as persons. The register's finding (Page 002) walks in the door: the surveyor counts
+   things; the school's people are not things. The namelessness converts again — from armour to
+   presence.
+3. **The lamp-oil lands.** Rekhak's weather arrives at the counter itself: lamp-oil is on the
+   inventory schedule, and the stall's own lamp burns Office-counted oil. The second Office discovers
+   its light is on the Office's books. End the page on that small, cold arithmetic — the counter's
+   answer is already in Kessa's till (the fold), not said aloud.
 
-Carry in: **chain-stop ONE unspent**; the **inventory count** (granary sealed by now — Rekhak's next
-warning is fuel); the **amendment** armed; **year nineteen** dormant. Tone: a courtroom the size of a
-counter, the lamp doing all the lighting. English-only (R13.22).
+Carry in: **chain-stop ONE unspent**; the **amendment file** sent for, not yet arrived; the
+**certificate economy** spreading (second and third certificates going out the door); **year
+nineteen** dormant. Tone: procedure as weather; the lamp doing all the lighting; the surveyor's
+tally-slate is the most dangerous object in the basin. English-only (R13.22). Mother never on panel,
+never speaks. Loom absent.
 
-### Chapter 012 — COMPLETE### Chapter 012 — COMPLETE### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
+### Chapter 012 — COMPLETE
+
+### Chapter 011 — CLOSED
 
 *The Fourth Step* is complete on every track: 10 pages (EN + Hindi), 10 cast files with full card
 lines on every entry, world files grown in step (+45 glossary terms, +9 locations), 10 images built
@@ -63,8 +67,9 @@ ONE chain-stop was **spent** on Page 010: the Loom's last knot, pledged unnamed 
 tied into the count-cord — *"Count not taken."* See AUDIT §R13.8–§R13.16 and the chapter close-out for
 the full record.
 
-**Chapter 012 is not yet briefed.** When it is, a new "Next-page brief" section goes here and this
-note moves under it. Until then the top of the work queue is the human art queue (§R12.4), the cast
+**Chapter 012 — *The Whole Roll* — is complete** (12 pages); its close-out lives in
+`chapter-012/chapter-summary.md` and AUDIT §R13.17–§R13.31. The live brief is the Page 003 section
+above. Until Ch. 013 closes, the top of the work queue after it is the human art queue (§R12.4), then
 the twelve over-ratio pages (the last agent-watchable item, warnings only).
 
 ### Superseded brief (Chapter 011 · Page 010 — the finale) — kept for reference
