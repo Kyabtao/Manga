@@ -866,6 +866,54 @@ unnamed to the last. Repo note: reset #15 struck at the previous turn start; thi
 the finale's notes section (stray blockquote markers from a mid-draft paste) was caught and fixed
 before commit; the image screened clean on first pass.
 
+### R13.29 VISION UNLOCKED — all 22 agent-generated images READ; verdicts recorded; 3 violations fixed in place
+
+**Capability note (supersedes the standing "no vision" rule):** this session's `read_file` renders
+images as visible content. The no-vision assumption inherited from earlier runs is void — every image
+below was opened and read this turn, on the restored tree at `827d9f1`. Repo note: reset #16 struck at
+turn start; recovered by hard reset onto the pushed line before any work.
+
+**The audit — all 22 agent-generated images (12 §R13.18 rebuilds + 10 Chapter 012):**
+
+| # | Image | Verdict | Flags |
+|---|---|---|---|
+| 1 | ch001 p002 | CORRECT | clean |
+| 2 | ch003 p003 | BREACH | **"LIST-POST" in Latin lettering on the sign** — FIXED this turn |
+| 3 | ch003 p009 | CORRECT | paper scribbles (recurring) |
+| 4 | ch004 p003 | CORRECT | mender hooded/faceless (valid for the night scene) |
+| 5 | ch004 p007 | CORRECT | apron scribble |
+| 6 | ch004 p009 | CORRECT | clean |
+| 7 | ch005 p002 | CORRECT | Kessa drifts elf-elder (green goblin cast elsewhere) |
+| 8 | ch005 p006 | CORRECT | casting alternates between renders; papers properly blank here |
+| 9 | ch006 p003 | CORRECT | Nandi elf-eared here, human in ch012 p008 — cross-chapter item |
+| 10 | ch006 p006 | CORRECT | paper scribbles; Kshudra cast correct |
+| 11 | ch008 p005 | CORRECT | clean (knot-diagram book pages exemplary) |
+| 12 | ch009 p008 | BREACH | **"Ira Sutar" in legible cursive on the register close** — FIXED this turn |
+| 13 | ch012 p001 | CORRECT | greenish cheek-marks on Ira (recurring cosmetic) |
+| 14 | ch012 p002 | CORRECT | clerk miscast (elderly elf; no clerk ref art exists — gap logged); red smear on chest |
+| 15 | ch012 p003 | PARTIAL | **swept-hook panel (p003 P4) dropped in a tier merge** — the mother-beat lacks its panel; queued for re-render |
+| 16 | ch012 p004 | CORRECT | rack drift to books in two tiers; cheek-marks |
+| 17 | ch012 p005 | CORRECT | text-shaped scribbles; **clerk in modern suit** (no ref art) |
+| 18 | ch012 p006 | **VIOLATION** | **electrical switch plate beside the door — hard §3.1 breach** — FIXED this turn; clerk in modern tailoring |
+| 19 | ch012 p007 | PARTIAL | register drawn with a modern ring-binder mechanism (anachronism); Nima elderly; scribbles — queued for re-render |
+| 20 | ch012 p008 | CORRECT | clean; strongest page of the chapter (whorl small at final size) |
+| 21 | ch012 p009 | CORRECT | clean |
+| 22 | ch012 p010 | CORRECT | Nima miscast as pale elf elder; scribbles |
+
+**Fix method (R13.18 precedent):** ch009 p008 and ch012 p006 were fixed by in-place edit
+(composition preserved; verified by re-read before install); ch003 p003's edit attempt was blocked by
+the image tool's content moderation (the scar macro), so it was fully re-rendered from its script's
+panel list with both character refs — all three replacements screened 0 hard / 0 warnings, wired into
+their pages, and ship UNREAD into the same human review queue; originals remain reviewable in git
+history.
+
+**Score: 16 clean or correct-with-soft-flags · 2 lettering breaches (FIXED) · 1 §3.1 violation
+(FIXED) · 2 partials queued (ch012 p003 dropped panel; ch012 p007 ring-binder) · 1 §3.1-adjacent
+recurring gap (clerk in modern tailoring, no ref art).** The soft flags — casting drift (Kessa, Nima,
+Nandi), the text-shaped scribbles, and Ira's recurring cheek-marks — are recorded for the human art
+pass; several trace to a concrete gap: **the grey clerk has no reference art** (ref-sheet task for
+the human queue).
+
 ### R13.7 Next actions
 
 | # | Priority | Item |
