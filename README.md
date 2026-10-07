@@ -20,43 +20,41 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **None — Ch. 012 — *The Whole Roll* — COMPLETE (10/10, summary filed)** · Ch. 001-012 COMPLETE
-| **Pages completed** | **Ch. 001-012: all complete — 120 pages in canon** (Ch. 001-011 bilingual EN+Hindi; Ch. 012 bilingual pp. 001-003, English-only pp. 004-010 per R13.22; every page card-lined; every image built and screened) · every chapter has a filed chapter-summary
-| **NEXT page to build** | **Ch. 013 Page 001** — from the Next-chapter seed below (title and brief to be set when the chapter opens). Carry-in from Ch. 012's close-out: the suspended count; the armed amendment; year nineteen; the counter-book.
+| **Chapter in progress** | **Ch. 013 — *The Second Office* — Page 001 DONE** (EN + cast + world + art, READ-verified) · Pages 002-010 not started · Ch. 001-012 COMPLETE
+| **Pages completed** | **Ch. 001-012: all complete — 120 pages** · **Ch. 013: page 001 complete** (English-only; cast card-lined; glossary + locations; image built, screened, and vision-verified) · 121 pages total in canon
+| **NEXT page to build** | **Ch. 013 Page 002** — the lease ruling: how the register rules on a paper sealed against the nameless; the stamp question ripens; the inventory count rolls on. English-only. Chain-stop ONE unspent.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work; **the three pages installed in run 11 are content-unverified** and are queued for a human read. **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-chapter seed (Chapter 013 — not yet opened)
+### Next-page brief (Chapter 013 · Page 002)
 
-**Chapter 012 — *The Whole Roll* — is COMPLETE.** Read `chapters/chapter-012/chapter-summary.md`
-before opening anything new; it is the source of truth for every thread below.
+**Page 001 is written.** Read it before starting. It ended with the lease flat under the lamp, the
+register open beside it, and the smallest caption *"Rule it, keeper."*
 
-The basin the next chapter wakes into: the Office's count is **suspended, not postponed** — an
-admission named by the clerk's own mouth in front of the whole square; the founder stands entered on
-the school's roll with her no still on file against the Office's; the amendment (*the roll means the
-Office's roll*) sits armed and unsigned in Room Nine; the register — the basin's second Office — is
-nine days old and taking the street's paper; and the number that closed the arc's clock, unspoken
-on-panel, is **year nineteen**.
+Page 002 is the ruling, and it has three jobs.
 
-Candidate engines (pick and title when the chapter opens):
+1. **The register rules — and the ruling must be a third thing.** Not grant (a lawful key to the
+   school's door), not refuse (bias on the record): Ira rules the lease ENFORCEABLE BUT UNBINDABLE —
+   the paper binds *names*, the tenancy holds *hands*, and the school's three are on no roll the
+   Office can read; possession by knot, entry by knot, and the register so finds. The Office's own
+   grammar, used to make their paper helpless. Kessa's line should crown it: an appraisal of the
+   lease as collateral — the paper is genuine; what it claims does not exist.
+2. **The costs, immediately.** The clerk's response by dusk (a notice? an inspection demand? the
+   amendment dusted off?), the landlord revealed as a front or a fool (never on-panel — a name on
+   the docket), and the queue's reaction: the basin learns what rulings cost when a bigger paper
+   disagrees with them.
+3. **The stamp question ripens.** The claimant from Page 001 returns for his answer — the register
+   cannot stamp, but it can CERTIFY: a keeper's certificate that a debt is disputed pending the
+   count, entered of record. The foreman must honour it or defy a record. He honours it — and the
+   basin learns the counter-book can mint credit. The second Office grows teeth; set the limit the
+   same page (Kessa: a keep is not a mint, keeper).
 
-1. **The Office's next move against an uncountable basin** — the suspension cannot hold forever; a
-   machine that cannot count may start instead taking, and Room Nine's chain is dead but a chest
-   with a dead knot in it still locks.
-2. **The counter-book's first crisis** — the street brings the register its paper, and one day it
-   brings a paper the keeper cannot refuse: a claim that forces the second Office to rule against
-   the first one's interest, in the first one's grammar, in public.
-3. **Year nineteen** — the arc's clock runs forward: what the school was before the basin, what the
-   founder's grammar counted before there were counts, and the door the directions pointed through
-   now standing entered on a roll.
+Carry in: **chain-stop ONE unspent**; the **inventory count** (granary sealed by now — Rekhak's next
+warning is fuel); the **amendment** armed; **year nineteen** dormant. Tone: a courtroom the size of a
+counter, the lamp doing all the lighting. English-only (R13.22).
 
-Standing constraints for anything opened: English-only (R13.22); mother never on panel, never speaks
-(thread and acts only); Loom never speaks; the three entered hands stay unnamed; chain-stop budget
-resets with the chapter; every page ships with its image, cast file, and card lines; audit before
-"done".
-
-### Chapter 012 — COMPLETE### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
+### Chapter 012 — COMPLETE### Chapter 012 — COMPLETE### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED### Chapter 011 — CLOSED
 
 *The Fourth Step* is complete on every track: 10 pages (EN + Hindi), 10 cast files with full card
 lines on every entry, world files grown in step (+45 glossary terms, +9 locations), 10 images built

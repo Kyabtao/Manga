@@ -914,6 +914,31 @@ Nandi), the text-shaped scribbles, and Ira's recurring cheek-marks — are recor
 pass; several trace to a concrete gap: **the grey clerk has no reference art** (ref-sheet task for
 the human queue).
 
+### R13.30 R13.29 defects closed — both partials re-rendered and verified; Chapter 013 — *The Second Office* — OPENED, Page 001 DONE
+
+**Image-audit follow-through (§R13.29's two PARTIALs):**
+
+| Image | Defect (§R13.29) | Fix | Verified |
+|---|---|---|---|
+| ch012 p003 | swept-hook panel dropped in a tier merge | re-rendered with strict 7-single-tier instruction; **the hook has its own close-up again** (swept circle, thread ends) | READ pre-install: CORRECT; screened 0/0; wired |
+| ch012 p007 | register drawn with a modern ring-binder | re-rendered: hand-bound ledger, sewn spine, cloth back pocket | READ pre-install: primary defect fixed; residual soft flags (pseudo-script, Nima elder drift) recorded |
+
+p007 v2 carries one non-gating advisory (flat band 8.7% of height — inside the shipped-advisory
+precedent band, R13.18/R13.22). Both replacements ship UNREAD into the human queue; v1s remain in
+git history. This turn's anchor held (`88ede5c`) — no reset struck.
+
+**Chapter 013 — *The Second Office* — opened** under the standing build-with-image pipeline. Page 001
+complete on every track: EN script (7 panels, `Camera:` on all), cast (6 entries, card-lined), world
+(glossary +4, locations +2), and the image — built, screened (0 hard / 0 warnings), READ-verified
+CORRECT pre-install (all seven beats: the dawn queue; the widow's ruling; the shut hatch; the
+unstamped pay-chit; Rekhak's inventory warning; the lease under the lamp; the pen taken), wired into
+`page-001.html` + `read/chapter-013/index.html` + site index. Hook: **"Rule it, keeper."** The
+chapter's engine: the Office cannot count hands so it counts what hands hold (granary, fuel,
+lamp-oil); the street brings its paper to the counter-book; and the first hard case is an old
+Office-stamped lease against the school's unnamed three — saved for exactly this morning.
+Continuity: chain-stop ONE, unspent; mother off-panel (no thread this page); Loom absent; the three
+entered hands unnamed (now a legal vulnerability); the amendment still armed.
+
 ### R13.7 Next actions
 
 | # | Priority | Item |
