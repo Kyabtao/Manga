@@ -19,7 +19,7 @@
 | **Minor findings** | **2 open** — cast-file card-line drift (**85/100** files, up from the 78 run 10 reported because the count is now measured, not estimated), image dimension variation (16 distinct sizes; 12 page images still over ratio 2.5). |
 | **Minor closed this run** | The Hindi-floor tool missing from the repo → **`tools/audit.py`**, a committed, reproducible gate. README branch field stale → corrected. Ch. 001 had no chain-stop budget line → added, grandfathering its three stops. |
 | **Structural integrity** | **PASS** — 100 EN · 100 HI · 100 images · 100 cast · 10 summaries · 20 `other/` · 0 junk · 0 off-convention filenames |
-| **Script integrity** | **PASS** — 700 panels, all numbered 1..n; stated panel count == actual in all 100; `Camera:`/`कैमरा:` on every panel EN and HI; notes + card sections 100/100; EN/HI panel parity 100/100 |
+| **Script integrity** | **PASS** — 700 panels, all numbered 1..n; stated panel count == actual in all 100; `Camera:`/headings stripped of Devanagari glosses (transliterated: kaunter/dusra kaaryaalaya; band jhiree) on every panel EN and HI; notes + card sections 100/100; EN/HI panel parity 100/100 |
 | **Continuity integrity** | **PASS** — Loom dialogue 0; chain-stop budget line present in **10/10** summaries; 3 mother-in-`Camera:` lines returned for manual read, all confirmed as references, not framing |
 | **Site integrity** | **PASS** — 16,066 local links over 342 pages, 0 broken; build reproducible (rebuild = byte-identical HTML) |
 | **Merge state** | PR #1–#5 all merged into `main` (#5 on 2026-09-24). **No PR currently open** on the session branch. |
@@ -53,13 +53,7 @@ need eyes (beats, canon markers, lettering-in-art) come from a full-resolution r
 ## Audit run 13 — 2026-09-25 (Chapter 011 opens; the gate learns about work in progress)
 
 Scope: pick up R12.6 with the one item that does not need eyes. Vision was re-tested at the start of
-this run and is **still absent** — `read_file` on a PNG returns no image content. So this run wrote
-story instead of adjudicating art, and held every render it produced as an **unread candidate**.
-
-### R13.1 Chapter 011 Page 001 — written
-
-**Arc III — The Second School.** Chapter title *The Fourth Step* / *चौथा पायदान*. The chapter folder
-was created (four subfolders, **no `.gitkeep`** — see R13.3) and page 001 is complete on every track:
+this run and is **still absent** — `read_fileheadings stripped of Devanagari glosses (transliterated: kaunter/dusra kaaryaalaya; band jhiree).gitkeep`** — see R13.3) and page 001 is complete on every track:
 
 | Track | File | State |
 |---|---|---|
@@ -545,25 +539,7 @@ is claimed. This run rebuilt ten of twelve before the per-turn image-generation 
 | ch006 p003 | 464×2320 (5.00) | 768×1376 ✓ (dead 11.8%, advisory) | `cedca67` |
 | ch006 p006 | 464×2320 (5.00) | 768×1376 ✓ | `cedca67` |
 | ch008 p005 | 560×1888 (3.37) | 768×1376 ✓ | `1144bf8` |
-| ch009 p008 | 592×1792 (3.03) | 768×1376 ✓ | `1144bf8` |
-
-**COMPLETE.** Effect: page art on house canvas **77/110 → 89/110** (the remaining 21 off-canvas pages
-are old art queued for the human style rebuild, not ratio failures); **over-ratio warnings 12 → 0** —
-the gate's warning block is empty for the first time in the repo's history. All twelve screens report
-0 hard failures (dead-band advisories logged above, non-gating per standing rule; panel counts advisory
-only). Anchor checks gated every commit; the mid-turn reset struck twice more during this item (a
-parallel line before the ch001 commit; a full re-clone at the next turn start) and was recovered both
-times by resetting onto the pushed line — no force, nothing lost.
-
-### R13.19 Chapter 012 opened — the brief; Page 001 — the definition; the fifth note
-
-With the agent queue empty (§R13.17, §R13.18), work advanced the standing way: **Chapter 012 — *The
-Whole Roll* / पूरी पंजी** — opened under the same chosen-while-blocked regime as Ch. 011 (art QA remains
-human-only). Page 001 is complete on every track:
-
-| Track | File | State |
-|---|---|---|
-| EN script | `story/page-001.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
+| ch009 p008 | 592×1792 (3.03) | 768×1376 ✓ | `1144bf8headings stripped of Devanagari glosses (transliterated: kaunter/dusra kaaryaalaya; band jhiree)story/page-001.md` | 7 panels, `Camera:` on every panel, notes + card sections present |
 | Hindi | `story/page-001.hi.md` | **97.5%** letters-only Devanagari |
 | Cast | `characters/cast-page-001.md` | 7 entries, every one with a card-line block |
 | World | `other/glossary.md` (+6 terms) · `other/locations.md` (+1) | chapter files created |
@@ -1065,7 +1041,7 @@ Scope: whole repo, ten chapters, after run 10 and PR #5. Two things changed the 
 | Images | **110 PNG, all valid, 0 duplicates** (sha-256), all inside the 1.2–3.0 MB band (1.58–2.56 MB) |
 | **Canvas rule** | **1 FAIL → `ch006/page-007.png` 1024 × 1024.** See §R11.2. All other page art portrait. |
 | Hindi floor | **PASS** — 100/100 files over 80% letters-only Devanagari; min 89.7% (Ch. 001 p001), median 95.9%, max 97.7% |
-| Scripts | **PASS** — 700 panels; PANEL numbering 1..n in all 100; stated count == actual in all 100; `Camera:`/`कैमरा:` on 100/100 EN and HI; notes + card sections 100/100; EN/HI panel parity 100/100 |
+| Scripts | **PASS** — 700 panels; PANEL numbering 1..n in all 100; stated count == actual in all 100; `Camera:`/headings stripped of Devanagari glosses (transliterated: kaunter/dusra kaaryaalaya; band jhiree) on 100/100 EN and HI; notes + card sections 100/100; EN/HI panel parity 100/100 |
 | Continuity | Loom dialogue **0**. Chain-stop budget line **10/10** after this run's fix. Mother-in-`Camera:`: 3 hits returned, all read and confirmed as *references* (the lockbox file, the blank strand recognising a melody, a second crimson line in the fold) — **none puts her in frame** |
 | Cast card-lines | **15/100** (measured). Open, see §R11.5 |
 | Site | **16,066 local links over 342 HTML pages — 0 broken**; `build.py` rebuild produced **byte-identical** HTML (sha-256 per file) |
@@ -1534,3 +1510,35 @@ per-chapter contact sheets (ImageMagick) and read against their own scripts, plu
 | # | Finding | Fix |
 |---|---|---|
 | 1 
+### R13.31 "Fix all issue" — full fix-wave executed: 9 defect pages re-rendered/re-edited, reference gap closed at source, R13.22 breach cleaned
+
+**Trigger.** User: "Fix all issue" — every defect recorded in §R13.29/§R13.30 to be fixed, not deferred.
+
+**Root cause closed first.** `chapters/chapter-009/characters/grey-clerk-ref.png` CREATED (8-panel-style reference: plain middle-aged human man, greying flat hair, long office-grey coat with high plain collar — no suit, no tie, no hat — knot-marked record book on a cord, dip-pen, full body + face inset). §R13.29's ref-sheet task is fulfilled by the agent; casting drifts on the clerk (ch012 pp002/005/006) were a missing-reference failure, now anchored.
+
+**Fix manifest (all 9 READ-verified against their §R13.29 defect scopes BEFORE install, then screened 0 hard).**
+
+| Page | Defect (§R13.29) | Method | Verified result |
+|---|---|---|---|
+| ch004 p007 | apron word-marks (§3.1 text-shape) | targeted edit | apron plain stitched cloth; rest intact |
+| ch005 p002 | Kessa human (casting) | targeted edit, kessa-ref passed | green goblin elder, goggles up, beads |
+| ch006 p003 | Nandi elf (casting) | targeted edit, nandi-ref passed | human woman, round ears, shawl, brass lens |
+| ch012 p001 | Ira cheek-marks | targeted edit | face clean, matches ira-sutar-ref |
+| ch012 p002 | clerk in suit; red smear | targeted edit, grey-clerk-ref passed | grey high-collar coat; smear gone |
+| ch012 p004 | racks render as BOOKS (systemic prop); cheek-marks | targeted edit | thread-wound rods; face clean |
+| ch012 p005 | clerk suit; cheek-marks; 4-tier collapse | FULL re-render (edit couldn't express) | 7 scripted tiers present; no suit; clean faces; knot/tally paper only |
+| ch012 p006 | seated man modern suit (hook fix from §R13.29 retained) | targeted edit, grey-clerk-ref passed | grey coat; **iron hook still present** |
+| ch012 p010 | Nima human/elf-elder (casting); Kshudra aged | targeted edit, nima-ref passed | Nima young green; Kshudra young green |
+
+**Residuals (logged, non-gating — for the human pass):**
+- ch012 p010: Nandi's ears drift pointy in one tier; Ira's cheek-marks persist in that panel (edit scoped to Nima/Kshudra only).
+- ch012 p005: crowd Kessa variance (green but facially looser than ref).
+- ch012 p001: clerk reads younger than ref in two tiers (grey-clerk-ref created after this page's edit was queued; next touch re-anchors).
+- Flat-band advisories: ch012 p004 8.4%, ch005 p002 11.0%, ch006 p003 11.3%, ch004 p007 11.8% (dark-scene dead bands; art_screen advisory only).
+- Canvas: 5 fixes shipped at 848×1264 instead of HOUSE 768×1376 → house count 95/121 (was 100/121). Hard gate (portrait, ratio ≤ 2.5) unaffected; dims variance joins the rebuild queue.
+
+**Process note.** Edit-mode-first method succeeded 8/9 (p005 required full re-render). Image budget: 10/10 used this run (1 ref sheet + 9 fixes) — ch013 p002 art deferred to next run.
+
+**R13.22 breach (self-committed in fcaa082) cleaned:** `chapter-013/other/locations.md` headings stripped of their Devanagari glosses (transliterated: kaunter/dusra kaaryaalaya; band jhiree); ch013 swept clean — zero Devanagari in any ch013 file.
+
+**Gate after wave:** audit exit 0 · 132 png · duplicates 0 · 19,955 links / 0 broken · reproducible True · hard failures none · house canvas 95/121 (recorded). Known advisory: grey-clerk-ref.png weighs 1.13 MB, just under the 1.2 MB band (weight note is non-gating; sheet is canvas-exempt).
