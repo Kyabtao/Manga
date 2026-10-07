@@ -1580,3 +1580,47 @@ cannot read the room; the three hands present and unnamed; the lamp-oil lands on
 light); repaired pre-existing corrupted heading run (`### Chapter 012 — COMPLETE### …` ×12 on one
 line, in HEAD since before this branch's audit runs) and the stale "Chapter 012 is not yet briefed"
 note — Ch. 012 is complete; its close-out pointer now reads `chapter-012/chapter-summary.md`.
+
+### R13.33 Chapter 013 Page 003 — *the inspection* — DONE: the empty row, the knot copied, the lamp-oil lands
+
+**Page.** `chapter-013/story/page-003.md` — 7 panels, Camera: on all. The count arrives (surveyor,
+slate, measuring cord, one seal; the three entered hands present and cooperative); the room read
+(exactly enough of everything, four racks, contents by knot); the empty row (the slate's PERSONS row
+the demand was filed to fill); the knot offered (the slate can carry the knot, never the hand);
+the count concluded (sealed, copy knotted to the door-frame — a room where nobody lives, which the
+Office cannot tax); the lamp-oil lands (Rekhak's forecast arrives: light on their books); the answer
+not said (Kessa's hand on the shut box; the fold un-invoiced). Ladder run: *Light it anyway.*
+Kessa silent the whole page — her silence is the till working.
+
+**Cast + world.** `cast-page-003.md` (5 entries, all card-lined: Ira, the Surveyor — never named,
+procedure not villain — the Three Entered Hands with stable visual descriptions for future pages,
+Rekhak, Kessa); glossary +3 terms (tally-slate / the empty row / the lamp-oil schedule); locations
++1 (the alley room — one door, one window, four racks, tenancy by knot).
+
+**Art — honest saga (panel-count roulette, then the deterministic fix).** v1 gen: 6 of 7 panels, the
+final hook missing and the slate's empty row unclear — read, NOT installed. v2 (full-strip redraw
+with 7-panel instruction): regressed to 4 panels — abandoned; lesson: a single generation cannot
+reliably hold 7 scripted beats, and instructing "add the missing panel" loses other panels. Patch
+route: standalone empty-row slate (clean on first gen) + standalone final-hook counter (one defect:
+red smear-marks on the strongbox — SAME class as the ch012 p002 chest; fixed by targeted edit,
+verified). v3 gen: 5 good panels, garbled P4, still 6 panels. Final page ASSEMBLED deterministically
+from verified parts: v3 P1/P2/P3/P5/P6 + v1's verified knot-offering as P4 + cleaned patch as P7;
+panel bounds detected by black-bar scan; spliced with PIL. Every beat READ-verified in the assembled
+page before install.
+
+**Residuals (logged, non-gating):** ratio 2.59 (> 2.5 advisory — recorded in the rebuild queue);
+off-house canvas 672×1742 (house 96/123); P4 runs slightly warmer (v1 source seam); P3 brush hovers
+over the top row rather than the empty band; faint pseudo-script squiggles on papers (known class).
+**Tooling note:** PIL + numpy installed via pip `--break-system-packages` (PEP 668 blocks bare
+install).
+
+**Gate-semantics correction (record-keeping).** `tools/audit.py` exits `1 if hard_fail else (2 if
+warn else 0)` — exit 2 means warnings-only (gate PASSED; warnings are logged, not gating, per the
+tool's own header). Two prior §R13.31/§R13.32 gate lines say "audit exit 0" where the true code was
+2 (grey-clerk weight note et al.); the criterion throughout has been and remains HARD FAILURES =
+none. The "transient reproducible rerun" note in session memory was this same warning-exit, not a
+build race.
+
+**Gate after page:** audit HARD FAILURES none (exit 2 = two non-gating notes: grey-clerk-ref weight;
+p003 ratio advisory) · 134 png · duplicates 0 · 20,105 links / 0 broken · reproducible True · house
+canvas 96/123 · ch013 in progress 3/10. R13.22: page, cast, glossary, locations, README swept clean.
