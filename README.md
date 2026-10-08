@@ -20,37 +20,47 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 013 — *The Second Office* — Pages 001-003 DONE** (EN + cast + world + art, READ-verified) · Pages 004-010 not started · Ch. 001-012 COMPLETE
-| **Pages completed** | **Ch. 001-012: all complete — 120 pages** · **Ch. 013: pages 001-003 complete** (English-only; cast card-lined; glossary + locations; images built, screened, and vision-verified) · 123 pages total in canon
-| **NEXT page to build** | **Ch. 013 Page 004** — the amendment: the Office redefines ENTRY to strike at the mint; the basin's light keeps its own hours. English-only. Chain-stop ONE unspent.
+| **Chapter in progress** | **Ch. 013 — *The Second Office* — Pages 001-004 DONE** (EN + cast + world + art, READ-verified) · Pages 005-010 not started · Ch. 001-012 COMPLETE
+| **Pages completed** | **Ch. 001-012: all complete — 120 pages** · **Ch. 013: pages 001-004 complete** (English-only; cast card-lined; glossary + locations; images built, screened, and vision-verified) · 124 pages total in canon
+| **NEXT page to build** | **Ch. 013 Page 005** — the answer at the gate: the register's owed answer arrives in writing before the Office's runner can out-shout it; the foreman pays or defaults; the certificate question settles. English-only. Chain-stop ONE unspent.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 132 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R13.31); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 013 · Page 004)
+### Next-page brief (Chapter 013 · Page 005)
 
-**Page 003 is written.** Read it before starting. It ended with the day entered — the room counted
-and no one in it, the light theirs until it isn't — Kessa's hand flat on the shut box, and the
-smallest caption *"Light it anyway."*
+**Page 004 is written.** Read it before starting. It ended with the amendment read aloud of record,
+the question at the yard gate entered and OWED AN ANSWER BY DUSK TOMORROW, the first rationed dusk
+taken — and the smallest caption *"Enter it anyway."*
 
-Page 004 is the amendment, and it has three jobs.
+Page 005 is the answer at the gate, and it has three jobs.
 
-1. **The amendment file arrives — the Office's counter-grammar.** A redefinition of ENTRY: what the
-   Office will henceforth accept as "a person entered" — written to fit inside the empty-row
-   finding and close it. Ira reads it of record at the counter, in public, line by line; the basin
-   hears the Office rewrite a word to win an argument. The clerk stays off-panel; the paper speaks.
-2. **The amendment's real target is the mint.** The new grammar defines whose paper counts as
-   RECORD — only Office-stamped paper. The keeper's certificates would stop being defensible the
-   hour it takes; a notice goes to the foreman's yard the same day. Set the wobble, do not resolve
-   it: the basin's answer (keep honouring the certificates or not) is Page 005's business.
-3. **The first rationed dusk.** The lamp-oil schedule turns: the stall's lamp now burns by the
-   Office's hour — a permit-dark, posted at the hatch. The counter stays lit anyway. The basin
-   learns the second Office keeps its own hours; Kessa's box stays shut.
+1. **The register pays its debt first.** Ira's owed answer goes out in writing, by name, to the
+   claimant AND to the foreman's gate, before dusk — the register answering doubt with the record:
+   the certificate stands until the count ends, because a definition cannot unmake what was entered
+   before it; the Office may rule what its own stamp means; it may not rule what was already
+   witnessed. Deliver the register's grammar cleanly — this is Ira at her most procedural, which is
+   to say her most dangerous.
+2. **The foreman pays or defaults — HE PAYS, but at a price.** The foreman (first time on-panel:
+   broad, careful, gate-keeper's face) honours the certificate in view of his own yard — and then
+   asks the counter for something back: his name is now on a record against the Office's definition,
+   and he wants it PROTECTED, not published. The second Office discovers what it costs to be worth
+   joining: names come with conditions. Grant the protection of record (entered, not read aloud) and
+   let the cost stand visible — this is the chapter's second institution-building beat after the
+   limit.
+3. **The clerk's counter-move lands.** The Office answers the register's written answer the only way
+   procedure can: a fresh notice that certificates must be PRESENTED AT THE OFFICE'S COUNTER FOR
+   ENDORSEMENT — to a counter that is shut. The trap is beautiful and must be stated plainly:
+   honour the paper, but only after a journey that cannot be completed. The basin wobbles once more;
+   the page ends with Ira reading the trap and the smallest caption turning it: *Then we open a
+   window.* (The endorsement window IN the stall's shutter — the second Office endorses what the
+   Office cannot — is Page 006's opening image; do not fire it this page.)
 
-Carry in: **chain-stop ONE unspent**; the **three entered hands** unnamed (not on-panel this page —
-the school is not the target of this one); **year nineteen** dormant. Tone: a public reading under
-one lamp — grammar as siegecraft. Imperative ladder run: *Enter it anyway.* English-only (R13.22).
-Mother never on panel, never speaks. Loom absent.
+Carry in: **chain-stop ONE unspent** (this is the page it WANTS to be spent on — the foreman's
+default would have been the moment; he pays, so it stays unspent); the **three entered hands** still
+off-panel; **year nineteen** dormant; the **oil-cord** (four hours, knotted) ticking in the
+background. Tone: a gate, a payment, and a trap drafted in clean grammar. Imperative ladder run:
+*Protect the name.* English-only (R13.22). Mother never on panel, never speaks. Loom absent.
 
 ### Chapter 012 — COMPLETE
 

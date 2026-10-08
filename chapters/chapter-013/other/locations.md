@@ -25,3 +25,10 @@ the crate, and four entry-racks: the roll, whole. The room keeps its own books �
 entry by knot — so when the Office's slate counts it (Page 003), the count comes back correct,
 sealed, and empty of persons: a room where nobody lives, which is a room the Office cannot tax. The
 three entered hands hold its tenancy, unnamed.
+
+## THE FUEL-YARD GATE
+
+The foreman's gate at the fuel-yard, with its knot-board (Page 004): where the Office's runner
+delivers the amendment's own copy the same day the register reads it — the wobble delivered straight
+to the gates, past the counter. Sacks, split wood, men pausing mid-load. The foreman keeps the gate
+and has not shown his face on-panel; Page 005 pays or defaults at this gate.

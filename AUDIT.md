@@ -1624,3 +1624,36 @@ build race.
 **Gate after page:** audit HARD FAILURES none (exit 2 = two non-gating notes: grey-clerk-ref weight;
 p003 ratio advisory) · 134 png · duplicates 0 · 20,105 links / 0 broken · reproducible True · house
 canvas 96/123 · ch013 in progress 3/10. R13.22: page, cast, glossary, locations, README swept clean.
+
+### R13.34 Chapter 013 Page 004 — *the amendment* — DONE: the word rewritten in public, the wobble set, the first rationed dusk
+
+**Page.** `chapter-013/story/page-004.md` — 7 panels, Camera: on all. The street fetches the paper
+(counting-lesson women untie the amendment at the hatch and carry it across the square — the counter
+does the reading now); the reading of record (ENTRY redefined: named upon a roll kept by the Office,
+no other entry is entry); the mint clause (what is record: paper under stamp, all else not record —
+the certificates ruled out of existence on taking); the wobble (the claimant's question entered of
+record, an answer owed by dusk tomorrow, by name, in writing); the notice at the yard (one runner,
+one gate — the war in logistics); the first rationed dusk (windows dying on the Office's hour, one
+lit stall); the counter stays lit (Kessa's oil-can and the till's own knotted cord, four hours a
+night). Ladder run: *Enter it anyway.* Entered of record: "the Office's hours — observed, and not
+obeyed."
+
+**Cast + world.** `cast-page-004.md` (5 entries, all card-lined: Ira, Kessa, the Claimant (third
+counter visit), the Counting-Lesson Women (third appearance, now couriers of record), the Clerk —
+off-panel author, his first honest aim: not the room, the mint); glossary +3 terms (the amendment /
+the permit-dark / the reading of record); locations +1 (the fuel-yard gate).
+
+**Art.** `images/page-004.png` — single-strip generation, all 7 scripted beats present (3 panels
+rendered as split half-panels: recorded layout variance, same class as p002's split); casting on-ref
+(ira/kessa refs passed); 848×1264 (off-house, recorded class); screen 0 warnings. Residual soft
+flags: pseudo-script squiggles on posted papers (illegible, known class); lamp lit while Kessa
+pours (artistic license, non-canon). **Panel-count roulette lesson holding:** the p002-style prompt
+pattern (beat-numbered panels, EXACTLY 7, refs passed) succeeded first try here after the p003
+double-failure — pattern is reliable but not certain; deterministic splice remains the fallback.
+
+**Gate-semantics note:** the gate criterion is HARD FAILURES = none (true exit 2 with the two known
+non-gating notes: grey-clerk-ref weight, p003 ratio advisory). R13.22: page, cast, glossary,
+locations, README brief swept clean.
+
+**Gate after page:** audit HARD FAILURES none · 135 png · duplicates 0 · 20,184 links / 0 broken ·
+reproducible True · house canvas 96/124 · ch013 in progress 4/10 · chain-stop ONE unspent.
