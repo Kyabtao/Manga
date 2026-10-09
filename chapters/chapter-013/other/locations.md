@@ -29,6 +29,8 @@ three entered hands hold its tenancy, unnamed.
 ## THE FUEL-YARD GATE
 
 The foreman's gate at the fuel-yard, with its knot-board (Page 004): where the Office's runner
-delivers the amendment's own copy the same day the register reads it — the wobble delivered straight
-to the gates, past the counter. Sacks, split wood, men pausing mid-load. The foreman keeps the gate
-and has not shown his face on-panel; Page 005 pays or defaults at this gate.
+delivered the amendment's own copy the same day the register read it — and where, one day later, the
+runner delivered the register's sealed answer to the same gate (Page 005). The foreman read it twice,
+honoured the certificate in view of his yard, and made the gate's rule out loud: paid against the
+keeper's paper, stands till the count ends. The gate that chose which paper it trusts — and paid for
+the choice.

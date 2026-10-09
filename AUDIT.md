@@ -1657,3 +1657,31 @@ locations, README brief swept clean.
 
 **Gate after page:** audit HARD FAILURES none · 135 png · duplicates 0 · 20,184 links / 0 broken ·
 reproducible True · house canvas 96/124 · ch013 in progress 4/10 · chain-stop ONE unspent.
+
+### R13.35 Chapter 013 Page 005 — *the answer at the gate* — DONE: the register pays first, the foreman pays at a price, the trap lands clean
+
+**Page.** `chapter-013/story/page-005.md` — 7 panels, Camera: on all. The answer written in
+duplicate (the register's owed answer out before noon — "a register that lets its answers go overdue
+is just a woman with opinions"); the grammar of the answer (a definition rules forward; it cannot
+reach backward over a record already entered — the certificate stands until the count ends); the
+gate receives the record (the FOREMAN on-panel for the first time — broad, apron, gate-keys, reads
+twice); the payment in view (full sack, paper held up like a receipt, the gate's rule made out loud);
+the foreman's price (protection of record: ENTERED, NOT READ ALOUD — the register's second
+institution-building beat, and its first sealed names); the trap (the endorsement demand: valid only
+at the Office's counter — the counter that is shut); the trap read aloud (entered of record, answer
+owed by morning). Ladder run: *Protect the name.* Chain-stop check explicit: had the foreman
+defaulted, the budget would have spent itself here — he paid; ONE, unspent.
+
+**Cast + world.** `cast-page-005.md` (5 entries, all card-lined: Ira, the Foreman — first on-panel,
+careful not warm — the Claimant (fourth visit), the Runner (both sides' paper in one day), Kessa);
+glossary +3 terms (a definition rules forward / protection of record / the endorsement demand);
+locations: the fuel-yard gate entry updated to the gate that chose.
+
+**Art.** `images/page-005.png` — 768×1376 (HOUSE canvas), 0 screen warnings. Single-strip
+generation, all 7 beats first try: duplicate answers, sealed close-up, the foreman's slow double
+read, the sack paid in view, cap-in-hands at the counter, the hand-lamp ring at the night hatch,
+the knotted oil-cord by the till. Casting on-ref (ira/kessa refs passed). Residual soft flags:
+pseudo-script squiggle-lines on the p1 counter papers (illegible at strip scale — recorded class).
+
+**Gate after page:** audit HARD FAILURES none · 136 png · duplicates 0 · house canvas 97/125 ·
+ch013 in progress 5/10 · chain-stop ONE unspent. R13.22 swept clean (page, cast, glossary, README).
