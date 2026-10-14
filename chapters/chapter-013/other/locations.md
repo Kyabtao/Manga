@@ -34,3 +34,14 @@ runner delivered the register's sealed answer to the same gate (Page 005). The f
 honoured the certificate in view of his yard, and made the gate's rule out loud: paid against the
 keeper's paper, stands till the count ends. The gate that chose which paper it trusts — and paid for
 the choice.
+
+## THE ENDORSEMENT WINDOW
+
+The hinged frame built into the stall's shutter overnight (Page 006), after the clerk's endorsement
+trap: paper presented here is endorsed here — witnessed true, entered of record, road intact,
+answerable at this counter. Knot-marks burnt into the sill-board; the window's own little seal hangs
+beside it on a cord; the keeper's name goes on every endorsement at its foot. First in line: the
+claimant, whose certificate now states its own validity on its face. First morning's take: an old
+debt acknowledged under a dead man's seal, and a hire-promise cord with no seal anywhere — the basin
+has been holding paper no office would ever read. The window's price is knotted into the till-cord:
+one candle a week, two till-hours a day, we witness, we do not mint.

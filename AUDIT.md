@@ -1685,3 +1685,33 @@ pseudo-script squiggle-lines on the p1 counter papers (illegible at strip scale 
 
 **Gate after page:** audit HARD FAILURES none · 136 png · duplicates 0 · house canvas 97/125 ·
 ch013 in progress 5/10 · chain-stop ONE unspent. R13.22 swept clean (page, cast, glossary, README).
+
+### R13.36 Chapter 013 Page 006 — *the endorsement window* — DONE: a door built in the middle of the trap, and the price of being worth copying
+
+**Page.** `chapter-013/story/page-006.md` — 7 panels, Camera: on all. The window opens (a hinged
+frame in the stall's shutter, seal on a cord, sill-board knot-marked — "They demanded a counter.
+Here is one."); the first endorsement (the claimant's fourth visit closes the wobble — the
+certificate now states its own validity on its face); the cost at the foot (the keeper's name at
+every endorsement — the mint-limit applied to witnessing); the papers nobody expected (an old debt
+acknowledged under a dead man's seal, kept soft with years; a hire-promise cord, never sealed — a
+promise witnessed is a debt that can be counted); the window's price (Kessa knots it: one candle a
+week, two till-hours a day — we witness, we do not mint); the runner's choice (EMPTY-HANDED, sent-
+speech: file weekly in Office grammar or be named with the unlicensed things — the first move of the
+war that exists nowhere on paper); the choice received (the pen NOT moving; the shuttered window
+glowing like lantern seams). Ladder run: *Answer it anyway.*
+
+**Cast + world.** `cast-page-006.md` (6 entries, all card-lined: Ira, Kessa, the Claimant (arc-wobble
+closed), two one-offs — the Old Creditor and the Young Dock-Hand, the paper the basin has been
+holding that no office would read — and the Runner, third appearance, now carrying words instead of
+paper); glossary +2 terms (the endorsement window / the filing choice); locations +1 (the
+endorsement window).
+
+**Art.** `images/page-006.png` — 768×1376 (HOUSE canvas), 0 screen warnings. Single-strip
+generation, all 7 beats present (split half-panels in the accepted class); casting on-ref
+(ira/kessa refs passed); the runner empty-handed as scripted; the till-cord's knots visible in the
+final beat. Residual soft flags: pseudo-script squiggles on the old woman's scrap and queue papers
+(illegible, recorded class).
+
+**Gate after page:** audit HARD FAILURES none · 137 png · duplicates 0 · house canvas 98/126 ·
+ch013 in progress 6/10 · chain-stop ONE unspent. R13.22 swept clean (page, cast, glossary,
+locations, README brief).

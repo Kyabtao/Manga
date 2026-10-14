@@ -20,47 +20,49 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 013 — *The Second Office* — Pages 001-005 DONE** (EN + cast + world + art, READ-verified) · Pages 006-010 not started · Ch. 001-012 COMPLETE
-| **Pages completed** | **Ch. 001-012: all complete — 120 pages** · **Ch. 013: pages 001-005 complete** (English-only; cast card-lined; glossary + locations; images built, screened, and vision-verified) · 125 pages total in canon
-| **NEXT page to build** | **Ch. 013 Page 006** — the endorsement window: the second Office answers a boarded counter by opening its own window in the stall's shutter. English-only. Chain-stop ONE unspent.
+| **Chapter in progress** | **Ch. 013 — *The Second Office* — Pages 001-006 DONE** (EN + cast + world + art, READ-verified) · Pages 007-010 not started · Ch. 001-012 COMPLETE
+| **Pages completed** | **Ch. 001-012: all complete — 120 pages** · **Ch. 013: pages 001-006 complete** (English-only; cast card-lined; glossary + locations; images built, screened, and vision-verified) · 126 pages total in canon
+| **NEXT page to build** | **Ch. 013 Page 007** — the third grammar: the register answers the filing choice without refusing and without surrendering the book. English-only. Chain-stop ONE unspent.
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 132 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R13.31); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 013 · Page 006)
+### Next-page brief (Chapter 013 · Page 007)
 
-**Page 005 is written.** Read it before starting. It ended with the endorsement trap entered of
-record — a valid paper, an impossible road — the answer owed the basin by morning, and the smallest
-caption *"Then we open a window."*
+**Page 006 is written.** Read it before starting. It ended with the runner's unwritten offer on the
+counter — file weekly, in duplicate, in Office grammar, or be named — the register open, the pen not
+moving, and the smallest caption *"Answer it anyway."*
 
-Page 006 is the endorsement window, and it has three jobs.
+Page 007 is the third grammar, and it has three jobs.
 
-1. **The window opens — the page's first image, the fired promise.** Morning: the stall's shutter
-   now carries a small hinged window-frame, knot-marked, with its own seal and its own sign: paper
-   presented here is endorsed here — witnessed, entered, and answerable at THIS counter. The second
-   Office does not reopen the Office's road; it builds its own door in the middle of the trap. The
-   basin's first sight of it should land like a joke told in clean grammar: they demanded a counter;
-   here is one.
-2. **The first endorsements, and what they cost.** A short line by noon: the claimant's certificate
-   endorsed at the window (witnessed, entered, road intact); two more papers the Office never
-   expected to see again (a debt acknowledged years ago; a hire promised and unpaid). Each endorsement
-   costs the register something small and permanent — the keeper's name at every foot, and now the
-   window's hours are public: the basin can see exactly when the second Office is open. Kessa prices
-   the window's candle and the till's time; the limit (a keep is not a mint) holds — endorsement is
-   witnessing, not lending.
-3. **The Office's answer arrives — and for once it is not a notice.** At dusk, the grey runner comes
-   to the window IN PERSON and does not deliver paper: he carries a verbal instruction and a choice
-   — the Office will tolerate the window if every endorsement is filed with the Office weekly, in
-   duplicate, in OFFICE grammar (the register's books, copied into theirs, becoming theirs). The
-   trap beneath: refuse and the window is "unlicensed"; accept and every record in the keeper's book
-   slowly becomes a branch office of the machine. End the page on Ira receiving the choice — the
-   answer owed is Page 007's opening line. Smallest caption: *Answer it anyway.*
+1. **The answer is a third thing again — the page's engine.** Not refusal (the window outlaws
+   itself), not filing (the book becomes a branch office): Ira answers with a COUNTER-CONDITION —
+   the register will file with the Office IF, and only if, the filing runs BOTH WAYS: the Office's
+   inventory counts, seal-logs, and permit-ledgers delivered to the counter weekly, in duplicate, in
+   the register's grammar, for entry and public reading. Symmetry as siegecraft: if our books must
+   be readable to you, yours must be readable to us. The clerk wanted a copy of the keeper's book;
+   the keeper asked for the whole machine, aloud, once a week.
+2. **The basin hears its own leverage said out loud.** At the reading-of-record (the counter's
+   newest institution), Ira reads the counter-condition to the square: for the first time, the
+   basin hears that the Office's counts CAN be read — granary tallies, fuel permits, the lamp-hours
+   — and that the second Office is offering to publish them. The crowd does not cheer; it goes
+   quiet, then somebody laughs, then the queue reforms. The runner's face when he takes the answer:
+   the first time he has ever carried something he will have to SAY, not hand over.
+3. **The amendment's author blinks.** Dusk: the answer comes back faster than procedure moves — a
+   knot-marked slip at the hatch, not under seal, unsigned: the count-house will receive ONE
+   instance of the register's filing, as a courtesy, WITHOUT the reciprocal term. The Office
+   answered out of hours, informally, to kill the symmetry clause. Ira's read: the reciprocal term
+   was never the danger to them — being READ IN PUBLIC was. End on the unsigned slip in the
+   register, entered as received: *unsigned, unsealed, answered out of hours* — the smallest caption:
+   *They read it.* (The formal reply, and what the register does with an enemy that negotiates
+   informally, is Page 008's business.)
 
-Carry in: **chain-stop ONE unspent**; the **foreman's protection** holding (his name never read
-aloud — do not feature him beyond background if at all); the **oil-cord** ticking; the **three
-entered hands** off-panel; **year nineteen** dormant. Tone: doorways, hours, and the price of being
-worth copying. Imperative ladder run: *Answer it anyway.* English-only (R13.22). Mother never on
-panel, never speaks. Loom absent.
+Carry in: **chain-stop ONE unspent** (still armed — Page 008's formal collision is the natural
+spend, do not spend it here); the **oil-cord** ticking; the **foreman** background only; the **three
+entered hands** off-panel; **year nineteen** dormant. Tone: symmetry as siegecraft; a runner who has
+to remember words for the first time. Imperative ladder run: *Read it back — both ways.* (The
+ladder's oldest run returns, grown.) English-only (R13.22). Mother never on panel, never speaks.
+Loom absent.
 
 ### Chapter 012 — COMPLETE
 
