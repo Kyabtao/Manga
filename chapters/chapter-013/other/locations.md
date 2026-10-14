@@ -15,7 +15,11 @@ with the claimant's mark. One table where a record gets made and nobody's uncle 
 The Office's public service hatch across the square, shuttered with a knot-marked notice: *pending
 the count.* The basin's only stamp is behind it. A handful of basin folk stand before it each
 morning, unreadable, then turn and walk toward the stall — which is the entire trade policy of the
-suspension, written in feet.
+suspension, written in feet. Its board has since carried the amendment, the permit-dark, and the
+endorsement demand — each sealed, each fetched across the square to be read aloud at the counter
+(Pages 004–006). Page 007 added the first unsealed thing it ever displayed: the courtesy filing,
+posted before the lamps, no wax, no name — and the street's readers knew at a glance that its
+bareness was the message.
 
 ## THE ALLEY ROOM
 

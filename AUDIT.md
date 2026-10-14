@@ -1715,3 +1715,32 @@ final beat. Residual soft flags: pseudo-script squiggles on the old woman's scra
 **Gate after page:** audit HARD FAILURES none · 137 png · duplicates 0 · house canvas 98/126 ·
 ch013 in progress 6/10 · chain-stop ONE unspent. R13.22 swept clean (page, cast, glossary,
 locations, README brief).
+
+### R13.37 Chapter 013 Page 007 — *the third grammar* — DONE: symmetry as siegecraft, and the first thing the clerk never signed
+
+**Page.** `chapter-013/story/page-007.md` — 7 panels, Camera: on all. The counter-condition drafted
+(the third answer: neither file-and-be-copied nor refuse-and-be-named); the terms on paper (TWO
+PARALLEL COLUMNS, both books, both ways, or neither); the reading of record (the basin hears its own
+leverage — the porter's laugh, which is not a funny laugh but the other thing); the runner made a
+messenger (carries what a keeper SAID, word for word, into a room that punishes error — not a
+promotion); the blink (the bare slip posted before the lamps — no wax, no name, faster than procedure
+moves); the read (Kessa: "this is one man in a quiet room, hoping"; Ira: "he told me his fear for
+free"); entered as received (the slip pressed into the register's back pocket — received, read,
+UNANSWERED; the register does not chase informality, it waits for it to become official). Ladder run:
+*Read it back — both ways* (the oldest run, grown).
+
+**Cast + world.** `cast-page-007.md` (5 entries, all card-lined: Ira, Kessa, the Runner (fourth),
+the Counting-Lesson Women (fourth — they now read the absence of a seal as a message), the Porter
+(one-off, the other thing)); glossary +3 terms (the counter-condition / the courtesy filing /
+sent-speech); locations: the shut hatch updated (first unsealed thing its board ever displayed).
+
+**Art.** `images/page-007.png` — 848×1264 (off-house, recorded class), 0 screen warnings. v1 read
+caught ONE hard defect: a typewriter-shaped machine with keys on P1's counter (§3.1 blocklist) —
+removed by targeted edit (v2: plain strongbox, folded cloth, Kessa's hands on the lid), everything
+else verified unchanged. All 7 beats present both versions (split half-panels in the accepted
+class): the drafting, the two-column terms with dual seals, the porter doubled over mid-crowd, the
+runner's too-careful hands, the headscarfed women untying the bare slip at dusk, the appraiser's
+squint, the slip pressed into the register at night.
+
+**Gate after page:** audit HARD FAILURES none · 138 png · duplicates 0 · house canvas 98/127 ·
+ch013 in progress 7/10 · chain-stop ONE unspent (armed for Page 008). R13.22 swept clean.
