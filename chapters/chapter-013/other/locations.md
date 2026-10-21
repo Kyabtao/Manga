@@ -19,7 +19,9 @@ suspension, written in feet. Its board has since carried the amendment, the perm
 endorsement demand — each sealed, each fetched across the square to be read aloud at the counter
 (Pages 004–006). Page 007 added the first unsealed thing it ever displayed: the courtesy filing,
 posted before the lamps, no wax, no name — and the street's readers knew at a glance that its
-bareness was the message.
+bareness was the message. Page 009: at dusk, the clerk himself — erased by his own office that
+morning, plain coat, empty cord, no paper — standing in the queue of the basin's people before it,
+asking for nothing. Entered of record. *Him, too.*
 
 ## THE ALLEY ROOM
 

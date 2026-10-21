@@ -1778,3 +1778,34 @@ squiggles on the bare slip (recorded class).
 
 **Gate after page:** audit HARD FAILURES none · 139 png · duplicates 0 · house canvas 99/128 ·
 ch013 in progress 8/10 · chain-stop ONE — SPENT. R13.22 swept clean.
+
+### R13.39 Chapter 013 Page 009 — *the disavowal* — DONE: erasure by passive voice; protection of record granted to the enemy
+
+**Page.** `chapter-013/story/page-009.md` — 7 panels, Camera: on all. The disavowal (sealed, prompt:
+the receipt is "the act of an individual, without authority" — the terms neither accepted nor
+refused, the clerk never named — the machine replied by deleting a man); the reading (flat — the
+horror is the grammar); the paper stands (the Office may decline its clerk's act; it may not decline
+his mark — the register's validity never came from the Office's recognition); the mirror (Kessa:
+"they name everyone, keeper — and they unnamed him"; the machine manufactured its first nameless man
+on purpose — the three entered hands' condition, inverted); protection of record (the clerk's name
+entered, NEVER legible to the reader, sealed into the back pocket beside the courtesy slip — the
+counter protecting the man the machine erased); the professional (Rekhak's folded paper on the wood
+for the first time — "any hand can be an individual" is the machine threatening every hand it has —
+shown the FOLD, not presented); the cameo (dusk: the clerk in the basin's queue, no paper, no
+asking — entered of record). Ladder run: *Him, too.*
+
+**Cast + world.** `cast-page-009.md` (5 entries, all card-lined: Ira, Kessa, the Clerk (one distant
+cameo), Rekhak (the fold), the Counting-Lesson Women (sixth fetch — they read the fetchers' pace as
+grammar now)); glossary +2 terms (the disavowal / the unnamed); locations: the shut hatch updated
+(the queue cameo recorded).
+
+**Art.** `images/page-009.png` — 672×1584, ratio 2.36 (under the 2.5 line; off-house dims, recorded
+class), 0 screen warnings. Single-strip generation (first attempt hit the provider's MAX_TOKENS —
+retry with trimmed prompt succeeded), all 7 beats present (2×2 split mid-page, accepted class):
+the grave fetch, the flat reading, the receipt displayed beside Ira's finger, Kessa's stillness, the
+sealed fold of the protected name, Rekhak's creased paper under his palm, the dusk queue with the
+empty-handed man. Casting on-ref. Soft flags: pseudo-script squiggles on the notice; thumb-print not
+fully distinct at scale; the fold's wax reads as a red streak-line; Rekhak's hair paler than ref.
+
+**Gate after page:** audit HARD FAILURES none · 140 png · duplicates 0 · house canvas 99/129 ·
+ch013 in progress 9/10 · chain-stop ONE — SPENT. R13.22 swept clean.
