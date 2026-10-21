@@ -1744,3 +1744,37 @@ squint, the slip pressed into the register at night.
 
 **Gate after page:** audit HARD FAILURES none · 138 png · duplicates 0 · house canvas 98/127 ·
 ch013 in progress 7/10 · chain-stop ONE unspent (armed for Page 008). R13.22 swept clean.
+
+### R13.38 Chapter 013 Page 008 — *the informal enemy* — DONE: the chain-stop SPENT on the threshold, the clerk on-panel, the thumb-mark set
+
+**Page.** `chapter-013/story/page-008.md` — 7 panels, Camera: on all. The courtesy formalized (the
+Office's sealed notice claims the filings "were always received as a courtesy" — an agreement
+invented overnight); side by side (the sealed notice and the unsigned slip read together — the
+Office's two grammars impeaching each other: disown the man and lose the channel, or own him and
+admit the machine negotiates); the man in the plain coat (the clerk's FIRST on-panel appearance —
+per his Ch. 009 reference sheet but STRIPPED OF OFFICE: undyed wool coat, bare head, the cord at his
+collar an empty loop); **the threshold — CHAIN-STOP SPENT** ("Speak as yourself or not at all" —
+the machine's hands enter the counter as a man for the first time in nine chapters; the ask: put
+your terms in writing, fair copy, I will sign for receiving it); the writing of the fair copy (both
+books both ways or neither — no softened clause, and he asks for none); the mark (his BARE THUMB in
+the wax beside the keeper's knot — the widow's grammar, learned from two years of reading the
+register); the crossing back (delivered, received, marked — the only paper in the basin that runs
+both directions). Ladder run: *Cross, then.* **Chain-stop budget Chapter 013: ONE — SPENT.**
+
+**Cast + world.** `cast-page-008.md` (4 entries, all card-lined: Ira, the Clerk — first on-panel,
+enemy doing business, not a convert — Kessa (the page's tension in her palm; the box released at the
+last beat), the Counting-Lesson Women (fifth fetch)); glossary +3 terms (the formalized courtesy /
+the thumb-mark / the chain-stop spent); locations: the endorsement window updated (the threshold
+crossing recorded).
+
+**Art.** `images/page-008.png` — 768×1376 (HOUSE canvas), 0 screen warnings. v1 read caught ONE hard
+defect: P6's sealing panel gave the clerk a raised thumbs-up gesture (modern; wrong beat — the mark
+must be his bare thumb in the wax) — fixed by targeted edit (v2: head bowed, bare thumb pressed deep
+into the wax beside the knot-sign); everything else verified unchanged. All 7 beats present; casting
+on-ref (clerk ref passed and stripped of office per script; ira/kessa refs passed). Residual soft
+flags: faint ambiguous greenish cheek shading on Ira in P3–P4 (far subtler than the bold cheek-marks
+fixed in the R13.31 wave — reads as dusk shadow at strip scale; human queue); pseudo-script
+squiggles on the bare slip (recorded class).
+
+**Gate after page:** audit HARD FAILURES none · 139 png · duplicates 0 · house canvas 99/128 ·
+ch013 in progress 8/10 · chain-stop ONE — SPENT. R13.22 swept clean.

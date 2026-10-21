@@ -20,48 +20,48 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 013 — *The Second Office* — Pages 001-007 DONE** (EN + cast + world + art, READ-verified) · Pages 008-010 not started · Ch. 001-012 COMPLETE
-| **Pages completed** | **Ch. 001-012: all complete — 120 pages** · **Ch. 013: pages 001-007 complete** (English-only; cast card-lined; glossary + locations; images built, screened, and vision-verified) · 127 pages total in canon
-| **NEXT page to build** | **Ch. 013 Page 008** — the informal enemy: the register produces the unsigned slip where it hurts most, and the clerk has to choose which kind of paper he is. English-only. Chain-stop ONE unspent — armed.
+| **Chapter in progress** | **Ch. 013 — *The Second Office* — Pages 001-008 DONE** (EN + cast + world + art, READ-verified) · Pages 009-010 not started · Ch. 001-012 COMPLETE
+| **Pages completed** | **Ch. 001-012: all complete — 120 pages** · **Ch. 013: pages 001-008 complete** (English-only; cast card-lined; glossary + locations; images built, screened, and vision-verified) · 128 pages total in canon
+| **NEXT page to build** | **Ch. 013 Page 009** — the disavowal: the Office erases its own clerk by grammar, and the register answers with its newest institution — protection of record, granted to the enemy. English-only. Chain-stop ONE SPENT (Page 008, the threshold).
 | **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 132 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R13.31); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 013 · Page 008)
+### Next-page brief (Chapter 013 · Page 009)
 
-**Page 007 is written.** Read it before starting. It ended with the courtesy filing pressed into the
-register's back pocket — unsigned, unsealed, answered out of hours, entered as received, read,
-UNANSWERED — and the smallest caption *"They read it."*
+**Page 008 is written.** Read it before starting. It ended with the fair terms delivered under seal
+and thumb-mark — the clerk walking them back across the dark square bareheaded — and the smallest
+caption *"Both ways."*
 
-Page 008 is the informal enemy, and it has three jobs.
+Page 009 is the disavowal, and it has three jobs.
 
-1. **The slip is produced where it hurts most.** The Office, emboldened by the register's silence,
-   posts a SEALED notice: the window's filings are received at the count-house "as a courtesy" —
-   formalizing the informal term as if it had been agreed. At the next reading-of-record, Ira reads
-   the sealed notice and the unsigned slip SIDE BY SIDE, aloud: the machine's own paper testifying
-   that its best offer was made by one man, in a quiet room, hoping — and that the machine never
-   agreed to anything. The trap the clerk built for the register now catches him: the Office must
-   either disown its own clerk (destroying the informal channel it just tried to formalize) or admit
-   the machine negotiates like a man.
-2. **The chain-stop is SPENT — on procedure, not violence.** The clerk appears at the counter in
-   person — off-hours, uncovered, alone: no office-grey coat, no seal on its cord. This is the
-   chapter's ONE chain-stop: the machine's hands have never entered the counter as a man, and the
-   moment the clerk crosses the threshold he is outside his own grammar — no seal to speak for him.
-   He does not threaten and does not concede; he asks the register's terms to be PUT IN WRITING —
-   a request that, once granted, makes him the first Office hand to ACCEPT a record the Office did
-   not write. The stop is spent on the threshold itself: the register's grammar crossing the
-   street. (If the user's standing tension prefers the stop for something larger, it can be read as
-   armed-one-more-page — but the brief's intent is: this is the spend, and the spend is a threshold,
-   not a blow.)
-3. **The term leaves as law.** The page ends with the counter-condition written out FAIR, in
-   duplicate, one copy under the keeper's knot and seal going to the clerk's own hand — the first
-   paper the Office has ever been handed on terms it did not draft. Smallest caption: *Both ways.*
+1. **The machine eats its one flexible part.** The Office's answer arrives sealed and prompt: the
+   thumb-marked receipt is "the act of an individual, without authority" — the terms neither accepted
+   nor refused, ERASED BY GRAMMAR. The clerk is not named (the Office never names its own); he is
+   described out of existence: an individual, unidentified, unauthorised. The basin sees what the
+   machine does to its own hands. Do not dramatize his punishment off-page — the horror is the
+   passive voice.
+2. **The register's answer: the paper stands, and the register does not unmake persons.** Ira's
+   entry, of record: the Office may decline its clerk's act; it may not decline HIS MARK — he was a
+   party at this counter, of record, and the register's validity never came from the Office's
+   recognition. And then the page's crown: Kessa's appraisal — "They name everyone, keeper. And they
+   unnamed him." The mirror closes: the machine that counted everyone has manufactured a nameless
+   man — the three entered hands' exact condition, manufactured on purpose this time. The register
+   grants the clerk PROTECTION OF RECORD — his name entered, not read aloud: the second Office's
+   newest institution, pointed at its own enemy. The basin watches the counter protect the man the
+   machine erased.
+3. **The silent cameo.** Dusk: the hatch queue — and among the basin folk stands the clerk. Stripped
+   coat or plain coat, empty cord, off-duty, holding no paper at all. He does not cross the square.
+   The register does not call to him. Entered: *seen, at the hatch, dusk, standing in the queue of
+   the basin's people.* Smallest caption: *Him, too.*
 
-Carry in: **chain-stop ONE — THIS IS THE SPEND (see job 2)**; the **oil-cord** burning; the
-**foreman** may cameo at the reading (background, silent, his protection holding); the **three
-entered hands** off-panel; **year nineteen** dormant. Tone: the moment the enemy becomes a man is
-NOT a victory lap — it is the most dangerous page of the chapter. Imperative ladder run: *Cross,
-then.* English-only (R13.22). Mother never on panel, never speaks. Loom absent.
+Carry in: **chain-stop budget: SPENT (Page 008)** — the chapter now runs on consequences, not
+reserves; **Rekhak's folded paper** (planted Page 001, never explained) may surface ONE beat closer
+to presentation — he sees the disavowal for what it is, professional to professional; **the oil-cord**
+burning; **year nineteen** dormant; **three entered hands** off-panel but thematically present
+(the unnamed mirror — say it in captions, not in scene). Tone: the passive voice as violence; the
+counter as the only place a erased man is still a party. Imperative ladder run: *Him, too.* English-
+only (R13.22). Mother never on panel, never speaks. Loom absent.
 
 ### Chapter 012 — COMPLETE
 

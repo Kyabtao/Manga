@@ -48,4 +48,6 @@ beside it on a cord; the keeper's name goes on every endorsement at its foot. Fi
 claimant, whose certificate now states its own validity on its face. First morning's take: an old
 debt acknowledged under a dead man's seal, and a hire-promise cord with no seal anywhere — the basin
 has been holding paper no office would ever read. The window's price is knotted into the till-cord:
-one candle a week, two till-hours a day, we witness, we do not mint.
+one candle a week, two till-hours a day, we witness, we do not mint. Page 008: the Office's sealed
+notice claims its filings are received "as a courtesy" — and the clerk himself crosses the counter's
+threshold at dusk to carry the fair terms back, under seal and his own thumb-mark.
