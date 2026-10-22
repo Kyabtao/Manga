@@ -23,6 +23,13 @@ bareness was the message. Page 009: at dusk, the clerk himself — erased by his
 morning, plain coat, empty cord, no paper — standing in the queue of the basin's people before it,
 asking for nothing. Entered of record. *Him, too.*
 
+## THE COUNTER'S TABLE
+
+The counter-top as the chapter leaves it (Page 010): the Office's sealed weekly delivery flat beside
+the open register — machine wax and basin knot-marks in each other's reach, each paper under the
+other's grammar now. One table where a record gets made and nobody's uncle owns the table; two books
+at it, and the whole basin allowed to read.
+
 ## THE ALLEY ROOM
 
 The school's room behind the door-frame knot — the room the lease covers and the inspection demand

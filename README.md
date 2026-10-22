@@ -20,50 +20,28 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 013 — *The Second Office* — Pages 001-009 DONE** (EN + cast + world + art, READ-verified) · Page 010 (FINALE) not started · Ch. 001-012 COMPLETE
-| **Pages completed** | **Ch. 001-012: all complete — 120 pages** · **Ch. 013: pages 001-009 complete** (English-only; cast card-lined; glossary + locations; images built, screened, and vision-verified) · 129 pages total in canon
-| **NEXT page to build** | **Ch. 013 Page 010** — FINALE: the terms accepted; the count ends; the basin reads both books. English-only. Chain-stop ONE SPENT (Page 008).
-| **NEXT art to fix** | **⛔ Art content still cannot be verified by the agent — a human must read it.** Run 11's verdicts remain withdrawn (`AUDIT.md` correction banner + §R12.2). **Queued for your review, in order:** (1) `ch004/images/page-010.png` — 11.1% green/cyan where the script calls for ash and basalt; (2) the three run-11 installs `ch002/p007`, `ch002/p009`, `ch006/p007` — shape-verified, content-unverified; (3) `ch011/images/page-001.png` and `page-002.png` — both built and machine-screened (768 × 1376, 0.0% green/cyan), never looked at; (4) `work/ch002-p008-v3.png`, `work/ch002-p010-v3.png` — held, not installed. Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page, per workflow step 5 — it is never left for later.** |
+| **Chapter in progress** | **NONE — Ch. 013 — *The Second Office* — COMPLETE (10/10 pages)** · Ch. 001-013 all complete · Ch. 014 not yet briefed
+| **Pages completed** | **130 pages total in canon** — Ch. 001-013 all complete (120 + 10). Ch. 013 close-out: `chapter-013/chapter-summary.md` · chain-stop ONE SPENT (Page 008, the threshold) · all pages agent-read (AUDIT §R13.30–§R13.40); human art queue retains authority
+| **NEXT page to build** | **Ch. 014 Page 001** — awaiting the user's brief. Seed (agent-drafted, not user-confirmed): *year nineteen turns* — the un-invoiced year arrives at the second Office as its first real winter: the first weekly delivery is late, and the basin learns what its new institutions weigh when the machine is under strain too. English-only.
+| **NEXT art to fix** | **Human art queue (§R12.4) — the verifying authority; agent reads feed it, they do not close it.** Fresh-from-canon, in order: (1) **Ch. 013 pp. 001–010** — all 10 agent-read CORRECT with recorded soft flags (AUDIT §R13.30–§R13.40); flagged residuals: Ira cheek shading in p008 P3–P4, pseudo-script squiggles throughout (illegible class), p003 assembled from verified parts (ratio 2.59, off-house); (2) **the R13.31 fix wave** — 9 re-rendered pages verified, residuals logged in §R13.31 (p010 ear-drift, p005 crowd-Kessa, 848×1264 off-house class); (3) older soft flags on ch012 p007 (8.7% flat-band advisory). Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page — never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 132 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R13.31); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 013 · Page 010 — CHAPTER FINALE)
+### Next-chapter seed (Chapter 014 — agent draft, awaiting user confirmation)
 
-**Page 009 is written.** Read it before starting. It ended with the clerk queueing among the basin's
-people at dusk — erased by his office, protected by the register — and the smallest caption
-*"Him, too."*
+**Year nineteen turns.** Ch. 013's finale whispered it once — *a year is turning that none of us
+have invoiced* — and Ch. 014 is the invoice arriving. Seed jobs:
 
-Page 010 is the finale, and it has three jobs.
+1. **The first real winter of the second Office.** The first late delivery; the queue in cold; what
+   the window's hours and the till's three knots weigh when the machine itself is under strain.
+2. **Rekhak's folded paper** — carried since before the counter existed, shown in Ch. 013 P009 and
+   deliberately not presented. His page is owed here.
+3. **Year nineteen, whatever it is** — dormant since Ch. 010's roll, the oldest rod in the
+   school's archive begins with it. The finale let it turn unannounced; Ch. 014 decides what the
+   turn costs.
 
-1. **The terms are accepted — in the machine's own hand.** A sealed notice at the hatch: the
-   count-house will deliver weekly to the counter — inventory counts, seal-logs, permit-ledgers, in
-   duplicate, under seal, for entry and public reading. No apology (the machine does not apologise);
-   the acceptance IS the disavowal of the disavowal. Read at the counter one last time as a reading
-   of record — and this time the crowd does not need it read: half the square can walk them through
-   the knot-rows themselves. The counting-lesson women read it ALOUD for the counter, as readers of
-   the basin, which is the institution completing itself.
-2. **The first delivery lands — and the lamp-hours end.** Dusk: the first weekly delivery arrives at
-   the window, under seal — granary counts, fuel-yards, permits — and with it, unprompted, the
-   permit-dark's withdrawal: the lamp-hours are struck from the schedule, because a light that is
-   read in public cannot be rationed in the dark. Kessa unties one of the four knots on the oil-cord.
-   Do not over-explain: one knot, one line — "we will keep the count anyway, keeper. Ours is older."
-3. **The chapter's close: the register open on the counter, both books side by side.** Final image:
-   night, the stall — the Office's sealed delivery flat beside the open register, each under the
-   other's grammar now. The basin's paper and the machine's paper at one table, neither owning it.
-   Final beats: Rekhak's folded paper stays in his coat (NOT presented — his page is another
-   chapter's warmth; the finale only lets him watch the delivery arrive with professional eyes); the
-   mother absent, the thread quiet, her last answer still working; the three entered hands still
-   unnamed — and the last caption notes the register's whole method in one line. Smallest caption:
-   *Both, then.*
-
-Carry in: **chain-stop budget SPENT (Page 008) — the finale runs on what the spend bought**; the
-**clerk** background only (one distant beat at most — he is a queue figure now, not a plot); the
-**foreman** background; the **oil-cord** (one knot untied at the close); **year nineteen** dormant —
-one whisper maximum in a caption if the finale needs a cold current. Tone: an ending that is really a
-beginning with better paper. Imperative ladder run (finale): *Read both.* English-only (R13.22).
-Mother never on panel, never speaks. Loom absent. After this page: `chapter-summary.md` (with the
-literal `**Chain-stop budget:**` line — audit hard-gates it), chapter close-out in README, and the
-NEXT-chapter seed.
+Standing constraints hold: mother never on panel, never speaks; Loom never speaks; three entered
+hands unnamed; English-only; chain-stop budget fresh — ONE.
 
 ### Chapter 012 — COMPLETE
 

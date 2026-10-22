@@ -1809,3 +1809,46 @@ fully distinct at scale; the fold's wax reads as a red streak-line; Rekhak's hai
 
 **Gate after page:** audit HARD FAILURES none · 140 png · duplicates 0 · house canvas 99/129 ·
 ch013 in progress 9/10 · chain-stop ONE — SPENT. R13.22 swept clean.
+
+### R13.40 Chapter 013 — *The Second Office* — COMPLETE (10/10): the finale lands both books at one table; chapter closed
+
+**Page 010 (finale).** `story/page-010.md` — 7 panels, Camera: on all. The acceptance in the
+machine's own hand (no apology, no seam anyone will ever find); read by the basin (a basin voice
+reads the machine's paper at the counter of record — the counting-lesson women's arc completing:
+queue → fetchers → readers); the first weekly delivery arriving looking like clerking (dust, wax,
+somebody's lunch on a ledger — a bored lesser clerk on a schedule: routine is the strongest grammar);
+the permit-dark struck (a light read in public cannot be rationed in the dark) and Kessa untying ONE
+knot — three remain, a winter in them; the first unrationed dusk (the stall's lamp indistinguishable
+at last); both books at one table, each under the other's grammar — nobody owns the table. Ladder
+run (finale): *Read both.* Year nineteen turned once, unannounced. Mother absent by design; the
+three entered hands itemized unnamed; Rekhak's paper stays folded.
+
+**Finale art.** `images/page-010.png` — 768×1376 (HOUSE), 0 screen warnings. v1 caught ONE hard
+defect: legible lettering ("NOTICE") on the permit-dark notice being taken down (P5) — fixed by
+targeted edit (v2: knot-marks only), verified. All 7 beats present; casting on-ref.
+
+**Chapter close-out.** `chapter-013/chapter-summary.md` written — carries the audit-gated literal
+`**Chain-stop budget:**` line (13/13 chapters now gate clean): ONE — SPENT on Page 008, the
+threshold. Gate after close: **13 chapters, 13 complete** · 910 panels · 141 png · duplicates 0 ·
+20,810 links / 0 broken · reproducible True · hard failures none · house canvas 100/130 · cast
+130/130 · chain-stop lines 13/13.
+
+**Broken-link fix during close-out:** cast-page-008/009's clerk ref-links resolve on the site to
+`characters/grey-clerk-art.html`, which never existed (the R13.31 ref sheet shipped without a full
+written sheet, and build.py generates art pages only from `<name>.md` + `<name>-ref.png` pairs).
+Fixed at the root: `chapter-009/characters/grey-clerk.md` written (full sheet, English-only, 8
+declared panels, Ch. 013 arc recorded — the threshold, the thumb-mark, the disavowal, protection of
+record, the queue) → `grey-clerk.html` + `grey-clerk-art.html` now generate; links 0 broken.
+
+**README close-out.** Ch. 013 COMPLETE row (10/10); canon at **130 pages**; NEXT = Ch. 014 Page 001
+(awaiting the user's brief — agent seed drafted, not user-confirmed: *year nineteen turns* — the
+un-invoiced year as the second Office's first real winter; Rekhak's folded paper owed; the roll's
+oldest year-knot); the stale run-11 art-queue row replaced with the current human-queue state
+(ch013 pp. 001–010 + R13.31 residuals, in order).
+
+**Chapter 013 final score (agent-read; human queue retains authority):** 10/10 pages shipped
+story + cast + world + art, all READ-verified; 3 hard art defects caught pre-install (the burning
+lease p002; p003's missing final hook — deterministic assembly; the typewriter p007; the thumbs-up
+p008; the NOTICE lettering p010 — five fixes across ten pages, all edit-mode except p003's splice);
+chain-stop ONE — SPENT (Page 008); R13.22 English-only held in every file; the imperative ladder
+grew ten runs. The second Office stands: both books, both ways, nobody owns the table.
