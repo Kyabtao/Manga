@@ -1852,3 +1852,44 @@ lease p002; p003's missing final hook — deterministic assembly; the typewriter
 p008; the NOTICE lettering p010 — five fixes across ten pages, all edit-mode except p003's splice);
 chain-stop ONE — SPENT (Page 008); R13.22 English-only held in every file; the imperative ladder
 grew ten runs. The second Office stands: both books, both ways, nobody owns the table.
+
+### R13.41 End-to-end single-page audit — Ch. 013 Page 001 (story + image, start to finish), verdict: CORRECT
+
+**Scope.** User asked for one story and one image audited end to end. Page chosen: Ch. 013 P.001
+(the chapter opener — first page of the newest chapter, vintage pre-ref generation, never re-audited
+since install).
+
+**Story file (`story/page-001.md`) — 18/18 structural PASS:** title block (title/arc/sector/page
+type); PANEL 1–7 headings in order; Camera: on all 7; every panel carries Image + voice/caption;
+ladder run recorded (*Rule it, keeper*); chain-stop line; mother/Loom/three-hands constraints;
+§3.1 note; Numbers; card-hook table; zero Devanagari (R13.22).
+
+**Canon + cross-file — all PASS:** cast-page-001: 6 entries, 6 card-line blocks, 6 fields each,
+0 broken links; glossary carries all 4 P.001 terms (pending the count / no stamp no pay / inventory
+count / the docket); locations carries both P.001 places, no Devanagari; widow ruling matches canon
+(six measures, hollow-interest void); ladder run present in the finale's full ladder list; Numbers
+line complete (two probe-misses were markdown line-wrap artifacts, not defects — verified in file).
+
+**Image (`images/page-001.png`) — VERDICT: CORRECT, all 7 scripted beats present:**
+1. dawn queue along the wall (a dozen-ish; boundary-cord pair visible) + shutters opening + Kessa at
+   the counter ✓ 2. the widow's tally-stick on the wood, register open, ruling being entered ✓
+3. the square: shuttered hatch, knot-marked notice, basin folk turning toward the stall ✓ 4. the
+   claimant's pay-chit (blank seal, no lettering) ✓ 5. Rekhak with his own paper at the queue's edge ✓
+6. the lease: aged paper, knot-marks and tally groups, ONE seal ✓ 7. the pen taken, queue at her
+   shoulders, register under it ✓.
+
+**Soft flags (non-gating, for the human queue):** (1) Rekhak reads younger/darker-haired than
+current ref practice — vintage pre-ref generation, staged showing rather than folding his paper;
+(2) faint green cheek tint on Ira in P2/P4/P7 (the known recorded soft class; milder than the
+ch012 instances fixed in R13.31); (3) Kessa omitted from P7's composition (script lists her folded
+hands); (4) P6's "two knot-hands" rendered as gloved hands handling the lease rather than knot-hands
+drawn on it. Art-only flags — the story file is clean.
+
+**Mechanical:** 768×1376 (HOUSE canvas), ratio 1.79, portrait ✓ · art_screen 0 warnings ✓ · site
+wiring: page 200, cast 200, image served byte-identical to repo ✓ · full gate: HARD FAILURES none ·
+20,810 links / 0 broken · reproducible True.
+
+**Method note (for future end-to-end audits):** structure via scripted regex checks; content via
+glossary/location/canon cross-references; image via beat-by-beat read against the page's own panel
+list; then screen → dims → wiring → full gate. Two probe FAILs investigated before verdict (both
+line-wrap artifacts — never record a defect from a probe without opening the file).
