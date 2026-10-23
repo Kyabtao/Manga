@@ -1893,3 +1893,44 @@ wiring: page 200, cast 200, image served byte-identical to repo ✓ · full gate
 glossary/location/canon cross-references; image via beat-by-beat read against the page's own panel
 list; then screen → dims → wiring → full gate. Two probe FAILs investigated before verdict (both
 line-wrap artifacts — never record a defect from a probe without opening the file).
+
+### R14.1 Chapter 014 — *Year Nineteen* — OPENED, Page 001 DONE: first snow, the miss entered, the fold protected, the year read
+
+**Interpretation on record.** User instruction this run: "Continuing." No page specified; the README
+NEXT position (Ch. 014 P.001, seeded by the agent at the Ch. 013 close-out and not user-confirmed)
+was built. If the user wanted a different target, everything here is committed and reversible.
+
+**Canon grounding done before writing:** *year nineteen* = Nandi's thread-year (Ch. 011 P.006 —
+older than the Freedom Year, enrolled decades before the basin's roll; "the basin's book is not old
+enough to hold a year nineteen"); the school's oldest rod begins with a **year-knot in the old
+grammar Ira cannot read** (Ch. 012 P.003, deliberately parked); Ch. 012 P.001 closed on the caption
+"Year nineteen."; Nandi's price canon: readings are asks, asks are lines in counts. All carried in.
+
+**Page.** `chapter-014/story/page-001.md` — 7 panels, Camera: on all. First snow and the first late
+delivery (the dependency weighed in cold); the miss entered without excuse (the record will not care
+why); **the volunteer** (Rekhak's paper — carried since before the counter existed — ENTERED UNREAD
+under protection: the register protects the fold, not the contents; his thumb-mark beside the
+keeper's knot, the basin's grammar chosen); the queue's answer (room on the bench — in this square,
+a citation); **the year's business** (Nandi at the year-knot, priced at an ask — Ira pays with her
+OWN line: *mine*); the thin delivery (one bundle of three, permit-ledger missing, nobody says so
+aloud); the turn (the reading: *the year of the second chain — nineteen years before their Freedom*;
+the machine's nineteen inside the school's thirty-nine). Ladder run: *Invoice it.* Chapter 014
+budget: chain-stop ONE, unspent. Mother off-panel, thread quiet; Loom absent; three hands unnamed.
+
+**Cast + world.** `cast-page-001.md` (5 entries, all card-lined: Ira, Kessa, Rekhak — the volunteer,
+Nandi — the reader, the Count-House Hand — thin and late; Nandi's ref link points at her Ch. 006
+sheet; an editorial slip in the first draft was caught and fixed before commit); glossary +4 terms
+(the first miss / entered unread / the year of the second chain / invoice it); locations +2 (the
+stall in snow / the archive wall at midwinter). All ch014 files swept Devanagari-clean.
+
+**Art.** `images/page-001.png` — 768×1376 (HOUSE canvas), 0 screen warnings, first generation: all
+7 beats present (one split row, accepted class); ALL FOUR character refs passed (ira/kessa/rekhak/
+nandi) and honored — winter texture in every panel; the thumb-mark beside the keeper's knot drawn
+exactly; the thin satchel visible through the window at midnight. Soft flags: faint pseudo-script
+squiggles in the register (recorded class); the count-house hand's bundle small at panel scale.
+
+**Gate after page:** audit HARD FAILURES none · 14 chapters (ch014 in progress 1/10) · 142 png ·
+duplicates 0 · 21,332 links / 0 broken · reproducible True · house canvas 101/131 · cast 131/131 ·
+chain-stop lines 13/13 (ch014 summary not yet due). README: position updated + P.002 brief written
+(the thin delivery entered; the ask as a debt with a line in it; where the knot points — smallest
+caption *Thirty-nine*).
