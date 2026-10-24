@@ -5,6 +5,12 @@ Everyone on the page. Card-game line format per `series-bible/04-card-game-notes
 ---
 
 ## IRA SUTAR — इरा सुतार  (PROTAGONIST)
+
+```
+Ira Sutar / Manavkin / Agnikhand / colourless thread / zero debt /
+Mend: cancel target debt instead of paying it /
+"The tearing keeps Office hours." — first agency over the bleed: the breath-hold stops the lend.
+```
 Full sheet (Ch. 001): [`../../chapter-001/characters/ira-sutar.md`](../../chapter-001/characters/ira-sutar.md)
 
 > **Page 008 note:** first agency over the bleed — the breath-hold stops the fold's lend mid-seam; the
@@ -13,12 +19,24 @@ Full sheet (Ch. 001): [`../../chapter-001/characters/ira-sutar.md`](../../chapte
 > Ends the page as the slate's second client.
 
 ## BHAN — भान
+
+```
+Bhan / Manav / Agnikhand / dock-brown (fray-adjacent) / light debt /
+Endure: belief breaks as arithmetic, not anger /
+"Then somebody's been holding me still."
+```
 Full sheet (Ch. 002): [`bhan.md`](bhan.md)
 Belief breaks as arithmetic, not anger (*"Then somebody's been holding me still."*). Names the nightly
 "safety inspection" he had thought was kindness and hands over the two-wax chit. Asleep at the bollard
 by Panel 5 — double shifts take their tax.
 
 ## THE CHIT-BOY — पर्ची-लड़का  (EXTRA — no name, no return promise)
+
+```
+The Chit-Boy / Manav / Agnikhand / grey, shielded lamp / light — he logs what he is given /
+Log: write the line that farms an arm /
+His stylus hovering over the new line is the whole performance.
+```
 Child-clerk at the dock gate standing desk, slate stylus, shielded lamp. Logs what he is given — Lekh's
 grammar at the basin end. No face wider than Panel 7's shoulder-crop. His stylus hovering over the new
 line is the hook's whole performance.

@@ -1,0 +1,7 @@
+# Scratch renders awaiting a QA read — never canon, never committed.
+# Accepted pages are copied into chapters/chapter-*/images/ and committed from there.
+work/
+
+# Python bytecode from tools/audit.py
+__pycache__/
+*.pyc

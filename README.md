@@ -7,7 +7,7 @@ from the first page to become a **trading card game** once the cast passes 500 c
 > [`ringbound-era-analysis.md`](ringbound-era-analysis.md)) was scrapped: its 120 "chapters" were one
 > five-scene template with names swapped in. This repo builds the story properly.
 
-**Format:** webtoon, vertical scroll, full colour · **Languages:** English + Hindi (Devanagari)
+**Format:** webtoon, vertical scroll, full colour · **Languages:** English; Hindi (Devanagari) through Ch. 012 p003 — **English-only from Ch. 012 p004 by user instruction** (AUDIT R13.22; bilingual catalog retained as shipped)
 
 ---
 
@@ -19,77 +19,69 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | Field | Value |
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
-| **Branch** | `arena/01a0c1d2-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **None — Ch. 001–010 all COMPLETE** (script + Hindi + cast + world + art) · **Ch. 011 not started** |
-| **Pages completed** | Ch. 001–010: **all complete** (100 pages, 100 images, EN + Hindi) · Ch. 009: Hindi 10/10, cast 10, glossary + locations · Ch. 010: Hindi 10/10, cast 10, glossary + locations |
-| **NEXT page to build** | **Ch. 011 Page 001** — create the chapter skeleton (four subfolders + `.gitkeep`) first, then plan the page from the Next-page brief below |
-| **NEXT art to fix** | **Ch. 001 rebuilt 001–010 (verified); Ch. 002 pages 001–006 rebuilt and verified — §8c closed.** `ch002/page-005.png` and `page-006.png` are installed at 768 × 1376; the pair's reject list and the one targeted dark-link edit are recorded in `AUDIT.md` §8c. **Next: Ch. 002 p007–p010**, then Ch. 003 p001–p009, Ch. 004 and Ch. 005 — **32 pages**, running ~4–6 accepted renders a turn at the reject rate §8c records. **Landscape page art in the repo is zero. Checklist: the page-art QA gate in `series-bible/style-guide.md`** (shape · panel count · beats · props · canon markers). |
-| **Open PR** | **[Kyabtao/Manga#5](https://github.com/Kyabtao/Manga/pull/5)** (this branch — character-art standard). PR #1–#4 merged into `main`. |
-| **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. Bhan and the Inspector were drawn from scratch; the seven older sheets were extended from front · side · back · face to the full standard. Ira also has an **alt sheet** (`ira-sutar-alt.png` — states, expressions, staging, silhouette). Nima's sheet was then regenerated clean (spec §3.1 caught a desk lamp, a mug and two pocket watches across passes). **Page-art rebuild:** Ch. 001 pages **001–005** are new and were **verified page-by-page in run 10** (p005 carries run 9's logged duplication); **006–010 were rebuilt and verified this session (run 10 §8b)** — the chapter is now fully on the current pass. Next: **Ch. 002–005**. **Three pages elsewhere were broken and are now fixed — see *NEXT art to fix*.** |
+| **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
+| **Chapter in progress** | **Ch. 014 — *Year Nineteen* — Pages 001-002 DONE** (EN + cast + world + art, READ-verified) · Pages 003-010 not started · Ch. 001-013 COMPLETE
+| **Pages completed** | **132 pages total in canon** — Ch. 001-013 complete (130) + Ch. 014 pp. 001-002. Ch. 014 so far: the year-knot read (*the year of the second chain — nineteen before their Freedom*), the keeper's line on the school's books, the thin delivery re-tagged, thirty-nine unbroken seasons · all agent-read; human art queue retains authority
+| **NEXT page to build** | **Ch. 014 Page 003** — the answer to the thin week: what the machine is saving its paper for. English-only. Chain-stop ONE unspent.
+| **NEXT art to fix** | **Human art queue (§R12.4) — the verifying authority; agent reads feed it, they do not close it.** Fresh-from-canon, in order: (1) **Ch. 013 pp. 001–010** — all 10 agent-read CORRECT with recorded soft flags (AUDIT §R13.30–§R13.40); flagged residuals: Ira cheek shading in p008 P3–P4, pseudo-script squiggles throughout (illegible class), p003 assembled from verified parts (ratio 2.59, off-house); (2) **the R13.31 fix wave** — 9 re-rendered pages verified, residuals logged in §R13.31 (p010 ear-drift, p005 crowd-Kessa, 848×1264 off-house class); (3) older soft flags on ch012 p007 (8.7% flat-band advisory). Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page — never left for later.** |
+| **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
+| **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 132 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R13.31); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 011 · Page 001)
-**The chapter folder does not exist yet.** Before writing, create `chapters/chapter-011/` with the four
-standard subfolders (`story/ characters/ other/ images/`) and `.gitkeep` files, as every chapter
-before it did.
+### Next-page brief (Chapter 014 · Page 003)
 
-Chapter 010 ended with the Office doing what it does best: it did not chase a woman it could not find,
-it **priced her door.** The bounty's claimant sold the hatch, the chute, the nights and half the ninth
-terrace's hands, was entered as **party of record**, and the Office posted a **grey lamp on a pole** at
-the alley mouth at dusk. On the step lay the knot the mother lifted out of the register — and beside
-it a **second knot in an untrained hand.** That is where Chapter 011 opens, and both halves of the
-chapter should be in the air on page one:
+**Page 002 is written.** Read it before starting. It ended with the winter's open count — *what is
+the machine saving its paper for?* — and the smallest caption *"Enter the thin."*
 
-1. **Who tied it.** The mother is teaching again, in the open, without permission, and the school has
-   its first pupil it has never met. This is the second school's rival and its mirror, and Ira should
-   find out about it the way she finds out about everything — through a knot and a queue.
-2. **The survey.** First bell, the Office walks the alley entry by entry, hand by hand, from the fourth
-   step to the water-butt, with the keeper of the register obliged to attend. Every person who was ever
-   enrolled through that hatch is now a line in somebody's book, and the arithmetic of forty years is
-   finally legible from outside.
+Page 003 answers the thin week, and it has three jobs.
 
-The live threads to carry in: **clause four's timer** on the licence (it lapses if the keeper fails to
-produce); the translation room's **invented entries** (the copyist who turned a fee into a knot) and
-Rekhak's recorded readings; **Nima's condition** — the day she is told to put a hand on that stand she
-will refuse out loud, in the room, and the Office will test it; **Nandi's condition** — every entry
-read aloud with the keeper, which makes the school's readings public business; **Jadi's counting
-lesson** now loose in three households; and **Kessa's tally-thread**, still the only copy of anything
-the school has said that cannot be audited.
+1. **The machine explains itself — one page too late.** A sealed notice at the hatch: the
+   permit-ledger is discontinued — lamp-oil permits folded into the fuel-yards' general schedule,
+   "for the season." The machine's own paper admits, by reorganizing, that it is short. The counter
+   reads it aloud and enters the obvious: the basin's light is now counted as part of the basin's
+   fuel — the two schedules the terms made public are being merged into one, and nobody living
+   wrote the rule that merges them.
+2. **Nandi reads the new tag — at her price.** The knot-work tag from the satchel comes to the
+   school's table; Ira pays her second line. The reading is short and cold: it is a HOLD mark —
+   the machine's grammar for a count paused by its own office — tied by a hand Nandi does not
+   recognize as the machine's current hand. Somebody inside is pausing the paper, not the machine.
+   The clerk who was erased — or his like — is protecting the basin from something by slowing its
+   paper down.
+3. **The register enters the winter's shape.** The page's close: the thin week was not a shortage —
+   it was a shield, tied from inside the machine, using the counter's own public-reading rule as
+   cover (paper paused cannot be read). The smallest caption lands the chapter's turn:
+   *It slowed to keep us blind.* The keeper's problem for the rest of the chapter is now stated:
+   how to make a machine that is protecting you tell you the truth.
 
-Tone for the opener: after ten chapters of paperwork, Chapter 011 should begin with *hands* — a queue
-that is no longer only claimants, an alley with a lamp on a pole, and a knot on a step that somebody
-tied on purpose so that Ira would know she is not the only teacher in Agnikhand.
+Carry in: **chain-stop ONE unspent**; mother off-panel, thread quiet; Loom absent; three entered
+hands unnamed; Rekhak's paper untouched; the oil-cord at THREE knots; snow holding. Tone: the
+enemy's grammar being used gently, from inside, by a hand the basin already knows. Imperative
+ladder run: *Read the tag.* English-only (R13.22).
 
-### Superseded brief (Chapter 009 · Page 001) — kept for reference
-**The chain-stop budget is overdue.** It was held unspent across Chapters 006, 007 and 008.
-Chapter 009 opened its budget and spent it on Page 006.
+### Chapter 012 — COMPLETE
 
-Chapter 008 ended on a slate: a compliance chain read a braided palm, returned both years at once,
-and a clerk wrote one word — **unreadable** — and underlined it twice. *There is no procedure for
-that, which means by morning there will be one.* That is Chapter 009's opening problem. The Office
-does not retaliate; it *codifies.* A new instrument will exist by the first bell, and it will be
-aimed not at Ira but at the thing she cannot protect: **Jadi's hand is the proof of concept and
-the only braided palm the Office can put on a slate.**
+### Chapter 011 — CLOSED
 
-The page's shape: the new procedure arrives at the stall as paperwork, not force — a grey clerk
-with a slate and a second, worse word. Ira has three days of breathing room at most and three
-problems stacked behind each other: Nandi is in custody and has not been charged; clause four's
-timer on the licence is still running; and the mother is four nights down a list of forty-one.
-Kessa's counter-position: *he can have the books, I keep the reading* — the tally-thread is the
-only copy of the crease-writs, and it makes her, not Ira, the piece on the board the Office has
-not noticed yet.
+*The Fourth Step* is complete on every track: 10 pages (EN + Hindi), 10 cast files with full card
+lines on every entry, world files grown in step (+45 glossary terms, +9 locations), 10 images built
+and screened with their pages (all **UNREAD** — human queue), and `chapter-summary.md`. The chapter's
+ONE chain-stop was **spent** on Page 010: the Loom's last knot, pledged unnamed in the Freedom Year,
+tied into the count-cord — *"Count not taken."* See AUDIT §R13.8–§R13.16 and the chapter close-out for
+the full record.
 
-The **chain-stop lands here**, and it should cost Rekhak rather than Ira: he is the basin's only
-chain-reader and the only person who can explain what a braid does to a compliance instrument —
-which means the Office will require him to swear to it. A held-stop oath on that subject is a
-deposit waiting to happen, and he has one lie already on his ledger.
+**Chapter 012 — *The Whole Roll* — is complete** (12 pages); its close-out lives in
+`chapter-012/chapter-summary.md` and AUDIT §R13.17–§R13.31. The live brief is the Page 003 section
+above. Until Ch. 013 closes, the top of the work queue after it is the human art queue (§R12.4), then
+the twelve over-ratio pages (the last agent-watchable item, warnings only).
 
-Continuity: Ira's stitch is **open** with a live channel; Jadi wears the school's first braid;
-the Mendery has a clerk on a crate every second bell; the Roll of Hands and Jadi's roster of
-forty-one are both with the mother; Loom never speaks; mother never on panel; the principal's
-answered letter is still unread by him.
+### Superseded brief (Chapter 011 · Page 010 — the finale) — kept for reference
+
+The brief page 010 was built from: **the spending decision** (the chapter's ONE chain-stop — drawer
+open, object shown, named, spent or refused); **the roll-call at morning** (the twenty-two cannot
+answer names; the Office's answer is roll-call by thread); and **the close** — smallest possible
+image. **Built as Page 010; the chapter closed; see §R13.16 and `chapters/chapter-011/chapter-summary.md`.**
 
 ### Format decisions (user-confirmed — do not relitigate)
-- Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi.
+- Fresh world (NOT the old Aetherra) · webtoon full colour · vertical strip · English + Hindi through Ch. 012 p003; **English-only from Ch. 012 p004 by user instruction** (AUDIT R13.22).
 
 ---
 
@@ -108,7 +100,8 @@ answered letter is still unread by him.
   `arena/…-manga` branch; update the field when it changes). Commit, then
   `git push origin <that branch>`.
 - One PR per branch. A merged PR does not follow a new branch: when the session branch changes, open a
-  new PR from it (currently [PR #2](https://github.com/Kyabtao/Manga/pull/2); PR #1 is merged). After
+  new PR from it ([PR #6](https://github.com/Kyabtao/Manga/pull/6) is open from this branch; PR #1–#5
+  are merged). After
   pushing, the open PR updates automatically — do **not** open a second PR from the same branch.
 - If the local clone looks fresh (HEAD at "Initial commit", files untracked), that is expected in a
   new sandbox: `git add -A && git commit && git push` and the PR will pick everything up.
@@ -290,9 +283,13 @@ chapters/
     other/     locations.md, glossary.md
     images/    page-001..010.png
   chapter-002 .. chapter-010/  COMPLETE — same layout, 10 pages each (EN + Hindi + art)
-  chapter-011/            next — skeleton created before writing starts
+  chapter-011/            IN PROGRESS — page 001 complete (EN + HI + cast + world + art); 002–010 to go
 
 website/                  generated reading site (committed) — build.py + assets/ are the sources
+tools/
+  audit.py                the reproducible audit gate — every number in AUDIT.md comes from here
+  art_screen.py           mechanical page-art screen (shape/weight/palette) + ranked review queue
+                          NOTE: it cannot check beats or canon markers — those need human eyes
 index.html                root redirect into website/
 ```
 
@@ -300,8 +297,10 @@ Every chapter follows the same `story/ characters/ other/ images/` layout.
 
 ### Structure conventions (audit-approved — keep these)
 
-- **One folder per chapter**, always the four subfolders above, created empty (with `.gitkeep`) before
-  the chapter starts — see `chapters/chapter-002/`.
+- **One folder per chapter**, always the four subfolders above, created before the chapter starts —
+  see `chapters/chapter-002/`. **Do not add `.gitkeep` files.** They were removed as junk in run 5 and
+  `tools/audit.py` fails the run if any reappear; note that the Next-page brief below still mentions
+  them and that instruction is stale.
 - **Character sheets live in the chapter of first appearance, forever.** Later chapters' `cast-` files
   link back to the original sheet instead of copying it. Refs sit beside their sheet as `<sheet>-ref.png`
   — **every named recurring character has one**, to the panel order in `series-bible/05-character-art-spec.md`
@@ -352,3 +351,10 @@ python3 -m http.server 8000       # serve the REPO ROOT, then open /website/ (ro
    character needs their **model sheet** (`<name>-ref.png`, 8 panels per
    `05-character-art-spec.md`) in the same commit as their `<name>.md`.
 6. **Track** — update this README's CURRENT POSITION; commit; push; refresh PR.
+7. **Gate** — run `python3 tools/audit.py` before calling any chapter or batch done. It checks
+   structure, junk, image canvas/duplicates/weight, the Hindi floor, script section and EN/HI
+   parity, the continuity guard-rails, cast card-lines, site reproducibility and links, and the
+   README's branch field. Exit 0 = clean, 1 = hard failure, 2 = warnings only. For art, run
+   `python3 tools/art_screen.py` — it checks shape, weight, dead bands and palette mechanically and
+   ranks candidates for review. **Neither script can check beats or canon markers.** Those need a
+   reader who can see the image; name that reader in `AUDIT.md` or the page is not verified.

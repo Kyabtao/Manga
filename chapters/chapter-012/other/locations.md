@@ -1,0 +1,61 @@
+# Chapter 012 — Locations
+
+Places used in this chapter. Basin locations from earlier chapters are defined in
+`chapter-011/other/locations.md`.
+
+## THE FIRST DOOR — YEAR NINETEEN — पहला दरवाज़ा — वर्ष उन्नीस
+
+Seen at last on Page 002, and the shock is proximity: the school that predates every list stands
+**behind the low gate, inside the sluice gallery** — in the one structure the basin thinks it knows.
+Small, older masonry in a visibly different bond from the gallery's living rock, with **no lock, no
+bar, and not one seal on it** — while the wall around it carries seasons of renewed Office seals that
+have always gone *around* the door, never across. One faint old knot-mark on the lintel, same old
+school of thread as the step-knot; **no whorl** — the maker's-mark question stays open. The log plate
+by the frame reads *void, no hands*. It was never hiding. It was filed. Unopened as the page closes —
+the hand raised, and the knock owed.
+
+## THE RIM ROAD — कगार-रास्ता
+
+The dirt road that climbs the ash-slope from the lanes to the basin's lip. A day's walk there and
+back; from the second switchback the whole basin lies below — the square a scatter of roofs, the alley
+a line, the grey lamp a pinprick burning in daylight. On Page 002 it carries one walker and, at an
+interval that never changes, a coat the grey of paperwork. Paid men never hurry; wages arrive tomorrow
+too.
+
+## THE LOW GATE — निचला जलद्वार
+
+Where the basin lets its water go: a stone slab gate at the lip, holding back the basin longer than
+the Office has held its roll. The Office maintains it because flooding is the one thing the Office
+fears — which is why the gate's gallery is inspected, sealed, and never counted: a drain has no hands.
+
+## THE SLUICE GALLERY — जलद्वार-गैलरी
+
+The rock-cut channel behind the low gate. A shallow black run of wet ash, and one inner wall carrying
+the Office's maintenance seals, season over season — except where the wall goes around a small old
+door it has never once sealed. The gallery mouth takes thin daylight; it is also where an honest coat
+arrives at the exact moment a cover story dies. The school's neighbourhood since before the roll: the
+one place in the basin filed as nothing.
+
+## THE ARCHIVE — अभिलेख-कक्ष
+
+Behind the first door: a low rock-cut chamber running along the channel's wall, racked floor to
+ceiling with hundreds of slim thread-wound rods, season on season — dust thick on the deep racks,
+clean on the near ones. The school kept its own roll all along, in thread, its own way, filed as
+nothing like everything else in here. One oil lamp, lit, trimmed, full: somebody maintains a room
+that does not exist. By the door, an iron hook at shoulder height — knot-scars of years on its curve,
+swept clean this week, empty now: the step-knot was tied from here. The oldest rack's lowest rod
+begins with a year-knot nobody in the room can read.
+
+## THE LIST-POST — सूची-खम्भा
+
+The basin's one newspaper (Page 005): a wooden post in the square where the Office pins its papers,
+at eye height, knot-marks and seals on Office stock. On Page 005 it is read back to its poster in
+front of the basin — the definition verbatim, then one entry added to the record — and it becomes the
+only posted paper in living memory that a clerk's hand rose to take down and could not.
+
+## THE STEP, AFTER — पायदान, बाद में
+
+The Mendery step at chapter's end: the direction knot intact (retied on Page 009, never untied
+again), the loose entry's space swept clean — the entry lives in the book now — and one night with
+the four-note sentence whole. The only step in the basin that answered a question in thread and got
+two knots back.
