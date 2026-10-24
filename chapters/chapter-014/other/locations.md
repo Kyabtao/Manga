@@ -22,3 +22,11 @@ Small, thick, older than any Office roll: the reader's own count in the old gram
 where debtor lines live when the price of a reading is a line in somebody's count. From Page 002 it
 holds the keeper's line: *Ira Sutar — took one reading, paid one line.* The second Office's founder,
 a debtor in a record older than the machine.
+
+## THE HATCH BOARD IN WINTER
+
+The Office's public notice-board under snow, and the basin's morning weather-report of record:
+whatever is posted here is fetched across the square and read aloud at the counter before the
+machine's own hands arrive. From Page 003 it carries the season's confession — the permit-ledger
+discontinued, the light folded into the fuel, *for the season* — and the basin moves on it together,
+before anyone official arrives.

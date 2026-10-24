@@ -20,42 +20,42 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 014 — *Year Nineteen* — Pages 001-002 DONE** (EN + cast + world + art, READ-verified) · Pages 003-010 not started · Ch. 001-013 COMPLETE
-| **Pages completed** | **132 pages total in canon** — Ch. 001-013 complete (130) + Ch. 014 pp. 001-002. Ch. 014 so far: the year-knot read (*the year of the second chain — nineteen before their Freedom*), the keeper's line on the school's books, the thin delivery re-tagged, thirty-nine unbroken seasons · all agent-read; human art queue retains authority
-| **NEXT page to build** | **Ch. 014 Page 003** — the answer to the thin week: what the machine is saving its paper for. English-only. Chain-stop ONE unspent.
+| **Chapter in progress** | **Ch. 014 — *Year Nineteen* — Pages 001-003 DONE** (EN + cast + world + art, READ-verified) · Pages 004-010 not started · Ch. 001-013 COMPLETE
+| **Pages completed** | **133 pages total in canon** — Ch. 001-013 complete (130) + Ch. 014 pp. 001-003. Ch. 014 so far: the year-knot read, the keeper's line on the school's books, the thin delivery re-tagged, thirty-nine unbroken seasons, and the tag's reading — **a hold mark, tied from inside the machine by a hand that is not theirs: the thin week was a shield** · all agent-read; human art queue retains authority
+| **NEXT page to build** | **Ch. 014 Page 004** — the sheltered paper: what the hold is keeping the machine from reading. English-only. Chain-stop ONE unspent.
 | **NEXT art to fix** | **Human art queue (§R12.4) — the verifying authority; agent reads feed it, they do not close it.** Fresh-from-canon, in order: (1) **Ch. 013 pp. 001–010** — all 10 agent-read CORRECT with recorded soft flags (AUDIT §R13.30–§R13.40); flagged residuals: Ira cheek shading in p008 P3–P4, pseudo-script squiggles throughout (illegible class), p003 assembled from verified parts (ratio 2.59, off-house); (2) **the R13.31 fix wave** — 9 re-rendered pages verified, residuals logged in §R13.31 (p010 ear-drift, p005 crowd-Kessa, 848×1264 off-house class); (3) older soft flags on ch012 p007 (8.7% flat-band advisory). Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page — never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
 | **Character art** | **All 9 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 132 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R13.31); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 014 · Page 003)
+### Next-page brief (Chapter 014 · Page 004)
 
-**Page 002 is written.** Read it before starting. It ended with the winter's open count — *what is
-the machine saving its paper for?* — and the smallest caption *"Enter the thin."*
+**Page 003 is written.** Read it before starting. It ended with the winter's problem entered — how
+to make a machine that is protecting you tell you the truth — and the smallest caption *"Read the
+tag."*
 
-Page 003 answers the thin week, and it has three jobs.
+Page 004 follows the sheltered paper, and it has three jobs.
 
-1. **The machine explains itself — one page too late.** A sealed notice at the hatch: the
-   permit-ledger is discontinued — lamp-oil permits folded into the fuel-yards' general schedule,
-   "for the season." The machine's own paper admits, by reorganizing, that it is short. The counter
-   reads it aloud and enters the obvious: the basin's light is now counted as part of the basin's
-   fuel — the two schedules the terms made public are being merged into one, and nobody living
-   wrote the rule that merges them.
-2. **Nandi reads the new tag — at her price.** The knot-work tag from the satchel comes to the
-   school's table; Ira pays her second line. The reading is short and cold: it is a HOLD mark —
-   the machine's grammar for a count paused by its own office — tied by a hand Nandi does not
-   recognize as the machine's current hand. Somebody inside is pausing the paper, not the machine.
-   The clerk who was erased — or his like — is protecting the basin from something by slowing its
-   paper down.
-3. **The register enters the winter's shape.** The page's close: the thin week was not a shortage —
-   it was a shield, tied from inside the machine, using the counter's own public-reading rule as
-   cover (paper paused cannot be read). The smallest caption lands the chapter's turn:
-   *It slowed to keep us blind.* The keeper's problem for the rest of the chapter is now stated:
-   how to make a machine that is protecting you tell you the truth.
+1. **What the hold is hiding.** The hold mark pauses the delivery; the delivery is the machine's
+   own counts; therefore the hold is keeping the MACHINE'S PAPER from being read at the counter.
+   Work the implication one step on-panel: something is happening inside the Office this winter that
+   its own rolls would expose — and the basin does not need to know what, only that the machine's
+   silence now has a shape and a size (one paused count, three weeks of fuel, one hidden ledger).
+   The register enters the SHAPE, not the contents.
+2. **The basin decides what to do with a protector it cannot question.** The queue's answer after
+   the reading: the basin KEEPS THE WINDOW OPEN. If the paper is paused to keep the machine blind,
+   the basin's counter stays public — the terms stand, the window's hours stand, and the basin
+   deliberately stays readable to its unknown protector. Trust as tactic: the counter's answer to
+   an anonymous gift is to keep the door it came through unlocked. Kessa prices the risk (the
+   machine could be learning their grammar from every reading) and pays it anyway.
+3. **The clerk hypothesis walks one step closer.** A snow-heavy figure is seen at the hatch board at
+   dusk, reading the season notice back — and re-tying ONE of the board's cords in machine grammar
+   with two knots changed. Never a face. The register's entry: the protector maintains his hold in
+   public, in the basin's sight, trusting the basin to leave it be. Smallest caption: *Let him.*
 
 Carry in: **chain-stop ONE unspent**; mother off-panel, thread quiet; Loom absent; three entered
-hands unnamed; Rekhak's paper untouched; the oil-cord at THREE knots; snow holding. Tone: the
-enemy's grammar being used gently, from inside, by a hand the basin already knows. Imperative
-ladder run: *Read the tag.* English-only (R13.22).
+hands unnamed; Rekhak's paper untouched; the clerk never named, never faced; the oil-cord at THREE
+knots; snow holding. Tone: trust as tactics; the winter's chess played in knot-work. Imperative
+ladder run: *Let him.* English-only (R13.22).
 
 ### Chapter 012 — COMPLETE
 

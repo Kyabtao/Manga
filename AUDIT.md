@@ -1965,3 +1965,31 @@ in the register (recorded class).
 reproducible True · house canvas 101/132 · ch014 in progress 2/10 · chain-stop ONE unspent. R13.22
 swept clean (page, cast, glossary, locations, README brief). README: position + P.003 brief (the
 machine's explanation — a HOLD mark tied from inside; *it slowed to keep us blind*).
+
+### R14.3 Chapter 014 Page 003 — *the hold* — DONE: the machine's confession, the tag read, the shield identified
+
+**Page.** `chapter-014/story/page-003.md` — 7 panels, Camera: on all. The machine explains itself
+one page too late (the permit-ledger discontinued, the light folded into the fuel — *for the
+season, of what, it does not say*; machines do not apologize, they reorganize); the reading of
+record in the basin's own voice (two public schedules merged by a rule nobody living wrote); the tag
+at the school's table (the keeper's SECOND line — same words, same grammar; the repetition is the
+discipline); **a hold mark** (the machine's grammar for a count paused by its own office — not
+broken, not lost: withheld, reversibly, by whoever holds the pen); **the colder finding** (the HAND
+is not the machine's current hand — *the clerk, or his like*; never named, never shown); the turn
+(the thin week was a SHIELD — paper paused cannot be read; the counter's own public-reading rule
+used as cover, by somebody inside, to keep the machine blind); the winter's problem entered (how to
+make a machine that is protecting you tell you the truth — no answer under it). Ladder run: *Read
+the tag.*
+
+**Cast + world.** `cast-page-003.md` (5 entries, all card-lined: Ira, Nandi, the Clerk (unseen
+hypothesis), the Counting-Lesson Women (readers again), the Machine (off-panel, one sealed notice));
+glossary +2 terms (the hold mark / for the season); locations +1 (the hatch board in winter).
+
+**Art.** `images/page-003.png` — 768×1376 (HOUSE canvas), 0 screen warnings, first generation: all
+7 beats present (one split row, accepted class); refs passed (ira/kessa/nandi) and honored. Soft
+flags: pseudo-script squiggles on the posted notices and register (recorded class).
+
+**Gate after page:** audit HARD FAILURES none · 144 png · duplicates 0 · 21,485 links / 0 broken ·
+reproducible True · house canvas 102/133 · ch014 in progress 3/10 · chain-stop ONE unspent. R13.22
+swept clean. README: position + P.004 brief (the sheltered paper; the basin keeps the window open —
+trust as tactic; *Let him.*).
