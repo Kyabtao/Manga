@@ -15,3 +15,10 @@ paper does not come.
 The school's oldest rack at the year's turning: the lowest rod silver with age, the dense year-knot
 at its head, Nandi's brass lens and the keeper's lamp on it together at midnight. Thirty-nine years
 of the old school, counted in a grammar the Office's nineteen-year roll cannot read.
+
+## NANDI'S BOOK
+
+Small, thick, older than any Office roll: the reader's own count in the old grammar, no lettering —
+where debtor lines live when the price of a reading is a line in somebody's count. From Page 002 it
+holds the keeper's line: *Ira Sutar — took one reading, paid one line.* The second Office's founder,
+a debtor in a record older than the machine.

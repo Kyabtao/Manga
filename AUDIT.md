@@ -1934,3 +1934,34 @@ duplicates 0 · 21,332 links / 0 broken · reproducible True · house canvas 101
 chain-stop lines 13/13 (ch014 summary not yet due). README: position updated + P.002 brief written
 (the thin delivery entered; the ask as a debt with a line in it; where the knot points — smallest
 caption *Thirty-nine*).
+
+### R14.2 Chapter 014 Page 002 — *the invoice's first column* — DONE: the thin entered, the keeper on the school's books, thirty-nine unbroken
+
+**Page.** `chapter-014/story/page-002.md` — 7 panels, Camera: on all. The thin delivery entered
+(two bundles of three; a NEW knot-work tag in the machine's grammar; the permit-ledger not in it —
+entered as received, the guess never written); the basin reads the shortness (nobody here believes
+in accidents); **the ask entered as a debt** (Nandi's own book — small, thick, older than any Office
+roll — takes the keeper's line in the old grammar: took one reading, paid one line, settled forward);
+the keeper's hand shakes once — at the grammar, not the debt (Kessa, almost fond: the till has been
+waiting for the keeper to learn what an entry feels like from the other side); **the rod runs
+forward** (the oldest rod unrolled a hand's width: thirty-nine season-knots, unbroken — the basin's
+actual record; theirs is nineteen and full of white spaces); Nandi's priced refusal (she reads what
+is ON the thread — the old school counts forward, not back; *ask me again when your line is paid*);
+the fresh page (the week's open count entered as a question: what is the machine saving its paper
+for?). Ladder run: *Enter the thin.*
+
+**Cast + world.** `cast-page-002.md` (5 entries, all card-lined: Ira, Kessa, Nandi — two steps of
+the year and one priced refusal, the Counting-Lesson Women (cameo), the Count-House Hand
+(off-panel — the absence tagged)); glossary +3 terms (the debtor's line / thirty-nine unbroken /
+the new tag); locations +1 (Nandi's book — new recurring prop: small, thick, dark cover, old
+grammar, no lettering).
+
+**Art.** `images/page-002.png` — 720×1456 (off-house, ratio 2.02 — recorded class), 0 screen
+warnings, first generation: all 7 beats present (one split row, accepted class); refs passed
+(ira/kessa/nandi) and honored; Nandi's book drawn to prop spec. Soft flags: pseudo-script squiggles
+in the register (recorded class).
+
+**Gate after page:** audit HARD FAILURES none · 143 png · duplicates 0 · 21,407 links / 0 broken ·
+reproducible True · house canvas 101/132 · ch014 in progress 2/10 · chain-stop ONE unspent. R13.22
+swept clean (page, cast, glossary, locations, README brief). README: position + P.003 brief (the
+machine's explanation — a HOLD mark tied from inside; *it slowed to keep us blind*).
