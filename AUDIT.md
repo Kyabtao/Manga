@@ -1993,3 +1993,38 @@ flags: pseudo-script squiggles on the posted notices and register (recorded clas
 reproducible True · house canvas 102/133 · ch014 in progress 3/10 · chain-stop ONE unspent. R13.22
 swept clean. README: position + P.004 brief (the sheltered paper; the basin keeps the window open —
 trust as tactic; *Let him.*).
+
+### R14.4 Full-canon audit — "audit everything, fix anything missing" — 3 layers run, 3 defects found and fixed
+
+**Method.** Layer 1: the machine gate, full output. Layer 2: deep structural completeness sweep
+across all 14 chapters (story↔image↔cast pairing, orphan detection, world files, summaries).
+Layer 3: sheets↔refs pairing, series-bible, tools, site art pages, Devanagari sweep of the new
+chapters, stale-record scan. Interpretation of scope: full-canon consistency audit; the 133
+per-page vision reads already on record (§R13.29–§R14.3) were not repeated — the gate + sweep
+verify their containers, and the human queue retains reading authority.
+
+**Layer 1 — gate:** one HARD failure found and fixed: `committed site != build output` — the
+Page 003 turn ran `build.py` BEFORE the README/AUDIT edits, so the committed `about.html` embedded
+a stale position block. Rebuilt and committed. **Process rule now on record: build AFTER README
+edits, before every commit.** Post-fix gate: 14 chapters (ch014 3/10) · 144 png · duplicates 0 ·
+21,485 links / 0 broken · reproducible True · hard failures none.
+
+**Layer 2 — completeness:** FALSE ALARM investigated and explained: ch001-011 carry 20 story files
+each — the second ten are the `.hi.md` Hindi track (the frozen bilingual catalog, 113 pairs,
+gate-validated at 113/133), not missing-page orphans; ch012 carries 3 (pp. 001-003, English-only
+from p004 per R13.22). Real result: **zero missing pages, images, or cast files; zero orphans;
+glossary 14/14; locations 14/14; chapter summaries 13/14 (ch014 correctly absent — in progress;
+summary due at its close with the gated chain-stop line).**
+
+**Layer 3 — sheets/bible/tools/site:** 10 full sheets ↔ 10 ref pngs, all paired (grey-clerk now
+included); 1 alt sheet present (optional); series-bible 7 docs intact; tools intact
+(`art_screen.py`, `tools/audit.py`, `website/build.py`); site generates 10 character art pages;
+ch013/ch014 swept CLEAN of Devanagari. Two STALE RECORDS fixed in the README Character-art row:
+"9 model sheets" → **10** (grey-clerk added in R13.39's link fix); "All 132 pages agent-read
+(§R13.29–§R13.31)" → **133 pages, §R13.29–§R14.3**. The Series row's Devanagari title is the
+committed historical name — R13.22 froze English-only FORWARD; not a defect.
+
+**Commit.** `0f7047c` — about.html rebuild + README row refresh + this record. Tree clean,
+local = remote. Remaining open items (by design, not defects): ch014 pp. 004-010; ch014 summary at
+close; house canvas 102/133 (off-house class recorded); grey-clerk-ref weight note; the human art
+queue.
