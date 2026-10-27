@@ -2028,3 +2028,11 @@ committed historical name — R13.22 froze English-only FORWARD; not a defect.
 local = remote. Remaining open items (by design, not defects): ch014 pp. 004-010; ch014 summary at
 close; house canvas 102/133 (off-house class recorded); grey-clerk-ref weight note; the human art
 queue.
+
+### R14.5 PR #6 MERGED into main
+
+Pre-merge audit: HARD FAILURES none · reproducible True · tree clean at `e443ac2`. PR record
+updated for accuracy (title carried "Run 11" since the era it opened; body rewritten to the full
+session scope before merge). **Merged 2026-10-27, merge commit `faa02fc`** — main now holds the
+complete canon: 14 chapters, 133 pages, 931 panels, 144 png, audits R13.17–R14.4. Branch
+`arena/01a0d19e-manga` remains the session's working branch; future work ships via a new PR.
