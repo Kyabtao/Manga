@@ -5,6 +5,12 @@ Everyone on the page. Card-game line format per `series-bible/04-card-game-notes
 ---
 
 ## IRA SUTAR — इरा सुतार  (PROTAGONIST)
+
+```
+Ira Sutar / Manavkin / Agnikhand / colourless thread / zero debt /
+Mend: cancel target debt instead of paying it /
+"Who sewed me?" — the locked question, out loud, at last.
+```
 Full sheet (Ch. 001): [`../../chapter-001/characters/ira-sutar.md`](../../chapter-001/characters/ira-sutar.md)
 
 > **Page 009 note:** brings the paperwork to the wood and gets the chapter re-aimed: the nightly cut is
@@ -13,6 +19,12 @@ Full sheet (Ch. 001): [`../../chapter-001/characters/ira-sutar.md`](../../chapte
 > been appraising all along: not the tear — the hand.
 
 ## KESSA — केसा  (VOICE ONLY — first through the boards)
+
+```
+Kessa / Kshudra / Agnikhand / knotted grey thread / light debt /
+Appraise: reveal and cancel target debt; knots cannot be cut /
+"Tonight you need the cutter's name, not the sewer's."
+```
 Full sheet (Ch. 001): [`../../chapter-001/characters/kessa.md`](../../chapter-001/characters/kessa.md)
 
 > **Page 009 note:** speaks through the shutter for the first time: dry as tally-thread, no face, no
@@ -21,6 +33,12 @@ Full sheet (Ch. 001): [`../../chapter-001/characters/kessa.md`](../../chapter-00
 > heard, never shown; the box stays locked per canon.
 
 ## THE CAT ON GUTHLI'S LEDGE — गुठली की मुंडेर की बिल्ली  (one-appearance chorus)
+
+```
+The Cat on Guthli's Ledge / beast-kind / Agnikhand / dust and ash / none /
+Chorus: face the Knot & Nail like everybody else /
+Appears once, never returns, never speaks.
+```
 Faces the Knot & Nail like everybody else. Appears once, never returns as a motif, never speaks
 (obviously). The basin's chorus tonight is one animal.
 

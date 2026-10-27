@@ -318,8 +318,9 @@ def reader_sidebar(ch, current):
         num = pg.split("-")[1]
         cls = ' class="on"' if pg == current else ""
         items.append('<a%s href="%s.html"><b>%s</b><span>EN</span></a>' % (cls, pg, num))
-        cls = ' class="on"' if pg + ".hi" == current else ""
-        items.append('<a%s href="%s.hi.html"><b>%s</b><span>हि</span></a>' % (cls, pg, num))
+        if os.path.exists(os.path.join(ROOT, "chapters", ch, "story", pg + ".hi.md")):
+            cls = ' class="on"' if pg + ".hi" == current else ""
+            items.append('<a%s href="%s.hi.html"><b>%s</b><span>हि</span></a>' % (cls, pg, num))
     return '<div class="side-box"><h4>Chapter %s</h4>%s</div>' % (
         ch.split("-")[1], "".join(items))
 
@@ -338,9 +339,13 @@ def build_reader(ch):
                 continue
             site_rel = "read/%s/%s%s.html" % (ch, pg, suffix)
             body = render_md(src, site_rel)
-            toggle = ('<div class="lang"><a class="%s" href="%s.html">English</a>'
-                      '<a class="%s" href="%s.hi.html">हिन्दी</a></div>' % (
-                          "on" if lang == "en" else "", pg, "on" if lang == "hi" else "", pg))
+            has_hi = os.path.exists(os.path.join(ROOT, "chapters", ch, "story", pg + ".hi.md"))
+            if has_hi:
+                toggle = ('<div class="lang"><a class="%s" href="%s.html">English</a>'
+                          '<a class="%s" href="%s.hi.html">हिन्दी</a></div>' % (
+                              "on" if lang == "en" else "", pg, "on" if lang == "hi" else "", pg))
+            else:
+                toggle = '<div class="lang"><a class="on" href="%s.html">English</a></div>' % pg
             links = ('<div class="pagelinks">%s<a class="btn" href="cast-%s.html">Cast &amp; card lines</a>%s</div>'
                      % (prev_l, num, nxt_l))
             reader = ('<div class="reader"><div class="rtoggle">%s</div>'
