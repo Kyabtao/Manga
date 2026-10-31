@@ -45,3 +45,18 @@ crusted ridge of snow, the board's cords stiff with cold. From Page 004 it is al
 works — a snow-heavy figure, no face, reading the season notice back by touch and re-tying two knots
 on one public cord in machine grammar, leaving a glove-mark in the snow. The basin watches from the
 stall's far window and does not move.
+
+## THE SCHOOL'S SIDE ROOM, WINTER CLASS
+
+The archive room with its table pushed to the wall and benches brought in: coats kept on, a short
+practice cord in every lap, the brass lens set down unused because the lesson is about finish and not
+thread. From Page 005 it is the basin's first schoolroom for machine grammar — nine women, one
+teacher, the till at the door-frame taking a line a head. Cold, crowded, lit by one lamp and the
+window: an institution, not a lecture hall.
+
+## THE RECEIVED TRAY
+
+The shallow tray at the stall's counter where delivered papers go face-down when they are entered but
+not signed. From Page 005 it holds the Office's courtesy form: the first machine document the counter
+has accepted without a line of its own on it. The tray is the physical shape of the register's third
+grammar — *entered as received* — and it sits in the queue's sight, on purpose.

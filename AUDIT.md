@@ -2084,3 +2084,61 @@ refreshed: branch field (`arena/58bfdb2c-manga`), pages 134, position, and the *
 the lesson in hold-grammar, the Office's courtesy form (regularize the counter's hours), and the
 protector's absence at dusk (*Note the absence.*). Build run AFTER the README/AUDIT edits, per the
 R14.4 process rule.
+
+### R14.6 Chapter 014 Page 005 — *the lesson and the courtesy* — DONE: the grammar taught in public, the kindness with a second page, the absence noted
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.005, from the R14.5 brief) was built. Committed and reversible.
+
+**Canon grounding before writing:** Nandi's teaching rule from P.003 (read what is ON the cord, not
+a knot further); the counter's public-reading law (terms, Ch. 013; re-used P.003–P.004); the runner
+as a lesser clerk since Ch. 013 P.007 (fifth appearance here, no name); the till-cord's three knots
+(Ch. 013 window's price); the grey clerk never faced, never named (Ch. 009 onward).
+
+**Script.** `story/page-005.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the winter's first open lesson (nine women, practice cords, the two changed knots brought indoors)
+→ hold-versus-break taught from the finish under the lens → the class priced at one line a head and
+the register's entry that a grammar taught outside the Office is the first grammar the Office does
+not own → the courtesy form (blank face, seal) delivered by the runner, now a junior clerk, with both
+hands and one pace of distance → the SECOND PAGE read aloud, as everything delivered is: the Office
+may amend the hours by notice, at its ordinary discretion → the answer by symmetry (no signature, no
+line of the basin's on their page; the Office may post its hours on the basin's board, to be read
+aloud) → dusk with nobody at the board: *Note the absence.* Ladder run: *Note the absence.*
+Chain-stop ONE, unspent; mother off-panel; Loom absent; Rekhak's paper untouched; snow-heavy figure
+absent by instruction; grey clerk absent.
+
+**Cast + world.** `characters/cast-page-005.md` — 6 entries, all card-lined (Ira · Kessa · Nandi ·
+the Runner, fifth appearance, face never in frame · the Counting-Lesson Women, nine at the benches
+and two at the window · the Machine, off-panel, the courtesy). `other/glossary.md` +6 terms (a break
+is a fact; a hold is a decision · the open lesson · the courtesy form · the second page · the same
+courtesy, both ways · "Note the absence"). `other/locations.md` +2 (the school's side room, winter
+class · the received tray).
+
+**Art — built with the page, read at full resolution, one defect fixed.** First generation:
+875×1798 (ratio 2.05, portrait ✓, all 7 tiers present) — but the dusk panel's foreground reader
+(Ira closing the register) came back dark-haired and reading ambiguously male, the same
+character-drift class as the P.004 Kessa defect. Fixed by a targeted edit on the same canvas: long
+ash-grey braid, three-quarter back view, face not visible. Also re-encoded (`-strip`, max PNG
+compression) from 3.29 MB into the band. Final: **`images/page-005.png` — 720×1479, ratio 2.05,
+2.21 MB, screen 0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 cold side room, benches with
+cords in laps, stooped twine-tied teacher holding the two-knot cord, slate at the door ✓ · P2 brass
+lens, cord with two differently finished knots, gnarled finger, chalk tallies, no words ✓ · P3 from
+behind the benches: hands tying copies, a silent laugh, the slate, Ira entering at the frame edge ✓ ·
+P4 afternoon stall: junior clerk sets the blank sealed form down with both hands, one pace back,
+queue close behind, Kessa still at the till ✓ · P5 hands panel as scripted — young hands too careful,
+second leaf held open to the room, face out of frame above, queue boots crowding in ✓ · P6 the form
+face-down in the received tray, hand withdrawn, Kessa's slate, the clerk with loose hands ✓ · P7 dusk
+board: cords untouched, nobody there, old prints in the snow, two women at the far lit window,
+Ira's ash-grey braid in the foreground ✓. No lettering on any paper, form, slate or notice ✓.
+Agnikhand palette ✓. Soft flags for the human queue: (1) an unscripted woman sits at the right-hand
+table in P1 (reads as an archive keeper — harmless, but not in the script); (2) the lens in P2 sits
+beside the cord rather than over it (composition drift); (3) 720×1479 is the off-house canvas class
+(ratio correct).
+
+**Gate after the page:** HARD FAILURES none · 146 png · duplicates 0 · 21,653 links / 0 broken ·
+reproducible True · ch014 in progress 5/10 · chain-stop lines 13/13 · cast card-lines 135/100 missing
+0. README refreshed: 135 pages, position line, and the **Page 006 brief** — the Office posts its
+hours and one of them is not on any roll, the till opens to fund the school, Rekhak checks his fold
+(*Still folded.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
