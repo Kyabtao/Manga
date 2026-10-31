@@ -2142,3 +2142,59 @@ reproducible True · ch014 in progress 5/10 · chain-stop lines 13/13 · cast ca
 0. README refreshed: 135 pages, position line, and the **Page 006 brief** — the Office posts its
 hours and one of them is not on any roll, the till opens to fund the school, Rekhak checks his fold
 (*Still folded.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R14.7 Chapter 014 Page 006 — *the hour that is not on the roll* — DONE: the Office's posted hours, one uncounted, the till opened as a purse, the fold tested
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.006, from the R14.6 brief) was built. Committed and reversible.
+
+**Canon grounding before writing:** the symmetry the counter offered on P.005 (the Office may post
+its hours on the basin's board, to be read aloud); *protection of record* (Ch. 013 — entered, not
+read aloud) as the register's back-pocket fold; Rekhak's three props (ledger-slate, counting-chain,
+crimson-sealed page) and the ash he does not brush off; the school's tally in Nandi's hand (Ch. 014
+P.001–P.002); Kessa's till as the basin's ledger of price.
+
+**Script.** `story/page-006.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the posting (no clerk, no seal-cart, no boots in the snow — the Office complied while the basin
+slept) → the cord's hours under the elder's fingers, six groups and a seventh apart → the reading of
+record, the machine's hours in the basin's voice → the gap by comparison with the old school's
+six-group tally, tied in the wrong hand's finish → the till opened, nine lesson-lines entered to the
+school's book, the risk named and entered in both halves → Rekhak at dusk, two fingers on the fold's
+edge, no words, in public → the entry: the fold was tested and it held. Ladder run: *Still folded.*
+Chain-stop ONE unspent; mother off-panel; Loom absent; snow-heavy figure absent; grey clerk absent.
+
+**Cast + world.** `characters/cast-page-006.md` — 6 entries, all card-lined (Ira · Kessa · the Elder
+Reader · Rekhak, silent · the Machine, off-panel · the Basin Queue). `other/glossary.md` +6 terms
+(the hour that is not on the roll · posted while the basin slept · the first public purse · "a school
+the till owns" · testing the fold · "Still folded"). `other/locations.md` +2 (the till, open · the
+counter's back pocket).
+
+**Art — built with the page, read at full resolution, one defect fixed.** First generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present) — but **Kessa was drawn as an old bearded man**
+in P3, the same character-drift class as the P.004 and P.005 defects. Fixed by a targeted edit on the
+same canvas: lean weathered woman in her fifties, grey hair in tight small knots at the nape, no
+beard, arms folded, same place and pose. Re-encoded (`-strip`, max PNG compression) from 3.60 MB into
+the band. Final: **`images/page-006.png` — 704×1484, ratio 2.11, 2.42 MB, screen 0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 dawn square, blank sealed
+notice, the new knotted cord strung beneath, two women with a hand lamp, the queue arriving out of
+the dark ✓ · P2 close on the cord in lamplight, groups of knots under an old woman's fingers ✓ ·
+P3 the counter reading: elder holding the knotted cord up, Ira entering at the big ledger, Kessa
+armed and folded beside her, crowd in the snow ✓ · P4 the rubbing of the cord's groups beside the
+open book's chalk tallies, a finger between the last group and the empty margin ✓ · P5 the raised
+till: stacked paper tallies bound in cord, a bowl of coin, an ink pot, a hand setting a tally on the
+school's book, the crowd behind ✓ · P6 Rekhak: tall, pale-eyed, clean ash-grey greatcoat with high
+collar and double row of basalt buttons, slate at the hip, brass counting-chain looped and still,
+ash unbrushed on the shoulders, two fingers on the fold's corner, eyes on the pocket, crowd soft
+behind, Ira's braid foreground ✓ · P7 the register's fresh line, the fold's corner at the frame's
+edge, lamp low, the cold blue door ✓. No lettering on any cord, book, notice or slate ✓. Agnikhand
+palette ✓. Soft flags for the human queue: (1) P2's knot-groups read as a fringed row rather than six
+distinct shifts plus a seventh apart — the finish difference is subtle at page scale; (2) P5's
+"Kessa" is seen from behind at the frame's edge only (script has her foreground at the till — the
+hand that pays is hers, the composition drifts); (3) 704×1484 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 147 png · duplicates 0 · 21,744 links / 0 broken ·
+reproducible True · ch014 in progress 6/10 · cast card-lines 136/100 missing 0 · chain-stop lines
+13/13. README refreshed: 136 pages, position line, and the **Page 007 brief** — the window's night
+watch, the protector at the sill with one knot (*not yet*), and the counter answering in kind at
+dawn (*Answer in kind.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.

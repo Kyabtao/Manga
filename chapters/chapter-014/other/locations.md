@@ -60,3 +60,18 @@ The shallow tray at the stall's counter where delivered papers go face-down when
 not signed. From Page 005 it holds the Office's courtesy form: the first machine document the counter
 has accepted without a line of its own on it. The tray is the physical shape of the register's third
 grammar — *entered as received* — and it sits in the queue's sight, on purpose.
+
+## THE TILL, OPEN
+
+The stall's brass-bound till with its lid up — a sight the chapter has withheld until Page 006. Inside:
+paper tallies bound in cord, a shallow tray of Office coin, Kessa's ash-ink pot. Opened that page as a
+purse rather than a drawer: nine lines counted onto the school's book in one entering, the book set
+between the till and the queue so the square can see one hand pay and not nine pockets. From this
+page the till is the second Office's first public money.
+
+## THE COUNTER'S BACK POCKET
+
+The register's back pocket where Rekhak's folded paper has lived, unopened, since Page 001 — the
+physical form of *protection of record*. From Page 006 it is also a place a man can put two fingers
+in public without taking anything: the fold's edge visible at the pocket's corner, the paper never
+drawn out. The counter's most private promise, tested in the open, at dusk, in front of the queue.
