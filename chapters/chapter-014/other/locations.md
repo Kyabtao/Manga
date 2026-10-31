@@ -30,3 +30,18 @@ whatever is posted here is fetched across the square and read aloud at the count
 machine's own hands arrive. From Page 003 it carries the season's confession — the permit-ledger
 discontinued, the light folded into the fuel, *for the season* — and the basin moves on it together,
 before anyone official arrives.
+
+## THE STALL WINDOW, KEPT OPEN
+
+The stall's open shutter as a stated policy from Page 004: same hours, same terms, same readings, all
+winter, said from the sill so the whole queue hears it. After this page the open window is not
+hospitality and not stubbornness — it is the counter's answer to a hold, kept open on purpose where an
+unknown protector can watch the basin be careful with his gift.
+
+## THE HATCH BOARD AT DUSK
+
+The Office's public notice-board seen at the other end of the day: blue snow-light, the notice under a
+crusted ridge of snow, the board's cords stiff with cold. From Page 004 it is also where the protector
+works — a snow-heavy figure, no face, reading the season notice back by touch and re-tying two knots
+on one public cord in machine grammar, leaving a glove-mark in the snow. The basin watches from the
+stall's far window and does not move.
