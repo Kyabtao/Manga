@@ -19,43 +19,47 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | Field | Value |
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
-| **Branch** | `arena/01a0d19e-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 014 — *Year Nineteen* — Pages 001-003 DONE** (EN + cast + world + art, READ-verified) · Pages 004-010 not started · Ch. 001-013 COMPLETE
-| **Pages completed** | **133 pages total in canon** — Ch. 001-013 complete (130) + Ch. 014 pp. 001-003. Ch. 014 so far: the year-knot read, the keeper's line on the school's books, the thin delivery re-tagged, thirty-nine unbroken seasons, and the tag's reading — **a hold mark, tied from inside the machine by a hand that is not theirs: the thin week was a shield** · all agent-read; human art queue retains authority
-| **NEXT page to build** | **Ch. 014 Page 004** — the sheltered paper: what the hold is keeping the machine from reading. English-only. Chain-stop ONE unspent.
+| **Branch** | `arena/58bfdb2c-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
+| **Chapter in progress** | **Ch. 014 — *Year Nineteen* — Pages 001-004 DONE** (EN + cast + world + art, READ-verified) · Pages 005-010 not started · Ch. 001-013 COMPLETE
+| **Pages completed** | **134 pages total in canon** — Ch. 001-013 complete (130) + Ch. 014 pp. 001-004. Ch. 014 so far: the year-knot read, the keeper's line on the school's books, the thin delivery re-tagged, thirty-nine unbroken seasons, the tag's reading — **a hold mark, tied from inside the machine by a hand that is not theirs: the thin week was a shield** — and the shape of the silence entered with the window kept open on purpose, while a faceless hand maintained its hold in the basin's own sight: **let him** · all agent-read; human art queue retains authority
+| **NEXT page to build** | **Ch. 014 Page 005** — the lesson and the courtesy: the school teaches the grammar of a hold, the machine asks to write the basin's hours into its own schedule, and the protector does not come. English-only. Chain-stop ONE unspent.
 | **NEXT art to fix** | **Human art queue (§R12.4) — the verifying authority; agent reads feed it, they do not close it.** Fresh-from-canon, in order: (1) **Ch. 013 pp. 001–010** — all 10 agent-read CORRECT with recorded soft flags (AUDIT §R13.30–§R13.40); flagged residuals: Ira cheek shading in p008 P3–P4, pseudo-script squiggles throughout (illegible class), p003 assembled from verified parts (ratio 2.59, off-house); (2) **the R13.31 fix wave** — 9 re-rendered pages verified, residuals logged in §R13.31 (p010 ear-drift, p005 crowd-Kessa, 848×1264 off-house class); (3) older soft flags on ch012 p007 (8.7% flat-band advisory). Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page — never left for later.** |
-| **Open PR** | **[Kyabtao/Manga#6](https://github.com/Kyabtao/Manga/pull/6)** (this branch — run-11 audit, the canvas-rule fix and three rebuilt pages). PR #1–#5 merged into `main`. |
-| **Character art** | **All 10 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 133 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R14.3); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave and the per-page gates since. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
+| **Open PR** | **[Kyabtao/Manga#7](https://github.com/Kyabtao/Manga/pull/7)** (this branch — Ch. 014 pp. 001–004, the run-11 audit and the canvas-rule fix). PR #1–#7: #1–#6 merged into `main`, #7 open from this branch. |
+| **Character art** | **All 10 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 134 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R14.5); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave and the per-page gates since. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 014 · Page 004)
+### Next-page brief (Chapter 014 · Page 005)
 
-**Page 003 is written.** Read it before starting. It ended with the winter's problem entered — how
-to make a machine that is protecting you tell you the truth — and the smallest caption *"Read the
-tag."*
+**Page 004 is written.** Read it before starting. It ended with a policy entered and one word under
+it: no one sent, the cord left tied, the public hold standing — *"Let him."* The basin now has a
+decision about its protector that the protector will never learn.
 
-Page 004 follows the sheltered paper, and it has three jobs.
+Page 005 follows the winter's counter-move, and it has three jobs.
 
-1. **What the hold is hiding.** The hold mark pauses the delivery; the delivery is the machine's
-   own counts; therefore the hold is keeping the MACHINE'S PAPER from being read at the counter.
-   Work the implication one step on-panel: something is happening inside the Office this winter that
-   its own rolls would expose — and the basin does not need to know what, only that the machine's
-   silence now has a shape and a size (one paused count, three weeks of fuel, one hidden ledger).
-   The register enters the SHAPE, not the contents.
-2. **The basin decides what to do with a protector it cannot question.** The queue's answer after
-   the reading: the basin KEEPS THE WINDOW OPEN. If the paper is paused to keep the machine blind,
-   the basin's counter stays public — the terms stand, the window's hours stand, and the basin
-   deliberately stays readable to its unknown protector. Trust as tactic: the counter's answer to
-   an anonymous gift is to keep the door it came through unlocked. Kessa prices the risk (the
-   machine could be learning their grammar from every reading) and pays it anyway.
-3. **The clerk hypothesis walks one step closer.** A snow-heavy figure is seen at the hatch board at
-   dusk, reading the season notice back — and re-tying ONE of the board's cords in machine grammar
-   with two knots changed. Never a face. The register's entry: the protector maintains his hold in
-   public, in the basin's sight, trusting the basin to leave it be. Smallest caption: *Let him.*
+1. **The school teaches the grammar of a hold.** Nandi takes the two changed knots to the school's
+   table as the winter's first open lesson — the counting-lesson women, the queue's readers, the
+   till, all of them learning to read a HOLD without ever reading a roll. What the basin can read,
+   no hold can fully hide: the machine's coldest instrument becomes the school's primer. Enter the
+   class as an institution, priced in Nandi's own grammar (she teaches what is ON the cord, not a
+   knot further), not as a scene of triumph. The register's line: a grammar taught outside the
+   Office is the first grammar the Office does not own.
+2. **The machine answers the open window with a courtesy.** A sanctioned junior clerk descends with
+   a blank form: an offer to REGULARIZE THE COUNTER'S HOURS — to write the basin's openness into the
+   Office's own schedule, kindly, with a seal, *for the winter.* The trap is the courtesy: accepting
+   makes the open window a machine record (and hands the holder exactly the grammar Kessa paid to
+   keep visible); refusing makes the basin look like the thing the notice wants to name. Work the
+   register's third grammar on-panel — not grant, not refuse: *enter it as received, and answer with
+   symmetry* — the Office may post its hours on the same board, in the same grammar, read aloud at
+   the counter. No signature. Watch the clerk's hands, not his face.
+3. **The protector does not come.** Dusk at the hatch board: nobody. The cords exactly as the basin
+   left them — and the register enters the ABSENCE as a fact and not a fear: either the hold is
+   finished, or something inside the Office has changed, or he has been seen doing it. No figure, no
+   guess, no rescue. Smallest caption: *Note the absence.*
 
 Carry in: **chain-stop ONE unspent**; mother off-panel, thread quiet; Loom absent; three entered
-hands unnamed; Rekhak's paper untouched; the clerk never named, never faced; the oil-cord at THREE
-knots; snow holding. Tone: trust as tactics; the winter's chess played in knot-work. Imperative
-ladder run: *Let him.* English-only (R13.22).
+hands unnamed; Rekhak's paper untouched and unopened; the clerk never named, never faced — the
+snow-heavy figure does NOT appear on this page at all; the oil-cord at THREE knots; snow holding;
+the window keeps its hours. Tone: the machine's politeness as pressure; the school's answer as
+literacy. Imperative ladder run: *Note the absence.* English-only (R13.22).
 
 ### Chapter 012 — COMPLETE
 
@@ -69,9 +73,9 @@ tied into the count-cord — *"Count not taken."* See AUDIT §R13.8–§R13.16 a
 the full record.
 
 **Chapter 012 — *The Whole Roll* — is complete** (12 pages); its close-out lives in
-`chapter-012/chapter-summary.md` and AUDIT §R13.17–§R13.31. The live brief is the Page 003 section
-above. Until Ch. 013 closes, the top of the work queue after it is the human art queue (§R12.4), then
-the twelve over-ratio pages (the last agent-watchable item, warnings only).
+`chapter-012/chapter-summary.md` and AUDIT §R13.17–§R13.31. The live brief is the Page 005 section
+above. Beyond the current page, the standing queue is the human art queue (§R12.4), then the twelve
+over-ratio pages (the last agent-watchable item, warnings only).
 
 ### Superseded brief (Chapter 011 · Page 010 — the finale) — kept for reference
 
