@@ -75,3 +75,25 @@ The register's back pocket where Rekhak's folded paper has lived, unopened, sinc
 physical form of *protection of record*. From Page 006 it is also a place a man can put two fingers
 in public without taking anything: the fold's edge visible at the pocket's corner, the paper never
 drawn out. The counter's most private promise, tested in the open, at dusk, in front of the queue.
+
+## THE WATCH SILL
+
+The stall's window sill, snow on the wood, in the lamplight's spill — from Page 007 the place where an
+unnamed hand can put something down at an arm's length and be read without being followed. It holds
+two knots at dawn: the protector's, in the wrong hand's finish, and the counter's plain answer beside
+it. The most exposed surface the second Office owns, and the only one it has ever used to answer a
+letter.
+
+## THE STALL'S DOOR, BARRED
+
+The stall's doorway at night, with Kessa's arm across it and the slate in her other hand. From Page
+007 it is where the counter's policy is enforced against its own people: the queue's young watch
+wanted to follow the figure at the sill, and the till said no, and the door was shut. The night the
+window's public promise became a thing the basin had to pay for.
+
+## THE OFFICE'S POSTED HOURS
+
+The knotted cord under the hatch notice (from Page 006), read from on the night watch: six shifts the
+Office counts and one it does not — *the fuel-yards, at night.* From Page 007 the cord is the
+counter's night text, read aloud twice an hour to an empty street. Not a notice any more; a lesson
+the basin recites.

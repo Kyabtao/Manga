@@ -2198,3 +2198,64 @@ reproducible True · ch014 in progress 6/10 · cast card-lines 136/100 missing 0
 13/13. README refreshed: 136 pages, position line, and the **Page 007 brief** — the window's night
 watch, the protector at the sill with one knot (*not yet*), and the counter answering in kind at
 dawn (*Answer in kind.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R14.8 Chapter 014 Page 007 — *answer in kind* — DONE: the night watch, one knot at the sill, one knot returned at dawn
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.007, from the R14.7 brief) was built. Committed and reversible.
+
+**Sandbox note (recovery, no loss).** On session start the local clone's HEAD had rolled back to the
+base commit `faa02fc` while the working tree still held the branch's content, so `git status` showed
+P.004–P.006 as untracked/uncommitted. The remote branch was intact at `33ed58d`. Recovered with
+`git fetch origin arena/58bfdb2c-manga` + `git reset --mixed origin/arena/58bfdb2c-manga` — the tree
+was byte-identical to the pushed work, so nothing was lost and nothing was force-pushed. Same class
+of event as the R12 local-state note; the recovery procedure is now here in case it recurs.
+
+**Canon grounding before writing:** the uncounted night shift (P.006); the counter's public-reading
+law; the school's hold-grammar lesson (P.005) as the tool the reader uses in P.5; the wrong-hand
+finish (P.003–P.006); *protection of record*'s discipline of restraint; the oil-cord's three knots.
+
+**Script.** `story/page-007.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the window keeps an hour it never had (one lamp, one reader, shutter up, three watches of two hours)
+→ the oil chalked at the till (a policy with no ledger is a mood) → the reader alone at the second
+hour, reading the Office's own hours to an empty street, twice an hour → the snow-heavy figure at the
+SILL, within an arm's length, setting one knot down → the knot read aloud by the school's own reader:
+*not yet; keep reading; do not follow the hour* → the queue moving for the door and Kessa's arm
+barring it (the night the policy cost) → dawn: one knot of the basin's own tying set where his lay,
+meaning *read.* Ladder run: *Answer in kind.* Chain-stop ONE unspent; mother off-panel; Loom absent;
+figure never faced, voiced or followed; grey clerk absent; Rekhak off the page.
+
+**Cast + world.** `characters/cast-page-007.md` — 6 entries, all card-lined (Ira · Kessa · the Reader
+at the Window · the Snow-Heavy Figure · a Young Dock-Hand, one-off · the Queue). `other/glossary.md`
++6 terms (the night watch · "what midnight costs" · read to nobody, twice an hour · "not yet; keep
+reading; do not follow the hour" · the night the policy cost · "answer in kind").
+`other/locations.md` +3 (the watch sill · the stall's door, barred · the Office's posted hours).
+
+**Art — built with the page, read at full resolution, NO character drift this time.** First and only
+generation: 864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG
+compression) from 3.40 MB into the band. Final: **`images/page-007.png` — 864×1821, ratio 2.11,
+2.68 MB, screen 0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the stall at night from across
+the street, shutter up, lamplight on snow, reader and two blanketed women inside, street empty to its
+far end ✓ · P2 chalk tallies in three groups on the till's slate, brass oil measure lip-wet beside
+it, three-knot cord in frame, grey-gloved hand flat ✓ · P3 the window from the street: one old woman
+reading aloud into an empty snow-filled street ✓ · P4 the faceless, snow-loaded figure at the sill,
+head a void, gloved hand setting the knot down, the reader frozen mid-word behind the counter ✓
+(strongest panel on the page) · P5 the single knot on the sill with a plainly wrong-handed finish,
+an old hand at its edge not lifting it, the queue's faces at the glass and a barred arm behind ✓ ·
+P6 the young dock-hands pushing for the door, Kessa's arm across it with the slate, Ira still at the
+counter behind ✓ · P7 dawn: two knots side by side on the sill, the open register behind, lamp out,
+grey light through the slats ✓. No lettering on slate, register or cord ✓. Agnikhand palette ✓.
+Soft flags for the human queue: (1) P1 puts two bystanders on the outer step rather than inside on
+the bench (composition drift, harmless); (2) P5's barred arm reads as a glove at the frame edge
+rather than Kessa's whole arm — the beat is carried by the queue's faces; (3) 864×1821 is the
+off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 148 png · duplicates 0 · 21,837 links / 0 broken ·
+reproducible True · ch014 in progress 7/10 · cast card-lines 137/100 missing 0 · chain-stop lines
+13/13. README refreshed: 137 pages, position line, and the **Page 008 brief** — the counter invoices
+the uncounted hour for a NAME, the machine issues its second disavowal, and protection of record is
+extended to whoever keeps the hour (*Whoever keeps it.*) — plus the standing note that the chapter's
+ONE chain-stop **must be spent by Page 010**. Build run AFTER the README/AUDIT edits, per the R14.4
+process rule.
