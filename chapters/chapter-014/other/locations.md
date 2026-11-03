@@ -97,3 +97,18 @@ The knotted cord under the hatch notice (from Page 006), read from on the night 
 Office counts and one it does not — *the fuel-yards, at night.* From Page 007 the cord is the
 counter's night text, read aloud twice an hour to an empty street. Not a notice any more; a lesson
 the basin recites.
+
+## THE COUNCIL STAIR, MIDDAY
+
+The black basalt flights cut back and forth up to the Office's blank face, seen from the basin's foot
+in midday snow with ash falling alongside the snow. From Page 008 it is the distance a counter's
+question has to walk when the counter has no authority to send with it: one runner, one page, no
+guard, no gate, no confrontation — the queue stopped at the stair's foot to watch him go, and nobody
+following.
+
+## THE DEMAND TABLE
+
+The archive table with the lamp on it and the year's rods racked behind — from Page 008 the place the
+second Office drafts its instruments: the demand's four knots tied by Nandi, the copy written by the
+keeper, the wax and the seal brought by the till, the school's women practising the same tie on their
+own cords. A drafting room that is also a classroom, because in this institution it is the same skill.

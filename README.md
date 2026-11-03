@@ -20,48 +20,47 @@ from the first page to become a **trading card game** once the cast passes 500 c
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
 | **Branch** | `arena/58bfdb2c-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 014 — *Year Nineteen* — Pages 001-007 DONE** (EN + cast + world + art, READ-verified) · Pages 008-010 not started · Ch. 001-013 COMPLETE
-| **Pages completed** | **137 pages total in canon** — Ch. 001-013 complete (130) + Ch. 014 pp. 001-007. Ch. 014 so far: the year-knot read, the keeper's line on the school's books, the thin delivery re-tagged, thirty-nine unbroken seasons, the tag's reading — **a hold mark, tied from inside by a hand that is not theirs: the thin week was a shield** — the shape of the silence entered with the window kept open on purpose and a faceless hand maintaining its hold in public: **let him** — the winter's first open lesson in machine grammar, the Office's courtesy form answered by symmetry, a dusk with nobody at the board: **note the absence** — the Office's hours posted overnight with one night shift uncounted, the till opened as the school's purse, a fold tested in public: **still folded** — and a night watch kept for an hour the basin may not enter, one knot left at the sill, one answered at dawn: **answer in kind** · all agent-read; human art queue retains authority
-| **NEXT page to build** | **Ch. 014 Page 008** — the invoice for an uncounted hour: the counter bills the Office for a name, the machine disowns its own posted shift, and the basin extends protection to whoever keeps it. English-only. Chain-stop ONE unspent — must be spent by Page 010.
+| **Chapter in progress** | **Ch. 014 — *Year Nineteen* — Pages 001-008 DONE** (EN + cast + world + art, READ-verified) · Pages 009-010 not started · Ch. 001-013 COMPLETE
+| **Pages completed** | **138 pages total in canon** — Ch. 001-013 complete (130) + Ch. 014 pp. 001-008. Ch. 014 so far: the year-knot read, the keeper's line on the school's books, the thin delivery re-tagged, thirty-nine unbroken seasons, the tag's reading — **a hold mark, tied from inside by a hand that is not theirs: the thin week was a shield** — the shape of the silence entered with the window kept open on purpose and a faceless hand maintaining its hold in public: **let him** — the winter's first open lesson in machine grammar, the Office's courtesy form answered by symmetry, a dusk with nobody at the board: **note the absence** — the Office's hours posted overnight with one night shift uncounted, the till opened as the school's purse, a fold tested in public: **still folded** — a night watch kept for an hour the basin may not enter, one knot left at the sill, one answered at dawn: **answer in kind** — and a demand sent up the stair that came back a disavowal, turned into a blind protection: **whoever keeps it** · all agent-read; human art queue retains authority
+| **NEXT page to build** | **Ch. 014 Page 009** — the hour's keeper at the door: the snow-heavy figure crosses the threshold (the chapter's ONE chain-stop, SPENT), lays the paused paper down, and the register promises to read it at dawn. English-only.
 | **NEXT art to fix** | **Human art queue (§R12.4) — the verifying authority; agent reads feed it, they do not close it.** Fresh-from-canon, in order: (1) **Ch. 013 pp. 001–010** — all 10 agent-read CORRECT with recorded soft flags (AUDIT §R13.30–§R13.40); flagged residuals: Ira cheek shading in p008 P3–P4, pseudo-script squiggles throughout (illegible class), p003 assembled from verified parts (ratio 2.59, off-house); (2) **the R13.31 fix wave** — 9 re-rendered pages verified, residuals logged in §R13.31 (p010 ear-drift, p005 crowd-Kessa, 848×1264 off-house class); (3) older soft flags on ch012 p007 (8.7% flat-band advisory). Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page — never left for later.** |
 | **Open PR** | **[Kyabtao/Manga#7](https://github.com/Kyabtao/Manga/pull/7)** (this branch — Ch. 014 pp. 001–004, the run-11 audit and the canvas-rule fix). PR #1–#7: #1–#6 merged into `main`, #7 open from this branch. |
-| **Character art** | **All 10 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 137 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R14.8); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave and the per-page gates since. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
+| **Character art** | **All 10 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 138 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R14.9); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave and the per-page gates since. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 014 · Page 008)
+### Next-page brief (Chapter 014 · Page 009)
 
-**Page 007 is written.** Read it before starting. It ended at dawn with two knots on a sill and one
-word under them — *"Answer in kind."* The counter has opened a correspondence it cannot close, with a
-hand it cannot name, and it has promised not to follow the uncounted hour.
+**Page 008 is written.** Read it before starting. It ended with protection of record entered blind —
+*"Whoever keeps it"* — with an empty space where a name should go, and the sill empty.
 
-Page 008 uses the machine's own politeness as a subpoena, and it has three jobs.
+Page 009 spends the chapter's ONE chain-stop, and it has three jobs.
 
-1. **The counter bills for an hour.** The basin cannot enter the night shift and will not follow it,
-   so it does what the second Office does with everything it is not allowed to see: it invoices for
-   it. A formal demand of record goes up-terrace in the machine's own grammar (knot-work, sealed,
-   publicly read before it leaves — the courtesy form's language, turned around): the Office is asked
-   to state, on paper, WHO holds the uncounted shift. Not what happens there. Who keeps the hour.
-   The runner carries it; the distance he walks is the page's measure of how formal this is.
-2. **The machine's second disavowal.** The answer comes back in the machine's oldest, cheapest
-   grammar: *the act of an individual, without authority* — the hour is not the Office's; the shift
-   is not on any roll; nobody up-terrace will answer for it. Publicly read at the counter, as
-   everything is. And the register enters what the disavowal actually is: the machine has just
-   disowned its own posted hour in front of the whole basin, which means the hour belongs to a person
-   — and a person can be protected. Do not let anyone say "we win." The register's line is colder:
-   *a disavowal is the only paper the machine gives away that can be used against it.*
-3. **Protection extended to a category.** The basin does not know a name, so it protects what it has:
-   the school drafts, and Ira enters, **protection of record for whoever keeps the night hour** —
-   the first protection the register has ever granted to a person it has never met, entered and NOT
-   read aloud, in the same form as the clerk's. Kessa prices it in one line. The page ends with the
-   paper in the register and the sill empty: the counter has protected a hand that has not asked.
-   Smallest caption: *Whoever keeps it.*
+1. **The keeper of the hour comes to the door.** Not the sill this time: the door, at dusk, in front
+   of the queue. The figure stands there with the snow on him and does not knock, does not speak, and
+   does not lift the hood — and the basin has to decide, out loud and in front of everyone, whether
+   the protection it entered blind two pages ago covers a man who has just arrived to use it. It does.
+   **The chapter's ONE chain-stop is SPENT here, on his threshold — the second time this arc a
+   crossing has been the stop, and the first time it was the enemy's.** Write the stop the way Ch. 013
+   wrote the clerk's: one line, plainly stated, no ornament, and the register's gated budget line in
+   the summary will record it as spent.
+2. **The paused paper is laid on the counter.** He keeps the hood. He puts one folded sheet down on
+   the counter — the night shift's own page, the thing the hold has been keeping the machine from
+   reading all winter — and steps back one pace, hands loose. No words. Nothing is opened. The
+   register enters it AS RECEIVED: one sheet, unread, from a hand it cannot name, under the
+   protection it entered blind. This is the chapter's payload arriving without being a reveal: the
+   paper is IN the counter's keeping now, and the machine is not.
+3. **The cost named, and the promise made.** The counter now holds the one thing the Office was kept
+   from reading. Kessa prices it in two lines (the machine may lawfully demand it; the machine may
+   not lawfully know we have it — or may; the page should not resolve that, only enter it). Ira makes
+   the promise that the paper will be READ ALOUD, at the window, at dawn, in the basin's hearing —
+   because a counter that protects a paper by hiding it has become the thing it fought. The queue
+   stays the night; nobody opens the fold. Smallest caption: *Read it at dawn.*
 
-Carry in: **chain-stop ONE unspent — and this is the note that it MUST be spent by Page 010** (a
-chapter's budget is ONE; the close-out summary will be gated on the line). Mother off-panel, thread
-quiet; Loom absent; three entered hands unnamed; the grey clerk never named, never faced, not on the
-page (his *form* returns in the disavowal's wording — do not point at it); the snow-heavy figure does
-NOT appear this page; Rekhak's paper untouched; the oil-cord at THREE knots; snow holding; the window
-keeps its hours and its watch; Nandi may draft the protection. Tone: the machine's politeness as a
-subpoena, then its oldest dodge. Imperative ladder run: *Whoever keeps it.* English-only (R13.22).
+Carry in: **chain-stop ONE — SPENT on this page.** Mother off-panel, thread quiet; Loom absent; three
+entered hands unnamed; the grey clerk never named, never faced — and if this figure IS the clerk, the
+page still does not say so; the snow-heavy figure keeps the hood, never speaks, is never named, and
+is never shown in face even indoors; Rekhak's paper untouched; the oil-cord at THREE knots; snow
+holding; Nandi may be present at the reading only as one of the queue. Tone: the gift that is also a
+custody. Imperative ladder run: *Read it at dawn.* English-only (R13.22).
 
 ### Chapter 012 — COMPLETE
 
@@ -75,7 +74,7 @@ tied into the count-cord — *"Count not taken."* See AUDIT §R13.8–§R13.16 a
 the full record.
 
 **Chapter 012 — *The Whole Roll* — is complete** (12 pages); its close-out lives in
-`chapter-012/chapter-summary.md` and AUDIT §R13.17–§R13.31. The live brief is the Page 008 section
+`chapter-012/chapter-summary.md` and AUDIT §R13.17–§R13.31. The live brief is the Page 009 section
 above. Beyond the current page, the standing queue is the human art queue (§R12.4), then the twelve
 over-ratio pages (the last agent-watchable item, warnings only).
 

@@ -2259,3 +2259,65 @@ the uncounted hour for a NAME, the machine issues its second disavowal, and prot
 extended to whoever keeps the hour (*Whoever keeps it.*) — plus the standing note that the chapter's
 ONE chain-stop **must be spent by Page 010**. Build run AFTER the README/AUDIT edits, per the R14.4
 process rule.
+
+### R14.9 Chapter 014 Page 008 — *the invoice for an uncounted hour* — DONE: the demand in the machine's grammar, the second disavowal, protection entered blind
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.008, from the R14.8 brief) was built. Committed and reversible.
+
+**Sandbox note (recovery, no loss — second occurrence).** The clone again came up with HEAD at the
+base commit while the working tree held the branch's content. Recovered identically to R14.8:
+`git fetch origin arena/58bfdb2c-manga` → `git reset --mixed FETCH_HEAD` (remote was `d3ec709`).
+Tree byte-identical to the pushed work; nothing lost, nothing force-pushed. This is now a known
+per-session event, not an incident.
+
+**Canon grounding before writing:** the uncounted night hour (P.006–P.007); the clerk's erasure
+formula, *the act of an individual, without authority* (Ch. 013), returning here as the Office's
+answer; *protection of record* — entered, not read aloud — invented for the clerk (Ch. 013) and
+extended blind here; Nandi's grammar rule (read/write what is on the cord, not a knot further).
+
+**Script.** `story/page-008.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the demand drafted at the archive table (Nandi ties four knots — only the word that means *this must
+be answered*) → sealed with the keeper's knot in wax → read aloud at the window before it leaves,
+because nothing goes up-terrace unread → the long stair, one grey figure halfway up, the queue
+stopped at its foot, nobody following → the answer: machine seal, one knot-sign, and the formula →
+read aloud and turned: a disavowal names what the machine will not protect → protection of record
+entered for whoever keeps the night hour, the name-space left empty, NOT read aloud. Ladder run:
+*Whoever keeps it.* Chain-stop ONE **still unspent** — the brief now carries the standing note that
+it MUST be spent by Page 010.
+
+**Cast + world.** `characters/cast-page-008.md` — 6 entries, all card-lined (Ira · Kessa · Nandi ·
+the Runner, sixth appearance · the Counting-Lesson Women · the Machine, off-panel). `other/glossary.md`
++6 terms (the demand of record · "four knots, then the question" · nothing goes up unread · "they
+read it twice, then told me to walk" · the second disavowal · "whoever keeps it").
+`other/locations.md` +2 (the Council Stair, midday · the demand table).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression)
+from 3.55 MB into the band. Final: **`images/page-008.png` — 864×1821, ratio 2.11, 2.70 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the archive table by lamp —
+stooped twine-haired Nandi tying at its head, five undyed women practising the tie on benches, Ira
+writing the copy at the far end, Kessa in the doorway with the wax pot ✓ · P2 the blank form with the
+cord knotted through its holes, the knot-marked wax seal, the copy-book beneath, the pot steaming, a
+grey-gloved hand lifting from the seal ✓ · P3 the reader holding the sealed paper up at the opening,
+the queue packed under the awning, the runner with his cap in his hand, Ira beside him ✓ · P4 the
+black basalt stair switching up to the Office's blank face in ash-and-snow, a small grey figure
+mid-climb, the queue stopped at the foot ✓ · P5 the clerk setting the slip down with both hands and
+stepping back a pace, his face carefully controlled, Ira reaching, Kessa still behind ✓ · P6 the slip
+under the lamp — machine seal, one small knot-sign at its centre, blank face, a finger beneath it, a
+grey-gloved shadow across the paper, the queue's faces soft behind ✓ · P7 night: the register at a
+fresh page, the protection form corded and sealed with the name-space empty, the empty snow-dusted
+sill beyond the glass, lamp low, three-knot cord, Kessa's hand on the closed till ✓. No lettering on
+form, slip, copy-book or register ✓. Agnikhand palette ✓. Soft flags for the human queue: (1) P4 shows
+two small figures on the stair where the script has one runner; (2) P3's opening reads as an open
+hatch rather than the stall's shuttered window; (3) P5's clerk is drawn younger/cleaner than the
+runner's established plain-grey look; (4) 864×1821 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 149 png · duplicates 0 · 21,936 links / 0 broken ·
+reproducible True · ch014 in progress 8/10 · cast card-lines 138/100 missing 0 · chain-stop lines
+13/13. README refreshed: 138 pages, position line, and the **Page 009 brief** — the hour's keeper at
+the door, **the chapter's ONE chain-stop SPENT on his threshold**, the paused paper laid down
+unopened, and the promise to read it aloud at dawn (*Read it at dawn.*). Build run AFTER the
+README/AUDIT edits, per the R14.4 process rule.
