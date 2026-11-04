@@ -2385,3 +2385,73 @@ count: the Office's "missing" fuel, delivered down into the basin by hand all wi
 protection, the paper returned up-terrace already read (*Give it back read.*), and the mandatory
 chapter close-out with the gated chain-stop budget line. Build run AFTER the README/AUDIT edits, per
 the R14.4 process rule.
+
+### R14.11 Chapter 014 Page 010 — *the reading* — FINALE DONE, chapter CLOSED: the night count read aloud, the shortage proved a redistribution, the paper returned already read
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.010, the finale, plus the chapter close-out required by the brief) was
+built. Committed and reversible.
+
+**Sandbox note (recovery, no loss — fourth occurrence).** HEAD again came up on the base commit with
+the branch's content in the tree; recovered with `git fetch origin arena/58bfdb2c-manga` +
+`git reset --mixed FETCH_HEAD` (remote `ffd5b1b`). Nothing lost, nothing force-pushed.
+
+**Canon grounding before writing:** the uncounted shift (P.006) and its disavowal (P.008); the hold
+that paused the machine's paper (P.003) and the shield logic that followed; the notice's dated *for
+the season* (P.003) and the thin week's missing permit-ledger bundle (P.002); the school's tally and
+Nandi's *forward, and whole* (P.002); the counter's public-reading law, applied to a gift (P.005),
+to the Office's hours (P.006) and to itself (P.010).
+
+**Script.** `story/page-010.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the shutter up at dawn with the square already standing → the sheet opened and read flat: *drawn
+four, struck from the roll none, carried down four*, night after night → the square's own arithmetic
+(*four a night. that is the whole thin week, given away*) → the sum in the street, nobody cheering →
+Kessa prices publication against silence and the register chooses publication → the margin written
+on the machine's own count in four knots and the keeper's seal, the page corded and handed to the
+runner to go back up the stair **already read** → gold afternoon, the school's book one line longer,
+Nandi's *the year is whole, keeper*, two knots on the sill, one line of prints. Ladder run: *Give it
+back read.* **Chain-stop ONE — SPENT on Page 009** (unchanged).
+
+**Cast + world.** `characters/cast-page-010.md` — 6 entries, all card-lined (Ira · Kessa · the Reader
+· Nandi · the Runner, seventh appearance · the Square · plus the snow-heavy figure as prints only).
+`other/glossary.md` +6 terms (the night count · the redistribution · "a gift nobody can demand" · the
+margin · "returned already read" · "give it back read"). `other/locations.md` +2 (the window at dawn
+· the sill, two knots).
+
+**Close-out.** `chapters/chapter-014/chapter-summary.md` written in the Ch. 011–013 shape: synopsis,
+what the chapter built, chapter engine, ladder, see-also — **carrying the gated line: Chain-stop
+budget ONE — SPENT on Page 009, on the threshold.** World state: glossary 51 chapter terms, locations
+19 sections. README flipped: Ch. 014 **COMPLETE (10/10)**, 140 pages, position line closed, and a
+**Chapter 015 Page 001 brief** seeded (fresh ONE, unspent): thaw, the till's fuel column closed, the
+school's spring term, and the promised public accusation that the counter owns what it pays for —
+answered by a public reading, with the sill's two knots and Rekhak's folded paper carried forward.
+
+**Art — built with the page, read at full resolution, character drift caught twice.** First
+generation: 864×1821 (ratio 2.11, all 7 tiers present) but **Kessa was drawn as an old bearded man** in
+P1 and P6 — the fourth instance of this drift class in the chapter. Two targeted edits were run on the
+same canvas; the second (bare jaw, no beard, grey knots at the nape, explicitly named as a surgical
+two-spot correction) cleared P6 and largely cleared P1. Re-encoded (`-strip`, max PNG compression)
+from 3.87 MB into the band. Final: **`images/page-010.png` — 672×1584, ratio 2.36, 2.58 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the stall at first light, the
+reader holding the folded sheet, Ira at the register, the quarter standing in a half-circle of snow,
+the cord laid aside ✓ · P2 the sheet open on the sill — columns of tally groups and knot-rows, no
+lettering, two work-worn hands holding its edges ✓ · P3 the crowd's faces counting: a child on a hip,
+an old man's fingers against his knee, two undyed women glancing, a crushed cap ✓ · P4 the square in
+slush, people in small knots, a brass fire-measure held up like evidence, an elder down on the step,
+the window above ✓ · P5 the four knots and the dark seal written onto the sheet's blank face beside
+the open register, a grey glove holding the corner ✓ · P6 the corded sheet handed over with both
+hands, the stair beyond the door, the quarter standing back ✓ · P7 gold afternoon: the register's last
+page, the thick old book with its fresh line, the till's chalked column, the coiled cord, the single
+line of prints in the slush, two small knots on the empty sill ✓. No lettering anywhere ✓. Agnikhand
+palette with a cold-dawn / gold-close arc ✓. Soft flags for the human queue: (1) P1's till figure
+remains borderline — the beard is gone and the hair is knotted back, but at page scale she still reads
+as merely *elderly* rather than unmistakably Kessa (the second edit landed cleanly in P6); (2) P2's
+famed fold crease is present but shallow; (3) 672×1584 is the off-house canvas class (ratio 2.36,
+inside the ≤2.5 rule).
+
+**Gate after the page (the chapter's close gate):** HARD FAILURES none · 151 png · duplicates 0 ·
+22,000+ links / 0 broken · reproducible True · chapters 14 (all complete — ch014 now 10/10, summary
+present, **chain-stop lines 14/14**) · cast card-lines 140/100 missing 0 · scripts 980 panels ·
+Camera parity 140/100. Build run AFTER the README/AUDIT/summary edits, per the R14.4 process rule.

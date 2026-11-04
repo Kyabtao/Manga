@@ -127,3 +127,17 @@ A plain cord laid in a loose ring around the folded sheet on the counter and del
 (Page 009). The counter's whole statement about holding a dangerous paper without secrecy: the ring
 marks what is held and who may open it — everyone, at dawn, at the window, aloud. Nothing is knotted,
 because a knot would be a decision the basin has not been given.
+
+## THE WINDOW AT DAWN
+
+The stall's open window in grey first light, with the square standing in the snow before it in a
+half-circle — not a queue, a room with no walls. From Page 010 the chapter's last setting and its most
+public: the machine's own night-count read aloud here, clause by clause, to the quarter it fed, with
+the counter's reading written on the sheet and the lamp out, because nothing the counter holds is read
+in the dark.
+
+## THE SILL, TWO KNOTS
+
+The window sill where the protector's knot lay on Page 007 and the counter's answer beside it. The
+chapter ends with the sill empty except for those two knots, exactly where they were left, and one
+line of prints softening in the slush beyond the door — the whole record of an unnamed correspondence.
