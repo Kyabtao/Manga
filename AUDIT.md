@@ -2028,3 +2028,430 @@ committed historical name — R13.22 froze English-only FORWARD; not a defect.
 local = remote. Remaining open items (by design, not defects): ch014 pp. 004-010; ch014 summary at
 close; house canvas 102/133 (off-house class recorded); grey-clerk-ref weight note; the human art
 queue.
+
+### R14.5 Chapter 014 Page 004 — *the sheltered paper* — DONE: the shape of the silence, the window kept open, the public hold (and *let him*)
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.004, from the R14.3 brief) was built. Everything is committed and
+reversible if a different target was wanted.
+
+**Canon grounding before writing:** the hold mark's two layers (R14.3: grammar theirs, hand not);
+the counter's public-reading rule (terms from Ch. 013's acceptance — everything delivered is read
+aloud); the notice's *for the season* with its own date (P.003); the oil-cord's three knots (Ch. 013
+window's price); the clerk never named, never faced (Ch. 009–013).
+
+**Script.** `story/page-004.md` — 7 panels, `Camera:` on every panel, notes + card sections present.
+Beats: the shape of the silence entered in the machine's own units (one paused count · three weeks
+dated on the notice · one ledger nobody is carrying) → the arithmetic completing itself one step
+on-panel (delivery = the machine's own counts; public counter = paused delivery is a paused reading)
+→ Kessa's ruling from the sill (the window keeps its hours; the basin stays readable on purpose) →
+the risk priced aloud (a winter of readings teaches the machine the basin's grammar) and paid
+(*cheaper than a closed door*) → dusk: a snow-loaded figure, no face, reading the season notice back
+by touch → two knots changed on one public cord, glove-mark in the snow → the smallest decision: no
+one sent, cord left tied, *"Let him."* Ladder run: *Let him.* Chain-stop ONE, unspent; mother
+off-panel; Loom absent; Rekhak's paper untouched; three entered hands unnamed.
+
+**Cast + world.** `characters/cast-page-004.md` — 5 entries, all card-lined (Ira · Kessa · the
+Snow-Heavy Figure, never faced/never named · the Counting-Lesson Women, witnesses at the far window ·
+the Machine, off-panel, a quantity only). `other/glossary.md` +6 terms (the sheltered paper · the
+shape of the silence · the window keeps its hours · cheaper than a closed door · the public hold ·
+"Let him"). `other/locations.md` +2 (the stall window, kept open · the hatch board at dusk).
+
+**Art — built with the page, read at full resolution, one defect fixed.** First generation:
+887×1774 (ratio 2.0, portrait ✓, all 7 tiers present) but **Kessa was drawn as a young man** in P2,
+P3 and P7, with masculine hands on the till in P4 — a character-sheet violation (gate check 5), not
+a taste note. Fixed by a targeted image edit on the same canvas: Kessa replaced in all four places
+with a weathered grey-knotted woman in her fifties, grey gloves, same poses and framing. Also
+re-encoded (`-strip`, max PNG compression) because the first file sat at 3.45 MB, above the 1.2–3.0
+band. Final: **`images/page-004.png` — 720×1440, ratio 2.0, 2.30 MB, screen 0 warnings.**
+
+**Agent read (vision available this run), verdict CORRECT with soft flags:** P1 counter row (tag,
+three tally stubs, dust-ring, gloved finger, blank sealed notice) ✓ · P2 Ira at the register, Kessa
+at the brass-bound till, snow outside the open window ✓ · P3 the window from the queue's side, Kessa
+at the sill ✓ · P4 grey-gloved hands flat on the till lid, three-knot cord beside them, queue faces
+behind ✓ · P5 dusk square, faceless snow-loaded figure at the board, two women still at a lit far
+window ✓ · P6 snowy cords with two distinctly finished knots ✓ · P7 night stall, lamp low, pen lifted
+over the entry, tag at the page corner, three-knot cord unmoved ✓. No lettering on any paper or
+notice ✓. Agnikhand palette ✓. Soft flags for the human queue: (1) P6's glove-mark in the snow is
+not legible — the beat's cords/knots read, the print does not; (2) the till reads as a brass-bound
+chest rather than a counter-till (prop class, consistent with P.001–P.003 art); (3) 720×1440 is the
+off-house canvas class (ratio correct, house 768×1376).
+
+**Gate after the page (full):** HARD FAILURES none · 145 png · duplicates 0 · 21,566 links / 0
+broken · reproducible True · chapters 14 (ch014 in progress 4/10) · cast card-lines 134/100 missing 0
+· chain-stop lines 13/13 · page art on house canvas 102/134 (off-house class recorded). README
+refreshed: branch field (`arena/58bfdb2c-manga`), pages 134, position, and the **Page 005 brief** —
+the lesson in hold-grammar, the Office's courtesy form (regularize the counter's hours), and the
+protector's absence at dusk (*Note the absence.*). Build run AFTER the README/AUDIT edits, per the
+R14.4 process rule.
+
+### R14.6 Chapter 014 Page 005 — *the lesson and the courtesy* — DONE: the grammar taught in public, the kindness with a second page, the absence noted
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.005, from the R14.5 brief) was built. Committed and reversible.
+
+**Canon grounding before writing:** Nandi's teaching rule from P.003 (read what is ON the cord, not
+a knot further); the counter's public-reading law (terms, Ch. 013; re-used P.003–P.004); the runner
+as a lesser clerk since Ch. 013 P.007 (fifth appearance here, no name); the till-cord's three knots
+(Ch. 013 window's price); the grey clerk never faced, never named (Ch. 009 onward).
+
+**Script.** `story/page-005.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the winter's first open lesson (nine women, practice cords, the two changed knots brought indoors)
+→ hold-versus-break taught from the finish under the lens → the class priced at one line a head and
+the register's entry that a grammar taught outside the Office is the first grammar the Office does
+not own → the courtesy form (blank face, seal) delivered by the runner, now a junior clerk, with both
+hands and one pace of distance → the SECOND PAGE read aloud, as everything delivered is: the Office
+may amend the hours by notice, at its ordinary discretion → the answer by symmetry (no signature, no
+line of the basin's on their page; the Office may post its hours on the basin's board, to be read
+aloud) → dusk with nobody at the board: *Note the absence.* Ladder run: *Note the absence.*
+Chain-stop ONE, unspent; mother off-panel; Loom absent; Rekhak's paper untouched; snow-heavy figure
+absent by instruction; grey clerk absent.
+
+**Cast + world.** `characters/cast-page-005.md` — 6 entries, all card-lined (Ira · Kessa · Nandi ·
+the Runner, fifth appearance, face never in frame · the Counting-Lesson Women, nine at the benches
+and two at the window · the Machine, off-panel, the courtesy). `other/glossary.md` +6 terms (a break
+is a fact; a hold is a decision · the open lesson · the courtesy form · the second page · the same
+courtesy, both ways · "Note the absence"). `other/locations.md` +2 (the school's side room, winter
+class · the received tray).
+
+**Art — built with the page, read at full resolution, one defect fixed.** First generation:
+875×1798 (ratio 2.05, portrait ✓, all 7 tiers present) — but the dusk panel's foreground reader
+(Ira closing the register) came back dark-haired and reading ambiguously male, the same
+character-drift class as the P.004 Kessa defect. Fixed by a targeted edit on the same canvas: long
+ash-grey braid, three-quarter back view, face not visible. Also re-encoded (`-strip`, max PNG
+compression) from 3.29 MB into the band. Final: **`images/page-005.png` — 720×1479, ratio 2.05,
+2.21 MB, screen 0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 cold side room, benches with
+cords in laps, stooped twine-tied teacher holding the two-knot cord, slate at the door ✓ · P2 brass
+lens, cord with two differently finished knots, gnarled finger, chalk tallies, no words ✓ · P3 from
+behind the benches: hands tying copies, a silent laugh, the slate, Ira entering at the frame edge ✓ ·
+P4 afternoon stall: junior clerk sets the blank sealed form down with both hands, one pace back,
+queue close behind, Kessa still at the till ✓ · P5 hands panel as scripted — young hands too careful,
+second leaf held open to the room, face out of frame above, queue boots crowding in ✓ · P6 the form
+face-down in the received tray, hand withdrawn, Kessa's slate, the clerk with loose hands ✓ · P7 dusk
+board: cords untouched, nobody there, old prints in the snow, two women at the far lit window,
+Ira's ash-grey braid in the foreground ✓. No lettering on any paper, form, slate or notice ✓.
+Agnikhand palette ✓. Soft flags for the human queue: (1) an unscripted woman sits at the right-hand
+table in P1 (reads as an archive keeper — harmless, but not in the script); (2) the lens in P2 sits
+beside the cord rather than over it (composition drift); (3) 720×1479 is the off-house canvas class
+(ratio correct).
+
+**Gate after the page:** HARD FAILURES none · 146 png · duplicates 0 · 21,653 links / 0 broken ·
+reproducible True · ch014 in progress 5/10 · chain-stop lines 13/13 · cast card-lines 135/100 missing
+0. README refreshed: 135 pages, position line, and the **Page 006 brief** — the Office posts its
+hours and one of them is not on any roll, the till opens to fund the school, Rekhak checks his fold
+(*Still folded.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R14.7 Chapter 014 Page 006 — *the hour that is not on the roll* — DONE: the Office's posted hours, one uncounted, the till opened as a purse, the fold tested
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.006, from the R14.6 brief) was built. Committed and reversible.
+
+**Canon grounding before writing:** the symmetry the counter offered on P.005 (the Office may post
+its hours on the basin's board, to be read aloud); *protection of record* (Ch. 013 — entered, not
+read aloud) as the register's back-pocket fold; Rekhak's three props (ledger-slate, counting-chain,
+crimson-sealed page) and the ash he does not brush off; the school's tally in Nandi's hand (Ch. 014
+P.001–P.002); Kessa's till as the basin's ledger of price.
+
+**Script.** `story/page-006.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the posting (no clerk, no seal-cart, no boots in the snow — the Office complied while the basin
+slept) → the cord's hours under the elder's fingers, six groups and a seventh apart → the reading of
+record, the machine's hours in the basin's voice → the gap by comparison with the old school's
+six-group tally, tied in the wrong hand's finish → the till opened, nine lesson-lines entered to the
+school's book, the risk named and entered in both halves → Rekhak at dusk, two fingers on the fold's
+edge, no words, in public → the entry: the fold was tested and it held. Ladder run: *Still folded.*
+Chain-stop ONE unspent; mother off-panel; Loom absent; snow-heavy figure absent; grey clerk absent.
+
+**Cast + world.** `characters/cast-page-006.md` — 6 entries, all card-lined (Ira · Kessa · the Elder
+Reader · Rekhak, silent · the Machine, off-panel · the Basin Queue). `other/glossary.md` +6 terms
+(the hour that is not on the roll · posted while the basin slept · the first public purse · "a school
+the till owns" · testing the fold · "Still folded"). `other/locations.md` +2 (the till, open · the
+counter's back pocket).
+
+**Art — built with the page, read at full resolution, one defect fixed.** First generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present) — but **Kessa was drawn as an old bearded man**
+in P3, the same character-drift class as the P.004 and P.005 defects. Fixed by a targeted edit on the
+same canvas: lean weathered woman in her fifties, grey hair in tight small knots at the nape, no
+beard, arms folded, same place and pose. Re-encoded (`-strip`, max PNG compression) from 3.60 MB into
+the band. Final: **`images/page-006.png` — 704×1484, ratio 2.11, 2.42 MB, screen 0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 dawn square, blank sealed
+notice, the new knotted cord strung beneath, two women with a hand lamp, the queue arriving out of
+the dark ✓ · P2 close on the cord in lamplight, groups of knots under an old woman's fingers ✓ ·
+P3 the counter reading: elder holding the knotted cord up, Ira entering at the big ledger, Kessa
+armed and folded beside her, crowd in the snow ✓ · P4 the rubbing of the cord's groups beside the
+open book's chalk tallies, a finger between the last group and the empty margin ✓ · P5 the raised
+till: stacked paper tallies bound in cord, a bowl of coin, an ink pot, a hand setting a tally on the
+school's book, the crowd behind ✓ · P6 Rekhak: tall, pale-eyed, clean ash-grey greatcoat with high
+collar and double row of basalt buttons, slate at the hip, brass counting-chain looped and still,
+ash unbrushed on the shoulders, two fingers on the fold's corner, eyes on the pocket, crowd soft
+behind, Ira's braid foreground ✓ · P7 the register's fresh line, the fold's corner at the frame's
+edge, lamp low, the cold blue door ✓. No lettering on any cord, book, notice or slate ✓. Agnikhand
+palette ✓. Soft flags for the human queue: (1) P2's knot-groups read as a fringed row rather than six
+distinct shifts plus a seventh apart — the finish difference is subtle at page scale; (2) P5's
+"Kessa" is seen from behind at the frame's edge only (script has her foreground at the till — the
+hand that pays is hers, the composition drifts); (3) 704×1484 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 147 png · duplicates 0 · 21,744 links / 0 broken ·
+reproducible True · ch014 in progress 6/10 · cast card-lines 136/100 missing 0 · chain-stop lines
+13/13. README refreshed: 136 pages, position line, and the **Page 007 brief** — the window's night
+watch, the protector at the sill with one knot (*not yet*), and the counter answering in kind at
+dawn (*Answer in kind.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R14.8 Chapter 014 Page 007 — *answer in kind* — DONE: the night watch, one knot at the sill, one knot returned at dawn
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.007, from the R14.7 brief) was built. Committed and reversible.
+
+**Sandbox note (recovery, no loss).** On session start the local clone's HEAD had rolled back to the
+base commit `faa02fc` while the working tree still held the branch's content, so `git status` showed
+P.004–P.006 as untracked/uncommitted. The remote branch was intact at `33ed58d`. Recovered with
+`git fetch origin arena/58bfdb2c-manga` + `git reset --mixed origin/arena/58bfdb2c-manga` — the tree
+was byte-identical to the pushed work, so nothing was lost and nothing was force-pushed. Same class
+of event as the R12 local-state note; the recovery procedure is now here in case it recurs.
+
+**Canon grounding before writing:** the uncounted night shift (P.006); the counter's public-reading
+law; the school's hold-grammar lesson (P.005) as the tool the reader uses in P.5; the wrong-hand
+finish (P.003–P.006); *protection of record*'s discipline of restraint; the oil-cord's three knots.
+
+**Script.** `story/page-007.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the window keeps an hour it never had (one lamp, one reader, shutter up, three watches of two hours)
+→ the oil chalked at the till (a policy with no ledger is a mood) → the reader alone at the second
+hour, reading the Office's own hours to an empty street, twice an hour → the snow-heavy figure at the
+SILL, within an arm's length, setting one knot down → the knot read aloud by the school's own reader:
+*not yet; keep reading; do not follow the hour* → the queue moving for the door and Kessa's arm
+barring it (the night the policy cost) → dawn: one knot of the basin's own tying set where his lay,
+meaning *read.* Ladder run: *Answer in kind.* Chain-stop ONE unspent; mother off-panel; Loom absent;
+figure never faced, voiced or followed; grey clerk absent; Rekhak off the page.
+
+**Cast + world.** `characters/cast-page-007.md` — 6 entries, all card-lined (Ira · Kessa · the Reader
+at the Window · the Snow-Heavy Figure · a Young Dock-Hand, one-off · the Queue). `other/glossary.md`
++6 terms (the night watch · "what midnight costs" · read to nobody, twice an hour · "not yet; keep
+reading; do not follow the hour" · the night the policy cost · "answer in kind").
+`other/locations.md` +3 (the watch sill · the stall's door, barred · the Office's posted hours).
+
+**Art — built with the page, read at full resolution, NO character drift this time.** First and only
+generation: 864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG
+compression) from 3.40 MB into the band. Final: **`images/page-007.png` — 864×1821, ratio 2.11,
+2.68 MB, screen 0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the stall at night from across
+the street, shutter up, lamplight on snow, reader and two blanketed women inside, street empty to its
+far end ✓ · P2 chalk tallies in three groups on the till's slate, brass oil measure lip-wet beside
+it, three-knot cord in frame, grey-gloved hand flat ✓ · P3 the window from the street: one old woman
+reading aloud into an empty snow-filled street ✓ · P4 the faceless, snow-loaded figure at the sill,
+head a void, gloved hand setting the knot down, the reader frozen mid-word behind the counter ✓
+(strongest panel on the page) · P5 the single knot on the sill with a plainly wrong-handed finish,
+an old hand at its edge not lifting it, the queue's faces at the glass and a barred arm behind ✓ ·
+P6 the young dock-hands pushing for the door, Kessa's arm across it with the slate, Ira still at the
+counter behind ✓ · P7 dawn: two knots side by side on the sill, the open register behind, lamp out,
+grey light through the slats ✓. No lettering on slate, register or cord ✓. Agnikhand palette ✓.
+Soft flags for the human queue: (1) P1 puts two bystanders on the outer step rather than inside on
+the bench (composition drift, harmless); (2) P5's barred arm reads as a glove at the frame edge
+rather than Kessa's whole arm — the beat is carried by the queue's faces; (3) 864×1821 is the
+off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 148 png · duplicates 0 · 21,837 links / 0 broken ·
+reproducible True · ch014 in progress 7/10 · cast card-lines 137/100 missing 0 · chain-stop lines
+13/13. README refreshed: 137 pages, position line, and the **Page 008 brief** — the counter invoices
+the uncounted hour for a NAME, the machine issues its second disavowal, and protection of record is
+extended to whoever keeps the hour (*Whoever keeps it.*) — plus the standing note that the chapter's
+ONE chain-stop **must be spent by Page 010**. Build run AFTER the README/AUDIT edits, per the R14.4
+process rule.
+
+### R14.9 Chapter 014 Page 008 — *the invoice for an uncounted hour* — DONE: the demand in the machine's grammar, the second disavowal, protection entered blind
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.008, from the R14.8 brief) was built. Committed and reversible.
+
+**Sandbox note (recovery, no loss — second occurrence).** The clone again came up with HEAD at the
+base commit while the working tree held the branch's content. Recovered identically to R14.8:
+`git fetch origin arena/58bfdb2c-manga` → `git reset --mixed FETCH_HEAD` (remote was `d3ec709`).
+Tree byte-identical to the pushed work; nothing lost, nothing force-pushed. This is now a known
+per-session event, not an incident.
+
+**Canon grounding before writing:** the uncounted night hour (P.006–P.007); the clerk's erasure
+formula, *the act of an individual, without authority* (Ch. 013), returning here as the Office's
+answer; *protection of record* — entered, not read aloud — invented for the clerk (Ch. 013) and
+extended blind here; Nandi's grammar rule (read/write what is on the cord, not a knot further).
+
+**Script.** `story/page-008.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the demand drafted at the archive table (Nandi ties four knots — only the word that means *this must
+be answered*) → sealed with the keeper's knot in wax → read aloud at the window before it leaves,
+because nothing goes up-terrace unread → the long stair, one grey figure halfway up, the queue
+stopped at its foot, nobody following → the answer: machine seal, one knot-sign, and the formula →
+read aloud and turned: a disavowal names what the machine will not protect → protection of record
+entered for whoever keeps the night hour, the name-space left empty, NOT read aloud. Ladder run:
+*Whoever keeps it.* Chain-stop ONE **still unspent** — the brief now carries the standing note that
+it MUST be spent by Page 010.
+
+**Cast + world.** `characters/cast-page-008.md` — 6 entries, all card-lined (Ira · Kessa · Nandi ·
+the Runner, sixth appearance · the Counting-Lesson Women · the Machine, off-panel). `other/glossary.md`
++6 terms (the demand of record · "four knots, then the question" · nothing goes up unread · "they
+read it twice, then told me to walk" · the second disavowal · "whoever keeps it").
+`other/locations.md` +2 (the Council Stair, midday · the demand table).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression)
+from 3.55 MB into the band. Final: **`images/page-008.png` — 864×1821, ratio 2.11, 2.70 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the archive table by lamp —
+stooped twine-haired Nandi tying at its head, five undyed women practising the tie on benches, Ira
+writing the copy at the far end, Kessa in the doorway with the wax pot ✓ · P2 the blank form with the
+cord knotted through its holes, the knot-marked wax seal, the copy-book beneath, the pot steaming, a
+grey-gloved hand lifting from the seal ✓ · P3 the reader holding the sealed paper up at the opening,
+the queue packed under the awning, the runner with his cap in his hand, Ira beside him ✓ · P4 the
+black basalt stair switching up to the Office's blank face in ash-and-snow, a small grey figure
+mid-climb, the queue stopped at the foot ✓ · P5 the clerk setting the slip down with both hands and
+stepping back a pace, his face carefully controlled, Ira reaching, Kessa still behind ✓ · P6 the slip
+under the lamp — machine seal, one small knot-sign at its centre, blank face, a finger beneath it, a
+grey-gloved shadow across the paper, the queue's faces soft behind ✓ · P7 night: the register at a
+fresh page, the protection form corded and sealed with the name-space empty, the empty snow-dusted
+sill beyond the glass, lamp low, three-knot cord, Kessa's hand on the closed till ✓. No lettering on
+form, slip, copy-book or register ✓. Agnikhand palette ✓. Soft flags for the human queue: (1) P4 shows
+two small figures on the stair where the script has one runner; (2) P3's opening reads as an open
+hatch rather than the stall's shuttered window; (3) P5's clerk is drawn younger/cleaner than the
+runner's established plain-grey look; (4) 864×1821 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 149 png · duplicates 0 · 21,936 links / 0 broken ·
+reproducible True · ch014 in progress 8/10 · cast card-lines 138/100 missing 0 · chain-stop lines
+13/13. README refreshed: 138 pages, position line, and the **Page 009 brief** — the hour's keeper at
+the door, **the chapter's ONE chain-stop SPENT on his threshold**, the paused paper laid down
+unopened, and the promise to read it aloud at dawn (*Read it at dawn.*). Build run AFTER the
+README/AUDIT edits, per the R14.4 process rule.
+
+### R14.10 Chapter 014 Page 009 — *the hour's keeper at the door* — DONE: the threshold, **the chapter's ONE chain-stop SPENT**, the folded sheet held
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.009, from the R14.9 brief) was built. Committed and reversible.
+
+**Sandbox note (recovery, no loss — third occurrence).** HEAD again came up on the base commit with
+the branch's content in the working tree; recovered with `git fetch origin arena/58bfdb2c-manga` +
+`git reset --mixed FETCH_HEAD` (remote `dd345f0`). Nothing lost, nothing force-pushed.
+
+**Canon grounding before writing:** protection of record, entered blind on P.008 with the name-space
+empty; the Office's disavowal of the uncounted hour (P.008) as the reason its keeper can be sheltered
+at all; the chain-stop discipline of Ch. 013 P.008 (spent on a threshold, written in one gated line);
+the public-reading law; the fold of Rekhak's paper as the page's other invisible prop (not touched).
+
+**Script.** `story/page-009.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the door (the figure stands without knocking, snow-loaded, hood up) → the decision out loud in front
+of the square (whether the blind protection covers the man who has come to use it) → **the threshold
+— CHAIN-STOP** (one step inside, hood kept, snow dripping, the queue making a lane in silence) → the
+folded sheet set on the counter and one pace taken back, hands loose → the register's entry AS
+RECEIVED, unread, unopened, held → Kessa's two dangers chalked into the till's book, both entered, no
+preference → the promise: opened at the window at dawn and read aloud to the whole square, the cord
+laid in a ring and left untied. Ladder run: *Read it at dawn.* **Chain-stop ONE — SPENT (this page,
+the threshold).**
+
+**Cast + world.** `characters/cast-page-009.md` — 6 entries, all card-lined (Ira · Kessa · the
+Snow-Heavy Figure, hood kept indoors · the Reader · the Queue · the Machine, off-panel). The figure's
+card-line carries no face and no name; the entry notes that if he is the clerk the page does not know
+it. `other/glossary.md` +6 terms (the threshold · "he did not knock" · the protection coming due · the
+folded sheet · "two ways this goes wrong" · "read it at dawn"). `other/locations.md` +2 (the stall's
+door · the custody ring).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression)
+from 3.29 MB into the band. Final: **`images/page-009.png` — 864×1821, ratio 2.11, 2.57 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the door open a hand's width
+on a dusk-blue street, the snow-loaded hooded figure standing still in the gap, one glove hanging
+unraised, the room gone quiet behind ✓ · P2 the register at the protection page — knots, wax seal, an
+empty space left — a bare hand leaving it for the door's bar, a grey glove resting on the counter
+beside, the queue's faces turned in the background ✓ · P3 the threshold: one step inside, snow
+melting on the boards, hood up, head a void, lamplight warm on the inside and blue beyond, a lane of
+quiet people ✓ (the chain-stop panel holds the page) · P4 a gloved hand setting the folded sheet down,
+its crease worn furred, the heavy cuff, boots and coat-hem one pace back in shadow ✓ · P5 the register's
+wet entry beside the folded sheet with its small knot at the head, a hand flat on the counter in
+front, not on the paper ✓ · P6 the long view — the sheet under the lamp, the queue seated along the
+wall, the hooded figure one pace back and motionless, Kessa chalking at the till with the three-knot
+cord ✓ · P7 deep night: the sheet closed under a trimmed lamp, the register shut, a plain cord in a
+ring and deliberately untied, the benches asleep, the door shut with snow at the slats, Ira seated
+with her hands in her lap ✓. No lettering on register, sheet, slate or paper ✓. Agnikhand palette ✓.
+Soft flags for the human queue: (1) P2's grey glove rests over the register rather than clearly
+beside it, and the reaching hand's placement is ambiguous at page scale; (2) P5's fresh entry reads
+as hatch-work rather than script (allowed under the no-lettering rule); (3) 864×1821 is the off-house
+canvas class.
+
+**Gate after the page:** HARD FAILURES none · 150 png · duplicates 0 · 22,037 links / 0 broken ·
+reproducible True · ch014 in progress 9/10 · cast card-lines 139/100 missing 0 · chain-stop lines
+13/13 (ch014's summary is still absent — due at the close). README refreshed: 139 pages, position
+line, and the **Page 010 finale brief** — the dawn reading (the sheet is the night shift's own
+count: the Office's "missing" fuel, delivered down into the basin by hand all winter), publication as
+protection, the paper returned up-terrace already read (*Give it back read.*), and the mandatory
+chapter close-out with the gated chain-stop budget line. Build run AFTER the README/AUDIT edits, per
+the R14.4 process rule.
+
+### R14.11 Chapter 014 Page 010 — *the reading* — FINALE DONE, chapter CLOSED: the night count read aloud, the shortage proved a redistribution, the paper returned already read
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.010, the finale, plus the chapter close-out required by the brief) was
+built. Committed and reversible.
+
+**Sandbox note (recovery, no loss — fourth occurrence).** HEAD again came up on the base commit with
+the branch's content in the tree; recovered with `git fetch origin arena/58bfdb2c-manga` +
+`git reset --mixed FETCH_HEAD` (remote `ffd5b1b`). Nothing lost, nothing force-pushed.
+
+**Canon grounding before writing:** the uncounted shift (P.006) and its disavowal (P.008); the hold
+that paused the machine's paper (P.003) and the shield logic that followed; the notice's dated *for
+the season* (P.003) and the thin week's missing permit-ledger bundle (P.002); the school's tally and
+Nandi's *forward, and whole* (P.002); the counter's public-reading law, applied to a gift (P.005),
+to the Office's hours (P.006) and to itself (P.010).
+
+**Script.** `story/page-010.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the shutter up at dawn with the square already standing → the sheet opened and read flat: *drawn
+four, struck from the roll none, carried down four*, night after night → the square's own arithmetic
+(*four a night. that is the whole thin week, given away*) → the sum in the street, nobody cheering →
+Kessa prices publication against silence and the register chooses publication → the margin written
+on the machine's own count in four knots and the keeper's seal, the page corded and handed to the
+runner to go back up the stair **already read** → gold afternoon, the school's book one line longer,
+Nandi's *the year is whole, keeper*, two knots on the sill, one line of prints. Ladder run: *Give it
+back read.* **Chain-stop ONE — SPENT on Page 009** (unchanged).
+
+**Cast + world.** `characters/cast-page-010.md` — 6 entries, all card-lined (Ira · Kessa · the Reader
+· Nandi · the Runner, seventh appearance · the Square · plus the snow-heavy figure as prints only).
+`other/glossary.md` +6 terms (the night count · the redistribution · "a gift nobody can demand" · the
+margin · "returned already read" · "give it back read"). `other/locations.md` +2 (the window at dawn
+· the sill, two knots).
+
+**Close-out.** `chapters/chapter-014/chapter-summary.md` written in the Ch. 011–013 shape: synopsis,
+what the chapter built, chapter engine, ladder, see-also — **carrying the gated line: Chain-stop
+budget ONE — SPENT on Page 009, on the threshold.** World state: glossary 51 chapter terms, locations
+19 sections. README flipped: Ch. 014 **COMPLETE (10/10)**, 140 pages, position line closed, and a
+**Chapter 015 Page 001 brief** seeded (fresh ONE, unspent): thaw, the till's fuel column closed, the
+school's spring term, and the promised public accusation that the counter owns what it pays for —
+answered by a public reading, with the sill's two knots and Rekhak's folded paper carried forward.
+
+**Art — built with the page, read at full resolution, character drift caught twice.** First
+generation: 864×1821 (ratio 2.11, all 7 tiers present) but **Kessa was drawn as an old bearded man** in
+P1 and P6 — the fourth instance of this drift class in the chapter. Two targeted edits were run on the
+same canvas; the second (bare jaw, no beard, grey knots at the nape, explicitly named as a surgical
+two-spot correction) cleared P6 and largely cleared P1. Re-encoded (`-strip`, max PNG compression)
+from 3.87 MB into the band. Final: **`images/page-010.png` — 672×1584, ratio 2.36, 2.58 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the stall at first light, the
+reader holding the folded sheet, Ira at the register, the quarter standing in a half-circle of snow,
+the cord laid aside ✓ · P2 the sheet open on the sill — columns of tally groups and knot-rows, no
+lettering, two work-worn hands holding its edges ✓ · P3 the crowd's faces counting: a child on a hip,
+an old man's fingers against his knee, two undyed women glancing, a crushed cap ✓ · P4 the square in
+slush, people in small knots, a brass fire-measure held up like evidence, an elder down on the step,
+the window above ✓ · P5 the four knots and the dark seal written onto the sheet's blank face beside
+the open register, a grey glove holding the corner ✓ · P6 the corded sheet handed over with both
+hands, the stair beyond the door, the quarter standing back ✓ · P7 gold afternoon: the register's last
+page, the thick old book with its fresh line, the till's chalked column, the coiled cord, the single
+line of prints in the slush, two small knots on the empty sill ✓. No lettering anywhere ✓. Agnikhand
+palette with a cold-dawn / gold-close arc ✓. Soft flags for the human queue: (1) P1's till figure
+remains borderline — the beard is gone and the hair is knotted back, but at page scale she still reads
+as merely *elderly* rather than unmistakably Kessa (the second edit landed cleanly in P6); (2) P2's
+famed fold crease is present but shallow; (3) 672×1584 is the off-house canvas class (ratio 2.36,
+inside the ≤2.5 rule).
+
+**Gate after the page (the chapter's close gate):** HARD FAILURES none · 151 png · duplicates 0 ·
+22,000+ links / 0 broken · reproducible True · chapters 14 (all complete — ch014 now 10/10, summary
+present, **chain-stop lines 14/14**) · cast card-lines 140/100 missing 0 · scripts 980 panels ·
+Camera parity 140/100. Build run AFTER the README/AUDIT/summary edits, per the R14.4 process rule.
