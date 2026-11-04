@@ -112,3 +112,18 @@ The archive table with the lamp on it and the year's rods racked behind — from
 second Office drafts its instruments: the demand's four knots tied by Nandi, the copy written by the
 keeper, the wax and the seal brought by the till, the school's women practising the same tie on their
 own cords. A drafting room that is also a classroom, because in this institution it is the same skill.
+
+## THE STALL'S DOOR
+
+The second Office's only entrance, opened a hand's width on a dusk-blue street in deep winter — from
+Page 009 the place where its written protections come due. A snow-loaded figure stood outside it
+without knocking; the bar was lifted from inside, in front of the queue, and the man came in. The door
+is shut for the first time in the chapter on this page, because the night belongs to the door and not
+to the window; it opens again at dawn, for the reading.
+
+## THE CUSTODY RING
+
+A plain cord laid in a loose ring around the folded sheet on the counter and deliberately left untied
+(Page 009). The counter's whole statement about holding a dangerous paper without secrecy: the ring
+marks what is held and who may open it — everyone, at dawn, at the window, aloud. Nothing is knotted,
+because a knot would be a decision the basin has not been given.

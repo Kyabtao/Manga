@@ -2321,3 +2321,67 @@ reproducible True · ch014 in progress 8/10 · cast card-lines 138/100 missing 0
 the door, **the chapter's ONE chain-stop SPENT on his threshold**, the paused paper laid down
 unopened, and the promise to read it aloud at dawn (*Read it at dawn.*). Build run AFTER the
 README/AUDIT edits, per the R14.4 process rule.
+
+### R14.10 Chapter 014 Page 009 — *the hour's keeper at the door* — DONE: the threshold, **the chapter's ONE chain-stop SPENT**, the folded sheet held
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 014 P.009, from the R14.9 brief) was built. Committed and reversible.
+
+**Sandbox note (recovery, no loss — third occurrence).** HEAD again came up on the base commit with
+the branch's content in the working tree; recovered with `git fetch origin arena/58bfdb2c-manga` +
+`git reset --mixed FETCH_HEAD` (remote `dd345f0`). Nothing lost, nothing force-pushed.
+
+**Canon grounding before writing:** protection of record, entered blind on P.008 with the name-space
+empty; the Office's disavowal of the uncounted hour (P.008) as the reason its keeper can be sheltered
+at all; the chain-stop discipline of Ch. 013 P.008 (spent on a threshold, written in one gated line);
+the public-reading law; the fold of Rekhak's paper as the page's other invisible prop (not touched).
+
+**Script.** `story/page-009.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the door (the figure stands without knocking, snow-loaded, hood up) → the decision out loud in front
+of the square (whether the blind protection covers the man who has come to use it) → **the threshold
+— CHAIN-STOP** (one step inside, hood kept, snow dripping, the queue making a lane in silence) → the
+folded sheet set on the counter and one pace taken back, hands loose → the register's entry AS
+RECEIVED, unread, unopened, held → Kessa's two dangers chalked into the till's book, both entered, no
+preference → the promise: opened at the window at dawn and read aloud to the whole square, the cord
+laid in a ring and left untied. Ladder run: *Read it at dawn.* **Chain-stop ONE — SPENT (this page,
+the threshold).**
+
+**Cast + world.** `characters/cast-page-009.md` — 6 entries, all card-lined (Ira · Kessa · the
+Snow-Heavy Figure, hood kept indoors · the Reader · the Queue · the Machine, off-panel). The figure's
+card-line carries no face and no name; the entry notes that if he is the clerk the page does not know
+it. `other/glossary.md` +6 terms (the threshold · "he did not knock" · the protection coming due · the
+folded sheet · "two ways this goes wrong" · "read it at dawn"). `other/locations.md` +2 (the stall's
+door · the custody ring).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression)
+from 3.29 MB into the band. Final: **`images/page-009.png` — 864×1821, ratio 2.11, 2.57 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the door open a hand's width
+on a dusk-blue street, the snow-loaded hooded figure standing still in the gap, one glove hanging
+unraised, the room gone quiet behind ✓ · P2 the register at the protection page — knots, wax seal, an
+empty space left — a bare hand leaving it for the door's bar, a grey glove resting on the counter
+beside, the queue's faces turned in the background ✓ · P3 the threshold: one step inside, snow
+melting on the boards, hood up, head a void, lamplight warm on the inside and blue beyond, a lane of
+quiet people ✓ (the chain-stop panel holds the page) · P4 a gloved hand setting the folded sheet down,
+its crease worn furred, the heavy cuff, boots and coat-hem one pace back in shadow ✓ · P5 the register's
+wet entry beside the folded sheet with its small knot at the head, a hand flat on the counter in
+front, not on the paper ✓ · P6 the long view — the sheet under the lamp, the queue seated along the
+wall, the hooded figure one pace back and motionless, Kessa chalking at the till with the three-knot
+cord ✓ · P7 deep night: the sheet closed under a trimmed lamp, the register shut, a plain cord in a
+ring and deliberately untied, the benches asleep, the door shut with snow at the slats, Ira seated
+with her hands in her lap ✓. No lettering on register, sheet, slate or paper ✓. Agnikhand palette ✓.
+Soft flags for the human queue: (1) P2's grey glove rests over the register rather than clearly
+beside it, and the reaching hand's placement is ambiguous at page scale; (2) P5's fresh entry reads
+as hatch-work rather than script (allowed under the no-lettering rule); (3) 864×1821 is the off-house
+canvas class.
+
+**Gate after the page:** HARD FAILURES none · 150 png · duplicates 0 · 22,037 links / 0 broken ·
+reproducible True · ch014 in progress 9/10 · cast card-lines 139/100 missing 0 · chain-stop lines
+13/13 (ch014's summary is still absent — due at the close). README refreshed: 139 pages, position
+line, and the **Page 010 finale brief** — the dawn reading (the sheet is the night shift's own
+count: the Office's "missing" fuel, delivered down into the basin by hand all winter), publication as
+protection, the paper returned up-terrace already read (*Give it back read.*), and the mandatory
+chapter close-out with the gated chain-stop budget line. Build run AFTER the README/AUDIT edits, per
+the R14.4 process rule.
