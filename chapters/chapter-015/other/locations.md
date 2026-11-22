@@ -53,3 +53,17 @@ The strip of stone outside the window where the term is held at the second hour 
 the side room is the school's and the street is everybody's. From Page 003: where the mother enrols
 her daughter without a fee and where Nandi teaches with her lens put away, so that no one can say the
 lesson depended on a reader's sight.
+
+## THE NINTH BENCH
+
+The benches in the school's side room, counted inward from the wall: from Page 004 the one where a
+licensed teacher sits among eight unlicensed ones, her sealed leaf on her knee and her grip on a
+lesson-cord corrected out of pure habit by the woman next to her. The page's physical answer to the
+Office's split — membership is a seat, not a seal.
+
+## THE TWO-LESSON STEP
+
+The stall's step at dusk, used for two lessons at once from Page 004: the Office's sealed grammar
+taught under a nailed leaf at one end, the old grammar taught unsealed two paces away, the same
+eleven children drifting between them. The school's book is visible through the window behind the
+whole arrangement, open, which is the point.

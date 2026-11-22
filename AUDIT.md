@@ -2642,3 +2642,58 @@ chain-stop lines 14/14 · mother-in-Camera manual-confirm back to 3/3 (three P.0
 school declines a purchase by returning the licence *already read*, the Office's licence turns out to
 be addressed to teachers one by one, one of the school's own women accepts it, and the register counts
 her anyway (*Count her too.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R15.4 Chapter 015 Page 004 — *the licensed teacher* — DONE: a purchase declined, a split absorbed, a ledger line
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README NEXT
+position (Ch. 015 P.004, from the R15.3 brief) was built. Committed and reversible.
+
+**Canon grounding before writing:** the licence and its border-fine clause (P.003); the four-knot
+answer used on the charter (P.002); the school's book, old grammar, deliberate name-space (Ch. 014
+P.008); the register's rule that every entry is read aloud; the courtesy-form/returned-read grammar
+(Ch. 014 P.008–P.010) reused as the school's own correspondence.
+
+**Script.** `story/page-004.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the ruling at the school's table with no keeper in the chair (a permission that forbids counting is a
+purchase) → the answer tied in four knots and the school's plain cord → the licence nailed back up
+beside the term, the street reading Office grammar alone → the knife in the wording: nine leaves
+addressed to women one by one, and one of the school's own accepts → her reason, straight (lawful,
+paid work; a sister to feed) → Nandi writes her into the book the licence forbids, and Ira reads the
+entry aloud (*counted, not expelled*) → dusk: two lessons on one step, sealed and unsealed, the same
+children drifting between them. Ladder run: *Count her too.* Chain-stop ONE, unspent; mother
+off-panel; Loom absent; snow-heavy figure absent; sill's knots untouched.
+
+**Cast + world.** `characters/cast-page-004.md` — 6 entries, all card-lined (Nandi · the Licensed
+Woman · Ira · Kessa · the Reader · the Machine, off-panel, licensing by name). `other/glossary.md`
++7 terms (the purchase declined · returned read · nine leaves, one accepted · "counted, not expelled"
+· the wage from the Office · two lessons on one step · "count her too"). `other/locations.md` +2 (the
+ninth bench · the two-lesson step).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+887×1774 (ratio 2.0, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression)
+from 3.63 MB into the band. Final: **`images/page-004.png` — 887×1774, ratio 2.0, 2.79 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the archive table with the
+licence laid flat and Nandi's hands on the wood either side of it, eight women on the benches with
+cords, the reader with the plain cord, Ira at the door with the register, the cold lamp unlit ✓ · P2
+the licence's corner threaded with four plain knots, the seal untouched, the hairline row under it,
+the old book open beside with its dry knot-marks ✓ · P3 the leaf pinned beside the term-cord with the
+answer-cord hanging, the crowd reading it by finger, the reader standing back with folded arms ✓ · P4
+the standing licensed woman holding her sealed, cordless leaf with the benches turned to her and one
+hand stopped mid-knot ✓ · P5 the fresh line laid into the old book, the sealed leaf beside the page,
+the four-knotted cord still in its corner ✓ · P6 the same benches at their cords, the licensed woman
+seated among them with the leaf on her knee and her neighbour correcting her grip out of habit, Nandi
+writing, Kessa in the doorway with the slate ✓ · P7 dusk on the step: mixed drifting groups of
+children, one lesson with the nailed leaf and a lesson-cord, the others unsealed two paces away, the
+school's book visible through the window behind ✓. No lettering on leaf, book, slate or register ✓.
+Agnikhand palette in cold window light and amber dusk ✓. Soft flags for the human queue: (1) P5's
+empty name-space on the same page is not clearly legible at page scale; (2) P7's nailed seal reads
+small and is easy to miss at the far left of the group; (3) 887×1774 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 155 png · duplicates 0 · 22,929 links / 0 broken ·
+reproducible True · chapters 15 (ch015 in progress 4/10) · cast card-lines 144/100 missing 0 ·
+chain-stop lines 14/14 · mother-in-Camera manual-confirm 3/3. README refreshed: 144 pages, position
+line, and the **Page 005 brief** — the Office's first coin paid into the basin in public, the licensed
+lesson's roll of eleven children by name, and the register keeping its own copy of what the machine
+now knows (*Enter the eleven.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
