@@ -2455,3 +2455,74 @@ inside the ≤2.5 rule).
 22,000+ links / 0 broken · reproducible True · chapters 14 (all complete — ch014 now 10/10, summary
 present, **chain-stop lines 14/14**) · cast card-lines 140/100 missing 0 · scripts 980 panels ·
 Camera parity 140/100. Build run AFTER the README/AUDIT/summary edits, per the R14.4 process rule.
+
+### R15.1 Chapter 015 — *The Spring Term* — OPENED, Page 001 DONE: the thaw, the purse read aloud, the charter
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 015 P.001, seeded from the Ch. 014 close-out in §R14.11) was built. Committed and
+reversible.
+
+**Chapter title set:** *The Spring Term* (Arc III — The Second School). Rationale: the chapter's
+engine is what the second Office's school is, who pays for it, and who owns what it teaches; the
+season carries the chapter the way *Year Nineteen* carried Ch. 014.
+
+**Sandbox note (recovery, no loss — fifth occurrence).** HEAD came up on the base commit again with
+the branch's work in the tree; recovered with `git fetch origin arena/58bfdb2c-manga` +
+`git reset --mixed FETCH_HEAD` (remote `e029ef2`). Nothing lost, nothing force-pushed.
+
+**Canon grounding before writing:** the till's purse and its promised accusation (Ch. 014 P.006); the
+school's term and its price a line a head (Ch. 014 P.005); the Office's hours posted at the basin's
+board in knot-work (Ch. 014 P.006); the machine's spent dodge (Ch. 014 P.008–P.010) as the reason its
+new move must be adoption rather than denial; protection of record's empty name-space (Ch. 014 P.008)
+as the chapter's live charge.
+
+**Script.** `story/page-001.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the thaw (meltwater, dripping eaves, the queue the same length it was in the worst week) → the fuel
+column closed with one stroke, four hundred and one measures, and the school's column opened → the
+spring term posted in the open air in the school's own grammar and read back to the crowd for
+correction → the accusation, in the claimant's own words and to the keeper's face (*the counter
+bought a school; what else does the counter buy, and who decided?*) → the answer chosen: the pen laid
+down and the fact conceded before anything else → the purse read aloud in the street by the till,
+every column, ending with the counter's only takings — a cord and two knots → dusk: a sealed charter
+at the hatch board offering to receive the school, with a seal at its foot and a budget-cord.
+Ladder run: *Choose the owner.* Chain-stop ONE, fresh and **unspent**; mother off-panel; Loom absent;
+snow-heavy figure absent; sill's knots untouched.
+
+**Cast + world.** New chapter folder seeded: `characters/cast-page-001.md` (6 entries, all
+card-lined: Ira · Kessa · the Claimant, one-off and honest · the Counting-Lesson Women · the Queue ·
+the Machine, off-panel, the charter); `other/glossary.md` (7 chapter terms: the thaw · the closed
+column · the spring term · "what else does the counter buy?" · the purse read aloud · the charter ·
+"choose the owner"); `other/locations.md` (3: the square in thaw · the sill and the street, read from
+· the hatch board, chartered). No `.gitkeep` files (R13.3).
+
+**Art — built with the page, read at full resolution, one drift fixed.** First generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present) but the till figure in P4 read as an elderly
+man — the same drift class as Ch. 014's four instances. One targeted edit (bare jaw, grey knots at
+the nape, chalk stub, same pose and scale) corrected it; the other six tiers kept their composition.
+Re-encoded (`-strip`, max PNG compression) from 3.67 MB into the band. Final:
+**`images/page-001.png` — 704×1484, ratio 2.11, 2.46 MB, screen 0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the thaw — dripping eaves, a
+slab of snow bursting on the flags, black water in the gutters, the queue in lighter coats with
+papers held dry ✓ · P2 the ledger's ruled column crossed at its foot with a single chalk stroke, the
+fresh column marked only by a small knot, a grey-gloved hand lifting, the chalk stub set down like a
+full stop, the three-knot cord in frame ✓ · P3 a woman nailing a knot-hung cord to the wet board while
+two others read a second copy aloud to a stopping crowd, no clerk, no seal ✓ · P4 the claimant in a
+mended coat with his tally-case, square to the window, the queue behind him, Ira at the register,
+Kessa at the till with the chalk ✓ · P5 the pen laid down flat, the hand turned palm-flat on the page,
+the closed chalked ledger with its key, the tally-case's corner ✓ · P6 Kessa out in the street reading
+the big book propped on the sill, the claimant at the front with his jaw set, Ira writing at the
+window, dripping eaves behind ✓ · P7 dusk at the board — the sealed charter in rigid knot-style, its
+seal and budget-cord, two women with a raised lamp reading slowly, the wet street stopped behind ✓.
+No lettering on book, board, notice or paper ✓. Agnikhand palette in thaw greys with ember and bruised
+dusk ✓. Soft flags for the human queue: (1) P1's window figures are only loosely the script's keeper
+and till (they read as two background staff); (2) P2's chalk cross sits at the column's foot as the
+script asks but reads as a stray mark at page scale; (3) 704×1484 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 152 png · duplicates 0 · 22,686 links / 0 broken ·
+reproducible True · chapters 15 (ch015 in progress 1/10) · cast card-lines 141/100 missing 0 ·
+chain-stop lines 14/14 (ch015's summary not due until its close). README refreshed: Ch. 015 open,
+*The Spring Term*, 141 pages, position line, and the **Page 002 brief** — the charter read aloud in
+full, the school's split answer (the Office may own the grammar; the count stays the street's), and
+the roll that would force the empty name-space onto an Office schedule (*Write the name.*). Build run
+AFTER the README/AUDIT edits, per the R14.4 process rule.
