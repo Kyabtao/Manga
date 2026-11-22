@@ -38,3 +38,18 @@ The stall's serving window on a thaw noon, a reader standing on the sill's step 
 held up, the quarter packed close under a dripping awning. Same window that read the winter's counts;
 on Page 002 it reads the machine's best paper at the same pace and with the same flatness, which is
 what makes the sixth clause audible.
+
+## THE STREET SCHOOL
+
+The stall's step and the wet flags before it, turned into a schoolroom under the licence: benches
+carried out crooked, a plank across two barrels for a table, nine women and eleven children with
+cords and chalk-slates, the licence nailed to the wall beside them, and the awning dripping the only
+music. From Page 003 it is the second Office's school running without a penny of Office money —
+unpaid, lawful, and utterly public.
+
+## THE STEP AT THE SECOND HOUR
+
+The strip of stone outside the window where the term is held at the second hour after noon, because
+the side room is the school's and the street is everybody's. From Page 003: where the mother enrols
+her daughter without a fee and where Nandi teaches with her lens put away, so that no one can say the
+lesson depended on a reader's sight.
