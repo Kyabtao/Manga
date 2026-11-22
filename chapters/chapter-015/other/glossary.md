@@ -1,0 +1,14 @@
+# Chapter 015 — Glossary
+
+New terms and usages introduced in this chapter. Chapter 014's terms are defined in
+`chapter-014/other/glossary.md`.
+
+| Term | Meaning |
+|---|---|
+| **The thaw** | The opening of Chapter 015 (Page 001): the square in meltwater, eaves dripping, a slab of snow sliding off the stall's awning, the snow gone grey and trodden — and the queue the same length it was in the worst week of winter. Nobody celebrates it: the proof of the second Office is not a crowd that came but a queue that kept coming. |
+| **The closed column** | The till's book at the season's turn (Page 001): the fuel column ruled down and crossed at its foot with one chalk stroke — four hundred and one measures, one a night, none of them bought — the oil column closed behind it, and the school's column opened with nine lines in, four paid back, five carried. The first column in the second Office's history that is not a debt somebody owes the counter. |
+| **The spring term** | The school's first posted curriculum (Page 001): three lessons a week, the second hour after noon, one line a head carried and not demanded, open to the quarter, hung in knot-work where the Office's hours hung all winter and read aloud to the crowd for correction. The school does not ask leave to teach; it asks the quarter to hold the count. |
+| **"What else does the counter buy?"** | The first public accusation of the spring (Page 001), spoken to the keeper's face by a claimant owed seven measures: nine lines went out of the till to buy lessons, the till is not the keeper's, its money is the quarter's, so who decided? The register's answer is to concede the fact before answering — *yes, it did* — and then to put the book in the street. |
+| **The purse read aloud** | The counter's answer to an accusation about money (Page 001): the till's book propped on the sill and read to the queue by the woman who wrote it — fuel given not bought, oil spent on the watch, nine school lines out, four back, five carried, no loans taken, and the counter's only takings a cord and two knots. The answer to *who decided* is a column and a window. |
+| **The charter** | The Office's first move of the new season (Page 001, dusk): a sealed notice in machine knot-style at the hatch board offering to RECEIVE the school — under the Office, at the Office's cost, with a seal on its lessons and a line in its budget, every lesson counted and every count theirs. The machine's answer to being read back at is not denial but adoption: it offers to own the thing it cannot accuse. |
+| **"Choose the owner"** | The page's ladder run and the chapter's opening question (Page 001): the counter will read the charter aloud in the morning, including the seal, and the quarter will have to decide what the school is — the counter's, the Office's, or the street's. A machine that has spent its dodge has found a new grammar, and the answer to it is not a keeper's but a quarter's. |
