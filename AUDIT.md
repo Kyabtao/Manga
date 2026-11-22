@@ -2526,3 +2526,63 @@ chain-stop lines 14/14 (ch015's summary not due until its close). README refresh
 full, the school's split answer (the Office may own the grammar; the count stays the street's), and
 the roll that would force the empty name-space onto an Office schedule (*Write the name.*). Build run
 AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R15.2 Chapter 015 Page 002 — *the charter* — DONE: read in full, split by the school, blocked by one blank line
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 015 P.002, from the R15.1 brief) was built. Committed and reversible.
+
+**New session branch.** Work moved to `arena/f16af23b-manga`, branched from `f86360a` (main after PR
+#7 merged). The README branch field was updated first — the gate hard-fails on a stale field — and a
+fresh PR will be opened from this branch, since PR #7 is merged and a merged PR does not follow a new
+branch. No local-state recovery was needed this session: HEAD was already on the branch tip.
+
+**Canon grounding before writing:** the charter's six clauses and budget-cord (Ch. 015 P.001); the
+counter's public-reading law; protection of record's deliberately empty name-space (Ch. 014 P.008);
+the two-books-at-one-table formula (Ch. 013 P.007); Nandi's refusal to read a knot past what is on the
+cord (Ch. 014 P.003).
+
+**Script.** `story/page-002.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the charter taken down off the board, seal up, because nothing is answered where it was hung → its
+face read as shape before words (five gifts and a list) → the reading in full at the window, clause by
+clause → the generosity landing: a mother steps forward to enrol her daughter before the reading ends,
+and she is right → the school answers for itself at its own table, Nandi's hand moving from the
+charter to her own book: the Office may own the grammar, the count stays the street's → the answer
+written in four knots and a plain cord, the Office's seal untouched → the first schedule beside the
+register's blank name-space, the collision stated and left open. Ladder run: *Write the name.*
+Chain-stop ONE, unspent; mother off-panel; Loom absent; snow-heavy figure absent; sill's knots
+untouched.
+
+**Cast + world.** `characters/cast-page-002.md` — 6 entries, all card-lined (Nandi · Ira · Kessa ·
+the Reader · the Woman in the Shawl, one-off · the Machine, off-panel). `other/glossary.md` +7 terms
+(the charter, read in full · "five gifts and a list" · a door so good saying no is unnatural · the
+split · two books at one table · the first schedule · "write the name"). `other/locations.md` +2 (the
+school's table, chartered · the window, noon reading).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression)
+from 3.79 MB into the band. Final: **`images/page-002.png` — 864×1821, ratio 2.11, 2.92 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the wet board, two women easing
+the sealed charter off its pegs, the budget-cord being gathered, a third on the ladder, the quarter
+standing back in the thaw ✓ · P2 the charter held flat by two pairs of hands — rigid knot-rows, the
+seal at the foot, the ruled blank schedule at the bottom, exactly *five gifts and a list* ✓ · P3 the
+noon reading at the window, the reader holding it up, Ira writing, Kessa armed and folded at the till,
+the crowd packed under the dripping awning ✓ · P4 the mother in the patched shawl with her hand on her
+daughter's shoulder, stepping forward, the faces around her doing arithmetic ✓ · P5 the school's
+table: Nandi at its head, one hand on the charter and one on her own book, the benches of women with
+cords, Ira at the room's edge and not at the table ✓ · P6 the four plain knots and the cord through
+the charter's corner under Nandi's thick fingers, the Office's seal untouched, the school's book open
+beside it ✓ · P7 the ruled schedule and the open book with its seal, four knots and the empty
+name-space, Nandi's finger between them, the benches still ✓. No lettering on charter, book, board or
+register ✓. Agnikhand palette in thaw greys and lamplight ✓. Soft flags for the human queue: (1) P1's
+action reads as readily as hanging as taking down (the subject is right, the direction is ambiguous);
+(2) P4's paper edge intrudes at the frame's right; (3) 864×1821 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 153 png · duplicates 0 · 22,763 links / 0 broken ·
+reproducible True · chapters 15 (ch015 in progress 2/10) · cast card-lines 142/100 missing 0 ·
+chain-stop lines 14/14 (ch015's summary not due until its close). README refreshed: 142 pages,
+position line, and the **Page 003 brief** — no roll no charter, the licence with money withheld, the
+school teaching anyway, and the licence's last line forbidding a count in any other grammar
+(*Teach it anyway.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
