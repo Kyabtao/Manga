@@ -2697,3 +2697,62 @@ chain-stop lines 14/14 · mother-in-Camera manual-confirm 3/3. README refreshed:
 line, and the **Page 005 brief** — the Office's first coin paid into the basin in public, the licensed
 lesson's roll of eleven children by name, and the register keeping its own copy of what the machine
 now knows (*Enter the eleven.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R15.5 Chapter 015 Page 005 — *the first coin and the first roll* — DONE: money with no debt, eleven names, and the counter's own copy
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README NEXT
+position (Ch. 015 P.005, from the R15.4 brief) was built. Committed and reversible.
+
+**Canon grounding before writing:** the licence's seal and its "no count in any other grammar" clause
+(P.003); the licensed woman's membership and the entry read aloud (P.004); the school's book with its
+two-season empty name-space (Ch. 014 P.008); Kessa's refusal to let a coin enter the drawer without a
+debt against it (Ch. 012–013 manner); the register's rule that everything is entered and read aloud.
+
+**Script.** `story/page-005.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats: the
+hooded errand-boy sets a stamped purse and a slip on the step at the end of a lesson (*for the lesson;
+the slip has to come back*) → one coin on the school's table with nobody's hand on it, and Kessa's cold
+reading of *paid, no claim* → the till refuses it by accounting, not argument, and names the danger
+(*it buys a habit*) → the seal's price: a roll-slate with eleven bare lines and eleven names in the
+licensed woman's hand going to theirs → the woman in the shawl writes her daughter's name because it is
+the first promise a clerk cannot take back → two families refuse courteously and are right, and Nandi's
+answer keeps the class whole (*nine sealed and two not, in the same hour*) → night: eleven lines in the
+register, nine matched to the Office's roll and two left with a bare gap, and the old page still empty.
+Ladder run: *Enter the eleven.* Chain-stop ONE, unspent; mother off-panel; Loom absent; snow-heavy
+figure absent; sill's knots untouched.
+
+**Cast + world.** `characters/cast-page-005.md` — 7 entries, all card-lined (the Licensed Woman ·
+Kessa · Ira · the Woman in the Shawl · the Grandmother · the Errand-Boy · the Machine, off-panel).
+`other/glossary.md` +7 terms ("paid, no claim" · the coin on the counter · the roll-slate · "a seal
+cannot be withdrawn" · nine sealed, two not · "one name we still do not have" · "enter the eleven").
+`other/locations.md` +2 (the coin's end of the counter · the roll table).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression) from
+3.63 MB into the band. Final: **`images/page-005.png` — 864×1821, ratio 2.11, 2.64 MB, screen 0
+warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the step with children on the
+benches, the pale leaf nailed above, the hooded faceless boy crouched over the purse and slip, the
+licensed woman standing over him with her lesson-cord, the unlicensed groups stopped mid-lesson ✓ · P2
+the purse open, the single coin standing on the wood, the ruled roll-board and the receipt beside it, the
+chalked slate flat and nobody's hand on the coin ✓ (the page's best panel: money with no hand) · P3 Kessa
+ruling *not ours* while the drawer stands open and empty and the coin stays on the counter, Ira on the
+customer side with the register, the step and children through the window ✓ · P4 the roll-board and slip
+in the licensed woman's hands, the woman in the shawl and her daughter before her, the cold father behind
+✓ · P5 the board on a knee with the teacher's hand guiding the child's fingers and the mother's hand flat
+on the edge, the girl's face intent ✓ · P6 the two families stepping back with their children, courteous
+and set, Nandi at the window's edge with her lens and one line ✓ · P7 the register open with eleven lines
+being laid in, a pale slip matched to them, the old book beside it with a leaf threaded through its knots
+✓. No lettering on slip, slate, board, register or book ✓; the boy's face stays under the hood ✓.
+Agnikhand palette in pale rain and lamplight ✓. Soft flags for the human queue: (1) P7's deliberately
+empty name-space is not legible at page scale — the old page reads as a knot-column; (2) P2's receipt
+slip reads as a second plain board rather than a receipt; (3) P1's children read as holding flat boards
+rather than slates; (4) 864×1821 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 156 png · duplicates 0 · 23,017 links / 0 broken ·
+reproducible True · chapters 15 (ch015 in progress 5/10) · cast card-lines 145/100 missing 0 ·
+chain-stop lines 14/14 · mother-in-Camera manual-confirm 3/3. README refreshed: 145 pages, position
+line, and the **Page 006 brief** — the coin with nowhere to go spent on the two children the Office will
+not name, the wage bowl from the benches that pays for exactly those two, and an Office notice at dawn
+announcing an audit of the class (*Pay for the two.*). Build run AFTER the README/AUDIT edits, per the
+R14.4 process rule.

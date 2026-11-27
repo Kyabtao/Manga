@@ -67,3 +67,16 @@ The stall's step at dusk, used for two lessons at once from Page 004: the Office
 taught under a nailed leaf at one end, the old grammar taught unsealed two paces away, the same
 eleven children drifting between them. The school's book is visible through the window behind the
 whole arrangement, open, which is the point.
+
+## THE COIN'S END OF THE COUNTER
+
+The scarred stretch of the counter of record where the first Office coin was set down in Page 005 and
+still sits — out of the drawer, untouched by any hand, ruled *not ours* on the slate beside it. From
+that day it is the till's coldest piece of furniture: a coin that has to be answered before it can be
+spent.
+
+## THE ROLL TABLE
+
+The school's long night table under the lamp, where the roll-slate was filled and then copied into the
+register in Page 005 — two sheets side by side, the machine's eleven lines and the counter's eleven, and
+beside them the old book open at the page with its name-space still empty.
