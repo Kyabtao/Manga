@@ -2526,3 +2526,233 @@ chain-stop lines 14/14 (ch015's summary not due until its close). README refresh
 full, the school's split answer (the Office may own the grammar; the count stays the street's), and
 the roll that would force the empty name-space onto an Office schedule (*Write the name.*). Build run
 AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R15.2 Chapter 015 Page 002 — *the charter* — DONE: read in full, split by the school, blocked by one blank line
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README
+NEXT position (Ch. 015 P.002, from the R15.1 brief) was built. Committed and reversible.
+
+**New session branch.** Work moved to `arena/f16af23b-manga`, branched from `f86360a` (main after PR
+#7 merged). The README branch field was updated first — the gate hard-fails on a stale field — and a
+fresh PR will be opened from this branch, since PR #7 is merged and a merged PR does not follow a new
+branch. No local-state recovery was needed this session: HEAD was already on the branch tip.
+
+**Canon grounding before writing:** the charter's six clauses and budget-cord (Ch. 015 P.001); the
+counter's public-reading law; protection of record's deliberately empty name-space (Ch. 014 P.008);
+the two-books-at-one-table formula (Ch. 013 P.007); Nandi's refusal to read a knot past what is on the
+cord (Ch. 014 P.003).
+
+**Script.** `story/page-002.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the charter taken down off the board, seal up, because nothing is answered where it was hung → its
+face read as shape before words (five gifts and a list) → the reading in full at the window, clause by
+clause → the generosity landing: a mother steps forward to enrol her daughter before the reading ends,
+and she is right → the school answers for itself at its own table, Nandi's hand moving from the
+charter to her own book: the Office may own the grammar, the count stays the street's → the answer
+written in four knots and a plain cord, the Office's seal untouched → the first schedule beside the
+register's blank name-space, the collision stated and left open. Ladder run: *Write the name.*
+Chain-stop ONE, unspent; mother off-panel; Loom absent; snow-heavy figure absent; sill's knots
+untouched.
+
+**Cast + world.** `characters/cast-page-002.md` — 6 entries, all card-lined (Nandi · Ira · Kessa ·
+the Reader · the Woman in the Shawl, one-off · the Machine, off-panel). `other/glossary.md` +7 terms
+(the charter, read in full · "five gifts and a list" · a door so good saying no is unnatural · the
+split · two books at one table · the first schedule · "write the name"). `other/locations.md` +2 (the
+school's table, chartered · the window, noon reading).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression)
+from 3.79 MB into the band. Final: **`images/page-002.png` — 864×1821, ratio 2.11, 2.92 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the wet board, two women easing
+the sealed charter off its pegs, the budget-cord being gathered, a third on the ladder, the quarter
+standing back in the thaw ✓ · P2 the charter held flat by two pairs of hands — rigid knot-rows, the
+seal at the foot, the ruled blank schedule at the bottom, exactly *five gifts and a list* ✓ · P3 the
+noon reading at the window, the reader holding it up, Ira writing, Kessa armed and folded at the till,
+the crowd packed under the dripping awning ✓ · P4 the mother in the patched shawl with her hand on her
+daughter's shoulder, stepping forward, the faces around her doing arithmetic ✓ · P5 the school's
+table: Nandi at its head, one hand on the charter and one on her own book, the benches of women with
+cords, Ira at the room's edge and not at the table ✓ · P6 the four plain knots and the cord through
+the charter's corner under Nandi's thick fingers, the Office's seal untouched, the school's book open
+beside it ✓ · P7 the ruled schedule and the open book with its seal, four knots and the empty
+name-space, Nandi's finger between them, the benches still ✓. No lettering on charter, book, board or
+register ✓. Agnikhand palette in thaw greys and lamplight ✓. Soft flags for the human queue: (1) P1's
+action reads as readily as hanging as taking down (the subject is right, the direction is ambiguous);
+(2) P4's paper edge intrudes at the frame's right; (3) 864×1821 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 153 png · duplicates 0 · 22,763 links / 0 broken ·
+reproducible True · chapters 15 (ch015 in progress 2/10) · cast card-lines 142/100 missing 0 ·
+chain-stop lines 14/14 (ch015's summary not due until its close). README refreshed: 142 pages,
+position line, and the **Page 003 brief** — no roll no charter, the licence with money withheld, the
+school teaching anyway, and the licence's last line forbidding a count in any other grammar
+(*Teach it anyway.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R15.3 Chapter 015 Page 003 — *the withdrawn gift* — DONE: the licence, the street school, and the clause under the seal
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README NEXT
+position (Ch. 015 P.003, from the R15.2 brief) was built. Committed and reversible.
+
+**Canon grounding before writing:** the charter's six clauses and budget-cord (P.001–P.002); the
+school's split answer and its carrying column (P.002); Nandi's teaching with the lens put away
+(Ch. 014 P.005); the register's rule that everything delivered is read aloud; the school's own book
+with its deliberate name-space (Ch. 014 P.008).
+
+**Script.** `story/page-003.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the reply on the board — one lease-sized leaf, no cord, the mother already waiting → the licence's
+shape read before its words (one clause, one seal, the cord gone) → the single clause read at the
+window, plus what is NOT on it (no money for teacher, bench, slate or a child's noon) → Kessa reopens
+the school column as carrying and says plainly the till cannot fund a term → the school teaches the
+term on the step: benches crooked on wet flags, a plank on two barrels, nine women, eleven children,
+zero wages, the licence nailed to the wall → the border-fine line found under the seal: no count in
+any other grammar → the side room at night: Nandi between the licence and her book, hands on neither,
+Ira in the doorway, no decision. Ladder run: *Teach it anyway.* Chain-stop ONE, unspent; mother
+off-panel; Loom absent; snow-heavy figure absent; sill's knots untouched; name-space still visible.
+
+**Cast + world.** `characters/cast-page-003.md` — 6 entries, all card-lined (Nandi · Kessa · the
+Reader · the Mother, second appearance · Ira · the Machine, off-panel). `other/glossary.md` +7 terms
+(the licence · "the cord was gone" · the carrying column · nine women, eleven children, no wages · "no
+count in any other grammar" · "unlawful, never uncounted" · "teach it anyway"). `other/locations.md`
++2 (the street school · the step at the second hour).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression)
+from 3.69 MB into the band. Final: **`images/page-003.png` — 864×1821, ratio 2.11, 2.68 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the board with a single small
+leaf and a clean edge where the cord hung, two women reaching to untie it, the mother and daughter at
+the front of the gathering ✓ · P2 the leaf held flat — one narrow knot-column, the seal at the foot, no
+cord, no eyelet ✓ (the page's best panel: the absence is legible) · P3 the clause read at the window,
+Ira writing, Kessa's chalked slate in frame ✓ · P4 the till's lid up and a grey-gloved hand ruling the
+fresh column, the mother and daughter close by ✓ · P5 the street school — benches on wet flags, rows of
+children with slates, Nandi teaching with empty hands, the leaf nailed to the wall beside them ✓ ·
+P6 the leaf again with the fine regular knot-row at its foot under the seal and the street school soft
+behind ✓ · P7 night: Nandi between the licence and the open book with her hands flat on bare wood, the
+empty benches, the drips at the window, Ira in the doorway ✓. No lettering on leaf, slate, book or
+register ✓. Agnikhand palette in wet greys and lamplight ✓. Soft flags for the human queue: (1) P6's
+border-fine condition is drawn as a detached fine knot-row at the paper's edge rather than a border
+under the seal — the beat reads, the placement drifts; (2) P4's slate is legible as the till's lid
+lining rather than a separate slate; (3) P5's backdrop is strongly walled, so the street school reads
+as a recessed frontage instead of open street (the beat — public, unpaid, on the step — survives);
+(4) 864×1821 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 154 png · duplicates 0 · 22,844 links / 0 broken ·
+reproducible True · chapters 15 (ch015 in progress 3/10) · cast card-lines 143/100 missing 0 ·
+chain-stop lines 14/14 · mother-in-Camera manual-confirm back to 3/3 (three P.003 Camera lines called the claimant's mother *the mother*, which the scan correctly flagged; rewritten to *the woman in the shawl*, a different character entirely — the canon mother stays off-panel). README refreshed: 143 pages, position line, and the **Page 004 brief** — the
+school declines a purchase by returning the licence *already read*, the Office's licence turns out to
+be addressed to teachers one by one, one of the school's own women accepts it, and the register counts
+her anyway (*Count her too.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R15.4 Chapter 015 Page 004 — *the licensed teacher* — DONE: a purchase declined, a split absorbed, a ledger line
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README NEXT
+position (Ch. 015 P.004, from the R15.3 brief) was built. Committed and reversible.
+
+**Canon grounding before writing:** the licence and its border-fine clause (P.003); the four-knot
+answer used on the charter (P.002); the school's book, old grammar, deliberate name-space (Ch. 014
+P.008); the register's rule that every entry is read aloud; the courtesy-form/returned-read grammar
+(Ch. 014 P.008–P.010) reused as the school's own correspondence.
+
+**Script.** `story/page-004.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats:
+the ruling at the school's table with no keeper in the chair (a permission that forbids counting is a
+purchase) → the answer tied in four knots and the school's plain cord → the licence nailed back up
+beside the term, the street reading Office grammar alone → the knife in the wording: nine leaves
+addressed to women one by one, and one of the school's own accepts → her reason, straight (lawful,
+paid work; a sister to feed) → Nandi writes her into the book the licence forbids, and Ira reads the
+entry aloud (*counted, not expelled*) → dusk: two lessons on one step, sealed and unsealed, the same
+children drifting between them. Ladder run: *Count her too.* Chain-stop ONE, unspent; mother
+off-panel; Loom absent; snow-heavy figure absent; sill's knots untouched.
+
+**Cast + world.** `characters/cast-page-004.md` — 6 entries, all card-lined (Nandi · the Licensed
+Woman · Ira · Kessa · the Reader · the Machine, off-panel, licensing by name). `other/glossary.md`
++7 terms (the purchase declined · returned read · nine leaves, one accepted · "counted, not expelled"
+· the wage from the Office · two lessons on one step · "count her too"). `other/locations.md` +2 (the
+ninth bench · the two-lesson step).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+887×1774 (ratio 2.0, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression)
+from 3.63 MB into the band. Final: **`images/page-004.png` — 887×1774, ratio 2.0, 2.79 MB, screen
+0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the archive table with the
+licence laid flat and Nandi's hands on the wood either side of it, eight women on the benches with
+cords, the reader with the plain cord, Ira at the door with the register, the cold lamp unlit ✓ · P2
+the licence's corner threaded with four plain knots, the seal untouched, the hairline row under it,
+the old book open beside with its dry knot-marks ✓ · P3 the leaf pinned beside the term-cord with the
+answer-cord hanging, the crowd reading it by finger, the reader standing back with folded arms ✓ · P4
+the standing licensed woman holding her sealed, cordless leaf with the benches turned to her and one
+hand stopped mid-knot ✓ · P5 the fresh line laid into the old book, the sealed leaf beside the page,
+the four-knotted cord still in its corner ✓ · P6 the same benches at their cords, the licensed woman
+seated among them with the leaf on her knee and her neighbour correcting her grip out of habit, Nandi
+writing, Kessa in the doorway with the slate ✓ · P7 dusk on the step: mixed drifting groups of
+children, one lesson with the nailed leaf and a lesson-cord, the others unsealed two paces away, the
+school's book visible through the window behind ✓. No lettering on leaf, book, slate or register ✓.
+Agnikhand palette in cold window light and amber dusk ✓. Soft flags for the human queue: (1) P5's
+empty name-space on the same page is not clearly legible at page scale; (2) P7's nailed seal reads
+small and is easy to miss at the far left of the group; (3) 887×1774 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 155 png · duplicates 0 · 22,929 links / 0 broken ·
+reproducible True · chapters 15 (ch015 in progress 4/10) · cast card-lines 144/100 missing 0 ·
+chain-stop lines 14/14 · mother-in-Camera manual-confirm 3/3. README refreshed: 144 pages, position
+line, and the **Page 005 brief** — the Office's first coin paid into the basin in public, the licensed
+lesson's roll of eleven children by name, and the register keeping its own copy of what the machine
+now knows (*Enter the eleven.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
+
+### R15.5 Chapter 015 Page 005 — *the first coin and the first roll* — DONE: money with no debt, eleven names, and the counter's own copy
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README NEXT
+position (Ch. 015 P.005, from the R15.4 brief) was built. Committed and reversible.
+
+**Canon grounding before writing:** the licence's seal and its "no count in any other grammar" clause
+(P.003); the licensed woman's membership and the entry read aloud (P.004); the school's book with its
+two-season empty name-space (Ch. 014 P.008); Kessa's refusal to let a coin enter the drawer without a
+debt against it (Ch. 012–013 manner); the register's rule that everything is entered and read aloud.
+
+**Script.** `story/page-005.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats: the
+hooded errand-boy sets a stamped purse and a slip on the step at the end of a lesson (*for the lesson;
+the slip has to come back*) → one coin on the school's table with nobody's hand on it, and Kessa's cold
+reading of *paid, no claim* → the till refuses it by accounting, not argument, and names the danger
+(*it buys a habit*) → the seal's price: a roll-slate with eleven bare lines and eleven names in the
+licensed woman's hand going to theirs → the woman in the shawl writes her daughter's name because it is
+the first promise a clerk cannot take back → two families refuse courteously and are right, and Nandi's
+answer keeps the class whole (*nine sealed and two not, in the same hour*) → night: eleven lines in the
+register, nine matched to the Office's roll and two left with a bare gap, and the old page still empty.
+Ladder run: *Enter the eleven.* Chain-stop ONE, unspent; mother off-panel; Loom absent; snow-heavy
+figure absent; sill's knots untouched.
+
+**Cast + world.** `characters/cast-page-005.md` — 7 entries, all card-lined (the Licensed Woman ·
+Kessa · Ira · the Woman in the Shawl · the Grandmother · the Errand-Boy · the Machine, off-panel).
+`other/glossary.md` +7 terms ("paid, no claim" · the coin on the counter · the roll-slate · "a seal
+cannot be withdrawn" · nine sealed, two not · "one name we still do not have" · "enter the eleven").
+`other/locations.md` +2 (the coin's end of the counter · the roll table).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation:
+864×1821 (ratio 2.11, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression) from
+3.63 MB into the band. Final: **`images/page-005.png` — 864×1821, ratio 2.11, 2.64 MB, screen 0
+warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 the step with children on the
+benches, the pale leaf nailed above, the hooded faceless boy crouched over the purse and slip, the
+licensed woman standing over him with her lesson-cord, the unlicensed groups stopped mid-lesson ✓ · P2
+the purse open, the single coin standing on the wood, the ruled roll-board and the receipt beside it, the
+chalked slate flat and nobody's hand on the coin ✓ (the page's best panel: money with no hand) · P3 Kessa
+ruling *not ours* while the drawer stands open and empty and the coin stays on the counter, Ira on the
+customer side with the register, the step and children through the window ✓ · P4 the roll-board and slip
+in the licensed woman's hands, the woman in the shawl and her daughter before her, the cold father behind
+✓ · P5 the board on a knee with the teacher's hand guiding the child's fingers and the mother's hand flat
+on the edge, the girl's face intent ✓ · P6 the two families stepping back with their children, courteous
+and set, Nandi at the window's edge with her lens and one line ✓ · P7 the register open with eleven lines
+being laid in, a pale slip matched to them, the old book beside it with a leaf threaded through its knots
+✓. No lettering on slip, slate, board, register or book ✓; the boy's face stays under the hood ✓.
+Agnikhand palette in pale rain and lamplight ✓. Soft flags for the human queue: (1) P7's deliberately
+empty name-space is not legible at page scale — the old page reads as a knot-column; (2) P2's receipt
+slip reads as a second plain board rather than a receipt; (3) P1's children read as holding flat boards
+rather than slates; (4) 864×1821 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 156 png · duplicates 0 · 23,017 links / 0 broken ·
+reproducible True · chapters 15 (ch015 in progress 5/10) · cast card-lines 145/100 missing 0 ·
+chain-stop lines 14/14 · mother-in-Camera manual-confirm 3/3. README refreshed: 145 pages, position
+line, and the **Page 006 brief** — the coin with nowhere to go spent on the two children the Office will
+not name, the wage bowl from the benches that pays for exactly those two, and an Office notice at dawn
+announcing an audit of the class (*Pay for the two.*). Build run AFTER the README/AUDIT edits, per the
+R14.4 process rule.

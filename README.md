@@ -19,48 +19,49 @@ from the first page to become a **trading card game** once the cast passes 500 c
 | Field | Value |
 |---|---|
 | **Series** | THREADBORN (सुत्रजात) |
-| **Branch** | `arena/58bfdb2c-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
-| **Chapter in progress** | **Ch. 015 — *The Spring Term* — Page 001 DONE** (EN + cast + world + art, READ-verified) · Pages 002-010 not started · Ch. 001-014 COMPLETE (140 pages)
-| **Pages completed** | **139 pages total in canon** — Ch. 001-013 complete (130) + Ch. 014 pp. 001-009. Ch. 014 so far: the year-knot read, the keeper's line on the school's books, the thin delivery re-tagged, thirty-nine unbroken seasons, the tag's reading — **a hold mark, tied from inside by a hand that is not theirs: the thin week was a shield** — the shape of the silence entered with the window kept open on purpose and a faceless hand maintaining its hold in public: **let him** — the winter's first open lesson in machine grammar, the Office's courtesy form answered by symmetry, a dusk with nobody at the board: **note the absence** — the Office's hours posted overnight with one night shift uncounted, the till opened as the school's purse, a fold tested in public: **still folded** — a night watch kept for an hour the basin may not enter, one knot left at the sill, one answered at dawn: **answer in kind** — a demand sent up the stair that came back a disavowal, turned into a blind protection: **whoever keeps it** — the hour's keeper admitted through the door at last, **the chapter's ONE chain-stop spent on the threshold**, one folded sheet left on the counter: **read it at dawn** — at dawn the sheet read aloud, the shortage proved a redistribution, the paper returned up the stair already read, and the year closed whole: **give it back read** — then spring: the thaw, the till's fuel column closed, the school's term posted in the open air, the purse read aloud in the street against the first accusation, and a sealed charter at dusk offering to own the school: **choose the owner** · all agent-read; human art queue retains authority
-| **NEXT page to build** | **Ch. 015 Page 002** — the charter read aloud, the school's answer as a split (the Office may own the grammar; it may not own the count), and the roll that would force the empty name-space onto an Office schedule. English-only. Chain-stop ONE, fresh and unspent.
+| **Branch** | `arena/f16af23b-manga` (the only branch we work on — each Arena session gets a fresh one; keep this field current) |
+| **Chapter in progress** | **Ch. 015 — *The Spring Term* — Pages 001-005 DONE** (EN + cast + world + art, READ-verified) · Pages 006-010 not started · Ch. 001-014 COMPLETE (140 pages)
+| **Pages completed** | **139 pages total in canon** — Ch. 001-013 complete (130) + Ch. 014 pp. 001-009. Ch. 014 so far: the year-knot read, the keeper's line on the school's books, the thin delivery re-tagged, thirty-nine unbroken seasons, the tag's reading — **a hold mark, tied from inside by a hand that is not theirs: the thin week was a shield** — the shape of the silence entered with the window kept open on purpose and a faceless hand maintaining its hold in public: **let him** — the winter's first open lesson in machine grammar, the Office's courtesy form answered by symmetry, a dusk with nobody at the board: **note the absence** — the Office's hours posted overnight with one night shift uncounted, the till opened as the school's purse, a fold tested in public: **still folded** — a night watch kept for an hour the basin may not enter, one knot left at the sill, one answered at dawn: **answer in kind** — a demand sent up the stair that came back a disavowal, turned into a blind protection: **whoever keeps it** — the hour's keeper admitted through the door at last, **the chapter's ONE chain-stop spent on the threshold**, one folded sheet left on the counter: **read it at dawn** — at dawn the sheet read aloud, the shortage proved a redistribution, the paper returned up the stair already read, and the year closed whole: **give it back read** — then spring: the thaw, the till's fuel column closed, the school's term posted in the open air, the purse read aloud in the street against the first accusation, a sealed charter at dusk offering to own the school: **choose the owner** — then the charter read in full, answered by a school that split it (the grammar accepted, the count refused), a first schedule that needs a name the school does not have: **write the name** — then the charter withdrawn to a licence with the money taken out, the school teaching the term in the street for nothing, a border-fine clause that forbids the count: **teach it anyway** — then the licence declined in four knots and nailed back up, the Office licensing teachers one leaf at a time, one of the school's own women taking it while the register counts her anyway: **count her too** — then the Office's first coin paid into the basin with no debt against it, eleven children's names written into an Office roll, and the register keeping its own copy: **enter the eleven** · all agent-read; human art queue retains authority
+| **NEXT page to build** | **Ch. 015 Page 006** — the wage bowl: the coin with nowhere to go is spent on the two children the Office will not name, and the quarter pays for what the Office cannot count. English-only. Chain-stop ONE, unspent.
 | **NEXT art to fix** | **Human art queue (§R12.4) — the verifying authority; agent reads feed it, they do not close it.** Fresh-from-canon, in order: (1) **Ch. 013 pp. 001–010** — all 10 agent-read CORRECT with recorded soft flags (AUDIT §R13.30–§R13.40); flagged residuals: Ira cheek shading in p008 P3–P4, pseudo-script squiggles throughout (illegible class), p003 assembled from verified parts (ratio 2.59, off-house); (2) **the R13.31 fix wave** — 9 re-rendered pages verified, residuals logged in §R13.31 (p010 ear-drift, p005 crowd-Kessa, 848×1264 off-house class); (3) older soft flags on ch012 p007 (8.7% flat-band advisory). Ranking tool: `python3 tools/art_screen.py --rank`. **Every new page gets its image built and screened as part of the page — never left for later.** |
-| **Open PR** | **[Kyabtao/Manga#7](https://github.com/Kyabtao/Manga/pull/7)** (this branch — Ch. 014 pp. 001–004, the run-11 audit and the canvas-rule fix). PR #1–#7: #1–#6 merged into `main`, #7 open from this branch. |
-| **Character art** | **All 10 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 141 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R15.1); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave and the per-page gates since. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
+| **Open PR** | **[Kyabtao/Manga#8](https://github.com/Kyabtao/Manga/pull/8)** (this branch — Ch. 015 pp. 001–002). PR #1–#7 merged into `main`; #8 open from this branch. |
+| **Character art** | **All 10 model sheets are 8-panel** — `series-bible/05-character-art-spec.md` (front · side · back · face · detail · hands · kit · action), each with an art page on the site. **Page-art rebuild:** Ch. 001 001–010 and Ch. 002 001–006 are the earlier runs' work. **All 145 pages have been agent-read with verdicts on record (AUDIT.md §R13.29–§R15.5); recorded defects were re-rendered/re-edited and re-verified in the R13.31 fix wave and the per-page gates since. The human art queue (§R12.4) remains the verifying authority and stays open — agent reads feed it, they do not close it.** **No page may be called verified except by a reader who can see it, named in the record** — `style-guide.md` now says so, and `tools/art_screen.py` does the mechanical half (shape · weight · dead bands · palette ranking; panel count advisory only). |
 
-### Next-page brief (Chapter 015 · Page 002)
+### Next-page brief (Chapter 015 · Page 006)
 
-**Page 001 is written.** Read it before starting. It ended with a sealed charter on the hatch board
-at dusk, a budget-cord hanging from it, and one caption under the crowd: *"Choose the owner."*
+**Page 005 is written.** Read it before starting. It ended at the night table: eleven lines in the
+register, nine matched to the Office's roll and two marked with a bare gap, and beside them the old
+page whose name-space has been empty for two seasons. *"Enter the eleven."*
 
-Page 002 reads the charter in the morning, and it has three jobs.
+Page 006 answers the coin and the arithmetic, and it has three jobs.
 
-1. **The charter read aloud, in full, including the seal.** The counter's law applies to the Office's
-   best paper: it is read at the window, flat, clause by clause, before anybody answers. Its terms:
-   the Office receives the school, pays every line, seals every lesson, licenses every teacher, files
-   the term in Office grammar — and in exchange the school's book becomes an Office roll, and every
-   student is entered by name. Read it *well*: this is the most generous document the machine has ever
-   offered the basin, and the page must let the generosity land before the cost does.
-2. **The answer is the school's, not the keeper's — and it is a split.** Nandi and the
-   counting-lesson women answer it, not Ira. They take the Office at its word on the half it can
-   actually own: **the Office may own the grammar** — its lessons, its seals, its money, its licensed
-   teachers, taught in Office grammar, in the Office's own hours. And they refuse the other half:
-   **the count stays the street's** — the school's own book, kept outside the charter, unsealed and
-   unlicensed, in the old grammar. Two books at one table, each under the other's grammar (the
-   Chapter 013 formula, now used by a school instead of a counter). The Office gets exactly what it
-   offered to buy and none of what it wanted.
-3. **The roll, and the collision.** The charter's first schedule — the thing that would make the
-   split impossible — requires a **roll of students by name.** And the school's own register still
-   holds an entry with the name-space empty: protection of record for *whoever keeps the night hour*.
-   To sign the charter the school would have to write that name on an Office schedule; to keep the
-   protection it must leave the space blank. Do not resolve it. End the page on the blank line and
-   the quarter's silence. Smallest caption: *Write the name.*
+1. **A payment with nowhere to go is spent on the two the Office will not name.** The coin has sat on
+   the counter for days: not a gift, not a wage, not a debt, and Kessa will not put it in the drawer.
+   The school's ruling is Kessa's and it is practical — buy the things a sealed roll cannot buy and a
+   clerk cannot recall: two slates and chalk for the two unsealed children, and noon bread for all
+   eleven, bought openly at the market with the receipt kept. The receipt goes back to the Office with
+   the coin's absence noted on it: *spent on children not on your roll.* The Office's first money in the
+   basin has bought chalk for children it refuses to name, and there is nothing in any clause that can
+   undo it.
+2. **The wage bowl — the quarter pays for what the Office cannot count.** The two refusing families
+   start it, and the unlicensed benches add to it: a chipped bowl on the school's table with petties in
+   it, a handful of small coins for the two unsealed children's lessons. The licensed woman is paid
+   twice and the arithmetic is clean for the first time in the chapter: the Office pays for the nine it
+   counts, the quarter pays for the two it cannot. Nobody is insulted; the grandmother puts her coin in
+   herself and says something dry about not paying for the seal, only for the child. Kessa enters both
+   wages in one column and the column finally balances.
+3. **The Office answers by coming to count.** At dawn a small notice is nailed beside the licence: the
+   Office will attend the licensed class to verify the roll against the children present, and any child
+   in that class not on the roll will be recorded as taught unlawfully. The page's last look is the two
+   unsealed children sitting in a class that is about to be counted, with their slates — bought by the
+   Office's own coin — in their hands. Do not resolve. Smallest caption: *Pay for the two.*
 
-Carry in: **chain-stop ONE, fresh and unspent**; mother off-panel, thread quiet; Loom absent; three
-entered hands unnamed; the grey clerk never named, never faced, not on the page; the snow-heavy
-figure does NOT appear and the sill's two knots are untouched — but the empty name-space is now
-load-bearing, so it must be visible whenever the register is; Rekhak's paper folded, unopened; the
-oil-cord at THREE knots. Tone: the machine's best offer yet, answered by a school that has learned
-to split a document. Imperative ladder run: *Write the name.* English-only (R13.22).
+Carry in: **chain-stop ONE, unspent**; mother off-panel, thread quiet; Loom absent; three entered hands
+unnamed; the grey clerk never named, never faced, not on the page; the snow-heavy figure absent and the
+sill's knots untouched; Rekhak's paper folded, unopened; the school's blank name-space still visible
+whenever the book is; the oil-cord at THREE knots; the school's column still carrying; the coin's end of
+the counter now empty. Tone: plain arithmetic as moral argument, and a machine that answers a clever
+boycott by scheduling an audit. Imperative ladder run: *Pay for the two.* English-only (R13.22).
 
 ### Chapter 012 — COMPLETE
 
@@ -74,7 +75,7 @@ tied into the count-cord — *"Count not taken."* See AUDIT §R13.8–§R13.16 a
 the full record.
 
 **Chapter 012 — *The Whole Roll* — is complete** (12 pages); its close-out lives in
-`chapter-012/chapter-summary.md` and AUDIT §R13.17–§R13.31. The live brief is the Chapter 015 Page 002 section
+`chapter-012/chapter-summary.md` and AUDIT §R13.17–§R13.31. The live brief is the Chapter 015 Page 006 section
 above. Beyond the current page, the standing queue is the human art queue (§R12.4), then the twelve
 over-ratio pages (the last agent-watchable item, warnings only).
 
