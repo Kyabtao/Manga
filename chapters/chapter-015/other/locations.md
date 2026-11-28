@@ -80,3 +80,15 @@ spent.
 The school's long night table under the lamp, where the roll-slate was filled and then copied into the
 register in Page 005 — two sheets side by side, the machine's eleven lines and the counter's eleven, and
 beside them the old book open at the page with its name-space still empty.
+
+## THE CHANDLER'S STALL
+
+A wet-market stall in the first hour of the day where the Office's first coin in the basin was spent in
+Page 006: two slates, a twist of chalk and a receipt, with the price said out loud twice at Kessa's
+insistence. The stallholder is now the quarter's witness that the money was spent in the open.
+
+## THE BOWL'S PLACE
+
+The middle of the school's scarred table, where a cracked clay bowl mended with wire sits from Page 006
+with a handful of petties in it — the quarter's wage for the two children off the roll — between an
+unlit lamp and the till's slate. Anyone may look into it. Nobody counts it aloud.

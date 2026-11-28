@@ -2756,3 +2756,59 @@ line, and the **Page 006 brief** — the coin with nowhere to go spent on the tw
 not name, the wage bowl from the benches that pays for exactly those two, and an Office notice at dawn
 announcing an audit of the class (*Pay for the two.*). Build run AFTER the README/AUDIT edits, per the
 R14.4 process rule.
+
+### R15.6 Chapter 015 Page 006 — *the wage bowl* — DONE: a coin spent where no clause reaches, and a wage paid twice
+
+**Interpretation on record.** User instruction this run: "Continue." No page specified; the README NEXT
+position (Ch. 015 P.006, from the R15.5 brief) was built. Committed and reversible.
+
+**Canon grounding before writing:** the coin ruled *not ours* and left on the counter (P.005); the
+licensed woman's wage, seal and roll (P.004–P.005); the two families who refused the roll (P.005);
+Kessa's nineteen years and her habit of entering what the Office will not (Ch. 012–014); the school's
+four-knot grammar of public answer (P.002, P.004).
+
+**Script.** `story/page-006.md` — 7 panels, `Camera:` on every panel, notes + card sections. Beats: the
+coin spent at a chandler's stall at the first hour, price said twice, receipt kept → the receipt ruled
+with its verdict (*spent on children not on your roll*) and the scoured bare patch where the coin stood →
+two new slates in the hands of the two children the Office will not name, nine chipped slates behind them
+→ the wage bowl: cracked, wire-mended, started by the two refusing families (*I am not paying for the
+seal, I am paying for the child*) → the slate's two wage lines and the first chalk rule under a column
+with the Office in it → the licensed woman holding the purse and the bowl in two hands and refusing to
+rank them → dawn: the audit notice nailed beside the licence, eleven children waiting, two of them
+holding slates the Office's coin bought. Ladder run: *Pay for the two.* Chain-stop ONE, unspent; mother
+off-panel; Loom absent; snow-heavy figure absent; no official on the page.
+
+**Cast + world.** `characters/cast-page-006.md` — 8 entries, all card-lined (Kessa · the Licensed Woman ·
+Ira · the Grandmother · the Father · the Unsealed Two · the Machine, off-panel; plus the Licensed Woman's
+art references). `other/glossary.md` +7 terms ("spent on children not on your roll" · the two slates ·
+the wage bowl · "I am not paying for the seal" · two wages, two hands · the audit notice · "pay for the
+two"). `other/locations.md` +2 (the chandler's stall · the bowl's place).
+
+**Art — built with the page, read at full resolution, no character drift.** Single generation: 887×1774
+(ratio 2.0, portrait ✓, all 7 tiers present), re-encoded (`-strip`, max PNG compression) from 3.28 MB
+into the band. Final: **`images/page-006.png` — 887×1774, ratio 2.0, 2.81 MB, screen 0 warnings.**
+
+**Agent read (vision available), verdict CORRECT with soft flags:** P1 Kessa holding the coin up at a
+chandler's stall with two slates on the counter and half the market turning to look ✓ · P2 the two new
+slates, the twist of chalk, the wrapped loaf, the ruled receipt — and the scoured bare patch where the
+coin stood ✓ · P3 the licensed woman kneeling to put the slates into the two children's hands, nine
+children behind with older chipped boards, the grandmother with folded arms ✓ (the page's moral centre
+and it reads) · P4 the cracked wire-mended bowl with a handful of petties and the grandmother's hand
+dropping one in, the father's ready behind ✓ · P5 the slate's two columns with a tick at each foot and one
+clean chalk rule under both, the empty purse and the empty bowl beside it ✓ · P6 the licensed woman with
+the purse in one hand and the bowl in the other, Kessa behind the counter with folded arms, the step and
+children through the window ✓ · P7 the board at dawn with the new notice beside the licence and the
+queue reading it, eleven children on the step with the two new slates among them, Nandi at the edge with
+her lens half-raised ✓. No lettering anywhere ✓; no official, cart or guard in the frame ✓. Agnikhand
+palette in wet market grey and thin dawn ✓. Soft flags for the human queue: (1) P7's two notices carry
+illegible script-like texture rather than clean knot-rows — no readable words, but the texture reads as
+writing at page scale; (2) P1's counter holds a small disc that could be read as a second coin; (3)
+887×1774 is the off-house canvas class.
+
+**Gate after the page:** HARD FAILURES none · 157 png · duplicates 0 · 23,110 links / 0 broken ·
+reproducible True · chapters 15 (ch015 in progress 6/10) · cast card-lines 146/100 missing 0 ·
+chain-stop lines 14/14 · mother-in-Camera manual-confirm 3/3. README refreshed: 146 pages, position
+line, and the **Page 007 brief** — an Office assessor who is courteous and uncomfortable, the licensed
+teacher asking for her two off-roll children to be written down unlawfully, and the register entering the
+school's own crime in its own hand while the bowl starts collecting the wage she is about to lose
+(*Record the two.*). Build run AFTER the README/AUDIT edits, per the R14.4 process rule.
